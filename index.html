@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tenn95 — Tennessee License Plate Archive</title>
+<meta name="description" content="A searchable community archive of Tennessee license plates, organized by year, county, color, and type.">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/css/style.css">
+
+<!-- Analytics: replace CODE with your GoatCounter site code (goatcounter.com) -->
+<script data-goatcounter="https://CODE.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</head>
+<body data-page="home">
+
+<header class="site-header" data-site-header></header>
+
+<section class="hero">
+  <div class="hero-inner">
+    <div class="eyebrow">All Things Tennessee License Plates</div>
+    <h1>Ninety-five counties.<br>One <span class="accent">winding road</span> of history.</h1>
+    <p class="sub">Browse a growing archive of Tennessee license plates shared by collectors across the state — searchable by year, county, color, and type.</p>
+    <a href="archives.html" class="cta-primary">Browse the Archive</a>
+    <form class="search-preview" action="archives.html" method="get">
+      <input type="text" name="q" placeholder="Search by county, year, or serial..." />
+      <button type="submit">Search</button>
+    </form>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-head">
+    <h2>Recently Added</h2>
+    <a href="archives.html" class="see-all">View Full Archive →</a>
+  </div>
+  <div id="recent-plates" class="plate-grid">
+    <!-- populated by assets/js/home.js from data/plates.json -->
+  </div>
+</section>
+
+<section class="section" style="padding-top:0;">
+  <div class="section-head"><h2>Browse By</h2></div>
+  <div class="tile-row">
+    <a class="tile" href="archives.html">
+      <h3>By County</h3>
+      <p>All 95 counties, from Anderson to Wilson.</p>
+      <div class="go">Choose a County →</div>
+    </a>
+    <a class="tile" href="archives.html">
+      <h3>By Year</h3>
+      <p>Track the plate design through the decades.</p>
+      <div class="go">Choose a Year →</div>
+    </a>
+    <a class="tile" href="archives.html">
+      <h3>By Type</h3>
+      <p>Passenger, government, special, and more.</p>
+      <div class="go">Choose a Type →</div>
+    </a>
+  </div>
+</section>
+
+<div class="strip">
+  <div class="strip-inner">
+    <div class="strip-card" id="event-teaser">
+      <!-- populated by assets/js/home.js from data/events.json; hidden if none upcoming -->
+    </div>
+    <div class="strip-card">
+      <div>
+        <div class="label">Join The Group</div>
+        <h4>Tennessee License Plate Collectors</h4>
+        <p>Trade, share finds, and talk plates on Facebook.</p>
+      </div>
+      <a href="https://www.facebook.com/groups/342770519154868" target="_blank" rel="noopener" class="strip-btn">Join</a>
+    </div>
+  </div>
+</div>
+
+<footer data-site-footer></footer>
+
+<script src="assets/js/site.js"></script>
+<script src="assets/js/home.js"></script>
+</body>
+</html>

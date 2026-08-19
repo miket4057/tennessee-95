@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Archives — Tenn95</title>
+<meta name="description" content="Search and filter the Tennessee license plate archive by year, county, color, and type.">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/css/style.css">
+
+<script data-goatcounter="https://CODE.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</head>
+<body data-page="archives">
+
+<header class="site-header" data-site-header></header>
+
+<div class="archive-header">
+  <h1>The Archive</h1>
+  <p>Search and filter every plate in the collection — combine as many filters as you like.</p>
+</div>
+
+<div class="archive-body">
+  <aside class="filter-panel">
+    <h3>FILTER RESULTS</h3>
+
+    <div class="filter-group">
+      <div class="fg-title">Search</div>
+      <input type="text" id="search-input" placeholder="County, serial, keyword..."
+        style="width:100%; padding:9px 10px; border:1px solid var(--line); border-radius:4px; font-family:'Public Sans'; font-size:14px;">
+    </div>
+
+    <div class="filter-group">
+      <div class="fg-title">Year</div>
+      <div id="filter-year"><!-- populated by archive.js --></div>
+    </div>
+
+    <div class="filter-group">
+      <div class="fg-title">County</div>
+      <div id="filter-county"><!-- populated by archive.js --></div>
+    </div>
+
+    <div class="filter-group">
+      <div class="fg-title">Type</div>
+      <div id="filter-type"><!-- populated by archive.js --></div>
+    </div>
+
+    <div class="filter-group">
+      <div class="fg-title">Color</div>
+      <div id="filter-color" class="swatches"><!-- populated by archive.js --></div>
+    </div>
+
+    <div class="clear-filters" id="clear-filters">Clear all filters</div>
+  </aside>
+
+  <div class="results-col">
+    <div class="active-filters" id="active-filters"></div>
+    <div class="results-top">
+      <div class="results-count" id="results-count"></div>
+      <select class="sort-select" id="sort-select">
+        <option value="added-desc">Sort: Recently Added</option>
+        <option value="year-desc">Sort: Year (Newest)</option>
+        <option value="year-asc">Sort: Year (Oldest)</option>
+        <option value="county-asc">Sort: County A–Z</option>
+      </select>
+    </div>
+
+    <div id="plate-grid" class="plate-grid"></div>
+    <div id="pagination" class="pagination"></div>
+  </div>
+</div>
+
+<footer data-site-footer></footer>
+
+<script src="assets/js/site.js"></script>
+<script src="assets/js/archive.js"></script>
+</body>
+</html>
