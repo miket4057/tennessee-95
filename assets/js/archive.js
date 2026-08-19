@@ -23,11 +23,36 @@ function uniqueSorted(values){
   return [...new Set(values.filter(Boolean))].sort();
 }
 
+function normalizePlate(p){
+  const out = Object.assign({}, p);
+  // Normalize county name: string, array of names/records, or missing
+  let county = '';
+  if (typeof p.countyName === 'string') county = p.countyName;
+  else if (Array.isArray(p.countyName)) {
+    const names = p.countyName.map(v => {
+      if (!v) return '';
+      if (typeof v === 'string') return v;
+      if (typeof v === 'object' && v.name) return v.name;
+      return '';
+    }).filter(Boolean);
+    county = names.join(', ');
+  }
+  if (!county && p.countyNumber) county = `County ${p.countyNumber}`;
+  out._countyName = county || '';
+
+  // Normalize colors: accept string like "Black, White" or an array
+  if (Array.isArray(p.colors)) out._colors = p.colors.filter(Boolean);
+  else if (typeof p.colors === 'string') out._colors = p.colors.split(',').map(s => s.trim()).filter(Boolean);
+  else out._colors = [];
+
+  return out;
+}
+
 function buildFilterUI(){
   const years = uniqueSorted(allPlates.map(p => p.year)).sort((a,b) => b - a);
-  const counties = uniqueSorted(allPlates.map(p => p.countyName));
+  const counties = uniqueSorted(allPlates.map(p => p._countyName));
   const types = uniqueSorted(allPlates.map(p => p.type));
-  const colors = uniqueSorted(allPlates.flatMap(p => p.colors || []));
+  const colors = uniqueSorted(allPlates.flatMap(p => p._colors || []));
 
   document.getElementById('filter-year').innerHTML = years.map(y => `
     <label class="filter-option">
@@ -38,7 +63,7 @@ function buildFilterUI(){
   document.getElementById('filter-county').innerHTML = counties.map(c => `
     <label class="filter-option">
       <input type="checkbox" data-group="counties" value="${c}">
-      ${c} <span class="count">${allPlates.filter(p => p.countyName === c).length}</span>
+      ${c} <span class="count">${allPlates.filter(p => p._countyName === c).length}</span>
     </label>`).join('') || emptyFilterNote();
 
   document.getElementById('filter-type').innerHTML = types.map(t => `
@@ -86,11 +111,11 @@ function applyFilters(){
   const q = state.q.trim().toLowerCase();
   return allPlates.filter(p => {
     if (state.years.size && !state.years.has(String(p.year))) return false;
-    if (state.counties.size && !state.counties.has(p.countyName)) return false;
+    if (state.counties.size && !state.counties.has(p._countyName)) return false;
     if (state.types.size && !state.types.has(p.type)) return false;
-    if (state.colors.size && !(p.colors || []).some(c => state.colors.has(c))) return false;
+    if (state.colors.size && !(p._colors || []).some(c => state.colors.has(c))) return false;
     if (q) {
-      const hay = `${p.countyName || ''} ${p.serial || ''} ${p.year || ''} ${p.type || ''}`.toLowerCase();
+      const hay = `${p._countyName || ''} ${p.serial || ''} ${p.year || ''} ${p.type || ''}`.toLowerCase();
       if (!hay.includes(q)) return false;
     }
     return true;
@@ -102,21 +127,21 @@ function sortPlates(list){
   switch (state.sort) {
     case 'year-desc': return copy.sort((a,b) => (b.year||0) - (a.year||0));
     case 'year-asc': return copy.sort((a,b) => (a.year||0) - (b.year||0));
-    case 'county-asc': return copy.sort((a,b) => (a.countyName||'').localeCompare(b.countyName||''));
+    case 'county-asc': return copy.sort((a,b) => (a._countyName||'').localeCompare(b._countyName||''));
     default: return copy.sort((a,b) => (b.dateAdded||'').localeCompare(a.dateAdded||''));
   }
 }
 
 function plateCardHTML(p){
-  const photo = p.photoUrl ? `style="background-image:url('${p.photoUrl}')"` : '';
+  const photo = p.photoUrl ? `style=\"background-image:url('${p.photoUrl}')\"` : '';
   const noPhoto = p.photoUrl ? '' : '<span class="no-photo">No photo yet</span>';
-  const colors = (p.colors || []).map(c => `<span class="tag">${c}</span>`).join('');
+  const colors = (p._colors || []).map(c => `<span class="tag">${c}</span>`).join('');
   const typeTag = p.type ? `<span class="tag">${p.type}</span>` : '';
   return `
     <div class="plate-card">
       <div class="plate-photo" ${photo}>${noPhoto}</div>
       <div class="plate-meta">
-        <div class="county">${p.countyName || 'Unknown County'} · ${p.year || '—'}</div>
+        <div class="county">${p._countyName || 'Unknown County'} · ${p.year || '—'}</div>
         <div class="tags">${typeTag}${colors}</div>
       </div>
     </div>`;
@@ -208,6 +233,9 @@ async function init(){
   } catch (err) {
     allPlates = [];
   }
+
+  // Normalize incoming plate objects to handle a few Airtable shape variations
+  allPlates = allPlates.map(normalizePlate);
 
   buildFilterUI();
 
