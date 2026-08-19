@@ -10,7 +10,12 @@ function plateCardHTML(p){
     ? `style="background-image:url('${p.photoUrl}')"`
     : '';
   const noPhoto = p.photoUrl ? '' : '<span class="no-photo">No photo yet</span>';
-  const colors = (p.colors || []).map(c => `<span class="tag">${c}</span>`).join('');
+  const colorValues = Array.isArray(p.colors)
+    ? p.colors
+    : typeof p.colors === 'string'
+      ? p.colors.split(',').map(c => c.trim()).filter(Boolean)
+      : [];
+  const colors = colorValues.map(c => `<span class="tag">${c}</span>`).join('');
   const typeTag = p.type ? `<span class="tag">${p.type}</span>` : '';
   return `
     <div class="plate-card">
