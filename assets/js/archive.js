@@ -15,6 +15,7 @@ let state = {
   counties: new Set(),
   types: new Set(),
   colors: new Set(),
+  fontColors: new Set(),
   sort: 'added-desc',
   page: 1,
 };
@@ -45,6 +46,12 @@ function normalizePlate(p){
   else if (typeof p.colors === 'string') out._colors = p.colors.split(',').map(s => s.trim()).filter(Boolean);
   else out._colors = [];
 
+  out._fontColors = Array.isArray(p.fontColor)
+    ? p.fontColor.filter(Boolean)
+    : typeof p.fontColor === 'string'
+      ? p.fontColor.split(',').map(s => s.trim()).filter(Boolean)
+      : [];
+
   return out;
 }
 
@@ -53,6 +60,7 @@ function buildFilterUI(){
   const counties = uniqueSorted(allPlates.map(p => p._countyName));
   const types = uniqueSorted(allPlates.map(p => p.type));
   const colors = uniqueSorted(allPlates.flatMap(p => p._colors || []));
+  const fontColors = uniqueSorted(allPlates.flatMap(p => p._fontColors || []));
 
   document.getElementById('filter-year').innerHTML = years.map(y => `
     <label class="filter-option">
@@ -79,10 +87,15 @@ function buildFilterUI(){
   document.getElementById('filter-color').innerHTML = colors.map(c => `
     <div class="swatch" data-group="colors" data-value="${c}" title="${c}"
       style="background:${colorSwatch[c] || '#999'}"></div>`).join('') || emptyFilterNote();
+  document.getElementById('filter-font-color').innerHTML = fontColors.map(c => `
+    <div class="swatch" data-group="fontColors" data-value="${c}" title="${c}"
+      style="background:${colorSwatch[c] || '#999'}"></div>`).join('') || emptyFilterNote();
 
   document.querySelectorAll('#filter-year input, #filter-county input, #filter-type input')
     .forEach(el => el.addEventListener('change', onCheckboxChange));
   document.querySelectorAll('#filter-color .swatch')
+    .forEach(el => el.addEventListener('click', onSwatchClick));
+  document.querySelectorAll('#filter-font-color .swatch')
     .forEach(el => el.addEventListener('click', onSwatchClick));
 }
 
@@ -101,8 +114,10 @@ function onCheckboxChange(e){
 
 function onSwatchClick(e){
   const val = e.currentTarget.dataset.value;
+  const group = e.currentTarget.dataset.group;
+  const setRef = state[group];
   e.currentTarget.classList.toggle('on');
-  state.colors.has(val) ? state.colors.delete(val) : state.colors.add(val);
+  setRef.has(val) ? setRef.delete(val) : setRef.add(val);
   state.page = 1;
   render();
 }
@@ -114,6 +129,7 @@ function applyFilters(){
     if (state.counties.size && !state.counties.has(p._countyName)) return false;
     if (state.types.size && !state.types.has(p.type)) return false;
     if (state.colors.size && !(p._colors || []).some(c => state.colors.has(c))) return false;
+    if (state.fontColors.size && !(p._fontColors || []).some(c => state.fontColors.has(c))) return false;
     if (q) {
       const hay = `${p._countyName || ''} ${p.serial || ''} ${p.year || ''} ${p.type || ''}`.toLowerCase();
       if (!hay.includes(q)) return false;
@@ -132,27 +148,13 @@ function sortPlates(list){
   }
 }
 
-function plateCardHTML(p){
-  const photo = p.photoUrl ? `style=\"background-image:url('${p.photoUrl}')\"` : '';
-  const noPhoto = p.photoUrl ? '' : '<span class="no-photo">No photo yet</span>';
-  const colors = (p._colors || []).map(c => `<span class="tag">${c}</span>`).join('');
-  const typeTag = p.type ? `<span class="tag">${p.type}</span>` : '';
-  return `
-    <div class="plate-card">
-      <div class="plate-photo" ${photo}>${noPhoto}</div>
-      <div class="plate-meta">
-        <div class="county">${p._countyName || 'Unknown County'} · ${p.year || '—'}</div>
-        <div class="tags">${typeTag}${colors}</div>
-      </div>
-    </div>`;
-}
-
 function renderActiveChips(){
   const chips = [];
   state.years.forEach(v => chips.push(['years', v, `Year: ${v}`]));
   state.counties.forEach(v => chips.push(['counties', v, `County: ${v}`]));
   state.types.forEach(v => chips.push(['types', v, `Type: ${v}`]));
   state.colors.forEach(v => chips.push(['colors', v, `Color: ${v}`]));
+  state.fontColors.forEach(v => chips.push(['fontColors', v, `Font Color: ${v}`]));
 
   const el = document.getElementById('active-filters');
   el.innerHTML = chips.map(([group, val, label]) =>
@@ -174,6 +176,8 @@ function syncCheckboxUI(){
     .forEach(el => { el.checked = state[el.dataset.group].has(el.value); });
   document.querySelectorAll('#filter-color .swatch')
     .forEach(el => { el.classList.toggle('on', state.colors.has(el.dataset.value)); });
+  document.querySelectorAll('#filter-font-color .swatch')
+    .forEach(el => { el.classList.toggle('on', state.fontColors.has(el.dataset.value)); });
 }
 
 function renderPagination(totalItems){
@@ -265,7 +269,7 @@ async function init(){
   });
 
   document.getElementById('clear-filters').addEventListener('click', () => {
-    state.years.clear(); state.counties.clear(); state.types.clear(); state.colors.clear();
+    state.years.clear(); state.counties.clear(); state.types.clear(); state.colors.clear(); state.fontColors.clear();
     state.q = ''; document.getElementById('search-input').value = '';
     state.page = 1;
     syncCheckboxUI();

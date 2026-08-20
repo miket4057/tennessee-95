@@ -46,7 +46,7 @@ const FIELD_MAP = {
   countyNumber: 'County Prefix',
   countyName: 'County',
   colors: 'Plate Color',
-  fontColors: 'Font Color',
+  fontColor: 'Font Color',
   type: 'Type',
   photo: 'Photo',        // TODO: confirm this is your attachment field's real name
   serial: 'Serial',      // TODO: confirm — used for search; remove this line if you don't have one
@@ -126,6 +126,7 @@ async function transformRecord(record){
     countyNumber: f[FIELD_MAP.countyNumber] || null,
     countyName: f[FIELD_MAP.countyName] || null,
     colors: f[FIELD_MAP.colors] || [],
+    fontColor: f[FIELD_MAP.fontColor] || null,
     type: f[FIELD_MAP.type] || null,
     serial: f[FIELD_MAP.serial] || null,
     photoUrl,

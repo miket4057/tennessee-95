@@ -46,6 +46,30 @@ function renderFooter(){
   });
 }
 
+function plateValues(value){
+  if (Array.isArray(value)) return value.filter(Boolean);
+  if (typeof value === 'string') return value.split(',').map(v => v.trim()).filter(Boolean);
+  return value ? [value] : [];
+}
+
+function plateCardHTML(p){
+  const photo = p.photoUrl ? `style="background-image:url('${p.photoUrl}')"` : '';
+  const noPhoto = p.photoUrl ? '' : '<span class="no-photo">No photo yet</span>';
+  const countyName = p._countyName || p.countyName;
+  const colors = p._colors || plateValues(p.colors);
+  const fontColors = p._fontColors || plateValues(p.fontColor);
+  const values = [p.countyNumber, countyName, p.year, p.type, ...colors, ...fontColors]
+    .filter(value => value !== null && value !== undefined && value !== '')
+    .map(value => `<span class="tag">${value}</span>`)
+    .join('');
+
+  return `
+    <div class="plate-card">
+      <div class="plate-photo" ${photo}>${noPhoto}</div>
+      <div class="plate-meta"><div class="tags">${values}</div></div>
+    </div>`;
+}
+
 /* ---------- Analytics helper ----------
    TODO: sign up at https://www.goatcounter.com (free) and replace CODE
    below with your site code before launch. The <script> tag itself lives
