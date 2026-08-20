@@ -110,9 +110,21 @@ nav.main-nav a:hover{border-bottom-color:var(--gold);}
 }
 .plate-photo .no-photo{color:var(--cream-soft); font-size:12px; text-transform:uppercase; letter-spacing:0.05em;}
 .plate-meta{padding:14px 16px 16px;}
-.plate-meta .county{font-family:'Oswald'; font-weight:600; font-size:15px; letter-spacing:0.02em; color:var(--navy);}
-.plate-meta .tags{display:flex; gap:6px; margin-top:8px; flex-wrap:wrap;}
-.tag{font-size:11px; font-weight:600; text-transform:uppercase; letter-spacing:0.03em; background:var(--cream-soft); color:var(--navy); padding:4px 9px; border-radius:20px; border:1px solid var(--line);}
+.plate-bubbles{display:flex; gap:6px; flex-wrap:wrap; margin-top:8px;}
+.plate-bubble{
+  background:var(--cream-soft);
+  border:1px solid var(--line);
+  border-radius:8px;
+  padding:4px 10px 5px;
+  text-align:center;
+}
+.plate-bubble .bubble-label{
+  font-size:9px; font-weight:600; text-transform:uppercase;
+  letter-spacing:0.04em; color:var(--red); display:block; line-height:1.3;
+}
+.plate-bubble .bubble-value{
+  font-size:12px; font-weight:600; color:var(--navy); line-height:1.3;
+}
 
 /* ---------- QUICK FILTER TILES ---------- */
 .tile-row{display:grid; grid-template-columns:repeat(3,1fr); gap:20px;}

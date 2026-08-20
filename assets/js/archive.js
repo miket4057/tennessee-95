@@ -56,7 +56,7 @@ function normalizePlate(p){
 }
 
 function buildFilterUI(){
-  const years = uniqueSorted(allPlates.map(p => p.year)).sort((a,b) => b - a);
+  const years = uniqueSorted(allPlates.map(p => p.year)).sort((a,b) => a - b);
   const counties = uniqueSorted(allPlates.map(p => p._countyName));
   const types = uniqueSorted(allPlates.map(p => p.type));
   const colors = uniqueSorted(allPlates.flatMap(p => p._colors || []));

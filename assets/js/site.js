@@ -58,15 +58,22 @@ function plateCardHTML(p){
   const countyName = p._countyName || p.countyName;
   const colors = p._colors || plateValues(p.colors);
   const fontColors = p._fontColors || plateValues(p.fontColor);
-  const values = [p.countyNumber, countyName, p.year, p.type, ...colors, ...fontColors]
-    .filter(value => value !== null && value !== undefined && value !== '')
-    .map(value => `<span class="tag">${value}</span>`)
+  const bubbles = [
+    ['Co #', p.countyNumber],
+    ['County', countyName],
+    ['Year', p.year],
+    ['Type', p.type],
+    ...colors.map(value => ['Color', value]),
+    ...fontColors.map(value => ['Font', value]),
+  ]
+    .filter(([, value]) => value !== null && value !== undefined && value !== '')
+    .map(([label, value]) => `<div class="plate-bubble"><span class="bubble-label">${label}</span><span class="bubble-value">${value}</span></div>`)
     .join('');
 
   return `
     <div class="plate-card">
       <div class="plate-photo" ${photo}>${noPhoto}</div>
-      <div class="plate-meta"><div class="tags">${values}</div></div>
+      <div class="plate-meta"><div class="plate-bubbles">${bubbles}</div></div>
     </div>`;
 }
 
