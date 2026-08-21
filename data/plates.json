@@ -12,6 +12,54 @@
     "dateAdded": "2026-08-20T02:50:27.000Z"
   },
   {
+    "id": "rec0DDOihAN0ESRRP",
+    "year": 1942,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "8-1915",
+    "photoUrl": "assets/img/plates/attA3SqaM4wdMgpgv.jpg",
+    "dateAdded": "2026-08-21T15:33:04.000Z"
+  },
+  {
+    "id": "rec0FhMSJsc93opho",
+    "year": 1944,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Green",
+    "fontColor": "White",
+    "type": "City",
+    "serial": "9CITY-502",
+    "photoUrl": "assets/img/plates/atthY17wIb94GDDzB.jpg",
+    "dateAdded": "2026-08-21T15:48:37.000Z"
+  },
+  {
+    "id": "rec0IUpuHn6ATF5j5",
+    "year": 1939,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Truck",
+    "serial": "9T-184",
+    "photoUrl": "assets/img/plates/attBOdIaYzbqdYPKJ.jpg",
+    "dateAdded": "2026-08-21T15:51:09.000Z"
+  },
+  {
+    "id": "rec0Uwkg5vosZtP1C",
+    "year": 1939,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Truck",
+    "serial": "8T-5020",
+    "photoUrl": "assets/img/plates/attYwqKzsgOSVy0SX.jpg",
+    "dateAdded": "2026-08-21T15:37:09.000Z"
+  },
+  {
     "id": "rec0bHHLsNcZROSot",
     "year": 1952,
     "countyNumber": "4",
@@ -36,6 +84,42 @@
     "dateAdded": "2026-08-21T00:08:23.000Z"
   },
   {
+    "id": "rec1XRAxGcIGS6Qz7",
+    "year": 1956,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "6D-3439",
+    "photoUrl": "assets/img/plates/attwdzr0hdDgp0aPu.jpg",
+    "dateAdded": "2026-08-21T15:10:41.000Z"
+  },
+  {
+    "id": "rec1Yabv0YvZoUGb4",
+    "year": 1953,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Farm Truck",
+    "serial": "8F/1-369",
+    "photoUrl": "assets/img/plates/attLwy9OvvOUhYSQM.jpg",
+    "dateAdded": "2026-08-21T15:42:38.000Z"
+  },
+  {
+    "id": "rec2EaheIC7yOlBYM",
+    "year": 1941,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "8-1763",
+    "photoUrl": "assets/img/plates/attyfraS6chJ1tjv6.jpg",
+    "dateAdded": "2026-08-21T15:32:51.000Z"
+  },
+  {
     "id": "rec2MdYBSkE0ZQsZJ",
     "year": 1956,
     "countyNumber": "4",
@@ -46,6 +130,30 @@
     "serial": "4-43973",
     "photoUrl": "assets/img/plates/attzt5QtLx0VeDrii.jpg",
     "dateAdded": "2026-08-21T00:50:39.000Z"
+  },
+  {
+    "id": "rec2uPb70fJpt0Aws",
+    "year": 1948,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "8-1949",
+    "photoUrl": "assets/img/plates/attVmhEQAeUzEuBgZ.jpg",
+    "dateAdded": "2026-08-21T15:34:08.000Z"
+  },
+  {
+    "id": "rec2uoe7dNbV3CDRt",
+    "year": 1941,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "8-355",
+    "photoUrl": "assets/img/plates/atthNiG66d1UrrAqF.jpg",
+    "dateAdded": "2026-08-21T15:42:18.000Z"
   },
   {
     "id": "rec3AqnEOGBAuTfJO",
@@ -60,6 +168,54 @@
     "dateAdded": "2026-08-21T00:11:53.000Z"
   },
   {
+    "id": "rec3Czr9dRkr2DWVb",
+    "year": 1951,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "10-1951",
+    "photoUrl": "assets/img/plates/attbgWJQ1mtmIcLaf.jpg",
+    "dateAdded": "2026-08-21T15:58:49.000Z"
+  },
+  {
+    "id": "rec3DFo7wUYYWBlSl",
+    "year": 1961,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "7-44",
+    "photoUrl": "assets/img/plates/attnCBm5xEV8O8yVS.jpg",
+    "dateAdded": "2026-08-21T15:18:01.000Z"
+  },
+  {
+    "id": "rec3g7IlS8Hh7st0f",
+    "year": 1956,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Radio",
+    "serial": "10-W4FEP",
+    "photoUrl": "assets/img/plates/attJAmm8NFNB3O112.jpg",
+    "dateAdded": "2026-08-21T16:09:59.000Z"
+  },
+  {
+    "id": "rec3kvN4w3S0blS9b",
+    "year": 1956,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "10-14540",
+    "photoUrl": "assets/img/plates/attV1ZHnbdjizH9EV.jpg",
+    "dateAdded": "2026-08-21T15:57:32.000Z"
+  },
+  {
     "id": "rec3ngVnihSdQ8CqQ",
     "year": 1949,
     "countyNumber": "1",
@@ -70,6 +226,54 @@
     "serial": "1-18242",
     "photoUrl": "assets/img/plates/attKorGFQghjhBcqw.jpg",
     "dateAdded": "2026-08-13T23:48:41.000Z"
+  },
+  {
+    "id": "rec3oE1uExVWisnns",
+    "year": 1951,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "8-800",
+    "photoUrl": "assets/img/plates/attnimu33awyMJPP8.jpg",
+    "dateAdded": "2026-08-21T15:32:01.000Z"
+  },
+  {
+    "id": "rec3qYbhXOWZMAVdL",
+    "year": 1954,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "10-1858",
+    "photoUrl": "assets/img/plates/att07QmfKwrRteHPX.jpg",
+    "dateAdded": "2026-08-21T16:05:01.000Z"
+  },
+  {
+    "id": "rec3rpT5uFIjXH7fW",
+    "year": 1942,
+    "countyNumber": "5",
+    "countyName": "Sullivan",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "5-1231",
+    "photoUrl": "assets/img/plates/attWi3CtHOakGjeRg.jpg",
+    "dateAdded": "2026-08-21T14:38:47.000Z"
+  },
+  {
+    "id": "rec3tT2xJo1crFkxA",
+    "year": 1939,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "8-4977",
+    "photoUrl": "assets/img/plates/attgJdBvYbusfw25u.jpg",
+    "dateAdded": "2026-08-21T15:36:43.000Z"
   },
   {
     "id": "rec3xB6Td9QSG2Gb8",
@@ -84,6 +288,30 @@
     "dateAdded": "2026-08-21T00:06:17.000Z"
   },
   {
+    "id": "rec49yWolzgdFYcgi",
+    "year": 1952,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Green",
+    "fontColor": "White",
+    "type": "Government",
+    "serial": "9-81",
+    "photoUrl": "assets/img/plates/att77PJlawxCDeenf.jpg",
+    "dateAdded": "2026-08-21T15:50:23.000Z"
+  },
+  {
+    "id": "rec4ABVCCmrtx3GkK",
+    "year": 1949,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Heavy Car",
+    "serial": "7D-685",
+    "photoUrl": "assets/img/plates/att7p3Tp2MxMPGuCj.jpg",
+    "dateAdded": "2026-08-21T15:19:32.000Z"
+  },
+  {
     "id": "rec4iKpwpXBVNneG6",
     "year": 1941,
     "countyNumber": "1",
@@ -94,6 +322,30 @@
     "serial": "1P/2-5493",
     "photoUrl": "assets/img/plates/attjmrkpxP1kCNHQZ.jpg",
     "dateAdded": "2026-08-13T23:59:10.000Z"
+  },
+  {
+    "id": "rec4kkP3HlbUsXE4E",
+    "year": 1956,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "7-55337",
+    "photoUrl": "assets/img/plates/att2ZALhysp2GsSfu.jpg",
+    "dateAdded": "2026-08-21T15:21:36.000Z"
+  },
+  {
+    "id": "rec4mpLIj2mQ2SNGL",
+    "year": 1951,
+    "countyNumber": "5",
+    "countyName": "Sullivan",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "5-512",
+    "photoUrl": "assets/img/plates/attEUgu7JHFXgh2tH.jpg",
+    "dateAdded": "2026-08-21T14:38:42.000Z"
   },
   {
     "id": "rec4osbiflMZQL42s",
@@ -120,6 +372,114 @@
     "dateAdded": "2026-08-20T23:54:42.000Z"
   },
   {
+    "id": "rec52IBaj37hbb4Qn",
+    "year": 1949,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Taxi",
+    "serial": "9TAXI-87",
+    "photoUrl": "assets/img/plates/attPE7cBNq8uFDkVM.jpg",
+    "dateAdded": "2026-08-21T15:49:36.000Z"
+  },
+  {
+    "id": "rec5AGbb4UdTAHMaB",
+    "year": 1955,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "10-3708",
+    "photoUrl": "assets/img/plates/attK64wOklpSaFXud.jpg",
+    "dateAdded": "2026-08-21T16:07:23.000Z"
+  },
+  {
+    "id": "rec5KBUsazN560ygK",
+    "year": 1955,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Radio",
+    "serial": "9-W4HIQ",
+    "photoUrl": "assets/img/plates/attgmVpwptQqyMHQp.jpg",
+    "dateAdded": "2026-08-21T15:49:54.000Z"
+  },
+  {
+    "id": "rec5MupSwQD0R4LQr",
+    "year": 1949,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "County",
+    "serial": "7COUNTY-32",
+    "photoUrl": "assets/img/plates/attJqk6BsRzoDKW7D.jpg",
+    "dateAdded": "2026-08-21T15:20:30.000Z"
+  },
+  {
+    "id": "rec5V4UhWMfjJauxm",
+    "year": 1952,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "6-2321",
+    "photoUrl": "assets/img/plates/attgeYANephlqcOkS.jpg",
+    "dateAdded": "2026-08-21T15:08:38.000Z"
+  },
+  {
+    "id": "rec5dBAo6o3CzGiHf",
+    "year": 1950,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "6-14",
+    "photoUrl": "assets/img/plates/attBPd511fjTZ6gUe.jpg",
+    "dateAdded": "2026-08-21T15:08:55.000Z"
+  },
+  {
+    "id": "rec5iCcPDeeLLiAeY",
+    "year": 1956,
+    "countyNumber": "5",
+    "countyName": "Sullivan",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "5-9232",
+    "photoUrl": "assets/img/plates/atthsCCiCXDu1HiVJ.jpg",
+    "dateAdded": "2026-08-21T14:44:36.000Z"
+  },
+  {
+    "id": "rec5j48p4t44UMqug",
+    "year": 1956,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Dealer",
+    "serial": "6-13",
+    "photoUrl": "assets/img/plates/attHzLjei74NQapc2.jpg",
+    "dateAdded": "2026-08-21T14:53:45.000Z"
+  },
+  {
+    "id": "rec606ID13ECK7T6B",
+    "year": 1948,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "10-826",
+    "photoUrl": "assets/img/plates/attfCGarGi3gpLj8P.jpg",
+    "dateAdded": "2026-08-21T16:09:02.000Z"
+  },
+  {
     "id": "rec6YaRWjb7c2hDpC",
     "year": 1951,
     "countyNumber": "3",
@@ -142,6 +502,18 @@
     "serial": "1-72392",
     "photoUrl": "assets/img/plates/att1WkE48eHNg5WI9.jpg",
     "dateAdded": "2026-08-13T23:51:23.000Z"
+  },
+  {
+    "id": "rec6i8CYtn5TgrPM2",
+    "year": 1951,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "7-5486",
+    "photoUrl": "assets/img/plates/attjnLJSMozMkw5B7.jpg",
+    "dateAdded": "2026-08-21T15:17:04.000Z"
   },
   {
     "id": "rec71PhUcXmn1SNZY",
@@ -168,6 +540,54 @@
     "dateAdded": "2026-08-13T22:23:29.000Z"
   },
   {
+    "id": "rec7aFnJ7ABhLsBXX",
+    "year": 1952,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "8-2202",
+    "photoUrl": "assets/img/plates/att9taL2K2CiN4RZR.jpg",
+    "dateAdded": "2026-08-21T15:38:25.000Z"
+  },
+  {
+    "id": "rec7fBxxAJNz5TJiw",
+    "year": 1953,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "9-681",
+    "photoUrl": "assets/img/plates/atthDDjPmjOALrxGM.jpg",
+    "dateAdded": "2026-08-21T15:54:37.000Z"
+  },
+  {
+    "id": "rec8AcuEKLfTeIYAf",
+    "year": 1942,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "City",
+    "serial": "7CITY-544",
+    "photoUrl": "assets/img/plates/attZS34pziriWK2fn.jpg",
+    "dateAdded": "2026-08-21T15:14:10.000Z"
+  },
+  {
+    "id": "rec8FjG9IxrSXkegY",
+    "year": 1956,
+    "countyNumber": "5",
+    "countyName": "Sullivan",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Government",
+    "serial": "5X",
+    "photoUrl": "assets/img/plates/attRtKFNpQ8PT2AsP.jpg",
+    "dateAdded": "2026-08-21T14:44:43.000Z"
+  },
+  {
     "id": "rec8bf5ate9920FEb",
     "year": 1985,
     "countyNumber": "1",
@@ -178,6 +598,30 @@
     "serial": "1-204 C",
     "photoUrl": "assets/img/plates/att51h1N7cMTnDkqw.jpg",
     "dateAdded": "2026-08-13T22:23:29.000Z"
+  },
+  {
+    "id": "rec8ghLMGPVlC6aO5",
+    "year": 1946,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "8-454",
+    "photoUrl": "assets/img/plates/attQn22mXabEo066k.jpg",
+    "dateAdded": "2026-08-21T15:39:55.000Z"
+  },
+  {
+    "id": "rec91LtYjLCMhAz12",
+    "year": 1944,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "9-453",
+    "photoUrl": "assets/img/plates/attVVdsDmq69Ex7E2.jpg",
+    "dateAdded": "2026-08-21T15:51:42.000Z"
   },
   {
     "id": "rec94d8KqoVECooHr",
@@ -192,6 +636,18 @@
     "dateAdded": "2026-08-21T00:44:23.000Z"
   },
   {
+    "id": "rec98g3KjO8obayaD",
+    "year": 1947,
+    "countyNumber": "5",
+    "countyName": "Sullivan",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "5-850",
+    "photoUrl": "assets/img/plates/attumkm8RuYh5bfPT.jpg",
+    "dateAdded": "2026-08-21T14:38:43.000Z"
+  },
+  {
     "id": "rec9FAxD3KfZK3Wf6",
     "year": 1956,
     "countyNumber": "3",
@@ -202,6 +658,30 @@
     "serial": "3D-2425",
     "photoUrl": "assets/img/plates/attw7ArcPDq1sWfZ6.jpg",
     "dateAdded": "2026-08-21T00:06:16.000Z"
+  },
+  {
+    "id": "rec9Hz6KzuCAFAPqI",
+    "year": 1952,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Green",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "6W4BOK",
+    "photoUrl": "assets/img/plates/attmQJqnbpgKDS3Fj.jpg",
+    "dateAdded": "2026-08-21T15:09:45.000Z"
+  },
+  {
+    "id": "rec9QG8DTvkrL8zON",
+    "year": 1958,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "6-66",
+    "photoUrl": "assets/img/plates/attF6pZ6zYzEcZIyD.jpg",
+    "dateAdded": "2026-08-21T14:58:12.000Z"
   },
   {
     "id": "rec9RmdiCOJ2MXAr3",
@@ -216,6 +696,42 @@
     "dateAdded": "2026-08-21T00:06:17.000Z"
   },
   {
+    "id": "rec9fO0BKaFwiUF91",
+    "year": 1949,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Farm Truck",
+    "serial": "8F/1-156",
+    "photoUrl": "assets/img/plates/attmZSz5V3KAPHT2l.jpg",
+    "dateAdded": "2026-08-21T15:27:30.000Z"
+  },
+  {
+    "id": "rec9rAJ4jgm7ki09n",
+    "year": 1946,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "6-28",
+    "photoUrl": "assets/img/plates/att5Vqghg2CkWxJAs.jpg",
+    "dateAdded": "2026-08-21T14:53:42.000Z"
+  },
+  {
+    "id": "rec9xThnjci6V2xXU",
+    "year": 1955,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Maroon",
+    "fontColor": "White",
+    "type": "Dealer",
+    "serial": "6DLR27-C",
+    "photoUrl": "assets/img/plates/attfvGRtyZu2Y1kmO.jpg",
+    "dateAdded": "2026-08-21T14:53:43.000Z"
+  },
+  {
     "id": "recA0457yvSL6r8GL",
     "year": 1959,
     "countyNumber": "2",
@@ -226,6 +742,90 @@
     "serial": "2-268",
     "photoUrl": "assets/img/plates/att5a196eFdAHsBFy.jpg",
     "dateAdded": "2026-08-20T02:36:58.000Z"
+  },
+  {
+    "id": "recANa8RazMgdNXEp",
+    "year": 1956,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Radio",
+    "serial": "3W4FX",
+    "photoUrl": "assets/img/plates/attD6eEVoJNIA2pEk.jpg",
+    "dateAdded": "2026-08-21T13:21:40.000Z"
+  },
+  {
+    "id": "recBBjqXPlViznPnv",
+    "year": 1963,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "9-4",
+    "photoUrl": "assets/img/plates/att1R7y3LneEYa9gf.jpg",
+    "dateAdded": "2026-08-21T15:52:03.000Z"
+  },
+  {
+    "id": "recBIjtJru1qfnJAW",
+    "year": 1956,
+    "countyNumber": "5",
+    "countyName": "Sullivan",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "5P/2-5496",
+    "photoUrl": "assets/img/plates/attyPw1IsqCDQXCh8.jpg",
+    "dateAdded": "2026-08-21T14:44:42.000Z"
+  },
+  {
+    "id": "recBYbrmrBRynFmBu",
+    "year": 1944,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "7F/1-305",
+    "photoUrl": "assets/img/plates/attphivWI3JRtTVSF.jpg",
+    "dateAdded": "2026-08-21T15:17:25.000Z"
+  },
+  {
+    "id": "recBYekrnSsTES8Qy",
+    "year": 1950,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Silver",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "8-148",
+    "photoUrl": "assets/img/plates/attOE0h0OgVNmb6Tg.jpg",
+    "dateAdded": "2026-08-21T15:26:24.000Z"
+  },
+  {
+    "id": "recBZRLTxoQ1Tff7D",
+    "year": 1965,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "6-329",
+    "photoUrl": "assets/img/plates/atta3Dxd2qZIvAEvQ.jpg",
+    "dateAdded": "2026-08-21T15:09:16.000Z"
+  },
+  {
+    "id": "recBjbNYiTPzxwz0t",
+    "year": 1953,
+    "countyNumber": "5",
+    "countyName": "Sullivan",
+    "colors": "Blue",
+    "fontColor": "White",
+    "type": "Dealer",
+    "serial": "5DLR-179",
+    "photoUrl": "assets/img/plates/attmsu5TUt4XLrOHu.jpg",
+    "dateAdded": "2026-08-21T14:44:43.000Z"
   },
   {
     "id": "recBjgD16eP6lp3K3",
@@ -264,6 +864,66 @@
     "dateAdded": "2026-08-13T23:56:00.000Z"
   },
   {
+    "id": "recC8bBHM78Qfx6bC",
+    "year": 1946,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "City",
+    "serial": "9CITY-530",
+    "photoUrl": "assets/img/plates/atthQ7lj3WRE1UBkX.jpg",
+    "dateAdded": "2026-08-21T15:49:18.000Z"
+  },
+  {
+    "id": "recCFAHGFzb6Ziy6S",
+    "year": 1952,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "Green",
+    "fontColor": "White",
+    "type": "County",
+    "serial": "7COUNTY-63",
+    "photoUrl": "assets/img/plates/att0wmHd2F11lDYC8.jpg",
+    "dateAdded": "2026-08-21T15:20:12.000Z"
+  },
+  {
+    "id": "recCKqBDK8VwtjJTH",
+    "year": 1955,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "10-406",
+    "photoUrl": "assets/img/plates/att81hPlkNO2Ji8Tv.jpg",
+    "dateAdded": "2026-08-21T16:01:03.000Z"
+  },
+  {
+    "id": "recCZQf90IeStPvsf",
+    "year": 1952,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "8-1171",
+    "photoUrl": "assets/img/plates/att915XPYsw0LbI21.jpg",
+    "dateAdded": "2026-08-21T15:35:18.000Z"
+  },
+  {
+    "id": "recCgkzyoGOGvnL0B",
+    "year": 1956,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Auxiliary Police",
+    "serial": "8-1",
+    "photoUrl": "assets/img/plates/attQ1fmbyfAHK4iyr.jpg",
+    "dateAdded": "2026-08-21T15:30:02.000Z"
+  },
+  {
     "id": "recCvgugk3qgJipw7",
     "year": 1964,
     "countyNumber": "3",
@@ -274,6 +934,18 @@
     "serial": "3-534",
     "photoUrl": "assets/img/plates/attT8e5IK3etlclOp.jpg",
     "dateAdded": "2026-08-20T23:50:42.000Z"
+  },
+  {
+    "id": "recDI7SwLMMVgtjHn",
+    "year": 1941,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "10-30",
+    "photoUrl": "assets/img/plates/attwK8jbTABuedxkb.jpg",
+    "dateAdded": "2026-08-21T15:58:35.000Z"
   },
   {
     "id": "recDNIJ6HDLbWjSkO",
@@ -324,6 +996,18 @@
     "dateAdded": "2026-08-21T00:06:16.000Z"
   },
   {
+    "id": "recE2KShrRtJs2dr7",
+    "year": 1951,
+    "countyNumber": "5",
+    "countyName": "Sullivan",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "5-551",
+    "photoUrl": "assets/img/plates/attaGra9hLgfjMV0U.jpg",
+    "dateAdded": "2026-08-21T14:38:43.000Z"
+  },
+  {
     "id": "recE2OeksFsQU81o9",
     "year": 1963,
     "countyNumber": "3",
@@ -348,6 +1032,18 @@
     "dateAdded": "2026-08-20T23:47:30.000Z"
   },
   {
+    "id": "recFYVg6loyFgtdeL",
+    "year": 1939,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Farm",
+    "serial": "8FARM-179",
+    "photoUrl": "assets/img/plates/attVL5K4M4OqbV3yO.jpg",
+    "dateAdded": "2026-08-21T15:40:25.000Z"
+  },
+  {
     "id": "recFoXzx5nOKyZz8n",
     "year": 1955,
     "countyNumber": "3",
@@ -370,6 +1066,90 @@
     "serial": "1A-164",
     "photoUrl": "assets/img/plates/att2fwFoDWvgTAf1z.jpg",
     "dateAdded": "2026-08-13T23:51:26.000Z"
+  },
+  {
+    "id": "recGDJyPLuvkNRb5i",
+    "year": 1939,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "7-2104",
+    "photoUrl": "assets/img/plates/attS0QD3N0FpTEGMa.jpg",
+    "dateAdded": "2026-08-21T15:16:03.000Z"
+  },
+  {
+    "id": "recGGz2rVo5aOYP0r",
+    "year": 1956,
+    "countyNumber": "5",
+    "countyName": "Sullivan",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "5-40",
+    "photoUrl": "assets/img/plates/attyQFtgLfXCCGZQz.jpg",
+    "dateAdded": "2026-08-21T14:38:31.000Z"
+  },
+  {
+    "id": "recGO3g4Y2yJlnkRB",
+    "year": 1952,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "8P/3-8070",
+    "photoUrl": "assets/img/plates/attFg1n3ogJHIxDix.jpg",
+    "dateAdded": "2026-08-21T15:35:30.000Z"
+  },
+  {
+    "id": "recGQfpXIEJF6e7WO",
+    "year": 1956,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "7-10669",
+    "photoUrl": "assets/img/plates/attAwuzNzO8YmvKoL.jpg",
+    "dateAdded": "2026-08-21T15:16:38.000Z"
+  },
+  {
+    "id": "recGRnETVQsY5rZCz",
+    "year": 1954,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "7-5884",
+    "photoUrl": "assets/img/plates/attfJf6wiU1NzWNHR.jpg",
+    "dateAdded": "2026-08-21T15:15:29.000Z"
+  },
+  {
+    "id": "recGWKcuunra4kfel",
+    "year": 1952,
+    "countyNumber": "5",
+    "countyName": "Sullivan",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "5B-4",
+    "photoUrl": "assets/img/plates/attPzuXgLmuVItCND.jpg",
+    "dateAdded": "2026-08-21T14:44:38.000Z"
+  },
+  {
+    "id": "recGp39MbFv3Iandi",
+    "year": 1951,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "7-3638",
+    "photoUrl": "assets/img/plates/attcN2TfmgkK6prbK.jpg",
+    "dateAdded": "2026-08-21T15:19:15.000Z"
   },
   {
     "id": "recGsORKA4vYz4NcX",
@@ -408,6 +1188,18 @@
     "dateAdded": "2026-08-21T00:44:25.000Z"
   },
   {
+    "id": "recHHjZoTU9LY91As",
+    "year": 1948,
+    "countyNumber": "5",
+    "countyName": "Sullivan",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "5-1196",
+    "photoUrl": "assets/img/plates/att6Y2bkm3rN9Zqpg.jpg",
+    "dateAdded": "2026-08-21T14:38:46.000Z"
+  },
+  {
     "id": "recHNysQxy2KAIqZN",
     "year": 1951,
     "countyNumber": "1",
@@ -418,6 +1210,18 @@
     "serial": "1-40628",
     "photoUrl": "assets/img/plates/attTkmGLxsL61zMEq.jpg",
     "dateAdded": "2026-08-13T23:48:42.000Z"
+  },
+  {
+    "id": "recHkVWoDtLWAlPaH",
+    "year": 1939,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Free",
+    "serial": "8FREE-100",
+    "photoUrl": "assets/img/plates/attti9W0RFaQQ4s7d.jpg",
+    "dateAdded": "2026-08-21T15:43:04.000Z"
   },
   {
     "id": "recIEdZl9MDs97Pwa",
@@ -432,6 +1236,42 @@
     "dateAdded": "2026-08-13T22:23:29.000Z"
   },
   {
+    "id": "recIjEECRZXenR1pi",
+    "year": 1954,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "White",
+    "fontColor": "Blue",
+    "type": "Radio",
+    "serial": "6W4ANN",
+    "photoUrl": "assets/img/plates/attna9KedepZXKwaH.jpg",
+    "dateAdded": "2026-08-21T14:44:48.000Z"
+  },
+  {
+    "id": "recIuF5UeKmZqWev1",
+    "year": 1953,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Farm Truck",
+    "serial": "8F/1-1075",
+    "photoUrl": "assets/img/plates/attGoBXsSCnhAuhWe.jpg",
+    "dateAdded": "2026-08-21T15:44:01.000Z"
+  },
+  {
+    "id": "recJDyoMUgUq8aFHj",
+    "year": 1950,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Heavy Car",
+    "serial": "7D-558",
+    "photoUrl": "assets/img/plates/att7NSQzMPlW1sRUA.jpg",
+    "dateAdded": "2026-08-21T15:17:43.000Z"
+  },
+  {
     "id": "recJKxXD9FoGmvDis",
     "year": 1961,
     "countyNumber": "3",
@@ -442,6 +1282,42 @@
     "serial": "3-324",
     "photoUrl": "assets/img/plates/attbv8AJkM0TjSpgV.jpg",
     "dateAdded": "2026-08-20T23:50:41.000Z"
+  },
+  {
+    "id": "recJrB6ChZl7u7Lqs",
+    "year": 1951,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "10-366",
+    "photoUrl": "assets/img/plates/attodxQCGOdi12UOe.jpg",
+    "dateAdded": "2026-08-21T15:56:46.000Z"
+  },
+  {
+    "id": "recJw8APZnE9CcunN",
+    "year": 1953,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Truck",
+    "serial": "10P/1-168",
+    "photoUrl": "assets/img/plates/att2kamQbYFOa3T7R.jpg",
+    "dateAdded": "2026-08-21T16:07:02.000Z"
+  },
+  {
+    "id": "recKJbRsPXfUgPBVk",
+    "year": 1956,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "9-1379",
+    "photoUrl": "assets/img/plates/att7YnoBJwMusnWjX.jpg",
+    "dateAdded": "2026-08-21T15:52:21.000Z"
   },
   {
     "id": "recKMjFqPeD96xz99",
@@ -490,6 +1366,30 @@
     "serial": "3P/7-Z196",
     "photoUrl": "assets/img/plates/attx5LBRakED5AQxz.jpg",
     "dateAdded": "2026-08-21T00:08:24.000Z"
+  },
+  {
+    "id": "recKrPO9k85FN74Zw",
+    "year": 1942,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "6A-60",
+    "photoUrl": "assets/img/plates/attEWrXg3vP5GorRY.jpg",
+    "dateAdded": "2026-08-21T14:53:46.000Z"
+  },
+  {
+    "id": "recKxTAN17cX2McRz",
+    "year": 1953,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Farm Truck",
+    "serial": "9F/1-68",
+    "photoUrl": "assets/img/plates/atttOdfrHpwuCSXpS.jpg",
+    "dateAdded": "2026-08-21T15:47:25.000Z"
   },
   {
     "id": "recLGSuGthDBzImgs",
@@ -552,6 +1452,18 @@
     "dateAdded": "2026-08-21T00:02:00.000Z"
   },
   {
+    "id": "recMgbryi8rgobJWp",
+    "year": 1952,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "8-21",
+    "photoUrl": "assets/img/plates/attGQegSQMxWRhB7j.jpg",
+    "dateAdded": "2026-08-21T15:36:30.000Z"
+  },
+  {
     "id": "recN2XlSZ1C922ogf",
     "year": 1946,
     "countyNumber": "1",
@@ -564,6 +1476,18 @@
     "dateAdded": "2026-08-13T23:56:02.000Z"
   },
   {
+    "id": "recN3UKjrK07vwwqp",
+    "year": 1958,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "8-57",
+    "photoUrl": "assets/img/plates/attRwksqGWXQGGdRo.jpg",
+    "dateAdded": "2026-08-21T15:37:52.000Z"
+  },
+  {
     "id": "recNCX3e4WJZ3Lieq",
     "year": 1956,
     "countyNumber": "2",
@@ -574,6 +1498,42 @@
     "serial": "2-7305",
     "photoUrl": "assets/img/plates/attIZupDQmoJtfrtS.jpg",
     "dateAdded": "2026-08-20T02:40:34.000Z"
+  },
+  {
+    "id": "recNXtsTzDzSkxqQn",
+    "year": 1951,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "County",
+    "serial": "7COUNTY-70",
+    "photoUrl": "assets/img/plates/attR843P7RrCWuFOP.jpg",
+    "dateAdded": "2026-08-21T15:12:51.000Z"
+  },
+  {
+    "id": "recNY0GiCX4wb7Bug",
+    "year": 1947,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "8-3080",
+    "photoUrl": "assets/img/plates/att7cJBHADNdwZ9er.jpg",
+    "dateAdded": "2026-08-21T15:40:11.000Z"
+  },
+  {
+    "id": "recNcSBZHX32WsXVo",
+    "year": 1946,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "6-418",
+    "photoUrl": "assets/img/plates/attSRUCCXxVGrRIIY.jpg",
+    "dateAdded": "2026-08-21T15:08:21.000Z"
   },
   {
     "id": "recNuaIBafEXHbec6",
@@ -612,6 +1572,18 @@
     "dateAdded": "2026-08-20T02:39:18.000Z"
   },
   {
+    "id": "recP00PYFnOisPsWe",
+    "year": 1951,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "10P/2-504",
+    "photoUrl": "assets/img/plates/attJruqHWAab0igAG.jpg",
+    "dateAdded": "2026-08-21T16:02:35.000Z"
+  },
+  {
     "id": "recP1TJxCMtCgOuwC",
     "year": 1942,
     "countyNumber": "3",
@@ -634,6 +1606,66 @@
     "serial": "2D-34294",
     "photoUrl": "assets/img/plates/att7xZsIiB0tPCFvK.jpg",
     "dateAdded": "2026-08-20T02:48:23.000Z"
+  },
+  {
+    "id": "recQYNeH7LqTxx34K",
+    "year": 1955,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "Red",
+    "fontColor": "White",
+    "type": "Dealer",
+    "serial": "7DLR37-A",
+    "photoUrl": "assets/img/plates/atteCK0xchAGejzNS.jpg",
+    "dateAdded": "2026-08-21T15:13:47.000Z"
+  },
+  {
+    "id": "recQbrmmd3Rj8407c",
+    "year": 1964,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Motorcycle",
+    "serial": "8-502",
+    "photoUrl": "assets/img/plates/attAs2wA3qn32YPfo.jpg",
+    "dateAdded": "2026-08-21T15:32:36.000Z"
+  },
+  {
+    "id": "recQeGCGUYmmgP059",
+    "year": 1956,
+    "countyNumber": "5",
+    "countyName": "Sullivan",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "5-9165",
+    "photoUrl": "assets/img/plates/attDVkvzaDJbsFWws.jpg",
+    "dateAdded": "2026-08-21T14:44:34.000Z"
+  },
+  {
+    "id": "recQl3pROd9e947dQ",
+    "year": 1953,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "7-6192",
+    "photoUrl": "assets/img/plates/attPqOLoXajUdcrcS.jpg",
+    "dateAdded": "2026-08-21T15:20:54.000Z"
+  },
+  {
+    "id": "recQsRk3x1RdzDe4m",
+    "year": 1945,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Silver",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "6-418",
+    "photoUrl": "assets/img/plates/att2WrN6vm206bIwT.jpg",
+    "dateAdded": "2026-08-21T15:07:05.000Z"
   },
   {
     "id": "recQxCHJZn2KWU7FC",
@@ -660,6 +1692,42 @@
     "dateAdded": "2026-08-21T00:50:40.000Z"
   },
   {
+    "id": "recR8cLoeX0Mz5pKG",
+    "year": 1955,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "7-10144",
+    "photoUrl": "assets/img/plates/attAoiTENbC5QWxGB.jpg",
+    "dateAdded": "2026-08-21T15:15:47.000Z"
+  },
+  {
+    "id": "recRTGc72LS9pLBOf",
+    "year": 1955,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Heavy Car",
+    "serial": "3D-9257",
+    "photoUrl": "assets/img/plates/attscKVsy3IWE8Zun.jpg",
+    "dateAdded": "2026-08-21T14:21:57.000Z"
+  },
+  {
+    "id": "recRgTRhqUi3o2CdN",
+    "year": 1951,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "8-3636",
+    "photoUrl": "assets/img/plates/attjG2JyCkLiDEKuc.jpg",
+    "dateAdded": "2026-08-21T15:29:25.000Z"
+  },
+  {
     "id": "recRm4059hbMOZoED",
     "year": 1955,
     "countyNumber": "1",
@@ -670,6 +1738,30 @@
     "serial": "1",
     "photoUrl": "assets/img/plates/attTimMqBBBy71RsL.jpg",
     "dateAdded": "2026-08-13T23:51:26.000Z"
+  },
+  {
+    "id": "recSNThc4zcWIn0KU",
+    "year": 1952,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "9F/1-365",
+    "photoUrl": "assets/img/plates/attesMaNeRpB9NcBj.jpg",
+    "dateAdded": "2026-08-21T15:47:10.000Z"
+  },
+  {
+    "id": "recSrsFBRjIb0G19f",
+    "year": 1951,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "10-83",
+    "photoUrl": "assets/img/plates/attBcKYS2JLZC39xS.jpg",
+    "dateAdded": "2026-08-21T16:05:53.000Z"
   },
   {
     "id": "recUPbtt1bcWCabfK",
@@ -684,6 +1776,30 @@
     "dateAdded": "2026-08-21T00:50:41.000Z"
   },
   {
+    "id": "recUSUVJfGhqiYMmi",
+    "year": 1954,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Truck",
+    "serial": "8P/2-5073",
+    "photoUrl": "assets/img/plates/attZlt0au2Xo75OWE.jpg",
+    "dateAdded": "2026-08-21T15:41:03.000Z"
+  },
+  {
+    "id": "recUVKwNfLFkEU8sU",
+    "year": 1954,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "For Hire",
+    "serial": "6H/7-Z010",
+    "photoUrl": "assets/img/plates/attXg6tsa0jX7Vh8F.jpg",
+    "dateAdded": "2026-08-21T14:58:11.000Z"
+  },
+  {
     "id": "recUgSP736Yu1ePUP",
     "year": 1958,
     "countyNumber": "3",
@@ -696,6 +1812,42 @@
     "dateAdded": "2026-08-20T23:47:29.000Z"
   },
   {
+    "id": "recUn20iiZWUuvUxR",
+    "year": 1959,
+    "countyNumber": "5",
+    "countyName": "Sullivan",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "5-1",
+    "photoUrl": "assets/img/plates/attfyH8TFzXh1c2hO.jpg",
+    "dateAdded": "2026-08-21T14:38:30.000Z"
+  },
+  {
+    "id": "recVuvzamfutURgTD",
+    "year": 1951,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "7-41",
+    "photoUrl": "assets/img/plates/att1xlNBgBrWT2QRQ.jpg",
+    "dateAdded": "2026-08-21T15:21:20.000Z"
+  },
+  {
+    "id": "recVyHLhpufwSzpAQ",
+    "year": 1939,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Heavy Car",
+    "serial": "9D-395",
+    "photoUrl": "assets/img/plates/attcztlU6g4YUK7uN.jpg",
+    "dateAdded": "2026-08-21T15:50:10.000Z"
+  },
+  {
     "id": "recWEfGFwHagUliiH",
     "year": 1951,
     "countyNumber": "3",
@@ -706,6 +1858,18 @@
     "serial": "3-92",
     "photoUrl": "assets/img/plates/attkoHhk0uAFjNk6u.jpg",
     "dateAdded": "2026-08-20T23:50:39.000Z"
+  },
+  {
+    "id": "recWenXmzCmhGXwjN",
+    "year": 1942,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "County",
+    "serial": "7COUNTY-63",
+    "photoUrl": "assets/img/plates/att5Yd1C0YZcFI6Ms.jpg",
+    "dateAdded": "2026-08-21T15:19:51.000Z"
   },
   {
     "id": "recWmGtfp9aYCGU8L",
@@ -744,6 +1908,54 @@
     "dateAdded": "2026-08-20T02:34:43.000Z"
   },
   {
+    "id": "recWttRJ8LCgQ4MFO",
+    "year": 1951,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "7-340",
+    "photoUrl": "assets/img/plates/attfEhBGzH2F5aMgD.jpg",
+    "dateAdded": "2026-08-21T15:18:54.000Z"
+  },
+  {
+    "id": "recX9KfTRo8kShhOG",
+    "year": 1951,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "9P/2-5424",
+    "photoUrl": "assets/img/plates/att5DLlYLNRnW1yNG.jpg",
+    "dateAdded": "2026-08-21T15:53:21.000Z"
+  },
+  {
+    "id": "recXNTb3fUaSqtp0e",
+    "year": 1944,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "6A-24",
+    "photoUrl": "assets/img/plates/attIzvDBzI05AtkWx.jpg",
+    "dateAdded": "2026-08-21T14:58:10.000Z"
+  },
+  {
+    "id": "recXWncLG2zI4cPmf",
+    "year": 1951,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "8-1169",
+    "photoUrl": "assets/img/plates/attpNQ2rA12zWC6sS.jpg",
+    "dateAdded": "2026-08-21T15:27:08.000Z"
+  },
+  {
     "id": "recXb92i18k5iMIpE",
     "year": 1955,
     "countyNumber": "3",
@@ -754,6 +1966,18 @@
     "serial": "3",
     "photoUrl": "assets/img/plates/attS16MM1zhnlHL9X.jpg",
     "dateAdded": "2026-08-21T00:02:03.000Z"
+  },
+  {
+    "id": "recXjuuOEPnKl7iD6",
+    "year": 1955,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Blue",
+    "fontColor": "Red",
+    "type": "Auxiliary Police",
+    "serial": "8-8",
+    "photoUrl": "assets/img/plates/attU1HXlxBkdWoqoe.jpg",
+    "dateAdded": "2026-08-21T15:33:17.000Z"
   },
   {
     "id": "recXtvlm2XU2edius",
@@ -780,6 +2004,30 @@
     "dateAdded": "2026-08-21T00:44:23.000Z"
   },
   {
+    "id": "recYpF8Q2Yhq7YOAX",
+    "year": 1956,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "8-5440",
+    "photoUrl": "assets/img/plates/attKnL3UA6kQ24pzy.jpg",
+    "dateAdded": "2026-08-21T15:38:53.000Z"
+  },
+  {
+    "id": "recZ3SJRnB3eB5Kid",
+    "year": 1951,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "9-2596",
+    "photoUrl": "assets/img/plates/attcZoZa6VzLvje1G.jpg",
+    "dateAdded": "2026-08-21T15:54:03.000Z"
+  },
+  {
     "id": "recZ4SysCh2AzZBZa",
     "year": 1951,
     "countyNumber": "4",
@@ -790,6 +2038,54 @@
     "serial": "4CITY-705",
     "photoUrl": "assets/img/plates/attEhBKBeWihjpNfo.jpg",
     "dateAdded": "2026-08-21T00:56:03.000Z"
+  },
+  {
+    "id": "recZKyOyG3AeeE9Tq",
+    "year": 1942,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "6-418",
+    "photoUrl": "assets/img/plates/attNfQahaEf3tzQkO.jpg",
+    "dateAdded": "2026-08-21T15:07:54.000Z"
+  },
+  {
+    "id": "recZM9i4ROmPPRi6D",
+    "year": 1950,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Dealer",
+    "serial": "6-577DLR",
+    "photoUrl": "assets/img/plates/attbY3uC88ph1SNnQ.jpg",
+    "dateAdded": "2026-08-21T15:10:08.000Z"
+  },
+  {
+    "id": "recZW2OZNf0yih6bQ",
+    "year": 1942,
+    "countyNumber": "5",
+    "countyName": "Sullivan",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Heavy Car",
+    "serial": "5D-951",
+    "photoUrl": "assets/img/plates/attZOeD6K0llwRTie.jpg",
+    "dateAdded": "2026-08-21T14:44:40.000Z"
+  },
+  {
+    "id": "recZZilBPlTZtEKSk",
+    "year": 1951,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "10-1",
+    "photoUrl": "assets/img/plates/att1cDtq031s0DAyT.jpg",
+    "dateAdded": "2026-08-21T16:03:55.000Z"
   },
   {
     "id": "recZmpSBVMJ8WGCYX",
@@ -804,6 +2100,42 @@
     "dateAdded": "2026-08-13T23:56:01.000Z"
   },
   {
+    "id": "recabxUhz5LPSb70U",
+    "year": 1953,
+    "countyNumber": "51",
+    "countyName": "Monroe",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Heavy Car",
+    "serial": "51D-65",
+    "photoUrl": "assets/img/plates/attDWfQ73xFdA87an.jpg",
+    "dateAdded": "2026-08-21T16:07:41.000Z"
+  },
+  {
+    "id": "recacG1sq6rmp8zJk",
+    "year": 1946,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Truck",
+    "serial": "8P/2-5184",
+    "photoUrl": "assets/img/plates/attPhmR7gjny6aUpk.jpg",
+    "dateAdded": "2026-08-21T15:40:43.000Z"
+  },
+  {
+    "id": "recacci5uCmj597bg",
+    "year": 1951,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "10-351",
+    "photoUrl": "assets/img/plates/attMULNF3Sn6Hdf32.jpg",
+    "dateAdded": "2026-08-21T15:56:06.000Z"
+  },
+  {
     "id": "recalitnsROwjLkrA",
     "year": 1944,
     "countyNumber": "2",
@@ -814,6 +2146,42 @@
     "serial": "2-3637",
     "photoUrl": "assets/img/plates/att6IHbFQ5jg1fVQB.jpg",
     "dateAdded": "2026-08-20T02:39:19.000Z"
+  },
+  {
+    "id": "recatIHIYyFMY7iui",
+    "year": 1955,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Motorcycle",
+    "serial": "8-106",
+    "photoUrl": "assets/img/plates/attmCdZWR4wCg6zLP.jpg",
+    "dateAdded": "2026-08-21T15:41:43.000Z"
+  },
+  {
+    "id": "recawNlPNlVa29kU0",
+    "year": 1948,
+    "countyNumber": "5",
+    "countyName": "Sullivan",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "5F/1-109",
+    "photoUrl": "assets/img/plates/attWI1pbYmjIdh2r6.jpg",
+    "dateAdded": "2026-08-21T14:44:40.000Z"
+  },
+  {
+    "id": "recb5UnTUJsyacM9S",
+    "year": 1954,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Heavy Car",
+    "serial": "8D-648",
+    "photoUrl": "assets/img/plates/att0NEhYnFbgirT0q.jpg",
+    "dateAdded": "2026-08-21T15:31:45.000Z"
   },
   {
     "id": "recb5nAd1rabCjTuS",
@@ -828,6 +2196,54 @@
     "dateAdded": "2026-08-21T00:02:00.000Z"
   },
   {
+    "id": "recb9PyL6Qy8eOx3A",
+    "year": 1939,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "8-3812",
+    "photoUrl": "assets/img/plates/attX1KF2Sf6yxfs6Q.jpg",
+    "dateAdded": "2026-08-21T15:39:07.000Z"
+  },
+  {
+    "id": "recbKfFEW33IfusJw",
+    "year": 1951,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Radio",
+    "serial": "10-W4BXQ",
+    "photoUrl": "assets/img/plates/attNLn0s69DulVPxB.jpg",
+    "dateAdded": "2026-08-21T15:56:23.000Z"
+  },
+  {
+    "id": "recbgGY5nxQE0YVrQ",
+    "year": 1945,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "City",
+    "serial": "9CITY-502",
+    "photoUrl": "assets/img/plates/attFR0hEC3JESLwLl.jpg",
+    "dateAdded": "2026-08-21T15:48:57.000Z"
+  },
+  {
+    "id": "reccNwI9WEu32tUKg",
+    "year": 1951,
+    "countyNumber": "5",
+    "countyName": "Sullivan",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "5D-784",
+    "photoUrl": "assets/img/plates/attQ49oPUqzpCJosF.jpg",
+    "dateAdded": "2026-08-21T14:44:39.000Z"
+  },
+  {
     "id": "reccSORkufG1blHjA",
     "year": 1940,
     "countyNumber": "3",
@@ -840,6 +2256,42 @@
     "dateAdded": "2026-08-20T23:54:40.000Z"
   },
   {
+    "id": "recd7E1xMnVZgeyqX",
+    "year": 1950,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "10-6",
+    "photoUrl": "assets/img/plates/attzSrxiQ6j0AUomn.jpg",
+    "dateAdded": "2026-08-21T16:04:26.000Z"
+  },
+  {
+    "id": "recda6RbV2Ce383Dk",
+    "year": 1939,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Free",
+    "serial": "9FREE-45",
+    "photoUrl": "assets/img/plates/attslOon7wfHzkKEU.jpg",
+    "dateAdded": "2026-08-21T15:51:25.000Z"
+  },
+  {
+    "id": "recdfsc09emjHlFLM",
+    "year": 1939,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "9-732",
+    "photoUrl": "assets/img/plates/attBauKR2pQQVe6wc.jpg",
+    "dateAdded": "2026-08-21T15:46:34.000Z"
+  },
+  {
     "id": "recdt4I9UGmMSkGhm",
     "year": 1940,
     "countyNumber": "1",
@@ -850,6 +2302,42 @@
     "serial": "1-1960",
     "photoUrl": "assets/img/plates/attU2S7aynO7oufTP.jpg",
     "dateAdded": "2026-08-13T22:23:29.000Z"
+  },
+  {
+    "id": "recdwax312sWL0Khg",
+    "year": 1944,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Taxi",
+    "serial": "9TAXI-2",
+    "photoUrl": "assets/img/plates/att0eaD3roF3bM487.jpg",
+    "dateAdded": "2026-08-21T15:54:20.000Z"
+  },
+  {
+    "id": "receKhxUvkalAqqUu",
+    "year": 1956,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Auxiliary Police",
+    "serial": "8-8",
+    "photoUrl": "assets/img/plates/att5c1YDxuSyN72VX.jpg",
+    "dateAdded": "2026-08-21T15:33:56.000Z"
+  },
+  {
+    "id": "receZqj2CLq7DejEa",
+    "year": 1945,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "8-2867",
+    "photoUrl": "assets/img/plates/attc2NBCBLy9SRwKs.jpg",
+    "dateAdded": "2026-08-21T15:39:37.000Z"
   },
   {
     "id": "receibKmpGWTIK4Zq",
@@ -876,6 +2364,18 @@
     "dateAdded": "2026-08-21T00:50:41.000Z"
   },
   {
+    "id": "recezRiIWUZhE9mvq",
+    "year": 1945,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "7-7",
+    "photoUrl": "assets/img/plates/attmYrXlIgHAOLpFd.jpg",
+    "dateAdded": "2026-08-21T15:15:07.000Z"
+  },
+  {
     "id": "recfGBFN9jBPNLYPs",
     "year": 1955,
     "countyNumber": "1",
@@ -888,6 +2388,30 @@
     "dateAdded": "2026-08-13T23:51:27.000Z"
   },
   {
+    "id": "recfmyIRBNvTRlzXG",
+    "year": 1949,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Farm Truck",
+    "serial": "10F/2-624",
+    "photoUrl": "assets/img/plates/attLn4ZRmvf5nicOz.jpg",
+    "dateAdded": "2026-08-21T16:10:46.000Z"
+  },
+  {
+    "id": "recfpAmpzs95oNfdq",
+    "year": 1946,
+    "countyNumber": "5",
+    "countyName": "Sullivan",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "5-4133",
+    "photoUrl": "assets/img/plates/att02AMXdGWpl6o0a.jpg",
+    "dateAdded": "2026-08-21T14:44:33.000Z"
+  },
+  {
     "id": "recfu8QNY75b88Mnk",
     "year": 1956,
     "countyNumber": "1",
@@ -898,6 +2422,90 @@
     "serial": "1-268",
     "photoUrl": "assets/img/plates/attXqHUdDBKVJqDGT.jpg",
     "dateAdded": "2026-08-13T22:23:29.000Z"
+  },
+  {
+    "id": "recfy8hnqli4IeN5Y",
+    "year": 1951,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "6-2602",
+    "photoUrl": "assets/img/plates/attyUHtMKghtcjhPx.jpg",
+    "dateAdded": "2026-08-21T15:11:00.000Z"
+  },
+  {
+    "id": "rech17NmVXWqA01N7",
+    "year": 1956,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "10F/2-796",
+    "photoUrl": "assets/img/plates/att6EN638U99rrVLd.jpg",
+    "dateAdded": "2026-08-21T16:11:05.000Z"
+  },
+  {
+    "id": "rech61Gq0b9LnZtg6",
+    "year": 1939,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "10-3921",
+    "photoUrl": "assets/img/plates/attgwzJh2SbAQsYkt.jpg",
+    "dateAdded": "2026-08-21T16:03:04.000Z"
+  },
+  {
+    "id": "rechHYFZAJzlxVwWq",
+    "year": 1953,
+    "countyNumber": "5",
+    "countyName": "Sullivan",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Motorcycle",
+    "serial": "5-212",
+    "photoUrl": "assets/img/plates/attSaKfXzQs9WlHJJ.jpg",
+    "dateAdded": "2026-08-21T14:38:39.000Z"
+  },
+  {
+    "id": "rechSFwUaXaOSyEIu",
+    "year": 1956,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "10-126",
+    "photoUrl": "assets/img/plates/attW3beVoaDrJwq7m.jpg",
+    "dateAdded": "2026-08-21T16:01:23.000Z"
+  },
+  {
+    "id": "reciJTIivUaBBQLN6",
+    "year": 1944,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "10-3507",
+    "photoUrl": "assets/img/plates/attckyB7MkcgS1jem.jpg",
+    "dateAdded": "2026-08-21T16:05:40.000Z"
+  },
+  {
+    "id": "reciOVHsFnCXowr4g",
+    "year": 1939,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Heavy Car",
+    "serial": "6D-370",
+    "photoUrl": "assets/img/plates/attd6H5CbeyVuMY1D.jpg",
+    "dateAdded": "2026-08-21T14:44:45.000Z"
   },
   {
     "id": "reciUgGVep1jmYivL",
@@ -948,6 +2556,18 @@
     "dateAdded": "2026-08-21T00:50:35.000Z"
   },
   {
+    "id": "recio5ULLXveplb1v",
+    "year": 1951,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "10D-32",
+    "photoUrl": "assets/img/plates/attFgVXDUeeyjvv46.jpg",
+    "dateAdded": "2026-08-21T15:58:19.000Z"
+  },
+  {
     "id": "recjBhrPMck5jgrJ5",
     "year": 1953,
     "countyNumber": "2",
@@ -958,6 +2578,30 @@
     "serial": "2D-4195",
     "photoUrl": "assets/img/plates/attHwS352GsSZBeTr.jpg",
     "dateAdded": "2026-08-20T02:48:22.000Z"
+  },
+  {
+    "id": "recjLVLP3qEgnifVP",
+    "year": 1952,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "Green",
+    "fontColor": "White",
+    "type": "County",
+    "serial": "7COUNTY-88",
+    "photoUrl": "assets/img/plates/attJJL9zycrhQjfrq.jpg",
+    "dateAdded": "2026-08-21T15:18:18.000Z"
+  },
+  {
+    "id": "recjs6x06dqbGLpHm",
+    "year": 1955,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "8-5440",
+    "photoUrl": "assets/img/plates/attDIUujvdCPlk6uH.jpg",
+    "dateAdded": "2026-08-21T15:38:39.000Z"
   },
   {
     "id": "reck6u8iMI0alHFFf",
@@ -972,6 +2616,42 @@
     "dateAdded": "2026-08-21T00:02:01.000Z"
   },
   {
+    "id": "reckQVqjYKwnpxGQf",
+    "year": 1951,
+    "countyNumber": "5",
+    "countyName": "Sullivan",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "5-12883",
+    "photoUrl": "assets/img/plates/attWx2OerO100DZe7.jpg",
+    "dateAdded": "2026-08-21T14:44:37.000Z"
+  },
+  {
+    "id": "reckWYs7O6F6iE14k",
+    "year": 1954,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Heavy Car",
+    "serial": "7D-476",
+    "photoUrl": "assets/img/plates/attX3r3hQK1nGv1JK.jpg",
+    "dateAdded": "2026-08-21T15:16:20.000Z"
+  },
+  {
+    "id": "reckZUgdjIuRu9AgS",
+    "year": 1949,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "8-1949",
+    "photoUrl": "assets/img/plates/attwVSttHP0KxG4he.jpg",
+    "dateAdded": "2026-08-21T15:34:25.000Z"
+  },
+  {
     "id": "reckkfwYxRJ5fgRE3",
     "year": 1965,
     "countyNumber": "1",
@@ -984,6 +2664,30 @@
     "dateAdded": "2026-08-13T22:23:29.000Z"
   },
   {
+    "id": "reckpBsj9DWciH5fm",
+    "year": 1951,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "7D-29",
+    "photoUrl": "assets/img/plates/attib1HxprKIf44oW.jpg",
+    "dateAdded": "2026-08-21T15:18:37.000Z"
+  },
+  {
+    "id": "reckz5KTZhCo1lshD",
+    "year": 1956,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "9-2642",
+    "photoUrl": "assets/img/plates/attEC3kuk5wid0W1U.jpg",
+    "dateAdded": "2026-08-21T15:46:54.000Z"
+  },
+  {
     "id": "reclVrrJLwpgPu0AL",
     "year": 1951,
     "countyNumber": "1",
@@ -994,6 +2698,30 @@
     "serial": "1-50531",
     "photoUrl": "assets/img/plates/attRZmHBrISMf7Xzp.jpg",
     "dateAdded": "2026-08-13T23:48:43.000Z"
+  },
+  {
+    "id": "reclZCPqRUHQLRWj5",
+    "year": 1955,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Truck",
+    "serial": "8P/2-5216",
+    "photoUrl": "assets/img/plates/att5gTs16Qf7o8Tmm.jpg",
+    "dateAdded": "2026-08-21T15:41:23.000Z"
+  },
+  {
+    "id": "reclZL1qLAiwDjP8R",
+    "year": 1951,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "8P/1-339",
+    "photoUrl": "assets/img/plates/attOeHpWYPYa6z3pq.jpg",
+    "dateAdded": "2026-08-21T15:36:11.000Z"
   },
   {
     "id": "recmFwk6wNOe7pKKJ",
@@ -1018,6 +2746,18 @@
     "serial": "3-13",
     "photoUrl": "assets/img/plates/att6wS6piyabvt2v2.jpg",
     "dateAdded": "2026-08-20T23:47:41.000Z"
+  },
+  {
+    "id": "recmmow0OTU2QjE39",
+    "year": 1949,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Motorcycle",
+    "serial": "8-64",
+    "photoUrl": "assets/img/plates/attTSh212AiOsTTWi.jpg",
+    "dateAdded": "2026-08-21T15:29:43.000Z"
   },
   {
     "id": "recmoLCRpKZivRJ7H",
@@ -1056,6 +2796,18 @@
     "dateAdded": "2026-08-13T23:56:02.000Z"
   },
   {
+    "id": "recn6LkfoDLu6f6Lq",
+    "year": 1950,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "6-206",
+    "photoUrl": "assets/img/plates/att5yChc2aPeMoPdE.jpg",
+    "dateAdded": "2026-08-21T14:44:45.000Z"
+  },
+  {
     "id": "recn8OoeF7UHAqGVl",
     "year": 1948,
     "countyNumber": "2",
@@ -1066,6 +2818,30 @@
     "serial": "2-4231",
     "photoUrl": "assets/img/plates/attgVGOWtehmCwnyJ.jpg",
     "dateAdded": "2026-08-20T02:39:20.000Z"
+  },
+  {
+    "id": "recnAoRlES29kGIH7",
+    "year": 1940,
+    "countyNumber": "5",
+    "countyName": "Sullivan",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "5-6647",
+    "photoUrl": "assets/img/plates/attJXeOkPOsVal7Sa.jpg",
+    "dateAdded": "2026-08-21T14:44:33.000Z"
+  },
+  {
+    "id": "recnPZHA3BctWTBOY",
+    "year": 1963,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "8-81",
+    "photoUrl": "assets/img/plates/attF8bqRrMRMcf0Em.jpg",
+    "dateAdded": "2026-08-21T15:32:16.000Z"
   },
   {
     "id": "recoALkgKjG0hRuG1",
@@ -1080,6 +2856,18 @@
     "dateAdded": "2026-08-20T02:44:08.000Z"
   },
   {
+    "id": "recoHcive0prIhrrr",
+    "year": 1953,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "8-2680",
+    "photoUrl": "assets/img/plates/attghrZTAt9mEdiMb.jpg",
+    "dateAdded": "2026-08-21T15:31:10.000Z"
+  },
+  {
     "id": "recoQLlq9OljdMe9o",
     "year": 1950,
     "countyNumber": "2",
@@ -1090,6 +2878,18 @@
     "serial": "2-68619",
     "photoUrl": "assets/img/plates/attXQ6cEuG6cyT30w.jpg",
     "dateAdded": "2026-08-20T02:44:06.000Z"
+  },
+  {
+    "id": "recoYGF7EaR7zTnwJ",
+    "year": 1954,
+    "countyNumber": "5",
+    "countyName": "Sullivan",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "5-301",
+    "photoUrl": "assets/img/plates/att9xwDeJjdk6pt3G.jpg",
+    "dateAdded": "2026-08-21T14:38:40.000Z"
   },
   {
     "id": "recoe60S46tIKMQWU",
@@ -1128,6 +2928,30 @@
     "dateAdded": "2026-08-13T22:23:29.000Z"
   },
   {
+    "id": "recpH0Azke04LkVKk",
+    "year": 1961,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "6-269",
+    "photoUrl": "assets/img/plates/attapuRepFCfkuwyT.jpg",
+    "dateAdded": "2026-08-21T15:09:31.000Z"
+  },
+  {
+    "id": "recpNviSEGk2i2dwL",
+    "year": 1956,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Taxi",
+    "serial": "3TAXI-8",
+    "photoUrl": "assets/img/plates/attyiMfzPrlL0VTka.JPG",
+    "dateAdded": "2026-08-21T14:21:56.000Z"
+  },
+  {
     "id": "recpozDKnyHofOHbr",
     "year": 1954,
     "countyNumber": "3",
@@ -1152,6 +2976,78 @@
     "dateAdded": "2026-08-21T00:44:24.000Z"
   },
   {
+    "id": "recrF5KKd9TSSlIkq",
+    "year": 1941,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "8-2254",
+    "photoUrl": "assets/img/plates/attl9XzAEziFKZ5Kk.jpg",
+    "dateAdded": "2026-08-21T15:36:56.000Z"
+  },
+  {
+    "id": "recrHmAfbAIirWrZ5",
+    "year": 1939,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "6-3984",
+    "photoUrl": "assets/img/plates/attQ7Bz59yVfY53F6.jpg",
+    "dateAdded": "2026-08-21T14:58:13.000Z"
+  },
+  {
+    "id": "recrXiMal7cGHtkA5",
+    "year": 1956,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "6-1703",
+    "photoUrl": "assets/img/plates/attOQDtpW242RpXHu.jpg",
+    "dateAdded": "2026-08-21T14:58:12.000Z"
+  },
+  {
+    "id": "recrgN2b4az9PHhJO",
+    "year": 1951,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "10-4136",
+    "photoUrl": "assets/img/plates/attxuwx9EBSTueQ1I.jpg",
+    "dateAdded": "2026-08-21T16:05:17.000Z"
+  },
+  {
+    "id": "recrwFcuD45aIx5rk",
+    "year": 1953,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "9-2941",
+    "photoUrl": "assets/img/plates/att3COntSVjQ6uHmb.jpg",
+    "dateAdded": "2026-08-21T15:52:36.000Z"
+  },
+  {
+    "id": "recs9BedUlMk3ANj5",
+    "year": 1956,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Taxi",
+    "serial": "7TAXID/3-521",
+    "photoUrl": "assets/img/plates/attCM7UtlvQfBZvjH.jpg",
+    "dateAdded": "2026-08-21T15:13:23.000Z"
+  },
+  {
     "id": "recsRW3BxkTA24Lhs",
     "year": 1953,
     "countyNumber": "2",
@@ -1162,6 +3058,30 @@
     "serial": "2-12",
     "photoUrl": "assets/img/plates/attTylU0XRhCqyMQu.jpg",
     "dateAdded": "2026-08-20T02:34:41.000Z"
+  },
+  {
+    "id": "recshDyfkJ7OijqVU",
+    "year": 1952,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Heavy Car",
+    "serial": "8D-496",
+    "photoUrl": "assets/img/plates/attT2ZMypc01Cmq5i.jpg",
+    "dateAdded": "2026-08-21T15:38:13.000Z"
+  },
+  {
+    "id": "recsopUGI6MWFUweq",
+    "year": 1942,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "10F/3-806",
+    "photoUrl": "assets/img/plates/attPq5MM0BDmGDwME.jpg",
+    "dateAdded": "2026-08-21T16:09:35.000Z"
   },
   {
     "id": "recspBI9bxxRwqrCi",
@@ -1188,6 +3108,18 @@
     "dateAdded": "2026-08-20T23:47:40.000Z"
   },
   {
+    "id": "recstwfCPDKQaa00U",
+    "year": 1945,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "9-475",
+    "photoUrl": "assets/img/plates/attaaal97dmkPUOZR.jpg",
+    "dateAdded": "2026-08-21T15:53:43.000Z"
+  },
+  {
     "id": "rect0i3Ta6nQNgLFl",
     "year": 1954,
     "countyNumber": "3",
@@ -1210,6 +3142,78 @@
     "serial": "4-35",
     "photoUrl": "assets/img/plates/attQWGqEms4mWLbI8.jpg",
     "dateAdded": "2026-08-21T00:44:21.000Z"
+  },
+  {
+    "id": "rectYDDD9XVfJZ9bW",
+    "year": 1952,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "10-407",
+    "photoUrl": "assets/img/plates/attEMqxt8BHrESopq.jpg",
+    "dateAdded": "2026-08-21T16:03:20.000Z"
+  },
+  {
+    "id": "recteOVqWgJUi7SxR",
+    "year": 1950,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Silver",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "8-66",
+    "photoUrl": "assets/img/plates/attJNI9CxaO7Lfdbz.jpg",
+    "dateAdded": "2026-08-21T15:30:41.000Z"
+  },
+  {
+    "id": "rectojqDMVVKJZhSd",
+    "year": 1938,
+    "countyNumber": "5",
+    "countyName": "Sullivan",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Free",
+    "serial": "5 385",
+    "photoUrl": "assets/img/plates/attaiA0qSdfQlTaII.jpg",
+    "dateAdded": "2026-08-21T14:38:40.000Z"
+  },
+  {
+    "id": "rectumqzV0TMPNAeF",
+    "year": 1950,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "8-1949",
+    "photoUrl": "assets/img/plates/attQyt8zGGLiVwHn1.jpg",
+    "dateAdded": "2026-08-21T15:34:56.000Z"
+  },
+  {
+    "id": "recuLm3ntuzTBGw5N",
+    "year": 1965,
+    "countyNumber": "5",
+    "countyName": "Sullivan",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "5-1073",
+    "photoUrl": "assets/img/plates/attOuZy7bgCmUOC3y.jpg",
+    "dateAdded": "2026-08-21T14:38:45.000Z"
+  },
+  {
+    "id": "recuUaqlLLy7ljeAW",
+    "year": 1956,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Taxi",
+    "serial": "8TAXI-4",
+    "photoUrl": "assets/img/plates/attM8e8ni7AkypqEC.jpg",
+    "dateAdded": "2026-08-21T15:35:53.000Z"
   },
   {
     "id": "recugv8M3584UmPCg",
@@ -1296,6 +3300,18 @@
     "dateAdded": "2026-08-13T22:23:29.000Z"
   },
   {
+    "id": "recwc7JzeMwqzegLl",
+    "year": 1947,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "City",
+    "serial": "9CITY-530",
+    "photoUrl": "assets/img/plates/attS0D5SavxWbPjv9.jpg",
+    "dateAdded": "2026-08-21T15:50:49.000Z"
+  },
+  {
     "id": "recwitqgLHHAtb8L7",
     "year": 1939,
     "countyNumber": "1",
@@ -1306,6 +3322,18 @@
     "serial": "1-159",
     "photoUrl": "assets/img/plates/attABNs9tIsg5Iy1Z.jpg",
     "dateAdded": "2026-08-13T22:23:29.000Z"
+  },
+  {
+    "id": "recwkhS26SKDVDGXh",
+    "year": 1940,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "7-591",
+    "photoUrl": "assets/img/plates/atty8AWicsfi5pDzB.jpg",
+    "dateAdded": "2026-08-21T15:21:52.000Z"
   },
   {
     "id": "recwo0XQc6ne2JJWY",
@@ -1322,6 +3350,18 @@
     "dateAdded": "2026-08-20T23:47:42.000Z"
   },
   {
+    "id": "recww622jzTg4tKt5",
+    "year": 1951,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "10F/1-871",
+    "photoUrl": "assets/img/plates/attmNyknve1RDBgTo.jpg",
+    "dateAdded": "2026-08-21T16:01:51.000Z"
+  },
+  {
     "id": "recx8MSQ4IGUeGsDC",
     "year": 1953,
     "countyNumber": "3",
@@ -1332,6 +3372,18 @@
     "serial": "3B-16",
     "photoUrl": "assets/img/plates/attokyJCyf2kbzbOL.jpg",
     "dateAdded": "2026-08-21T00:02:03.000Z"
+  },
+  {
+    "id": "recxICX0El7vfHoAJ",
+    "year": 1939,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "6-1654",
+    "photoUrl": "assets/img/plates/att2gmNxEIJtkqX6Z.jpg",
+    "dateAdded": "2026-08-21T14:44:46.000Z"
   },
   {
     "id": "recxK7OGUxglZQkGh",
@@ -1440,6 +3492,78 @@
     "serial": "4-34502",
     "photoUrl": "assets/img/plates/attbthScbUhOhD7cx.jpg",
     "dateAdded": "2026-08-21T00:50:38.000Z"
+  },
+  {
+    "id": "recyOJbEyNRXGmvbv",
+    "year": 1950,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Heavy Car",
+    "serial": "10D-B64",
+    "photoUrl": "assets/img/plates/att80RiZHHXSMv0Xq.jpg",
+    "dateAdded": "2026-08-21T15:55:33.000Z"
+  },
+  {
+    "id": "recyeVDnDaLUEOBn9",
+    "year": 1950,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "6-1",
+    "photoUrl": "assets/img/plates/atttrhQUMwQfv5wXn.jpg",
+    "dateAdded": "2026-08-21T14:53:43.000Z"
+  },
+  {
+    "id": "recyvcr17sUPKyuw0",
+    "year": 1950,
+    "countyNumber": "5",
+    "countyName": "Sullivan",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "5-141",
+    "photoUrl": "assets/img/plates/atth33YgF25GJq1TQ.jpg",
+    "dateAdded": "2026-08-21T14:38:32.000Z"
+  },
+  {
+    "id": "recywBKpzEsfOhJHs",
+    "year": 1940,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Truck",
+    "serial": "10P/2-752",
+    "photoUrl": "assets/img/plates/attY4UUFVd5NB3Uas.jpg",
+    "dateAdded": "2026-08-21T16:08:31.000Z"
+  },
+  {
+    "id": "recywka9VPvzSJ7p7",
+    "year": 1956,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Government",
+    "serial": "8-11381",
+    "photoUrl": "assets/img/plates/attqnT5z4DbRIO7NX.jpg",
+    "dateAdded": "2026-08-21T15:43:19.000Z"
+  },
+  {
+    "id": "reczFakokiwIbeciG",
+    "year": 1940,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "8-1915",
+    "photoUrl": "assets/img/plates/attFur0bXjIKhP0ou.jpg",
+    "dateAdded": "2026-08-21T15:39:21.000Z"
   },
   {
     "id": "reczgp2ckFK9o6xXP",
