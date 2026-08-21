@@ -230,6 +230,18 @@ function render(){
   renderPagination(sorted.length);
 }
 
+function initFilterToggle(){
+  const btn = document.getElementById('filter-toggle');
+  const panel = document.querySelector('.filter-panel');
+  if (!btn || !panel) return;
+
+  btn.addEventListener('click', () => {
+    const isOpen = panel.classList.toggle('open');
+    btn.setAttribute('aria-expanded', String(isOpen));
+    btn.querySelector('.filter-toggle-icon').textContent = isOpen ? '▴' : '▾';
+  });
+}
+
 async function init(){
   try {
     const res = await fetch('data/plates.json');
@@ -278,3 +290,4 @@ async function init(){
 }
 
 document.addEventListener('DOMContentLoaded', init);
+document.addEventListener('DOMContentLoaded', initFilterToggle);

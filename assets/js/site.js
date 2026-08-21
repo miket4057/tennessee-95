@@ -46,35 +46,36 @@ function renderFooter(){
   });
 }
 
-function plateValues(value){
-  if (Array.isArray(value)) return value.filter(Boolean);
-  if (typeof value === 'string') return value.split(',').map(v => v.trim()).filter(Boolean);
-  return value ? [value] : [];
-}
-
 function plateCardHTML(p){
   const photo = p.photoUrl ? `style="background-image:url('${p.photoUrl}')"` : '';
   const noPhoto = p.photoUrl ? '' : '<span class="no-photo">No photo yet</span>';
   const countyName = p._countyName || p.countyName;
-  const colors = p._colors || plateValues(p.colors);
-  const fontColors = p._fontColors || plateValues(p.fontColor);
-  const bubbles = [
-    ['Co #', p.countyNumber],
-    ['County', countyName],
-    ['Year', p.year],
-    ['Type', p.type],
-    ...colors.map(value => ['Color', value]),
-    ...fontColors.map(value => ['Font', value]),
-  ]
-    .filter(([, value]) => value !== null && value !== undefined && value !== '')
-    .map(([label, value]) => `<div class="plate-bubble"><span class="bubble-label">${label}</span><span class="bubble-value">${value}</span></div>`)
-    .join('');
+  const meta = [
+    countyName ? `${countyName} County` : '',
+    p.year || '',
+    p.type ? `<span class="type">${p.type}</span>` : '',
+  ].filter(Boolean).join(' <span class="sep">·</span> ');
 
   return `
     <div class="plate-card">
       <div class="plate-photo" ${photo}>${noPhoto}</div>
-      <div class="plate-meta"><div class="plate-bubbles">${bubbles}</div></div>
+      <div class="plate-meta"><div class="plate-meta-line">${meta}</div></div>
     </div>`;
+}
+
+function initBackToTop(){
+  const btn = document.createElement('button');
+  btn.textContent = '↑';
+  btn.setAttribute('aria-label', 'Back to top');
+  btn.className = 'back-to-top';
+  document.body.appendChild(btn);
+
+  window.addEventListener('scroll', () => {
+    btn.classList.toggle('visible', window.scrollY > 500);
+  });
+  btn.addEventListener('click', () => {
+    window.scrollTo({top: 0, behavior: 'smooth'});
+  });
 }
 
 /* ---------- Analytics helper ----------
@@ -96,4 +97,5 @@ document.addEventListener('DOMContentLoaded', () => {
   const active = document.body.dataset.page || '';
   renderHeader(active);
   renderFooter();
+  initBackToTop();
 });
