@@ -12,6 +12,18 @@
     "dateAdded": "2026-08-20T02:50:27.000Z"
   },
   {
+    "id": "rec0bHHLsNcZROSot",
+    "year": 1952,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "4-23623",
+    "photoUrl": "assets/img/plates/att2KBGCufbI6qo5x.jpg",
+    "dateAdded": "2026-08-21T00:50:36.000Z"
+  },
+  {
     "id": "rec1HKKovJ9KffDvr",
     "year": 1950,
     "countyNumber": "3",
@@ -22,6 +34,18 @@
     "serial": "3P/1-5014",
     "photoUrl": "assets/img/plates/attTQ640vbDa7Fmu6.jpg",
     "dateAdded": "2026-08-21T00:08:23.000Z"
+  },
+  {
+    "id": "rec2MdYBSkE0ZQsZJ",
+    "year": 1956,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "4-43973",
+    "photoUrl": "assets/img/plates/attzt5QtLx0VeDrii.jpg",
+    "dateAdded": "2026-08-21T00:50:39.000Z"
   },
   {
     "id": "rec3AqnEOGBAuTfJO",
@@ -120,6 +144,18 @@
     "dateAdded": "2026-08-13T23:51:23.000Z"
   },
   {
+    "id": "rec71PhUcXmn1SNZY",
+    "year": 1940,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Motorcycle",
+    "serial": "4A-9",
+    "photoUrl": "assets/img/plates/attxNihG9cQf1mPsG.jpg",
+    "dateAdded": "2026-08-21T00:50:42.000Z"
+  },
+  {
     "id": "rec7D6t3m3PNFaVs3",
     "year": 1952,
     "countyNumber": "1",
@@ -142,6 +178,18 @@
     "serial": "1-204 C",
     "photoUrl": "assets/img/plates/att51h1N7cMTnDkqw.jpg",
     "dateAdded": "2026-08-13T22:23:29.000Z"
+  },
+  {
+    "id": "rec94d8KqoVECooHr",
+    "year": 1956,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "Orange",
+    "fontColor": "Black",
+    "type": "Radio",
+    "serial": "4-35",
+    "photoUrl": "assets/img/plates/attXeBfp1E3487zE8.jpg",
+    "dateAdded": "2026-08-21T00:44:23.000Z"
   },
   {
     "id": "rec9FAxD3KfZK3Wf6",
@@ -252,6 +300,18 @@
     "dateAdded": "2026-08-13T22:23:29.000Z"
   },
   {
+    "id": "recDnTBO7rOgjsOwO",
+    "year": 1937,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Free",
+    "serial": "4-676",
+    "photoUrl": "assets/img/plates/attxmPi40DQY6mUA1.jpg",
+    "dateAdded": "2026-08-21T00:44:25.000Z"
+  },
+  {
     "id": "recDq5Wb9rtS1UGRy",
     "year": 1951,
     "countyNumber": "3",
@@ -336,6 +396,18 @@
     "dateAdded": "2026-08-13T23:48:40.000Z"
   },
   {
+    "id": "recGuKUz42RSdsG6k",
+    "year": 1940,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "4-842",
+    "photoUrl": "assets/img/plates/attSxZnyPxxZU9S0R.jpg",
+    "dateAdded": "2026-08-21T00:44:25.000Z"
+  },
+  {
     "id": "recHNysQxy2KAIqZN",
     "year": 1951,
     "countyNumber": "1",
@@ -382,6 +454,30 @@
     "serial": "1-3321",
     "photoUrl": "assets/img/plates/attPYmkgVDYbNBQS6.jpg",
     "dateAdded": "2026-08-13T22:23:29.000Z"
+  },
+  {
+    "id": "recKU5VaxHjSxJUnO",
+    "year": 1954,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "4-30014",
+    "photoUrl": "assets/img/plates/attPG9iptzxD336eF.jpg",
+    "dateAdded": "2026-08-21T00:50:38.000Z"
+  },
+  {
+    "id": "recKax5JoIP0YYUbv",
+    "year": 1955,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Farm Truck",
+    "serial": "4F/1-975",
+    "photoUrl": "assets/img/plates/attW6jdi8nKb8vOw0.jpg",
+    "dateAdded": "2026-08-21T00:56:05.000Z"
   },
   {
     "id": "recKhwmOrGesE31KM",
@@ -492,6 +588,18 @@
     "dateAdded": "2026-08-20T02:48:22.000Z"
   },
   {
+    "id": "recOOpik4ySYvIhsw",
+    "year": 1950,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Taxi",
+    "serial": "4TAXID/3-684",
+    "photoUrl": "assets/img/plates/attwJgMCQuqHi4ldp.jpg",
+    "dateAdded": "2026-08-21T00:58:00.000Z"
+  },
+  {
     "id": "recOdALJsgkKAYYiS",
     "year": 1951,
     "countyNumber": "2",
@@ -540,6 +648,18 @@
     "dateAdded": "2026-08-20T23:54:41.000Z"
   },
   {
+    "id": "recR76eK1LlahpkVq",
+    "year": 1953,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "4-44536",
+    "photoUrl": "assets/img/plates/attgZj6g2o0whYhiR.jpg",
+    "dateAdded": "2026-08-21T00:50:40.000Z"
+  },
+  {
     "id": "recRm4059hbMOZoED",
     "year": 1955,
     "countyNumber": "1",
@@ -550,6 +670,18 @@
     "serial": "1",
     "photoUrl": "assets/img/plates/attTimMqBBBy71RsL.jpg",
     "dateAdded": "2026-08-13T23:51:26.000Z"
+  },
+  {
+    "id": "recUPbtt1bcWCabfK",
+    "year": 1953,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Radio",
+    "serial": "W4PL",
+    "photoUrl": "assets/img/plates/attw5nWiRbMv3almL.jpg",
+    "dateAdded": "2026-08-21T00:50:41.000Z"
   },
   {
     "id": "recUgSP736Yu1ePUP",
@@ -574,6 +706,18 @@
     "serial": "3-92",
     "photoUrl": "assets/img/plates/attkoHhk0uAFjNk6u.jpg",
     "dateAdded": "2026-08-20T23:50:39.000Z"
+  },
+  {
+    "id": "recWmGtfp9aYCGU8L",
+    "year": 1944,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "4-2150",
+    "photoUrl": "assets/img/plates/attP2pGpDex0pgZZp.jpg",
+    "dateAdded": "2026-08-21T00:48:23.000Z"
   },
   {
     "id": "recWqbT4ZuEKeGg3b",
@@ -610,6 +754,42 @@
     "serial": "3",
     "photoUrl": "assets/img/plates/attS16MM1zhnlHL9X.jpg",
     "dateAdded": "2026-08-21T00:02:03.000Z"
+  },
+  {
+    "id": "recXtvlm2XU2edius",
+    "year": 1950,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Heavy Car",
+    "serial": "4D-1427",
+    "photoUrl": "assets/img/plates/attPTuwGVN8WctEWA.jpg",
+    "dateAdded": "2026-08-21T00:56:04.000Z"
+  },
+  {
+    "id": "recYZewXCmAqmCRAY",
+    "year": 1956,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "Orange",
+    "fontColor": "Black",
+    "type": "Radio",
+    "serial": "4-55",
+    "photoUrl": "assets/img/plates/attYaIumr2Jk5yUbb.jpg",
+    "dateAdded": "2026-08-21T00:44:23.000Z"
+  },
+  {
+    "id": "recZ4SysCh2AzZBZa",
+    "year": 1951,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "City",
+    "serial": "4CITY-705",
+    "photoUrl": "assets/img/plates/attEhBKBeWihjpNfo.jpg",
+    "dateAdded": "2026-08-21T00:56:03.000Z"
   },
   {
     "id": "recZmpSBVMJ8WGCYX",
@@ -672,6 +852,30 @@
     "dateAdded": "2026-08-13T22:23:29.000Z"
   },
   {
+    "id": "receibKmpGWTIK4Zq",
+    "year": 1947,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "4-5083",
+    "photoUrl": "assets/img/plates/attH6B1QFv48eBBI9.jpg",
+    "dateAdded": "2026-08-21T00:48:24.000Z"
+  },
+  {
+    "id": "receoRDvmmpvA9pKn",
+    "year": 1950,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "4-28197",
+    "photoUrl": "assets/img/plates/att3rWow2CjnnRHt7.jpg",
+    "dateAdded": "2026-08-21T00:50:41.000Z"
+  },
+  {
     "id": "recfGBFN9jBPNLYPs",
     "year": 1955,
     "countyNumber": "1",
@@ -730,6 +934,18 @@
     "serial": "2-223",
     "photoUrl": "assets/img/plates/attizvmKs6npGvFyL.jpg",
     "dateAdded": "2026-08-20T02:36:57.000Z"
+  },
+  {
+    "id": "recinP8UgknHZddXC",
+    "year": 1948,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "4-23254",
+    "photoUrl": "assets/img/plates/attQf9y1fX4CUkDhA.jpg",
+    "dateAdded": "2026-08-21T00:50:35.000Z"
   },
   {
     "id": "recjBhrPMck5jgrJ5",
@@ -888,6 +1104,18 @@
     "dateAdded": "2026-08-20T23:50:38.000Z"
   },
   {
+    "id": "recogEPsvPb6jcUXO",
+    "year": 1954,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "4-9782",
+    "photoUrl": "assets/img/plates/attm4uHFLViFkG7Ux.jpg",
+    "dateAdded": "2026-08-21T00:48:24.000Z"
+  },
+  {
     "id": "recp2ZZOS6SXITk8l",
     "year": 1950,
     "countyNumber": "1",
@@ -910,6 +1138,18 @@
     "serial": "3-3",
     "photoUrl": "assets/img/plates/attAXRzmnmM5O377c.jpg",
     "dateAdded": "2026-08-20T23:47:30.000Z"
+  },
+  {
+    "id": "recr7ev3SIthCYGVn",
+    "year": 1954,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "4-609",
+    "photoUrl": "assets/img/plates/attyZOWIetj8IQSgO.jpg",
+    "dateAdded": "2026-08-21T00:44:24.000Z"
   },
   {
     "id": "recsRW3BxkTA24Lhs",
@@ -960,6 +1200,18 @@
     "dateAdded": "2026-08-21T00:02:06.000Z"
   },
   {
+    "id": "rectUvCkS2SIbPyl7",
+    "year": 1955,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "Blue",
+    "fontColor": "Red",
+    "type": "Radio",
+    "serial": "4-35",
+    "photoUrl": "assets/img/plates/attQWGqEms4mWLbI8.jpg",
+    "dateAdded": "2026-08-21T00:44:21.000Z"
+  },
+  {
     "id": "recugv8M3584UmPCg",
     "year": 1953,
     "countyNumber": "3",
@@ -970,6 +1222,30 @@
     "serial": "3-1501",
     "photoUrl": "assets/img/plates/atth4G4wcq70tHYSP.jpg",
     "dateAdded": "2026-08-20T23:54:38.000Z"
+  },
+  {
+    "id": "recvVPwKUnAaSN6og",
+    "year": 1952,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "4-21140",
+    "photoUrl": "assets/img/plates/attqWQ7AYiDT5CyoT.jpg",
+    "dateAdded": "2026-08-21T00:50:34.000Z"
+  },
+  {
+    "id": "recvg9YvnqTpSc62q",
+    "year": 1940,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "4-23323",
+    "photoUrl": "assets/img/plates/attSXgknHJFco88MR.jpg",
+    "dateAdded": "2026-08-21T00:50:36.000Z"
   },
   {
     "id": "recvoMBF7Np6fCq1Y",
@@ -1058,6 +1334,18 @@
     "dateAdded": "2026-08-21T00:02:03.000Z"
   },
   {
+    "id": "recxK7OGUxglZQkGh",
+    "year": 1940,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "4-891",
+    "photoUrl": "assets/img/plates/attViQdmBsKqEmocd.jpg",
+    "dateAdded": "2026-08-21T00:48:22.000Z"
+  },
+  {
     "id": "recxOPAM4z2VsAXsK",
     "year": 1952,
     "countyNumber": "1",
@@ -1080,6 +1368,18 @@
     "serial": "2-109974",
     "photoUrl": "assets/img/plates/atttc0JpJfQ7rghAF.jpg",
     "dateAdded": "2026-08-20T02:44:07.000Z"
+  },
+  {
+    "id": "recxcipyaBJD57uOC",
+    "year": 1955,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "Blue",
+    "fontColor": "Red",
+    "type": "Radio",
+    "serial": "4-55",
+    "photoUrl": "assets/img/plates/attJlpV7lzv0XDDas.jpg",
+    "dateAdded": "2026-08-21T00:44:23.000Z"
   },
   {
     "id": "recxdm2qIkkvaogth",
@@ -1106,6 +1406,18 @@
     "dateAdded": "2026-08-21T00:02:07.000Z"
   },
   {
+    "id": "recxvcU1v3nvy8z7L",
+    "year": 1956,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "4F/1-803",
+    "photoUrl": "assets/img/plates/attYz8L8n1olJZ5JH.jpg",
+    "dateAdded": "2026-08-21T00:56:04.000Z"
+  },
+  {
     "id": "recxwTqAuWdeLM8w8",
     "year": 1939,
     "countyNumber": "1",
@@ -1116,5 +1428,29 @@
     "serial": "1FARM-5001",
     "photoUrl": "assets/img/plates/attiH8cKJpQDbNcpY.jpg",
     "dateAdded": "2026-08-13T23:58:41.000Z"
+  },
+  {
+    "id": "recyBJaGlRlZj9X78",
+    "year": 1956,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "4-34502",
+    "photoUrl": "assets/img/plates/attbthScbUhOhD7cx.jpg",
+    "dateAdded": "2026-08-21T00:50:38.000Z"
+  },
+  {
+    "id": "reczgp2ckFK9o6xXP",
+    "year": 1955,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "4-192",
+    "photoUrl": "assets/img/plates/attIppacHRE5h9Dr4.jpg",
+    "dateAdded": "2026-08-21T00:44:24.000Z"
   }
 ]
