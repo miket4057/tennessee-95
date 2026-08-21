@@ -47,9 +47,12 @@ function renderFooter(){
 }
 
 function plateCardHTML(p){
-  const photo = p.photoUrl ? `style="background-image:url('${p.photoUrl}')"` : '';
+  const photo = p.photoUrl
+    ? `style="background-image:url('${p.photoUrl}')" data-full-src="${p.photoUrl}"`
+    : '';
   const noPhoto = p.photoUrl ? '' : '<span class="no-photo">No photo yet</span>';
   const countyName = p._countyName || p.countyName;
+  const plateLabel = [countyName ? `${countyName} County` : '', p.year || ''].filter(Boolean).join(', ');
   const meta = [
     countyName ? `${countyName} County` : '',
     p.year || '',
@@ -58,9 +61,43 @@ function plateCardHTML(p){
 
   return `
     <div class="plate-card">
-      <div class="plate-photo" ${photo}>${noPhoto}</div>
+      <div class="plate-photo" ${photo}${p.photoUrl ? ` data-plate-label="${plateLabel}"` : ''}>${noPhoto}</div>
       <div class="plate-meta"><div class="plate-meta-line">${meta}</div></div>
     </div>`;
+}
+
+function initLightbox(){
+  const lightbox = document.getElementById('lightbox');
+  if (!lightbox) return;
+  const img = lightbox.querySelector('.lightbox-img');
+  const closeBtn = lightbox.querySelector('.lightbox-close');
+
+  function open(src, alt){
+    img.src = src;
+    img.alt = alt || '';
+    lightbox.classList.add('open');
+    lightbox.setAttribute('aria-hidden', 'false');
+  }
+  function close(){
+    lightbox.classList.remove('open');
+    lightbox.setAttribute('aria-hidden', 'true');
+    img.src = '';
+  }
+
+  document.addEventListener('click', (e) => {
+    const photo = e.target.closest('.plate-photo');
+    if (photo && photo.dataset.fullSrc) {
+      open(photo.dataset.fullSrc, photo.dataset.plateLabel || 'Plate photo');
+    }
+  });
+
+  closeBtn.addEventListener('click', close);
+  lightbox.addEventListener('click', (e) => {
+    if (e.target === lightbox) close();
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') close();
+  });
 }
 
 function initBackToTop(){
@@ -98,4 +135,5 @@ document.addEventListener('DOMContentLoaded', () => {
   renderHeader(active);
   renderFooter();
   initBackToTop();
+  initLightbox();
 });

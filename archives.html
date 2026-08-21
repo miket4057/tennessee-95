@@ -23,12 +23,6 @@
   <p>Search and filter every plate in the collection — combine as many filters as you like.</p>
 </div>
 
-<p class="archive-disclaimer">
-  This is a community archive for Tennessee license plate collectors.
-  Photos are shared by hobbyists to celebrate and document the hobby —
-  plates shown here are not for sale, and no single person owns the collection shown on this page.
-</p>
-
 <div class="archive-body">
   <button id="filter-toggle" class="filter-toggle-btn" aria-expanded="false" aria-controls="filter-panel">
     Filters <span class="filter-toggle-icon">▾</span>
@@ -89,6 +83,11 @@
 </div>
 
 <footer data-site-footer></footer>
+
+<div id="lightbox" class="lightbox" aria-hidden="true">
+  <button class="lightbox-close" aria-label="Close">&times;</button>
+  <img class="lightbox-img" src="" alt="">
+</div>
 
 <script src="assets/js/site.js"></script>
 <script src="assets/js/archive.js"></script>

@@ -107,6 +107,7 @@ nav.main-nav a:hover{border-bottom-color:var(--gold);}
   background:var(--navy); background-size:cover; background-position:center;
   display:flex; align-items:center; justify-content:center;
   border-bottom:4px solid var(--navy);
+  cursor:zoom-in;
 }
 .plate-photo .no-photo{color:var(--cream-soft); font-size:12px; text-transform:uppercase; letter-spacing:0.05em;}
 .plate-meta{padding:14px 16px 16px;}
@@ -120,6 +121,10 @@ nav.main-nav a:hover{border-bottom-color:var(--gold);}
 }
 .plate-meta-line .sep{color:var(--gold); margin:0 6px; font-weight:400;}
 .plate-meta-line .type{color:#7a7157; font-weight:500;}
+.lightbox{position:fixed; inset:0; z-index:200; background:rgba(17,29,46,0.92); display:none; align-items:center; justify-content:center; padding:32px;}
+.lightbox.open{display:flex;}
+.lightbox-img{max-width:min(90vw, 1100px); max-height:88vh; border-radius:6px; box-shadow:0 12px 40px rgba(0,0,0,0.5);}
+.lightbox-close{position:absolute; top:20px; right:28px; background:none; border:none; color:var(--white); font-size:36px; line-height:1; cursor:pointer;}
 
 /* ---------- QUICK FILTER TILES ---------- */
 .tile-row{display:grid; grid-template-columns:repeat(3,1fr); gap:20px;}
@@ -155,8 +160,7 @@ footer .tristar-icon{width:20px; height:20px;}
 .archive-header{background:var(--navy); padding:30px 32px 24px; color:var(--white);}
 .archive-header h1{color:var(--white); font-size:28px; margin-bottom:6px;}
 .archive-header p{color:var(--cream-soft); font-size:14px;}
-.archive-disclaimer{font-size:13px; color:#7a7157; max-width:720px; margin:20px auto; text-align:center; padding:0 16px;}
-.archive-body{max-width:1280px; margin:0 auto; padding:28px 32px 60px; display:grid; grid-template-columns:250px 1fr; gap:32px;}
+.archive-body{max-width:1280px; min-width:0; margin:0 auto; padding:28px 32px 60px; display:grid; grid-template-columns:250px minmax(0, 1fr); gap:32px;}
 
 .filter-toggle-btn{display:none;}
 .filter-panel{background:var(--white); border:1px solid var(--line); border-radius:6px; padding:20px; align-self:start; position:sticky; top:80px;}
@@ -172,6 +176,7 @@ footer .tristar-icon{width:20px; height:20px;}
 .clear-filters{font-size:12px; color:var(--red); font-weight:600; cursor:pointer; text-decoration:underline; margin-top:6px;}
 
 .results-top{display:flex; align-items:center; justify-content:space-between; margin-bottom:20px; flex-wrap:wrap; gap:12px;}
+.results-col{min-width:0;}
 .results-count{font-size:14px; color:#5c5646;}
 .results-count b{color:var(--navy);}
 .active-filters{display:flex; gap:8px; flex-wrap:wrap; margin-bottom:18px;}
@@ -225,8 +230,9 @@ footer .tristar-icon{width:20px; height:20px;}
   .tile-row{grid-template-columns:1fr;}
   .strip-inner{grid-template-columns:1fr;}
   .archive-body{grid-template-columns:1fr;}
+  .plate-grid{grid-template-columns:1fr;}
   .filter-panel{position:static;}
-  .filter-toggle-btn{display:flex; width:100%; background:var(--navy); color:var(--white); font-family:'Oswald'; font-weight:600; letter-spacing:0.03em; text-transform:uppercase; font-size:14px; border:none; border-radius:4px; padding:12px 16px; margin-bottom:14px; align-items:center; justify-content:space-between; cursor:pointer;}
+  .filter-toggle-btn{display:flex; width:100%; max-width:100%; background:var(--navy); color:var(--white); font-family:'Oswald'; font-weight:600; letter-spacing:0.03em; text-transform:uppercase; font-size:14px; border:none; border-radius:4px; padding:12px 16px; margin-bottom:14px; align-items:center; justify-content:space-between; cursor:pointer;}
   .filter-panel{display:none;}
   .filter-panel.open{display:block;}
   .event-card{flex-direction:column;}
