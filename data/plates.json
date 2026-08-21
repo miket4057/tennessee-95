@@ -12,6 +12,30 @@
     "dateAdded": "2026-08-20T02:50:27.000Z"
   },
   {
+    "id": "rec1HKKovJ9KffDvr",
+    "year": 1950,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "3P/1-5014",
+    "photoUrl": "assets/img/plates/attTQ640vbDa7Fmu6.jpg",
+    "dateAdded": "2026-08-21T00:08:23.000Z"
+  },
+  {
+    "id": "rec3AqnEOGBAuTfJO",
+    "year": 1956,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Taxi",
+    "serial": "3TAXID-44",
+    "photoUrl": "assets/img/plates/attPC6UtVQLfo2eMt.jpg",
+    "dateAdded": "2026-08-21T00:11:53.000Z"
+  },
+  {
     "id": "rec3ngVnihSdQ8CqQ",
     "year": 1949,
     "countyNumber": "1",
@@ -22,6 +46,18 @@
     "serial": "1-18242",
     "photoUrl": "assets/img/plates/attKorGFQghjhBcqw.jpg",
     "dateAdded": "2026-08-13T23:48:41.000Z"
+  },
+  {
+    "id": "rec3xB6Td9QSG2Gb8",
+    "year": 1953,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Heavy Car",
+    "serial": "3D-11736",
+    "photoUrl": "assets/img/plates/attLe2N9LYTtsEVCy.jpg",
+    "dateAdded": "2026-08-21T00:06:17.000Z"
   },
   {
     "id": "rec4iKpwpXBVNneG6",
@@ -46,6 +82,30 @@
     "serial": "1-7581",
     "photoUrl": "assets/img/plates/attYdMUA0MaEhzAt3.png",
     "dateAdded": "2026-08-13T23:48:39.000Z"
+  },
+  {
+    "id": "rec4q6yrU0WKQ6DLb",
+    "year": 1951,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "3-4467",
+    "photoUrl": "assets/img/plates/attUYd85nitD1q0vC.jpg",
+    "dateAdded": "2026-08-20T23:54:42.000Z"
+  },
+  {
+    "id": "rec6YaRWjb7c2hDpC",
+    "year": 1951,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "3P/7-Z150",
+    "photoUrl": "assets/img/plates/attqfbZIheSTMeTZg.jpg",
+    "dateAdded": "2026-08-21T00:08:23.000Z"
   },
   {
     "id": "rec6bOb3f3eAS7etJ",
@@ -82,6 +142,30 @@
     "serial": "1-204 C",
     "photoUrl": "assets/img/plates/att51h1N7cMTnDkqw.jpg",
     "dateAdded": "2026-08-13T22:23:29.000Z"
+  },
+  {
+    "id": "rec9FAxD3KfZK3Wf6",
+    "year": 1956,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "3D-2425",
+    "photoUrl": "assets/img/plates/attw7ArcPDq1sWfZ6.jpg",
+    "dateAdded": "2026-08-21T00:06:16.000Z"
+  },
+  {
+    "id": "rec9RmdiCOJ2MXAr3",
+    "year": 1954,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "For Hire",
+    "serial": "3H/4-9009",
+    "photoUrl": "assets/img/plates/attx09Xy3Pnm50ACs.jpg",
+    "dateAdded": "2026-08-21T00:06:17.000Z"
   },
   {
     "id": "recA0457yvSL6r8GL",
@@ -132,6 +216,18 @@
     "dateAdded": "2026-08-13T23:56:00.000Z"
   },
   {
+    "id": "recCvgugk3qgJipw7",
+    "year": 1964,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Motorcycle",
+    "serial": "3-534",
+    "photoUrl": "assets/img/plates/attT8e5IK3etlclOp.jpg",
+    "dateAdded": "2026-08-20T23:50:42.000Z"
+  },
+  {
     "id": "recDNIJ6HDLbWjSkO",
     "year": 1953,
     "countyNumber": "1",
@@ -154,6 +250,54 @@
     "serial": "1-2336",
     "photoUrl": "assets/img/plates/att9tUsx3eJpdn3yX.jpg",
     "dateAdded": "2026-08-13T22:23:29.000Z"
+  },
+  {
+    "id": "recDq5Wb9rtS1UGRy",
+    "year": 1951,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "3D-11",
+    "photoUrl": "assets/img/plates/attnoGixTBZaVRq0o.jpg",
+    "dateAdded": "2026-08-21T00:06:16.000Z"
+  },
+  {
+    "id": "recE2OeksFsQU81o9",
+    "year": 1963,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "3-696",
+    "photoUrl": "assets/img/plates/attbDxDeFPfCzz3q9.jpg",
+    "dateAdded": "2026-08-20T23:54:36.000Z"
+  },
+  {
+    "id": "recFRYswZ2fQcWfIJ",
+    "year": 1950,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "3-3",
+    "photoUrl": "assets/img/plates/attqlsaCfExLdJaF8.jpg",
+    "dateAdded": "2026-08-20T23:47:30.000Z"
+  },
+  {
+    "id": "recFoXzx5nOKyZz8n",
+    "year": 1955,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Blue",
+    "fontColor": "Red",
+    "type": "Auxiliary Police",
+    "serial": "3-63",
+    "photoUrl": "assets/img/plates/attE7OxZOB1gdW2bP.jpg",
+    "dateAdded": "2026-08-20T23:50:38.000Z"
   },
   {
     "id": "recG8pESwNeBpS19b",
@@ -216,6 +360,18 @@
     "dateAdded": "2026-08-13T22:23:29.000Z"
   },
   {
+    "id": "recJKxXD9FoGmvDis",
+    "year": 1961,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "3-324",
+    "photoUrl": "assets/img/plates/attbv8AJkM0TjSpgV.jpg",
+    "dateAdded": "2026-08-20T23:50:41.000Z"
+  },
+  {
     "id": "recKMjFqPeD96xz99",
     "year": 1951,
     "countyNumber": "1",
@@ -226,6 +382,18 @@
     "serial": "1-3321",
     "photoUrl": "assets/img/plates/attPYmkgVDYbNBQS6.jpg",
     "dateAdded": "2026-08-13T22:23:29.000Z"
+  },
+  {
+    "id": "recKhwmOrGesE31KM",
+    "year": 1954,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Truck",
+    "serial": "3P/7-Z196",
+    "photoUrl": "assets/img/plates/attx5LBRakED5AQxz.jpg",
+    "dateAdded": "2026-08-21T00:08:24.000Z"
   },
   {
     "id": "recLGSuGthDBzImgs",
@@ -240,6 +408,30 @@
     "dateAdded": "2026-08-13T23:59:43.000Z"
   },
   {
+    "id": "recLt8NV2HFSxkSm9",
+    "year": 1963,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "3-32",
+    "photoUrl": "assets/img/plates/attPgtdv0j3NAZOEM.jpg",
+    "dateAdded": "2026-08-20T23:50:37.000Z"
+  },
+  {
+    "id": "recMDxOZAVyAIPty8",
+    "year": 1963,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "3-393",
+    "photoUrl": "assets/img/plates/attYZZakneTIX9y4P.jpg",
+    "dateAdded": "2026-08-20T23:50:42.000Z"
+  },
+  {
     "id": "recMMQ2T7BmTXRSX7",
     "year": 1963,
     "countyNumber": "1",
@@ -250,6 +442,18 @@
     "serial": "1-297",
     "photoUrl": "assets/img/plates/attQDsi43vHW1wtP1.jpg",
     "dateAdded": "2026-08-13T22:23:29.000Z"
+  },
+  {
+    "id": "recMNmf8pjtnOb5mu",
+    "year": 1949,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "3-15932",
+    "photoUrl": "assets/img/plates/attY6ZIxCsrDbNvxF.jpg",
+    "dateAdded": "2026-08-21T00:02:00.000Z"
   },
   {
     "id": "recN2XlSZ1C922ogf",
@@ -300,6 +504,18 @@
     "dateAdded": "2026-08-20T02:39:18.000Z"
   },
   {
+    "id": "recP1TJxCMtCgOuwC",
+    "year": 1942,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "3-8490",
+    "photoUrl": "assets/img/plates/attRjr0U6HyEsTAqf.jpg",
+    "dateAdded": "2026-08-20T23:54:42.000Z"
+  },
+  {
     "id": "recQT2a6GHVj0aZF1",
     "year": 1955,
     "countyNumber": "2",
@@ -310,6 +526,18 @@
     "serial": "2D-34294",
     "photoUrl": "assets/img/plates/att7xZsIiB0tPCFvK.jpg",
     "dateAdded": "2026-08-20T02:48:23.000Z"
+  },
+  {
+    "id": "recQxCHJZn2KWU7FC",
+    "year": 1944,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "3-3319",
+    "photoUrl": "assets/img/plates/attD2RASo7xhXEOTg.jpg",
+    "dateAdded": "2026-08-20T23:54:41.000Z"
   },
   {
     "id": "recRm4059hbMOZoED",
@@ -324,6 +552,42 @@
     "dateAdded": "2026-08-13T23:51:26.000Z"
   },
   {
+    "id": "recUgSP736Yu1ePUP",
+    "year": 1958,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "3-1",
+    "photoUrl": "assets/img/plates/attZc2CYc58qIWQJr.jpg",
+    "dateAdded": "2026-08-20T23:47:29.000Z"
+  },
+  {
+    "id": "recWEfGFwHagUliiH",
+    "year": 1951,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "3-92",
+    "photoUrl": "assets/img/plates/attkoHhk0uAFjNk6u.jpg",
+    "dateAdded": "2026-08-20T23:50:39.000Z"
+  },
+  {
+    "id": "recWqbT4ZuEKeGg3b",
+    "year": 1952,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "3-1501",
+    "photoUrl": "assets/img/plates/attOuFLPYMYBtbPRO.jpg",
+    "dateAdded": "2026-08-20T23:54:38.000Z"
+  },
+  {
     "id": "recWtKcPRsHBc24iW",
     "year": 1962,
     "countyNumber": "2",
@@ -334,6 +598,18 @@
     "serial": "2-75",
     "photoUrl": "assets/img/plates/attf8IdvSYzXebrNQ.jpg",
     "dateAdded": "2026-08-20T02:34:43.000Z"
+  },
+  {
+    "id": "recXb92i18k5iMIpE",
+    "year": 1955,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Maroon",
+    "fontColor": "White",
+    "type": "Government",
+    "serial": "3",
+    "photoUrl": "assets/img/plates/attS16MM1zhnlHL9X.jpg",
+    "dateAdded": "2026-08-21T00:02:03.000Z"
   },
   {
     "id": "recZmpSBVMJ8WGCYX",
@@ -358,6 +634,30 @@
     "serial": "2-3637",
     "photoUrl": "assets/img/plates/att6IHbFQ5jg1fVQB.jpg",
     "dateAdded": "2026-08-20T02:39:19.000Z"
+  },
+  {
+    "id": "recb5nAd1rabCjTuS",
+    "year": 1944,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "3-12900",
+    "photoUrl": "assets/img/plates/att6mxmhLyP8fiE5G.jpg",
+    "dateAdded": "2026-08-21T00:02:00.000Z"
+  },
+  {
+    "id": "reccSORkufG1blHjA",
+    "year": 1940,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "3-2561",
+    "photoUrl": "assets/img/plates/attF3CBSQhU46GBvE.jpg",
+    "dateAdded": "2026-08-20T23:54:40.000Z"
   },
   {
     "id": "recdt4I9UGmMSkGhm",
@@ -444,6 +744,18 @@
     "dateAdded": "2026-08-20T02:48:22.000Z"
   },
   {
+    "id": "reck6u8iMI0alHFFf",
+    "year": 1953,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "3-27387",
+    "photoUrl": "assets/img/plates/attezygcvAJ2HNr1Z.jpg",
+    "dateAdded": "2026-08-21T00:02:01.000Z"
+  },
+  {
     "id": "reckkfwYxRJ5fgRE3",
     "year": 1965,
     "countyNumber": "1",
@@ -468,6 +780,30 @@
     "dateAdded": "2026-08-13T23:48:43.000Z"
   },
   {
+    "id": "recmFwk6wNOe7pKKJ",
+    "year": 1953,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Motorcycle",
+    "serial": "3-164",
+    "photoUrl": "assets/img/plates/att7XZSWSCa1kuPhr.jpg",
+    "dateAdded": "2026-08-20T23:50:40.000Z"
+  },
+  {
+    "id": "recmOwGteNntdisr4",
+    "year": 1955,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Blue",
+    "fontColor": "Red",
+    "type": "Auxiliary Police",
+    "serial": "3-13",
+    "photoUrl": "assets/img/plates/att6wS6piyabvt2v2.jpg",
+    "dateAdded": "2026-08-20T23:47:41.000Z"
+  },
+  {
     "id": "recmoLCRpKZivRJ7H",
     "year": 1964,
     "countyNumber": "2",
@@ -478,6 +814,18 @@
     "serial": "2-213 B",
     "photoUrl": "assets/img/plates/attD1CycspvRxXrch.jpg",
     "dateAdded": "2026-08-20T02:36:57.000Z"
+  },
+  {
+    "id": "recmwfXT6UsinPBDs",
+    "year": 1954,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "White",
+    "fontColor": "Blue",
+    "type": "City",
+    "serial": "3CITY-610",
+    "photoUrl": "assets/img/plates/attkJyln3Xy8X4c3q.jpg",
+    "dateAdded": "2026-08-21T00:02:04.000Z"
   },
   {
     "id": "recn4mPkk2zuGJ37W",
@@ -528,6 +876,18 @@
     "dateAdded": "2026-08-20T02:44:06.000Z"
   },
   {
+    "id": "recoe60S46tIKMQWU",
+    "year": 1957,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "3-70",
+    "photoUrl": "assets/img/plates/att4qnfvnKzewELpG.jpg",
+    "dateAdded": "2026-08-20T23:50:38.000Z"
+  },
+  {
     "id": "recp2ZZOS6SXITk8l",
     "year": 1950,
     "countyNumber": "1",
@@ -538,6 +898,18 @@
     "serial": "1-1204",
     "photoUrl": "assets/img/plates/att91Rg11KmW09QZ6.jpg",
     "dateAdded": "2026-08-13T22:23:29.000Z"
+  },
+  {
+    "id": "recpozDKnyHofOHbr",
+    "year": 1954,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Motorcycle",
+    "serial": "3-3",
+    "photoUrl": "assets/img/plates/attAXRzmnmM5O377c.jpg",
+    "dateAdded": "2026-08-20T23:47:30.000Z"
   },
   {
     "id": "recsRW3BxkTA24Lhs",
@@ -564,6 +936,42 @@
     "dateAdded": "2026-08-13T23:48:40.000Z"
   },
   {
+    "id": "recsskwE202hEDXAB",
+    "year": 1955,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "3-4",
+    "photoUrl": "assets/img/plates/attMykyvonJmcR0Fb.jpg",
+    "dateAdded": "2026-08-20T23:47:40.000Z"
+  },
+  {
+    "id": "rect0i3Ta6nQNgLFl",
+    "year": 1954,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "County",
+    "serial": "3COUNTY-60",
+    "photoUrl": "assets/img/plates/atthfGJdjhVZyL1Tc.jpg",
+    "dateAdded": "2026-08-21T00:02:06.000Z"
+  },
+  {
+    "id": "recugv8M3584UmPCg",
+    "year": 1953,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "3-1501",
+    "photoUrl": "assets/img/plates/atth4G4wcq70tHYSP.jpg",
+    "dateAdded": "2026-08-20T23:54:38.000Z"
+  },
+  {
     "id": "recvoMBF7Np6fCq1Y",
     "year": 1955,
     "countyNumber": "1",
@@ -574,6 +982,30 @@
     "serial": "1-4977",
     "photoUrl": "assets/img/plates/att8ESdnrrzNReDCl.jpg",
     "dateAdded": "2026-08-13T22:23:29.000Z"
+  },
+  {
+    "id": "recwI8DsbouEDijCp",
+    "year": 1951,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "City",
+    "serial": "3CITY-904",
+    "photoUrl": "assets/img/plates/attIdGdWK57ttZiDz.jpg",
+    "dateAdded": "2026-08-21T00:02:05.000Z"
+  },
+  {
+    "id": "recwO2V2nqMjXN7GB",
+    "year": 1954,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Heavy Car",
+    "serial": "3D-11",
+    "photoUrl": "assets/img/plates/attOTjeP8xZ8E3iNR.jpg",
+    "dateAdded": "2026-08-21T00:02:07.000Z"
   },
   {
     "id": "recwbWG8xUXSQEBXO",
@@ -600,6 +1032,32 @@
     "dateAdded": "2026-08-13T22:23:29.000Z"
   },
   {
+    "id": "recwo0XQc6ne2JJWY",
+    "year": 1954,
+    "countyNumber": {
+      "error": "#ERROR!"
+    },
+    "countyName": "Knox",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": null,
+    "photoUrl": "assets/img/plates/attDPLnEyOyExb8TH.jpg",
+    "dateAdded": "2026-08-20T23:47:42.000Z"
+  },
+  {
+    "id": "recx8MSQ4IGUeGsDC",
+    "year": 1953,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Motorcycle",
+    "serial": "3B-16",
+    "photoUrl": "assets/img/plates/attokyJCyf2kbzbOL.jpg",
+    "dateAdded": "2026-08-21T00:02:03.000Z"
+  },
+  {
     "id": "recxOPAM4z2VsAXsK",
     "year": 1952,
     "countyNumber": "1",
@@ -622,6 +1080,30 @@
     "serial": "2-109974",
     "photoUrl": "assets/img/plates/atttc0JpJfQ7rghAF.jpg",
     "dateAdded": "2026-08-20T02:44:07.000Z"
+  },
+  {
+    "id": "recxdm2qIkkvaogth",
+    "year": 1939,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "3-931",
+    "photoUrl": "assets/img/plates/attersFUSFyY9u0RC.jpg",
+    "dateAdded": "2026-08-20T23:54:37.000Z"
+  },
+  {
+    "id": "recxpW6CqCoesI6lo",
+    "year": 1956,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "3D-10",
+    "photoUrl": "assets/img/plates/attfKrSypjqUMZ9ny.jpg",
+    "dateAdded": "2026-08-21T00:02:07.000Z"
   },
   {
     "id": "recxwTqAuWdeLM8w8",
