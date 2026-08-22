@@ -6,7 +6,8 @@
    plates.json produces the empty state, not fake rows.
    ========================================================================== */
 
-const PAGE_SIZE = 12;
+const DESKTOP_PAGE_SIZE = 24;
+const MOBILE_PAGE_SIZE = 12;
 
 let allPlates = [];
 let state = {
@@ -180,16 +181,27 @@ function syncCheckboxUI(){
     .forEach(el => { el.classList.toggle('on', state.fontColors.has(el.dataset.value)); });
 }
 
+function getPageSize(){
+  return window.matchMedia('(max-width: 860px)').matches
+    ? MOBILE_PAGE_SIZE
+    : DESKTOP_PAGE_SIZE;
+}
+
 function renderPagination(totalItems){
-  const totalPages = Math.max(1, Math.ceil(totalItems / PAGE_SIZE));
+  const totalPages = Math.max(1, Math.ceil(totalItems / getPageSize()));
   const el = document.getElementById('pagination');
   if (totalPages <= 1) { el.innerHTML = ''; return; }
 
-  let html = `<button ${state.page===1?'disabled':''} data-page="${state.page-1}">←</button>`;
-  for (let i = 1; i <= totalPages; i++) {
-    html += `<button class="${i===state.page?'active':''}" data-page="${i}">${i}</button>`;
-  }
-  html += `<button ${state.page===totalPages?'disabled':''} data-page="${state.page+1}">→</button>`;
+  const pages = new Set([1, totalPages, state.page - 1, state.page, state.page + 1]);
+  const visiblePages = [...pages].filter(page => page > 0 && page <= totalPages).sort((a, b) => a - b);
+  let html = `<button aria-label="Previous page" ${state.page===1?'disabled':''} data-page="${state.page-1}">←</button>`;
+  let previousPage = 0;
+  visiblePages.forEach(page => {
+    if (page - previousPage > 1) html += '<span class="pagination-gap" aria-hidden="true">…</span>';
+    html += `<button aria-label="Page ${page}" class="${page===state.page?'active':''}" data-page="${page}">${page}</button>`;
+    previousPage = page;
+  });
+  html += `<button aria-label="Next page" ${state.page===totalPages?'disabled':''} data-page="${state.page+1}">→</button>`;
   el.innerHTML = html;
 
   el.querySelectorAll('button').forEach(btn => {
@@ -204,9 +216,10 @@ function renderPagination(totalItems){
 function render(){
   const filtered = applyFilters();
   const sorted = sortPlates(filtered);
-  const totalPages = Math.max(1, Math.ceil(sorted.length / PAGE_SIZE));
+  const pageSize = getPageSize();
+  const totalPages = Math.max(1, Math.ceil(sorted.length / pageSize));
   if (state.page > totalPages) state.page = totalPages;
-  const pageItems = sorted.slice((state.page-1)*PAGE_SIZE, state.page*PAGE_SIZE);
+  const pageItems = sorted.slice((state.page-1)*pageSize, state.page*pageSize);
 
   const grid = document.getElementById('plate-grid');
   if (!allPlates.length) {
@@ -263,6 +276,12 @@ async function init(){
   }
 
   render();
+
+  const pageSizeQuery = window.matchMedia('(max-width: 860px)');
+  pageSizeQuery.addEventListener('change', () => {
+    state.page = 1;
+    render();
+  });
 
   let searchTimer;
   document.getElementById('search-input').addEventListener('input', (e) => {

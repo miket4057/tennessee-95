@@ -54,18 +54,29 @@ block that for local files. Use a local server instead:
    `Colors`, and `Type` are filled in from what you told me — but
    `photo` and `serial` are my best guess at your field names and need
    your confirmation.
-4. Run the sync:
+4. Run the sync and publish it:
+
+    On macOS, double-click `sync-and-publish.command` in the project folder.
+    It runs the sync, stages the generated data and photos, commits any
+    changes, and pushes them to GitHub.
+
+    To run it from the VS Code terminal instead:
+    ```
+    ./sync-and-publish.command
+    ```
+
+    This downloads any new photos into `assets/img/plates/` and rewrites
+    `data/plates.json`. (Airtable's API photo links expire after ~2
+    hours — the script downloads the actual files specifically so this
+    doesn't bite you later.)
+
+   The original manual steps are still available if needed:
    ```
+   cd scripts
    node sync-airtable.js
-   ```
-   This downloads any new photos into `assets/img/plates/` and rewrites
-   `data/plates.json`. (Airtable's API photo links expire after ~2
-   hours — the script downloads the actual files specifically so this
-   doesn't bite you later.)
-5. Commit and push:
-   ```
+   cd ..
    git add data/plates.json assets/img/plates
-   git commit -m "Sync plates"
+   git commit -m "Sync plates from Airtable"
    git push
    ```
 
