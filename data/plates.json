@@ -1,5 +1,17 @@
 [
   {
+    "id": "rec06HplPvk0HjI8R",
+    "year": 1940,
+    "countyNumber": "22",
+    "countyName": "Weakley",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "For Hire",
+    "serial": "22H/3-818",
+    "photoUrl": "assets/img/plates/attEoJHfdiffjPoRE.jpg",
+    "dateAdded": "2026-08-22T14:50:40.000Z"
+  },
+  {
     "id": "rec06nsPYRXjSOgCF",
     "year": 1942,
     "countyNumber": "12",
@@ -144,6 +156,18 @@
     "dateAdded": "2026-08-21T00:50:36.000Z"
   },
   {
+    "id": "rec0sSrZLK9dHcBGB",
+    "year": 1953,
+    "countyNumber": "22",
+    "countyName": "Weakley",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Farm Truck",
+    "serial": "22F/1-318",
+    "photoUrl": "assets/img/plates/atteDglgJJGEK7nLG.jpg",
+    "dateAdded": "2026-08-22T14:52:45.000Z"
+  },
+  {
     "id": "rec11YVVNYBH6eiKA",
     "year": 1940,
     "countyNumber": "16",
@@ -240,6 +264,42 @@
     "dateAdded": "2026-08-21T15:42:38.000Z"
   },
   {
+    "id": "rec1gd328J5hrDxzx",
+    "year": 1952,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Green",
+    "fontColor": "White",
+    "type": "Radio",
+    "serial": "25-W4MPG",
+    "photoUrl": "assets/img/plates/attar51SdTACCg7Dy.jpg",
+    "dateAdded": "2026-08-22T15:12:15.000Z"
+  },
+  {
+    "id": "rec1oWf4Q15xQR0JK",
+    "year": 1949,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "21-4073",
+    "photoUrl": "assets/img/plates/attwS7EOG5csP2TI8.jpg",
+    "dateAdded": "2026-08-22T14:31:34.000Z"
+  },
+  {
+    "id": "rec1vKyd37HlpHAf2",
+    "year": 1950,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "21P/1-714",
+    "photoUrl": "assets/img/plates/attPtHCQLCevDoC5F.jpg",
+    "dateAdded": "2026-08-22T14:45:51.000Z"
+  },
+  {
     "id": "rec27p5aOk1epQ2yd",
     "year": 1938,
     "countyNumber": "12",
@@ -276,6 +336,18 @@
     "dateAdded": "2026-08-21T15:32:51.000Z"
   },
   {
+    "id": "rec2LOQ5hu6rErZPe",
+    "year": 1955,
+    "countyNumber": "23",
+    "countyName": "Mcminn",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Heavy Car",
+    "serial": "23D-1944",
+    "photoUrl": "assets/img/plates/attvEUcCu6P3yPX3b.jpg",
+    "dateAdded": "2026-08-22T15:00:23.000Z"
+  },
+  {
     "id": "rec2MdYBSkE0ZQsZJ",
     "year": 1956,
     "countyNumber": "4",
@@ -286,6 +358,18 @@
     "serial": "4-43973",
     "photoUrl": "assets/img/plates/attzt5QtLx0VeDrii.jpg",
     "dateAdded": "2026-08-21T00:50:39.000Z"
+  },
+  {
+    "id": "rec2RU6uhyjtJ0FsU",
+    "year": 1939,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "25-642",
+    "photoUrl": "assets/img/plates/attFsqILVK6VGi855.jpg",
+    "dateAdded": "2026-08-22T15:13:52.000Z"
   },
   {
     "id": "rec2RjBN5bQLxZKjs",
@@ -346,6 +430,18 @@
     "serial": "14-889",
     "photoUrl": "assets/img/plates/attCHPkqp5iBQZrGm.jpg",
     "dateAdded": "2026-08-21T20:21:37.000Z"
+  },
+  {
+    "id": "rec2ob33m0fWqXsSY",
+    "year": 1951,
+    "countyNumber": "24",
+    "countyName": "Giles",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "24D-24",
+    "photoUrl": "assets/img/plates/attApM8SW6rlGaRch.jpg",
+    "dateAdded": "2026-08-22T15:06:34.000Z"
   },
   {
     "id": "rec2rFJKKmZMN3IA0",
@@ -456,6 +552,18 @@
     "dateAdded": "2026-08-21T15:18:01.000Z"
   },
   {
+    "id": "rec3G2xg7brYrBFtV",
+    "year": 1946,
+    "countyNumber": "24",
+    "countyName": "Giles",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Heavy Car",
+    "serial": "24D-334",
+    "photoUrl": "assets/img/plates/attwiCNjIzjeHbAny.jpg",
+    "dateAdded": "2026-08-22T15:02:14.000Z"
+  },
+  {
     "id": "rec3GYRamvPwGg9y2",
     "year": 1955,
     "countyNumber": "16",
@@ -490,6 +598,18 @@
     "serial": "17-415",
     "photoUrl": "assets/img/plates/attgU4QsNK4MKa1EX.jpg",
     "dateAdded": "2026-08-22T03:16:10.000Z"
+  },
+  {
+    "id": "rec3Sg0PkAFLrSOTb",
+    "year": 1951,
+    "countyNumber": "23",
+    "countyName": "Mcminn",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "23-4545",
+    "photoUrl": "assets/img/plates/attpW6bDHL3iwh0m7.jpg",
+    "dateAdded": "2026-08-22T14:54:06.000Z"
   },
   {
     "id": "rec3g7IlS8Hh7st0f",
@@ -708,6 +828,18 @@
     "dateAdded": "2026-08-21T20:16:35.000Z"
   },
   {
+    "id": "rec4b5OVUnibPsQMV",
+    "year": 1954,
+    "countyNumber": "23",
+    "countyName": "Mcminn",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "23-1301",
+    "photoUrl": "assets/img/plates/attQI3F9aJ0ygUbwN.jpg",
+    "dateAdded": "2026-08-22T14:59:02.000Z"
+  },
+  {
     "id": "rec4iKpwpXBVNneG6",
     "year": 1941,
     "countyNumber": "1",
@@ -754,6 +886,18 @@
     "serial": "5-512",
     "photoUrl": "assets/img/plates/attEUgu7JHFXgh2tH.jpg",
     "dateAdded": "2026-08-21T14:38:42.000Z"
+  },
+  {
+    "id": "rec4n3WM0w8OwwM4f",
+    "year": 1951,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "25F/1-3",
+    "photoUrl": "assets/img/plates/attFRR4MDVwcjqBOU.jpg",
+    "dateAdded": "2026-08-22T15:15:31.000Z"
   },
   {
     "id": "rec4osbiflMZQL42s",
@@ -852,6 +996,18 @@
     "dateAdded": "2026-08-21T18:17:32.000Z"
   },
   {
+    "id": "rec5cgqG5JiSrxS2f",
+    "year": 1939,
+    "countyNumber": "22",
+    "countyName": "Weakley",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Truck",
+    "serial": "22T-667",
+    "photoUrl": "assets/img/plates/attUEWbD5RCTQJV60.jpg",
+    "dateAdded": "2026-08-22T14:51:39.000Z"
+  },
+  {
     "id": "rec5dBAo6o3CzGiHf",
     "year": 1950,
     "countyNumber": "6",
@@ -924,6 +1080,30 @@
     "dateAdded": "2026-08-21T16:09:02.000Z"
   },
   {
+    "id": "rec60SESEIVQOFmms",
+    "year": 1951,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "25D-595",
+    "photoUrl": "assets/img/plates/att8q1HYU7Cp5p60g.jpg",
+    "dateAdded": "2026-08-22T15:09:49.000Z"
+  },
+  {
+    "id": "rec68dR8moc1VPn03",
+    "year": 1956,
+    "countyNumber": "22",
+    "countyName": "Weakley",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "22-781",
+    "photoUrl": "assets/img/plates/attchIOOSE3A41t98.jpg",
+    "dateAdded": "2026-08-22T14:52:04.000Z"
+  },
+  {
     "id": "rec699SsDRtVGwDKv",
     "year": 1945,
     "countyNumber": "18",
@@ -934,6 +1114,18 @@
     "serial": "18P/1-213",
     "photoUrl": "assets/img/plates/attRMr5QS4kzAJkz8.jpg",
     "dateAdded": "2026-08-22T13:05:49.000Z"
+  },
+  {
+    "id": "rec6G9vIfYqX3qr5O",
+    "year": 1939,
+    "countyNumber": "22",
+    "countyName": "Mcminn",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "22-43",
+    "photoUrl": "assets/img/plates/attwMmHSim1OADlc8.jpg",
+    "dateAdded": "2026-08-22T14:54:49.000Z"
   },
   {
     "id": "rec6I6EiXLbC5I0Hh",
@@ -982,6 +1174,18 @@
     "serial": "1-72392",
     "photoUrl": "assets/img/plates/att1WkE48eHNg5WI9.jpg",
     "dateAdded": "2026-08-13T23:51:23.000Z"
+  },
+  {
+    "id": "rec6cMSsRQO7ULTDJ",
+    "year": 1947,
+    "countyNumber": "23",
+    "countyName": "Mcminn",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "23-2461",
+    "photoUrl": "assets/img/plates/attjmEFHyzbmkjVAo.jpg",
+    "dateAdded": "2026-08-22T14:57:37.000Z"
   },
   {
     "id": "rec6ejPT5TOZqsEDI",
@@ -1056,6 +1260,30 @@
     "dateAdded": "2026-08-22T03:15:38.000Z"
   },
   {
+    "id": "rec7ACmg7hEuzTtEG",
+    "year": 1942,
+    "countyNumber": "22",
+    "countyName": "Weakley",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "22-265",
+    "photoUrl": "assets/img/plates/attI8U42gFmCQKrGI.jpg",
+    "dateAdded": "2026-08-22T14:48:19.000Z"
+  },
+  {
+    "id": "rec7AhF9qSuOIA2l2",
+    "year": 1952,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Green",
+    "fontColor": "White",
+    "type": "Radio",
+    "serial": "21-W4CYZ",
+    "photoUrl": "assets/img/plates/attTUIOfDa1S2dTYa.jpg",
+    "dateAdded": "2026-08-22T14:39:39.000Z"
+  },
+  {
     "id": "rec7CHQkyQoV21hUh",
     "year": 1953,
     "countyNumber": "17",
@@ -1102,6 +1330,18 @@
     "serial": "12-379",
     "photoUrl": "assets/img/plates/attpEonreZdXK8sGk.jpg",
     "dateAdded": "2026-08-21T18:21:12.000Z"
+  },
+  {
+    "id": "rec7KY4fyG7wW8hzp",
+    "year": 1941,
+    "countyNumber": "23",
+    "countyName": "Mcminn",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "23-387",
+    "photoUrl": "assets/img/plates/attadkiInLnClAda5.jpg",
+    "dateAdded": "2026-08-22T14:55:03.000Z"
   },
   {
     "id": "rec7Prk9Gc3fWpA3H",
@@ -1152,6 +1392,18 @@
     "dateAdded": "2026-08-22T03:18:35.000Z"
   },
   {
+    "id": "rec7eoS5rGqJGY1Bf",
+    "year": 1949,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "25-50",
+    "photoUrl": "assets/img/plates/attcF5RX4VQOVEn0o.jpg",
+    "dateAdded": "2026-08-22T15:11:29.000Z"
+  },
+  {
     "id": "rec7fBxxAJNz5TJiw",
     "year": 1953,
     "countyNumber": "9",
@@ -1198,6 +1450,42 @@
     "serial": "13F/1-A69",
     "photoUrl": "assets/img/plates/attV0lv93sdE7e4uc.jpg",
     "dateAdded": "2026-08-21T20:04:35.000Z"
+  },
+  {
+    "id": "rec7vR3mjywoDAZZr",
+    "year": 1952,
+    "countyNumber": "24",
+    "countyName": "Giles",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "24-1523",
+    "photoUrl": "assets/img/plates/attMsFrjfRLHuFDuz.jpg",
+    "dateAdded": "2026-08-22T15:07:37.000Z"
+  },
+  {
+    "id": "rec7wDU8FFicAHmXX",
+    "year": 1947,
+    "countyNumber": "23",
+    "countyName": "Mcminn",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "23D-461",
+    "photoUrl": "assets/img/plates/att1PPEIkQKt43LRb.jpg",
+    "dateAdded": "2026-08-22T14:56:00.000Z"
+  },
+  {
+    "id": "rec805ddyEEg7Pq5Z",
+    "year": 1955,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Radio",
+    "serial": "21-W4CYZ",
+    "photoUrl": "assets/img/plates/attU8PLRa9YKQLweK.jpg",
+    "dateAdded": "2026-08-22T14:40:34.000Z"
   },
   {
     "id": "rec87PBz9vbUkWFRU",
@@ -1332,6 +1620,18 @@
     "dateAdded": "2026-08-22T03:25:40.000Z"
   },
   {
+    "id": "rec90z6869dfmNrtC",
+    "year": 1954,
+    "countyNumber": "23",
+    "countyName": "Mcminn",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Farm Truck",
+    "serial": "23F/1-339",
+    "photoUrl": "assets/img/plates/attGHqx795nfLfP9e.jpg",
+    "dateAdded": "2026-08-22T14:58:44.000Z"
+  },
+  {
     "id": "rec91LtYjLCMhAz12",
     "year": 1944,
     "countyNumber": "9",
@@ -1342,6 +1642,18 @@
     "serial": "9-453",
     "photoUrl": "assets/img/plates/attVVdsDmq69Ex7E2.jpg",
     "dateAdded": "2026-08-21T15:51:42.000Z"
+  },
+  {
+    "id": "rec92k3LnnWGJeT2I",
+    "year": 1954,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Motorcycle",
+    "serial": "21-23",
+    "photoUrl": "assets/img/plates/attwErnJwZ08cUBlG.jpg",
+    "dateAdded": "2026-08-22T14:34:59.000Z"
   },
   {
     "id": "rec94d8KqoVECooHr",
@@ -1392,6 +1704,18 @@
     "dateAdded": "2026-08-21T20:22:56.000Z"
   },
   {
+    "id": "rec9CRCGyUhY2F4OY",
+    "year": 1953,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Motorcycle",
+    "serial": "25-20",
+    "photoUrl": "assets/img/plates/att6f3fNLFbYgZZFm.jpg",
+    "dateAdded": "2026-08-22T15:14:17.000Z"
+  },
+  {
     "id": "rec9FAxD3KfZK3Wf6",
     "year": 1956,
     "countyNumber": "3",
@@ -1414,6 +1738,18 @@
     "serial": "6W4BOK",
     "photoUrl": "assets/img/plates/attmQJqnbpgKDS3Fj.jpg",
     "dateAdded": "2026-08-21T15:09:45.000Z"
+  },
+  {
+    "id": "rec9JO17Rbr0Xrjo9",
+    "year": 1951,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "21P/1-378",
+    "photoUrl": "assets/img/plates/attDxCBAlhtFpLtdI.jpg",
+    "dateAdded": "2026-08-22T14:42:43.000Z"
   },
   {
     "id": "rec9QG8DTvkrL8zON",
@@ -1476,6 +1812,18 @@
     "dateAdded": "2026-08-22T13:24:34.000Z"
   },
   {
+    "id": "rec9ozGj7mNiKMZdU",
+    "year": 1956,
+    "countyNumber": "23",
+    "countyName": "Mcminn",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "23-79",
+    "photoUrl": "assets/img/plates/attD8Bt8xmzV22egu.jpg",
+    "dateAdded": "2026-08-22T14:54:37.000Z"
+  },
+  {
     "id": "rec9rAJ4jgm7ki09n",
     "year": 1946,
     "countyNumber": "6",
@@ -1524,6 +1872,18 @@
     "dateAdded": "2026-08-22T03:07:48.000Z"
   },
   {
+    "id": "recAF8gsCBnfss204",
+    "year": 1956,
+    "countyNumber": "24",
+    "countyName": "Giles",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "24-2042",
+    "photoUrl": "assets/img/plates/attBRXiqNUwpxw75e.jpg",
+    "dateAdded": "2026-08-22T15:08:05.000Z"
+  },
+  {
     "id": "recAI7lJF5KJtxqpE",
     "year": 1953,
     "countyNumber": "15",
@@ -1560,6 +1920,18 @@
     "dateAdded": "2026-08-22T13:23:42.000Z"
   },
   {
+    "id": "recATUVowrvjhwbTU",
+    "year": 1951,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "25F/1-1",
+    "photoUrl": "assets/img/plates/att6qyIMWKsZGCriQ.jpg",
+    "dateAdded": "2026-08-22T15:16:50.000Z"
+  },
+  {
     "id": "recAVAgm6hyYJ7RQ0",
     "year": 1941,
     "countyNumber": "18",
@@ -1584,6 +1956,30 @@
     "dateAdded": "2026-08-22T03:17:49.000Z"
   },
   {
+    "id": "recAywk7x5K617m9W",
+    "year": 1948,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "21-3194",
+    "photoUrl": "assets/img/plates/attrZAeTWknlG1Lsc.jpg",
+    "dateAdded": "2026-08-22T14:45:20.000Z"
+  },
+  {
+    "id": "recBBLz7N1qbsTLi9",
+    "year": 1954,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Radio",
+    "serial": "21-W4CYZ",
+    "photoUrl": "assets/img/plates/att22gn3gn3kMEjZo.jpg",
+    "dateAdded": "2026-08-22T14:40:15.000Z"
+  },
+  {
     "id": "recBBjqXPlViznPnv",
     "year": 1963,
     "countyNumber": "9",
@@ -1594,6 +1990,30 @@
     "serial": "9-4",
     "photoUrl": "assets/img/plates/att1R7y3LneEYa9gf.jpg",
     "dateAdded": "2026-08-21T15:52:03.000Z"
+  },
+  {
+    "id": "recBHOh5YASV1YMZ0",
+    "year": 1956,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "25D-73",
+    "photoUrl": "assets/img/plates/attWhkxxX62IFdI07.jpg",
+    "dateAdded": "2026-08-22T15:15:18.000Z"
+  },
+  {
+    "id": "recBIKGAugM1C3Q3U",
+    "year": 1953,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "21-510",
+    "photoUrl": "assets/img/plates/attc3pzERIdHgPcCd.jpg",
+    "dateAdded": "2026-08-22T14:46:06.000Z"
   },
   {
     "id": "recBIjtJru1qfnJAW",
@@ -1776,6 +2196,18 @@
     "dateAdded": "2026-08-21T15:20:12.000Z"
   },
   {
+    "id": "recCIAPKfNR7BZhJw",
+    "year": 1951,
+    "countyNumber": "22",
+    "countyName": "Weakley",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "22-293",
+    "photoUrl": "assets/img/plates/attT3zWzJdJzys3Wj.jpg",
+    "dateAdded": "2026-08-22T14:52:20.000Z"
+  },
+  {
     "id": "recCKqBDK8VwtjJTH",
     "year": 1955,
     "countyNumber": "10",
@@ -1786,6 +2218,18 @@
     "serial": "10-406",
     "photoUrl": "assets/img/plates/att81hPlkNO2Ji8Tv.jpg",
     "dateAdded": "2026-08-21T16:01:03.000Z"
+  },
+  {
+    "id": "recCMnRpNRa86bnef",
+    "year": 1949,
+    "countyNumber": "24",
+    "countyName": "Giles",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "24-1264",
+    "photoUrl": "assets/img/plates/att7UjsNoKuQDVRX2.jpg",
+    "dateAdded": "2026-08-22T15:04:02.000Z"
   },
   {
     "id": "recCSZpmMukiZvxpT",
@@ -1836,6 +2280,18 @@
     "dateAdded": "2026-08-22T13:08:50.000Z"
   },
   {
+    "id": "recCrS0sq1RvLvQ9o",
+    "year": 1942,
+    "countyNumber": "24",
+    "countyName": "Giles",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "24P/1-222",
+    "photoUrl": "assets/img/plates/attrvUHpPUJsGeTB2.jpg",
+    "dateAdded": "2026-08-22T15:04:14.000Z"
+  },
+  {
     "id": "recCvgugk3qgJipw7",
     "year": 1964,
     "countyNumber": "3",
@@ -1858,6 +2314,18 @@
     "serial": "17-1844",
     "photoUrl": "assets/img/plates/attpzbT40WkaMjWla.jpg",
     "dateAdded": "2026-08-22T03:18:21.000Z"
+  },
+  {
+    "id": "recDHcOHgnmd4ZUCG",
+    "year": 1955,
+    "countyNumber": "23",
+    "countyName": "Mcminn",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Heavy Car",
+    "serial": "23D-1347",
+    "photoUrl": "assets/img/plates/attbSzVBalBQTMwSG.jpg",
+    "dateAdded": "2026-08-22T14:56:35.000Z"
   },
   {
     "id": "recDI7SwLMMVgtjHn",
@@ -1920,6 +2388,18 @@
     "dateAdded": "2026-08-22T03:24:32.000Z"
   },
   {
+    "id": "recDioSsSEDCe5JN8",
+    "year": 1956,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "21-446",
+    "photoUrl": "assets/img/plates/attfuSTBRdfgoqxzP.jpg",
+    "dateAdded": "2026-08-22T14:35:13.000Z"
+  },
+  {
     "id": "recDlPHuyoGyqTgil",
     "year": 1947,
     "countyNumber": "1",
@@ -1954,6 +2434,18 @@
     "serial": "3D-11",
     "photoUrl": "assets/img/plates/attnoGixTBZaVRq0o.jpg",
     "dateAdded": "2026-08-21T00:06:16.000Z"
+  },
+  {
+    "id": "recDruN354ReoRVx2",
+    "year": 1951,
+    "countyNumber": "22",
+    "countyName": "Weakley",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "22F/1-2",
+    "photoUrl": "assets/img/plates/attFideBOitjLzcky.jpg",
+    "dateAdded": "2026-08-22T14:49:36.000Z"
   },
   {
     "id": "recDwEWEtFwiSj5pn",
@@ -1992,6 +2484,18 @@
     "dateAdded": "2026-08-20T23:54:36.000Z"
   },
   {
+    "id": "recE6mh7DWpoQe6D0",
+    "year": 1951,
+    "countyNumber": "23",
+    "countyName": "Mcminn",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "23-789",
+    "photoUrl": "assets/img/plates/attRbaUUWttWiaPym.jpg",
+    "dateAdded": "2026-08-22T14:57:08.000Z"
+  },
+  {
     "id": "recE9DyQN0VIGVoXu",
     "year": 1942,
     "countyNumber": "11",
@@ -2016,6 +2520,18 @@
     "dateAdded": "2026-08-21T20:11:10.000Z"
   },
   {
+    "id": "recEFedOr51UjrEwQ",
+    "year": 1955,
+    "countyNumber": "22",
+    "countyName": "Weakley",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Farm Truck",
+    "serial": "22F/1-66",
+    "photoUrl": "assets/img/plates/attFXPvOhb9Zp34B2.jpg",
+    "dateAdded": "2026-08-22T14:49:19.000Z"
+  },
+  {
     "id": "recEGHt1v3B04ZeUo",
     "year": 1953,
     "countyNumber": "17",
@@ -2026,6 +2542,18 @@
     "serial": "17-5752",
     "photoUrl": "assets/img/plates/attPAWVEmT9vs2Yag.jpg",
     "dateAdded": "2026-08-22T03:24:50.000Z"
+  },
+  {
+    "id": "recEacsys934K3iCx",
+    "year": 1947,
+    "countyNumber": "22",
+    "countyName": "Weakley",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "22-4639",
+    "photoUrl": "assets/img/plates/attE50hqmqXQjWjbI.jpg",
+    "dateAdded": "2026-08-22T14:51:50.000Z"
   },
   {
     "id": "recEbPj5U91vzEYsK",
@@ -2170,6 +2698,18 @@
     "serial": "8FARM-179",
     "photoUrl": "assets/img/plates/attVL5K4M4OqbV3yO.jpg",
     "dateAdded": "2026-08-21T15:40:25.000Z"
+  },
+  {
+    "id": "recFfVjEIPY4T4kWT",
+    "year": 1939,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Truck",
+    "serial": "21T-60",
+    "photoUrl": "assets/img/plates/att3kzvxfNlPiZLlH.jpg",
+    "dateAdded": "2026-08-22T14:43:01.000Z"
   },
   {
     "id": "recFoXzx5nOKyZz8n",
@@ -2340,6 +2880,18 @@
     "dateAdded": "2026-08-21T20:06:28.000Z"
   },
   {
+    "id": "recGjFeQhsl8MDi6i",
+    "year": 1946,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "25-527",
+    "photoUrl": "assets/img/plates/attBQ1uAYi4KiyAPE.jpg",
+    "dateAdded": "2026-08-22T15:12:01.000Z"
+  },
+  {
     "id": "recGlDlOkr26DwGjc",
     "year": 1939,
     "countyNumber": "13",
@@ -2472,6 +3024,18 @@
     "dateAdded": "2026-08-21T14:38:46.000Z"
   },
   {
+    "id": "recHJMaAtKqYHjyH9",
+    "year": 1940,
+    "countyNumber": "22",
+    "countyName": "Weakley",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "City",
+    "serial": "22CITY-506",
+    "photoUrl": "assets/img/plates/attRJAKp8dTn7wFmP.jpg",
+    "dateAdded": "2026-08-22T14:51:24.000Z"
+  },
+  {
     "id": "recHLeG1YS7u0L0A6",
     "year": 1942,
     "countyNumber": "16",
@@ -2520,6 +3084,30 @@
     "dateAdded": "2026-08-21T15:43:04.000Z"
   },
   {
+    "id": "recHqHjUv5W6OOgNN",
+    "year": 1949,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "25-6",
+    "photoUrl": "assets/img/plates/attInyBzpZR9IXMcP.jpg",
+    "dateAdded": "2026-08-22T15:11:07.000Z"
+  },
+  {
+    "id": "recHsjDUDHlmO0SUv",
+    "year": 1945,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Heavy Car",
+    "serial": "21D-400",
+    "photoUrl": "assets/img/plates/attKRnXYP9Fvw8dPs.jpg",
+    "dateAdded": "2026-08-22T14:37:22.000Z"
+  },
+  {
     "id": "recI27aWgolc3I8QB",
     "year": 1955,
     "countyNumber": "20",
@@ -2530,6 +3118,18 @@
     "serial": "20F/1-225",
     "photoUrl": "assets/img/plates/attYFLa0IAXUrM7xU.jpg",
     "dateAdded": "2026-08-22T13:29:36.000Z"
+  },
+  {
+    "id": "recIAxJpcU0sNXYCT",
+    "year": 1940,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Taxi",
+    "serial": "21TAXI-141",
+    "photoUrl": "assets/img/plates/attw1ryOKyXfUEW55.jpg",
+    "dateAdded": "2026-08-22T14:41:46.000Z"
   },
   {
     "id": "recIEdZl9MDs97Pwa",
@@ -2556,6 +3156,18 @@
     "dateAdded": "2026-08-22T13:31:43.000Z"
   },
   {
+    "id": "recIM0VvBfKlkp1Vm",
+    "year": 1942,
+    "countyNumber": "23",
+    "countyName": "Mcminn",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "23-184",
+    "photoUrl": "assets/img/plates/att4uiTwnc8hWkT3C.jpg",
+    "dateAdded": "2026-08-22T14:59:44.000Z"
+  },
+  {
     "id": "recIQZlki1GzoCdFe",
     "year": 1952,
     "countyNumber": "11",
@@ -2566,6 +3178,18 @@
     "serial": "11-1886",
     "photoUrl": "assets/img/plates/attnMo9zLhGZUdMND.jpg",
     "dateAdded": "2026-08-21T18:03:50.000Z"
+  },
+  {
+    "id": "recIR3KXW8KEXfmtU",
+    "year": 1951,
+    "countyNumber": "22",
+    "countyName": "Weakley",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "22-77",
+    "photoUrl": "assets/img/plates/attTtwFdxyLrrONfT.jpg",
+    "dateAdded": "2026-08-22T14:53:06.000Z"
   },
   {
     "id": "recIbtlslTBwxD6FL",
@@ -2748,6 +3372,18 @@
     "dateAdded": "2026-08-21T18:14:28.000Z"
   },
   {
+    "id": "recK2Kf80Uz0VZHLB",
+    "year": 1942,
+    "countyNumber": "24",
+    "countyName": "Giles",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "24P/1-222",
+    "photoUrl": "assets/img/plates/attLSUFcdm86VQLCH.jpg",
+    "dateAdded": "2026-08-22T15:01:57.000Z"
+  },
+  {
     "id": "recKJbRsPXfUgPBVk",
     "year": 1956,
     "countyNumber": "9",
@@ -2844,6 +3480,18 @@
     "dateAdded": "2026-08-21T00:08:24.000Z"
   },
   {
+    "id": "recKoofsSdF7ssw5R",
+    "year": 1939,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "25-505",
+    "photoUrl": "assets/img/plates/attdouhMa6KBdKohn.jpg",
+    "dateAdded": "2026-08-22T15:13:22.000Z"
+  },
+  {
     "id": "recKrPO9k85FN74Zw",
     "year": 1942,
     "countyNumber": "6",
@@ -2890,6 +3538,18 @@
     "serial": "14-777",
     "photoUrl": "assets/img/plates/attSQK1QV2SYvGO2d.jpg",
     "dateAdded": "2026-08-21T20:23:36.000Z"
+  },
+  {
+    "id": "recLeQC0poQNJXOg0",
+    "year": 1951,
+    "countyNumber": "23",
+    "countyName": "Mcminn",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "23-2620",
+    "photoUrl": "assets/img/plates/attYebzlKhZJMOEZ4.jpg",
+    "dateAdded": "2026-08-22T14:59:30.000Z"
   },
   {
     "id": "recLgme8Muika6f1B",
@@ -2952,6 +3612,18 @@
     "dateAdded": "2026-08-21T20:08:42.000Z"
   },
   {
+    "id": "recM5iTQPrfq0UZlR",
+    "year": 1939,
+    "countyNumber": "22",
+    "countyName": "Weakley",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Truck",
+    "serial": "22T-219",
+    "photoUrl": "assets/img/plates/attYu1oNRFasXy1Oz.jpg",
+    "dateAdded": "2026-08-22T14:48:02.000Z"
+  },
+  {
     "id": "recMDxOZAVyAIPty8",
     "year": 1963,
     "countyNumber": "3",
@@ -2962,6 +3634,18 @@
     "serial": "3-393",
     "photoUrl": "assets/img/plates/attYZZakneTIX9y4P.jpg",
     "dateAdded": "2026-08-20T23:50:42.000Z"
+  },
+  {
+    "id": "recME0tSlSQBPlHLT",
+    "year": 1968,
+    "countyNumber": "23",
+    "countyName": "Mcminn",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "23-46",
+    "photoUrl": "assets/img/plates/attoXwk8AlztE00k7.jpg",
+    "dateAdded": "2026-08-22T14:58:31.000Z"
   },
   {
     "id": "recMIyaZDOTLJkILg",
@@ -2998,6 +3682,30 @@
     "serial": "3-15932",
     "photoUrl": "assets/img/plates/attY6ZIxCsrDbNvxF.jpg",
     "dateAdded": "2026-08-21T00:02:00.000Z"
+  },
+  {
+    "id": "recMY98f11GaNUDkU",
+    "year": 1945,
+    "countyNumber": "24",
+    "countyName": "Giles",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "24-558",
+    "photoUrl": "assets/img/plates/attKkASyyP3Dtk7Q4.jpg",
+    "dateAdded": "2026-08-22T15:03:04.000Z"
+  },
+  {
+    "id": "recMYdde3ePzupiyN",
+    "year": 1939,
+    "countyNumber": "22",
+    "countyName": "Weakley",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Taxi",
+    "serial": "TAXI22D-6",
+    "photoUrl": "assets/img/plates/attebaCAUp81EdW51.jpg",
+    "dateAdded": "2026-08-22T14:49:52.000Z"
   },
   {
     "id": "recMgbryi8rgobJWp",
@@ -3070,6 +3778,18 @@
     "serial": "8-57",
     "photoUrl": "assets/img/plates/attRwksqGWXQGGdRo.jpg",
     "dateAdded": "2026-08-21T15:37:52.000Z"
+  },
+  {
+    "id": "recNA1Sk2hPNg2qGX",
+    "year": 1954,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Heavy Car",
+    "serial": "21D-977",
+    "photoUrl": "assets/img/plates/attit9J5AT6zUxgv4.jpg",
+    "dateAdded": "2026-08-22T14:43:59.000Z"
   },
   {
     "id": "recNCX3e4WJZ3Lieq",
@@ -3180,6 +3900,18 @@
     "dateAdded": "2026-08-21T18:22:34.000Z"
   },
   {
+    "id": "recNlpKwoOvwNZZl3",
+    "year": 1965,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "21-101",
+    "photoUrl": "assets/img/plates/attNRnNsLdrYyA94g.jpg",
+    "dateAdded": "2026-08-22T14:34:34.000Z"
+  },
+  {
     "id": "recNm2t1cggJtDRfM",
     "year": 1955,
     "countyNumber": "18",
@@ -3190,6 +3922,18 @@
     "serial": "18F/1-2",
     "photoUrl": "assets/img/plates/attYpDygpQdPBVqA3.jpg",
     "dateAdded": "2026-08-22T13:14:03.000Z"
+  },
+  {
+    "id": "recNs3FIo1Tzezj1X",
+    "year": 1950,
+    "countyNumber": "23",
+    "countyName": "Mcminn",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "23-4581",
+    "photoUrl": "assets/img/plates/attWaJmI7i9YOhHfD.jpg",
+    "dateAdded": "2026-08-22T14:57:55.000Z"
   },
   {
     "id": "recNuaIBafEXHbec6",
@@ -3252,6 +3996,18 @@
     "dateAdded": "2026-08-21T18:04:49.000Z"
   },
   {
+    "id": "recONydX9QEv8hZFw",
+    "year": 1956,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Dealer",
+    "serial": "21-21E",
+    "photoUrl": "assets/img/plates/atthU3FmnOlGiIxzS.jpg",
+    "dateAdded": "2026-08-22T14:35:26.000Z"
+  },
+  {
     "id": "recOOpik4ySYvIhsw",
     "year": 1950,
     "countyNumber": "4",
@@ -3286,6 +4042,30 @@
     "serial": "17F/1-1040",
     "photoUrl": "assets/img/plates/attw9m1IUVmNLOKD1.jpg",
     "dateAdded": "2026-08-22T03:19:20.000Z"
+  },
+  {
+    "id": "recOobIhRMfsVwmjR",
+    "year": 1956,
+    "countyNumber": "24",
+    "countyName": "Giles",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "24-24",
+    "photoUrl": "assets/img/plates/attxDm81fAv3IwSyC.jpg",
+    "dateAdded": "2026-08-22T15:02:39.000Z"
+  },
+  {
+    "id": "recOvEYVZL2FGPrSj",
+    "year": 1951,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "21P/1-97",
+    "photoUrl": "assets/img/plates/attzIxhD1ONvJ5ElQ.jpg",
+    "dateAdded": "2026-08-22T14:44:44.000Z"
   },
   {
     "id": "recOy7TnJiRXIfgqe",
@@ -3384,6 +4164,18 @@
     "dateAdded": "2026-08-22T13:09:47.000Z"
   },
   {
+    "id": "recPedT02IRT8ZsFY",
+    "year": 1941,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "25-2218",
+    "photoUrl": "assets/img/plates/attlHXszXwXBSIa91.jpg",
+    "dateAdded": "2026-08-22T15:09:38.000Z"
+  },
+  {
     "id": "recPqvVQAVyjkKAKq",
     "year": 1950,
     "countyNumber": "19",
@@ -3408,6 +4200,30 @@
     "dateAdded": "2026-08-22T13:19:26.000Z"
   },
   {
+    "id": "recQ5DZJKmoNLePWZ",
+    "year": 1956,
+    "countyNumber": "22",
+    "countyName": "Weakley",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "22-39",
+    "photoUrl": "assets/img/plates/attLoOfli9NZ4MaKT.jpg",
+    "dateAdded": "2026-08-22T14:50:57.000Z"
+  },
+  {
+    "id": "recQ9PG51euXi7DCY",
+    "year": 1941,
+    "countyNumber": "22",
+    "countyName": "Weakley",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "22-488",
+    "photoUrl": "assets/img/plates/attSIfRkELZIjI5JK.jpg",
+    "dateAdded": "2026-08-22T14:49:07.000Z"
+  },
+  {
     "id": "recQT2a6GHVj0aZF1",
     "year": 1955,
     "countyNumber": "2",
@@ -3424,7 +4240,7 @@
     "year": 1946,
     "countyNumber": "13",
     "countyName": "Gibson",
-    "colors": "Siver",
+    "colors": [],
     "fontColor": "Green",
     "type": "Passenger",
     "serial": "13-80",
@@ -3526,6 +4342,18 @@
     "serial": "3-3319",
     "photoUrl": "assets/img/plates/attD2RASo7xhXEOTg.jpg",
     "dateAdded": "2026-08-20T23:54:41.000Z"
+  },
+  {
+    "id": "recQxJvGZ10Uupfke",
+    "year": 1951,
+    "countyNumber": "23",
+    "countyName": "Mcminn",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "23D-415",
+    "photoUrl": "assets/img/plates/att28uFDGon3r00oa.jpg",
+    "dateAdded": "2026-08-22T14:56:50.000Z"
   },
   {
     "id": "recQylC9oLwxTXFsC",
@@ -3696,6 +4524,18 @@
     "dateAdded": "2026-08-21T18:05:48.000Z"
   },
   {
+    "id": "recSmZqxoUtG1uvo3",
+    "year": 1951,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "21F/1-246",
+    "photoUrl": "assets/img/plates/attyE8TjH5UwdtoOO.jpg",
+    "dateAdded": "2026-08-22T14:32:57.000Z"
+  },
+  {
     "id": "recSrsFBRjIb0G19f",
     "year": 1951,
     "countyNumber": "10",
@@ -3732,6 +4572,18 @@
     "dateAdded": "2026-08-22T13:32:46.000Z"
   },
   {
+    "id": "recT9YnJUho0v6uun",
+    "year": 1949,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "21-1982",
+    "photoUrl": "assets/img/plates/attoKsglQibsgS50x.jpg",
+    "dateAdded": "2026-08-22T14:45:34.000Z"
+  },
+  {
     "id": "recTD2dI6s7X8bGk7",
     "year": 1945,
     "countyNumber": "11",
@@ -3754,6 +4606,18 @@
     "serial": "18-3387",
     "photoUrl": "assets/img/plates/atttxw5FmVlExgQ8B.jpg",
     "dateAdded": "2026-08-22T13:01:44.000Z"
+  },
+  {
+    "id": "recTazIkIonZlwVDp",
+    "year": 1944,
+    "countyNumber": "23",
+    "countyName": "Mcminn",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "23-1925",
+    "photoUrl": "assets/img/plates/attf2Pnhmro18O4SN.jpg",
+    "dateAdded": "2026-08-22T14:53:47.000Z"
   },
   {
     "id": "recTdeLkx4FH3NDbl",
@@ -3792,6 +4656,18 @@
     "dateAdded": "2026-08-22T13:19:42.000Z"
   },
   {
+    "id": "recTszCfPyU4Rt8Uv",
+    "year": 1945,
+    "countyNumber": "24",
+    "countyName": "Giles",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "24-1034",
+    "photoUrl": "assets/img/plates/attp9NJP4boXCqAmv.jpg",
+    "dateAdded": "2026-08-22T15:07:02.000Z"
+  },
+  {
     "id": "recTv076QDppw5QcH",
     "year": 1949,
     "countyNumber": "18",
@@ -3802,6 +4678,18 @@
     "serial": "18-6",
     "photoUrl": "assets/img/plates/attbRihqu3PUuxc7L.jpg",
     "dateAdded": "2026-08-22T13:08:19.000Z"
+  },
+  {
+    "id": "recULTnCKqWZa0aPa",
+    "year": 1956,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "25D-1119",
+    "photoUrl": "assets/img/plates/attwIUuncDLQ2G1Xf.jpg",
+    "dateAdded": "2026-08-22T15:13:07.000Z"
   },
   {
     "id": "recUPbtt1bcWCabfK",
@@ -3924,6 +4812,18 @@
     "dateAdded": "2026-08-22T03:16:57.000Z"
   },
   {
+    "id": "recV2GR0l8CzNf69U",
+    "year": 1955,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "County",
+    "serial": "21COUNTY-15",
+    "photoUrl": "assets/img/plates/attlC3jTSgCSdphA2.jpg",
+    "dateAdded": "2026-08-22T14:43:16.000Z"
+  },
+  {
     "id": "recV4ynFBiP7RAJei",
     "year": 1947,
     "countyNumber": "12",
@@ -3934,6 +4834,18 @@
     "serial": "12-4801",
     "photoUrl": "assets/img/plates/attK9HlMuTvxB2Pgj.jpg",
     "dateAdded": "2026-08-21T18:19:13.000Z"
+  },
+  {
+    "id": "recVLIVMNdL32IcOb",
+    "year": 1942,
+    "countyNumber": "22",
+    "countyName": "Weakley",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "22F/1-140",
+    "photoUrl": "assets/img/plates/attJRs16oPyRhSV1z.jpg",
+    "dateAdded": "2026-08-22T14:48:47.000Z"
   },
   {
     "id": "recVb2jIg4nlt37p8",
@@ -4104,6 +5016,18 @@
     "dateAdded": "2026-08-21T15:18:54.000Z"
   },
   {
+    "id": "recX4AARQmjlIZWFu",
+    "year": 1951,
+    "countyNumber": "24",
+    "countyName": "Giles",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "24-2426",
+    "photoUrl": "assets/img/plates/attDAB0zXpPyhY9oz.jpg",
+    "dateAdded": "2026-08-22T15:05:05.000Z"
+  },
+  {
     "id": "recX9KfTRo8kShhOG",
     "year": 1951,
     "countyNumber": "9",
@@ -4224,6 +5148,18 @@
     "dateAdded": "2026-08-21T00:56:04.000Z"
   },
   {
+    "id": "recXwSwqCKfo4a1EO",
+    "year": 1952,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "21P/1/140",
+    "photoUrl": "assets/img/plates/attGWr1ePN7kVoncj.jpg",
+    "dateAdded": "2026-08-22T14:36:17.000Z"
+  },
+  {
     "id": "recY4BfP9DHgp1Ve4",
     "year": 1946,
     "countyNumber": "13",
@@ -4308,6 +5244,18 @@
     "dateAdded": "2026-08-21T15:38:53.000Z"
   },
   {
+    "id": "recYsdPQbcKhAMYS3",
+    "year": 1951,
+    "countyNumber": "23",
+    "countyName": "Mcminn",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "23F/1-431",
+    "photoUrl": "assets/img/plates/attEty17ebIpAZCNy.jpg",
+    "dateAdded": "2026-08-22T14:59:54.000Z"
+  },
+  {
     "id": "recZ3SJRnB3eB5Kid",
     "year": 1951,
     "countyNumber": "9",
@@ -4354,6 +5302,42 @@
     "serial": "17-4546",
     "photoUrl": "assets/img/plates/attQBmlqygcrFv2Ys.jpg",
     "dateAdded": "2026-08-22T03:30:25.000Z"
+  },
+  {
+    "id": "recZI8kLoVDUlTm7e",
+    "year": 1951,
+    "countyNumber": "23",
+    "countyName": "Mcminn",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "23F/1-395",
+    "photoUrl": "assets/img/plates/att1953t8hDmWEZaH.jpg",
+    "dateAdded": "2026-08-22T14:54:19.000Z"
+  },
+  {
+    "id": "recZJOZrf75attPqz",
+    "year": 1948,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "21P/1-686",
+    "photoUrl": "assets/img/plates/attfF0qogxOUbcfzi.jpg",
+    "dateAdded": "2026-08-22T14:35:59.000Z"
+  },
+  {
+    "id": "recZKmBQRphPWxOXd",
+    "year": 1949,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "21-444",
+    "photoUrl": "assets/img/plates/attguxrqNjZAzQoBx.jpg",
+    "dateAdded": "2026-08-22T14:47:27.000Z"
   },
   {
     "id": "recZKyOyG3AeeE9Tq",
@@ -4440,6 +5424,18 @@
     "dateAdded": "2026-08-21T18:06:43.000Z"
   },
   {
+    "id": "recZgPuBzxUQVjhnx",
+    "year": 1965,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "25-93",
+    "photoUrl": "assets/img/plates/attm6Fvsy3GNQWXqr.jpg",
+    "dateAdded": "2026-08-22T15:11:47.000Z"
+  },
+  {
     "id": "recZiGlUnEStk0H7t",
     "year": 1956,
     "countyNumber": "15",
@@ -4486,6 +5482,18 @@
     "serial": "14-837",
     "photoUrl": "assets/img/plates/attSMVmDGbHf9Ldc2.jpg",
     "dateAdded": "2026-08-21T20:28:21.000Z"
+  },
+  {
+    "id": "recaQaWyhz5rPgQuY",
+    "year": 1947,
+    "countyNumber": "24",
+    "countyName": "Giles",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "24A-20",
+    "photoUrl": "assets/img/plates/attZCvj1kOHSHW1mm.jpg",
+    "dateAdded": "2026-08-22T15:04:52.000Z"
   },
   {
     "id": "recabxUhz5LPSb70U",
@@ -4656,6 +5664,42 @@
     "dateAdded": "2026-08-21T15:56:23.000Z"
   },
   {
+    "id": "recbLdqgPlGQpVzKc",
+    "year": 1951,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "21-5968",
+    "photoUrl": "assets/img/plates/attrnAGraBA2oIXud.jpg",
+    "dateAdded": "2026-08-22T14:33:53.000Z"
+  },
+  {
+    "id": "recbMC5EaEm22X9iE",
+    "year": 1950,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "25F/1-1",
+    "photoUrl": "assets/img/plates/attigdQ9cSrB7UC82.jpg",
+    "dateAdded": "2026-08-22T15:16:24.000Z"
+  },
+  {
+    "id": "recbYxVPlFqg9qH1N",
+    "year": 1940,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "21-263",
+    "photoUrl": "assets/img/plates/att8Km0FmZwi9uTRY.jpg",
+    "dateAdded": "2026-08-22T14:39:24.000Z"
+  },
+  {
     "id": "recbZEhiW1zFqUWkS",
     "year": 1939,
     "countyNumber": "16",
@@ -4678,6 +5722,30 @@
     "serial": "9CITY-502",
     "photoUrl": "assets/img/plates/attFR0hEC3JESLwLl.jpg",
     "dateAdded": "2026-08-21T15:48:57.000Z"
+  },
+  {
+    "id": "recbpbcmYPj5FF0Ka",
+    "year": 1953,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Radio",
+    "serial": "21-W4CYZ",
+    "photoUrl": "assets/img/plates/attUPgUxiZnU67nuT.jpg",
+    "dateAdded": "2026-08-22T14:40:00.000Z"
+  },
+  {
+    "id": "recc0An8OBTmxH4OM",
+    "year": 1954,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "25-640",
+    "photoUrl": "assets/img/plates/att0STH0GtBArTUEM.jpg",
+    "dateAdded": "2026-08-22T15:17:06.000Z"
   },
   {
     "id": "recc1QFramXLiFPI1",
@@ -4752,6 +5820,42 @@
     "dateAdded": "2026-08-21T20:46:06.000Z"
   },
   {
+    "id": "reccXiu1FIpGMXQsd",
+    "year": 1944,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "21P/1-47",
+    "photoUrl": "assets/img/plates/attE928yIOBgDDnLm.jpg",
+    "dateAdded": "2026-08-22T14:35:42.000Z"
+  },
+  {
+    "id": "reccY8FUYan0HBNdT",
+    "year": 1956,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Government",
+    "serial": "25-GS3227",
+    "photoUrl": "assets/img/plates/attaO0YWSb4q2b5IC.jpg",
+    "dateAdded": "2026-08-22T15:12:45.000Z"
+  },
+  {
+    "id": "recd2Cmu8vwnW18Ph",
+    "year": 1950,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "City",
+    "serial": "25CITY-521",
+    "photoUrl": "assets/img/plates/att3ZIb4IyXDf1A6g.jpg",
+    "dateAdded": "2026-08-22T15:13:37.000Z"
+  },
+  {
     "id": "recd7E1xMnVZgeyqX",
     "year": 1950,
     "countyNumber": "10",
@@ -4774,6 +5878,18 @@
     "serial": "18-3860",
     "photoUrl": "assets/img/plates/attX3tZa8sSZ7DG4o.jpg",
     "dateAdded": "2026-08-22T13:17:05.000Z"
+  },
+  {
+    "id": "recdH4XOWQeD9S8tO",
+    "year": 1945,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Taxi",
+    "serial": "21TAXI-89",
+    "photoUrl": "assets/img/plates/att9LVtY4DWRvTyBy.jpg",
+    "dateAdded": "2026-08-22T14:39:04.000Z"
   },
   {
     "id": "recdXJ4viYwEBsGMD",
@@ -4872,6 +5988,18 @@
     "dateAdded": "2026-08-21T20:38:19.000Z"
   },
   {
+    "id": "receHxmNNt0KY5Zm1",
+    "year": 1940,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "25-3005",
+    "photoUrl": "assets/img/plates/attbH1bLhfV4qjyIr.jpg",
+    "dateAdded": "2026-08-22T15:09:23.000Z"
+  },
+  {
     "id": "receKhxUvkalAqqUu",
     "year": 1956,
     "countyNumber": "8",
@@ -4896,6 +6024,18 @@
     "dateAdded": "2026-08-21T15:39:37.000Z"
   },
   {
+    "id": "receekYvmfvCz29f3",
+    "year": 1952,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "21P/1-18",
+    "photoUrl": "assets/img/plates/attqlUSQgIUvv64K6.jpg",
+    "dateAdded": "2026-08-22T14:34:19.000Z"
+  },
+  {
     "id": "receibKmpGWTIK4Zq",
     "year": 1947,
     "countyNumber": "4",
@@ -4918,6 +6058,18 @@
     "serial": "4-28197",
     "photoUrl": "assets/img/plates/att3rWow2CjnnRHt7.jpg",
     "dateAdded": "2026-08-21T00:50:41.000Z"
+  },
+  {
+    "id": "receyoVCKk656j2pL",
+    "year": 1945,
+    "countyNumber": "24",
+    "countyName": "Giles",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "24-1120",
+    "photoUrl": "assets/img/plates/att2GySpAPA3rLc4g.jpg",
+    "dateAdded": "2026-08-22T15:08:19.000Z"
   },
   {
     "id": "recezRiIWUZhE9mvq",
@@ -4992,6 +6144,18 @@
     "dateAdded": "2026-08-22T03:23:32.000Z"
   },
   {
+    "id": "recf7UNeIq92rzumX",
+    "year": 1947,
+    "countyNumber": "24",
+    "countyName": "Giles",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "24-1787",
+    "photoUrl": "assets/img/plates/attGCi2RiDLvLITvL.jpg",
+    "dateAdded": "2026-08-22T15:06:07.000Z"
+  },
+  {
     "id": "recfCiSKan8CmfmSt",
     "year": 1955,
     "countyNumber": "14",
@@ -5026,6 +6190,18 @@
     "serial": "17-3107",
     "photoUrl": "assets/img/plates/att3qGgaHl1E8Zj9X.jpg",
     "dateAdded": "2026-08-22T03:29:37.000Z"
+  },
+  {
+    "id": "recfMVp45TNDNW286",
+    "year": 1951,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "25-4279",
+    "photoUrl": "assets/img/plates/attuPqkFaRWcDQJBl.jpg",
+    "dateAdded": "2026-08-22T15:14:40.000Z"
   },
   {
     "id": "recfRyDcCeuHePOIg",
@@ -5148,6 +6324,18 @@
     "dateAdded": "2026-08-21T15:11:00.000Z"
   },
   {
+    "id": "recgTkuRB3m4W75iS",
+    "year": 1959,
+    "countyNumber": "23",
+    "countyName": "Mcminn",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "23-46",
+    "photoUrl": "assets/img/plates/att8tF5zMgVwEcBaK.jpg",
+    "dateAdded": "2026-08-22T14:58:17.000Z"
+  },
+  {
     "id": "recgfLHUAwNyCjPuW",
     "year": 1946,
     "countyNumber": "12",
@@ -5158,6 +6346,30 @@
     "serial": "12F/1-V12",
     "photoUrl": "assets/img/plates/attmNRQh7XhtJ7gs6.jpg",
     "dateAdded": "2026-08-21T18:17:12.000Z"
+  },
+  {
+    "id": "recgl1iZPB0hvGFt1",
+    "year": 1955,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Truck",
+    "serial": "21P/1-356",
+    "photoUrl": "assets/img/plates/attXmBTl8j6zNpmTj.jpg",
+    "dateAdded": "2026-08-22T14:37:03.000Z"
+  },
+  {
+    "id": "recgpPFXnwT9vPnIQ",
+    "year": 1963,
+    "countyNumber": "24",
+    "countyName": "Giles",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "24-20",
+    "photoUrl": "assets/img/plates/attcRaVTAyuaPBl4w.jpg",
+    "dateAdded": "2026-08-22T15:03:18.000Z"
   },
   {
     "id": "recgrGkoAiT4y4ojw",
@@ -5364,6 +6576,18 @@
     "dateAdded": "2026-08-21T20:12:59.000Z"
   },
   {
+    "id": "reciAxNHwLkmv4eEU",
+    "year": 1941,
+    "countyNumber": "241",
+    "countyName": "Giles",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "241-1838",
+    "photoUrl": "assets/img/plates/attV3CmzVwV2Joe8N.jpg",
+    "dateAdded": "2026-08-22T15:02:27.000Z"
+  },
+  {
     "id": "reciJTIivUaBBQLN6",
     "year": 1944,
     "countyNumber": "10",
@@ -5400,6 +6624,18 @@
     "dateAdded": "2026-08-21T14:44:45.000Z"
   },
   {
+    "id": "reciRmjnLQQzCWoZf",
+    "year": 1951,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Taxi",
+    "serial": "25TAXI-12",
+    "photoUrl": "assets/img/plates/attsOiStfyPZGarEJ.jpg",
+    "dateAdded": "2026-08-22T15:09:04.000Z"
+  },
+  {
     "id": "reciUgGVep1jmYivL",
     "year": 1947,
     "countyNumber": "2",
@@ -5410,6 +6646,18 @@
     "serial": "2B-152",
     "photoUrl": "assets/img/plates/attaBhC0x2ErRxZfN.jpg",
     "dateAdded": "2026-08-20T02:44:08.000Z"
+  },
+  {
+    "id": "reciVD6QLWDHyfia9",
+    "year": 1940,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "25-1382",
+    "photoUrl": "assets/img/plates/attQRpaQMQW3Ya5L6.jpg",
+    "dateAdded": "2026-08-22T15:14:59.000Z"
   },
   {
     "id": "reciW6S0rooxP20t7",
@@ -5508,6 +6756,18 @@
     "dateAdded": "2026-08-21T20:44:04.000Z"
   },
   {
+    "id": "recj9DI7p5OgLGvL8",
+    "year": 1940,
+    "countyNumber": "22",
+    "countyName": "Weakley",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Taxi",
+    "serial": "22TAXI-4",
+    "photoUrl": "assets/img/plates/att4Rwh6G7tXZ2qbR.jpg",
+    "dateAdded": "2026-08-22T14:50:22.000Z"
+  },
+  {
     "id": "recjBhrPMck5jgrJ5",
     "year": 1953,
     "countyNumber": "2",
@@ -5604,6 +6864,18 @@
     "dateAdded": "2026-08-21T18:23:49.000Z"
   },
   {
+    "id": "recjnquflzrY9ewKP",
+    "year": 1952,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "21-2457",
+    "photoUrl": "assets/img/plates/attHzwq20PzlGTjT5.jpg",
+    "dateAdded": "2026-08-22T14:45:03.000Z"
+  },
+  {
     "id": "recjoApWKTpCGaWEA",
     "year": 1951,
     "countyNumber": "16",
@@ -5626,6 +6898,18 @@
     "serial": "15P/1-26",
     "photoUrl": "assets/img/plates/att6pnimsq51hFPgw.jpg",
     "dateAdded": "2026-08-21T20:43:44.000Z"
+  },
+  {
+    "id": "recjq6TpH11Go4V7O",
+    "year": 1951,
+    "countyNumber": "24",
+    "countyName": "Giles",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "24-19",
+    "photoUrl": "assets/img/plates/attbkLLFYFkbprqQ2.jpg",
+    "dateAdded": "2026-08-22T15:06:20.000Z"
   },
   {
     "id": "recjrALvTwqZwr6Ah",
@@ -5674,6 +6958,18 @@
     "serial": "3-27387",
     "photoUrl": "assets/img/plates/attezygcvAJ2HNr1Z.jpg",
     "dateAdded": "2026-08-21T00:02:01.000Z"
+  },
+  {
+    "id": "reckCEElfVEjODP8t",
+    "year": 1956,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "21P/1-509",
+    "photoUrl": "assets/img/plates/attTqB9qnwda7L7Uw.jpg",
+    "dateAdded": "2026-08-22T14:46:25.000Z"
   },
   {
     "id": "reckDC694BOYqOjCM",
@@ -5916,6 +7212,18 @@
     "dateAdded": "2026-08-22T03:06:24.000Z"
   },
   {
+    "id": "recllhSYgGiUDkfOk",
+    "year": 1948,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "25-1366",
+    "photoUrl": "assets/img/plates/attJIN5pd6UvPeTcK.jpg",
+    "dateAdded": "2026-08-22T15:10:03.000Z"
+  },
+  {
     "id": "reclsp7T6IP0Qr6zR",
     "year": 1956,
     "countyNumber": "17",
@@ -5952,6 +7260,18 @@
     "dateAdded": "2026-08-22T13:13:44.000Z"
   },
   {
+    "id": "reclzun9Af6TkRzO0",
+    "year": 1953,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Truck",
+    "serial": "21P1/205",
+    "photoUrl": "assets/img/plates/att8RACpb0aq21YO0.jpg",
+    "dateAdded": "2026-08-22T14:36:38.000Z"
+  },
+  {
     "id": "recm3Yu7fvYA8vh06",
     "year": 1956,
     "countyNumber": "13",
@@ -5976,6 +7296,18 @@
     "dateAdded": "2026-08-20T23:50:40.000Z"
   },
   {
+    "id": "recmJKBhC3zSKSR5c",
+    "year": 1951,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "21D-813",
+    "photoUrl": "assets/img/plates/attj5BwzZWhsuKF6O.jpg",
+    "dateAdded": "2026-08-22T14:31:59.000Z"
+  },
+  {
     "id": "recmMktbsAirZgUHW",
     "year": 1963,
     "countyNumber": "17",
@@ -5986,6 +7318,18 @@
     "serial": "17-17",
     "photoUrl": "assets/img/plates/att2RgISbec5R5leb.jpg",
     "dateAdded": "2026-08-22T03:22:03.000Z"
+  },
+  {
+    "id": "recmMqoYLR5Y7fzZ2",
+    "year": 1956,
+    "countyNumber": "23",
+    "countyName": "Mcminn",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "23-289",
+    "photoUrl": "assets/img/plates/attH1oGIsoDAHJZvj.jpg",
+    "dateAdded": "2026-08-22T15:00:10.000Z"
   },
   {
     "id": "recmOwGteNntdisr4",
@@ -6000,6 +7344,18 @@
     "dateAdded": "2026-08-20T23:47:41.000Z"
   },
   {
+    "id": "recmRFmI9EybnX4H6",
+    "year": 1952,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "21-5281",
+    "photoUrl": "assets/img/plates/attEIunlprJ0iQwz6.jpg",
+    "dateAdded": "2026-08-22T14:44:15.000Z"
+  },
+  {
     "id": "recmcP3A5AqPsnpFK",
     "year": 1954,
     "countyNumber": "13",
@@ -6010,6 +7366,18 @@
     "serial": "13F/1-247",
     "photoUrl": "assets/img/plates/attdcfrtcTHeD9xW3.jpg",
     "dateAdded": "2026-08-21T20:07:14.000Z"
+  },
+  {
+    "id": "recmi4gkk4BFH7i4g",
+    "year": 1949,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Farm Truck",
+    "serial": "25F/1-1",
+    "photoUrl": "assets/img/plates/attBs9GYPZB64w6CI.jpg",
+    "dateAdded": "2026-08-22T15:15:57.000Z"
   },
   {
     "id": "recmmow0OTU2QjE39",
@@ -6048,6 +7416,18 @@
     "dateAdded": "2026-08-21T00:02:04.000Z"
   },
   {
+    "id": "recmxunSmcqynqXaN",
+    "year": 1941,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "21D-400",
+    "photoUrl": "assets/img/plates/attiTNSWwKzFtrN5M.jpg",
+    "dateAdded": "2026-08-22T14:38:35.000Z"
+  },
+  {
     "id": "recn0MOROEPtWQEL3",
     "year": 1956,
     "countyNumber": "17",
@@ -6072,6 +7452,18 @@
     "dateAdded": "2026-08-13T23:56:02.000Z"
   },
   {
+    "id": "recn4rnvW9anRyE62",
+    "year": 1945,
+    "countyNumber": "22",
+    "countyName": "Weakley",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "22-408",
+    "photoUrl": "assets/img/plates/attQQTeOBNgwv43wZ.jpg",
+    "dateAdded": "2026-08-22T14:48:34.000Z"
+  },
+  {
     "id": "recn6LkfoDLu6f6Lq",
     "year": 1950,
     "countyNumber": "6",
@@ -6082,6 +7474,18 @@
     "serial": "6-206",
     "photoUrl": "assets/img/plates/att5yChc2aPeMoPdE.jpg",
     "dateAdded": "2026-08-21T14:44:45.000Z"
+  },
+  {
+    "id": "recn7BI2e8WzYYIDw",
+    "year": 1950,
+    "countyNumber": "23",
+    "countyName": "Mcminn",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "23-4581",
+    "photoUrl": "assets/img/plates/attKabDziOZgsyqBN.jpg",
+    "dateAdded": "2026-08-22T14:55:29.000Z"
   },
   {
     "id": "recn8OoeF7UHAqGVl",
@@ -6180,6 +7584,18 @@
     "dateAdded": "2026-08-22T13:04:55.000Z"
   },
   {
+    "id": "recnkZYKSQu8I6beS",
+    "year": 1951,
+    "countyNumber": "24",
+    "countyName": "Giles",
+    "colors": "Orange",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "24F/1-164",
+    "photoUrl": "assets/img/plates/attqY4MevMvIq7JR8.jpg",
+    "dateAdded": "2026-08-22T15:07:18.000Z"
+  },
+  {
     "id": "recoALkgKjG0hRuG1",
     "year": 1945,
     "countyNumber": "2",
@@ -6202,6 +7618,30 @@
     "serial": "8-2680",
     "photoUrl": "assets/img/plates/attghrZTAt9mEdiMb.jpg",
     "dateAdded": "2026-08-21T15:31:10.000Z"
+  },
+  {
+    "id": "recoHzEclxwbARGKJ",
+    "year": 1956,
+    "countyNumber": "24",
+    "countyName": "Giles",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "24-1788",
+    "photoUrl": "assets/img/plates/attIhImLd8E4Pib8c.jpg",
+    "dateAdded": "2026-08-22T15:07:51.000Z"
+  },
+  {
+    "id": "recoJay8HrjteeVpm",
+    "year": 1939,
+    "countyNumber": "24",
+    "countyName": "Giles",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "24-1853",
+    "photoUrl": "assets/img/plates/att70z6NBwQ5XbMyj.jpg",
+    "dateAdded": "2026-08-22T15:05:38.000Z"
   },
   {
     "id": "recoNIxSM1tqXJ4kT",
@@ -6360,6 +7800,18 @@
     "dateAdded": "2026-08-21T20:44:35.000Z"
   },
   {
+    "id": "recpe7RqSyhKtG5ND",
+    "year": 1950,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "21-4",
+    "photoUrl": "assets/img/plates/attu2GYn3nye5khLQ.jpg",
+    "dateAdded": "2026-08-22T14:46:53.000Z"
+  },
+  {
     "id": "recplqdTHtI9KWPkL",
     "year": 1946,
     "countyNumber": "17",
@@ -6384,6 +7836,18 @@
     "dateAdded": "2026-08-20T23:47:30.000Z"
   },
   {
+    "id": "recqHYTyNxl2tR3Ro",
+    "year": 1951,
+    "countyNumber": "24",
+    "countyName": "Giles",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "24-494",
+    "photoUrl": "assets/img/plates/att8LWVDxwtXfgjoG.jpg",
+    "dateAdded": "2026-08-22T15:03:46.000Z"
+  },
+  {
     "id": "recqL6fUhFxAlAdHa",
     "year": 1940,
     "countyNumber": "16",
@@ -6394,6 +7858,18 @@
     "serial": "16-23",
     "photoUrl": "assets/img/plates/attkfb4BPY6vzzmTF.jpg",
     "dateAdded": "2026-08-22T03:10:15.000Z"
+  },
+  {
+    "id": "recqQSTuoGJAk6c2M",
+    "year": 1949,
+    "countyNumber": "22",
+    "countyName": "Weakley",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "22-44",
+    "photoUrl": "assets/img/plates/attJObVz8QPayk3p5.jpg",
+    "dateAdded": "2026-08-22T14:51:09.000Z"
   },
   {
     "id": "recqkRWaV7HOypME3",
@@ -6468,6 +7944,18 @@
     "dateAdded": "2026-08-21T00:44:24.000Z"
   },
   {
+    "id": "recrEiPvmGNtXt8Di",
+    "year": 1940,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "21-826",
+    "photoUrl": "assets/img/plates/att2lVgAA2QPDb8L5.jpg",
+    "dateAdded": "2026-08-22T14:32:23.000Z"
+  },
+  {
     "id": "recrF5KKd9TSSlIkq",
     "year": 1941,
     "countyNumber": "8",
@@ -6490,6 +7978,18 @@
     "serial": "6-3984",
     "photoUrl": "assets/img/plates/attQ7Bz59yVfY53F6.jpg",
     "dateAdded": "2026-08-21T14:58:13.000Z"
+  },
+  {
+    "id": "recrTILw3YzpvZAGC",
+    "year": 1939,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Motorcycle",
+    "serial": "21A-6",
+    "photoUrl": "assets/img/plates/attwk0w1cJqebyExD.jpg",
+    "dateAdded": "2026-08-22T14:38:49.000Z"
   },
   {
     "id": "recrXiMal7cGHtkA5",
@@ -6528,6 +8028,18 @@
     "dateAdded": "2026-08-21T15:52:36.000Z"
   },
   {
+    "id": "recrwMoal2qFcF6Zw",
+    "year": 1946,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Taxi",
+    "serial": "21TAXI-5",
+    "photoUrl": "assets/img/plates/attUkdpw7Fbxqzqb5.jpg",
+    "dateAdded": "2026-08-22T14:44:30.000Z"
+  },
+  {
     "id": "recs8pZUa8tHLVgyR",
     "year": 1946,
     "countyNumber": "13",
@@ -6552,6 +8064,42 @@
     "dateAdded": "2026-08-21T15:13:23.000Z"
   },
   {
+    "id": "recsBD82YCdxn38PX",
+    "year": 1956,
+    "countyNumber": "23",
+    "countyName": "Mcminn",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "23-895",
+    "photoUrl": "assets/img/plates/attBYeNGga9Ykr1Pn.jpg",
+    "dateAdded": "2026-08-22T14:59:14.000Z"
+  },
+  {
+    "id": "recsCBp82lgVjfsy6",
+    "year": 1954,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Taxi",
+    "serial": "21TAXID-1",
+    "photoUrl": "assets/img/plates/attfQjm7JTgKjBGkq.jpg",
+    "dateAdded": "2026-08-22T14:32:36.000Z"
+  },
+  {
+    "id": "recsGBVC9pvHEvbFk",
+    "year": 1954,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Taxi",
+    "serial": "21TAXI-40",
+    "photoUrl": "assets/img/plates/attudMe6kwtxXNjJU.jpg",
+    "dateAdded": "2026-08-22T14:42:04.000Z"
+  },
+  {
     "id": "recsI60ZkAGywGS6w",
     "year": 1941,
     "countyNumber": "20",
@@ -6574,6 +8122,30 @@
     "serial": "2-12",
     "photoUrl": "assets/img/plates/attTylU0XRhCqyMQu.jpg",
     "dateAdded": "2026-08-20T02:34:41.000Z"
+  },
+  {
+    "id": "recsTjs8hScvlP0Ff",
+    "year": 1953,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Heavy Car",
+    "serial": "25D-162",
+    "photoUrl": "assets/img/plates/attzaqlpysq5fMxlD.jpg",
+    "dateAdded": "2026-08-22T15:10:40.000Z"
+  },
+  {
+    "id": "recsa4uEOsynPEAKN",
+    "year": 1941,
+    "countyNumber": "24",
+    "countyName": "Giles",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "24-642",
+    "photoUrl": "assets/img/plates/attmCVwotwYR73Ri8.jpg",
+    "dateAdded": "2026-08-22T15:01:44.000Z"
   },
   {
     "id": "recshDyfkJ7OijqVU",
@@ -6696,6 +8268,18 @@
     "dateAdded": "2026-08-22T03:25:22.000Z"
   },
   {
+    "id": "rect0dRU6LK2HstFk",
+    "year": 1945,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "25-202",
+    "photoUrl": "assets/img/plates/attASE6MHY5r4Q1MH.jpg",
+    "dateAdded": "2026-08-22T15:14:05.000Z"
+  },
+  {
     "id": "rect0i3Ta6nQNgLFl",
     "year": 1954,
     "countyNumber": "3",
@@ -6768,6 +8352,18 @@
     "dateAdded": "2026-08-21T18:21:37.000Z"
   },
   {
+    "id": "rectbo5F0giveXYs3",
+    "year": 1951,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "21-1212",
+    "photoUrl": "assets/img/plates/attpizka1aov60Bpc.jpg",
+    "dateAdded": "2026-08-22T14:41:27.000Z"
+  },
+  {
     "id": "recteOVqWgJUi7SxR",
     "year": 1950,
     "countyNumber": "8",
@@ -6778,6 +8374,30 @@
     "serial": "8-66",
     "photoUrl": "assets/img/plates/attJNI9CxaO7Lfdbz.jpg",
     "dateAdded": "2026-08-21T15:30:41.000Z"
+  },
+  {
+    "id": "recthGsGLofoBfOnF",
+    "year": 1951,
+    "countyNumber": "24",
+    "countyName": "Giles",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "24-763",
+    "photoUrl": "assets/img/plates/attkwylIPG1pW8Rjc.jpg",
+    "dateAdded": "2026-08-22T15:05:52.000Z"
+  },
+  {
+    "id": "rectliedCWx3dhbCD",
+    "year": 1956,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Radio",
+    "serial": "21-W4CYZ",
+    "photoUrl": "assets/img/plates/atto1sKbUnwE1Zcwt.jpg",
+    "dateAdded": "2026-08-22T14:40:57.000Z"
   },
   {
     "id": "rectojqDMVVKJZhSd",
@@ -6814,6 +8434,18 @@
     "serial": "15F/1-154",
     "photoUrl": "assets/img/plates/attwAFquSkKapqgr0.jpg",
     "dateAdded": "2026-08-21T20:45:47.000Z"
+  },
+  {
+    "id": "recuB9pRIGP3N6cCu",
+    "year": 1953,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Heavy Car",
+    "serial": "21D-1461",
+    "photoUrl": "assets/img/plates/att37iKUJEz1dICwW.jpg",
+    "dateAdded": "2026-08-22T14:47:42.000Z"
   },
   {
     "id": "recuJVaO8A12dHeEG",
@@ -6900,6 +8532,42 @@
     "dateAdded": "2026-08-21T18:22:07.000Z"
   },
   {
+    "id": "recv6letm7C1kGw58",
+    "year": 1954,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Taxi",
+    "serial": "21TAXID/3-57",
+    "photoUrl": "assets/img/plates/attknlVtMYYIcwsJg.jpg",
+    "dateAdded": "2026-08-22T14:47:09.000Z"
+  },
+  {
+    "id": "recvDIlWe2cOCJ710",
+    "year": 1951,
+    "countyNumber": "23",
+    "countyName": "Mcminn",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "23-486",
+    "photoUrl": "assets/img/plates/attj6y1xSSYhigZpI.jpg",
+    "dateAdded": "2026-08-22T14:57:22.000Z"
+  },
+  {
+    "id": "recvHpDmSbCrqQYsh",
+    "year": 1951,
+    "countyNumber": "24",
+    "countyName": "Giles",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "24F/1-470",
+    "photoUrl": "assets/img/plates/attT4ha0bmKO74IqZ.jpg",
+    "dateAdded": "2026-08-22T15:04:31.000Z"
+  },
+  {
     "id": "recvIQEY5aIxBaZwh",
     "year": 1956,
     "countyNumber": "18",
@@ -6910,6 +8578,18 @@
     "serial": "18-95",
     "photoUrl": "assets/img/plates/attdMuOOf00VaNqDC.jpg",
     "dateAdded": "2026-08-22T13:17:26.000Z"
+  },
+  {
+    "id": "recvLqgJvbGmS35Iy",
+    "year": 1952,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Heavy Car",
+    "serial": "21D-26",
+    "photoUrl": "assets/img/plates/attkmMY4Tb8C0qF1v.jpg",
+    "dateAdded": "2026-08-22T14:41:14.000Z"
   },
   {
     "id": "recvVPwKUnAaSN6og",
@@ -6996,6 +8676,18 @@
     "dateAdded": "2026-08-21T00:02:05.000Z"
   },
   {
+    "id": "recwLw5mPIXImHXfA",
+    "year": 1956,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "25-2607",
+    "photoUrl": "assets/img/plates/attzQocznGZR5qeNP.jpg",
+    "dateAdded": "2026-08-22T15:10:54.000Z"
+  },
+  {
     "id": "recwO2V2nqMjXN7GB",
     "year": 1954,
     "countyNumber": "3",
@@ -7068,6 +8760,18 @@
     "dateAdded": "2026-08-21T15:21:52.000Z"
   },
   {
+    "id": "recwnofcNkWZqRSDe",
+    "year": 1942,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Heavy Car",
+    "serial": "21D-400",
+    "photoUrl": "assets/img/plates/attj0bQHGbAo1bboT.jpg",
+    "dateAdded": "2026-08-22T14:38:15.000Z"
+  },
+  {
     "id": "recwo0XQc6ne2JJWY",
     "year": 1954,
     "countyNumber": {
@@ -7080,6 +8784,18 @@
     "serial": null,
     "photoUrl": "assets/img/plates/attDPLnEyOyExb8TH.jpg",
     "dateAdded": "2026-08-20T23:47:42.000Z"
+  },
+  {
+    "id": "recwoRfbYcag10DUX",
+    "year": 1952,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "25-1793",
+    "photoUrl": "assets/img/plates/attGGmOzpECdxwDqq.jpg",
+    "dateAdded": "2026-08-22T15:10:28.000Z"
   },
   {
     "id": "recww622jzTg4tKt5",
@@ -7104,6 +8820,18 @@
     "serial": "13COUNTY-8",
     "photoUrl": "assets/img/plates/attKU5HjSiwIZcO7C.jpg",
     "dateAdded": "2026-08-21T20:08:13.000Z"
+  },
+  {
+    "id": "recx7YIC3aDzpijCC",
+    "year": 1940,
+    "countyNumber": "24",
+    "countyName": "Giles",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "24-1608",
+    "photoUrl": "assets/img/plates/attOOFTI7RDXtMQ3N.jpg",
+    "dateAdded": "2026-08-22T15:06:47.000Z"
   },
   {
     "id": "recx7l5AjkxDpCE4O",
@@ -7140,6 +8868,18 @@
     "serial": "16F/1-3",
     "photoUrl": "assets/img/plates/atthkw4t6nHqWMYk0.jpg",
     "dateAdded": "2026-08-22T03:09:50.000Z"
+  },
+  {
+    "id": "recxFwUE5SbbVZ5G2",
+    "year": 1947,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "25-1731",
+    "photoUrl": "assets/img/plates/attNTYfVrcAr2kS7Q.jpg",
+    "dateAdded": "2026-08-22T15:10:15.000Z"
   },
   {
     "id": "recxICX0El7vfHoAJ",
@@ -7442,6 +9182,42 @@
     "dateAdded": "2026-08-21T20:02:39.000Z"
   },
   {
+    "id": "recz1QOuchcRLpRBq",
+    "year": 1951,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "21-2291",
+    "photoUrl": "assets/img/plates/attuj5NOiSGdmW4GU.jpg",
+    "dateAdded": "2026-08-22T14:42:28.000Z"
+  },
+  {
+    "id": "recz2X9x9rBRS3QFC",
+    "year": 1945,
+    "countyNumber": "23",
+    "countyName": "Mcminn",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "23-1109",
+    "photoUrl": "assets/img/plates/attoqhomzjkTPVJJw.jpg",
+    "dateAdded": "2026-08-22T14:55:15.000Z"
+  },
+  {
+    "id": "recz3qYPvFNYdeuBU",
+    "year": 1950,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "21P/1-127",
+    "photoUrl": "assets/img/plates/attwyMFx4lYGF0YQs.jpg",
+    "dateAdded": "2026-08-22T14:33:35.000Z"
+  },
+  {
     "id": "recz6aYZCJVYu97jZ",
     "year": 1942,
     "countyNumber": "17",
@@ -7464,6 +9240,18 @@
     "serial": "8-1915",
     "photoUrl": "assets/img/plates/attFur0bXjIKhP0ou.jpg",
     "dateAdded": "2026-08-21T15:39:21.000Z"
+  },
+  {
+    "id": "reczIoZcPDCDvRITm",
+    "year": 1944,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "21D-400",
+    "photoUrl": "assets/img/plates/att1gshu5dBEVIh58.jpg",
+    "dateAdded": "2026-08-22T14:38:01.000Z"
   },
   {
     "id": "reczKsFCx7n196OTq",
@@ -7490,6 +9278,18 @@
     "dateAdded": "2026-08-22T03:07:18.000Z"
   },
   {
+    "id": "reczg8HzPYfkPWz2b",
+    "year": 1956,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "21-37",
+    "photoUrl": "assets/img/plates/atta7aranGQvDnOEV.jpg",
+    "dateAdded": "2026-08-22T14:34:46.000Z"
+  },
+  {
     "id": "reczgp2ckFK9o6xXP",
     "year": 1955,
     "countyNumber": "4",
@@ -7512,5 +9312,17 @@
     "serial": "17F/1-40",
     "photoUrl": "assets/img/plates/attbLj8PMLz889P8P.jpg",
     "dateAdded": "2026-08-22T03:27:21.000Z"
+  },
+  {
+    "id": "reczpSvLBfZ7hAnzn",
+    "year": 1949,
+    "countyNumber": "21",
+    "countyName": "Carter",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "21-5530",
+    "photoUrl": "assets/img/plates/att9g2bJEVaCPX7Xd.jpg",
+    "dateAdded": "2026-08-22T14:33:19.000Z"
   }
 ]
