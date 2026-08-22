@@ -60,6 +60,18 @@
     "dateAdded": "2026-08-21T15:51:09.000Z"
   },
   {
+    "id": "rec0IVkkABKpVCFEK",
+    "year": 1954,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Motorcycle",
+    "serial": "18-7",
+    "photoUrl": "assets/img/plates/attEEx5zMfznoP8RA.jpg",
+    "dateAdded": "2026-08-22T13:22:04.000Z"
+  },
+  {
     "id": "rec0JhSgRttsxzgAz",
     "year": 1951,
     "countyNumber": "13",
@@ -192,6 +204,18 @@
     "dateAdded": "2026-08-21T20:16:12.000Z"
   },
   {
+    "id": "rec1M1GpE3st5TgWM",
+    "year": 1939,
+    "countyNumber": "19",
+    "countyName": "Bradley",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "19-1430",
+    "photoUrl": "assets/img/plates/attaQY1lnzJh11ztB.jpg",
+    "dateAdded": "2026-08-22T13:27:23.000Z"
+  },
+  {
     "id": "rec1XRAxGcIGS6Qz7",
     "year": 1956,
     "countyNumber": "6",
@@ -226,6 +250,18 @@
     "serial": "12 763",
     "photoUrl": "assets/img/plates/atthfcfEaKWZAcYAm.jpg",
     "dateAdded": "2026-08-21T18:15:23.000Z"
+  },
+  {
+    "id": "rec2Avpb2j9U5CgTr",
+    "year": 1954,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Dealer",
+    "serial": "18DLR-556",
+    "photoUrl": "assets/img/plates/attj2fyOLhtlirjEx.jpg",
+    "dateAdded": "2026-08-22T13:16:47.000Z"
   },
   {
     "id": "rec2EaheIC7yOlBYM",
@@ -276,6 +312,18 @@
     "dateAdded": "2026-08-21T18:18:58.000Z"
   },
   {
+    "id": "rec2XM2Hc2smEzXuE",
+    "year": 1956,
+    "countyNumber": "20",
+    "countyName": "Williamson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "20F/1-58",
+    "photoUrl": "assets/img/plates/attEfxhWiuaQH8fSN.jpg",
+    "dateAdded": "2026-08-22T13:29:16.000Z"
+  },
+  {
     "id": "rec2bYeEyGlPW0zti",
     "year": 1965,
     "countyNumber": "14",
@@ -298,6 +346,18 @@
     "serial": "14-889",
     "photoUrl": "assets/img/plates/attCHPkqp5iBQZrGm.jpg",
     "dateAdded": "2026-08-21T20:21:37.000Z"
+  },
+  {
+    "id": "rec2rFJKKmZMN3IA0",
+    "year": 1953,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "18-6612",
+    "photoUrl": "assets/img/plates/attxug3xGP0WGbcRe.jpg",
+    "dateAdded": "2026-08-22T13:21:01.000Z"
   },
   {
     "id": "rec2uPb70fJpt0Aws",
@@ -588,6 +648,18 @@
     "dateAdded": "2026-08-21T15:19:32.000Z"
   },
   {
+    "id": "rec4AeSoKS82CzKui",
+    "year": 1951,
+    "countyNumber": "19",
+    "countyName": "Bradley",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "19D-28",
+    "photoUrl": "assets/img/plates/att5dP14awVxjAUNI.jpg",
+    "dateAdded": "2026-08-22T13:23:24.000Z"
+  },
+  {
     "id": "rec4M9nTyhwNQlfgC",
     "year": 1949,
     "countyNumber": "11",
@@ -828,6 +900,18 @@
     "dateAdded": "2026-08-21T14:53:45.000Z"
   },
   {
+    "id": "rec5lMO3OtDy1aqHg",
+    "year": 1955,
+    "countyNumber": "19",
+    "countyName": "Bradley",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "19-352",
+    "photoUrl": "assets/img/plates/attuKqMlY9VDLgjgi.jpg",
+    "dateAdded": "2026-08-22T13:24:12.000Z"
+  },
+  {
     "id": "rec606ID13ECK7T6B",
     "year": 1948,
     "countyNumber": "10",
@@ -838,6 +922,18 @@
     "serial": "10-826",
     "photoUrl": "assets/img/plates/attfCGarGi3gpLj8P.jpg",
     "dateAdded": "2026-08-21T16:09:02.000Z"
+  },
+  {
+    "id": "rec699SsDRtVGwDKv",
+    "year": 1945,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Truck",
+    "serial": "18P/1-213",
+    "photoUrl": "assets/img/plates/attRMr5QS4kzAJkz8.jpg",
+    "dateAdded": "2026-08-22T13:05:49.000Z"
   },
   {
     "id": "rec6I6EiXLbC5I0Hh",
@@ -910,6 +1006,18 @@
     "serial": "7-5486",
     "photoUrl": "assets/img/plates/attjnLJSMozMkw5B7.jpg",
     "dateAdded": "2026-08-21T15:17:04.000Z"
+  },
+  {
+    "id": "rec6mCt0uFPyCm0hl",
+    "year": 1965,
+    "countyNumber": "20",
+    "countyName": "Williamson",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "20-66",
+    "photoUrl": "assets/img/plates/attOt8FIyhsLydHu8.jpg",
+    "dateAdded": "2026-08-22T13:28:11.000Z"
   },
   {
     "id": "rec71PhUcXmn1SNZY",
@@ -1068,6 +1176,18 @@
     "dateAdded": "2026-08-21T20:48:21.000Z"
   },
   {
+    "id": "rec7hLZhCTDJdePzi",
+    "year": 1945,
+    "countyNumber": "19",
+    "countyName": "Bradley",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "19-19",
+    "photoUrl": "assets/img/plates/attgzShhdiVCquzbf.jpg",
+    "dateAdded": "2026-08-22T13:27:05.000Z"
+  },
+  {
     "id": "rec7sYlX3qjgLmt50",
     "year": 1950,
     "countyNumber": "13",
@@ -1090,6 +1210,18 @@
     "serial": "12-18",
     "photoUrl": "assets/img/plates/attWjQSpOb2wAQSzS.jpg",
     "dateAdded": "2026-08-21T18:23:05.000Z"
+  },
+  {
+    "id": "rec892JrAvnf1Ot6D",
+    "year": 1953,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Motorcycle",
+    "serial": "18-10",
+    "photoUrl": "assets/img/plates/attYmitdwoYQfNrD4.jpg",
+    "dateAdded": "2026-08-22T13:21:41.000Z"
   },
   {
     "id": "rec8AcuEKLfTeIYAf",
@@ -1138,6 +1270,18 @@
     "serial": "13-440",
     "photoUrl": "assets/img/plates/att0dhq5Z1VYBrxdX.jpg",
     "dateAdded": "2026-08-21T20:05:54.000Z"
+  },
+  {
+    "id": "rec8QoZRVOW4IM7na",
+    "year": 1947,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "18A-3",
+    "photoUrl": "assets/img/plates/attqi6dqeLnBW83XN.jpg",
+    "dateAdded": "2026-08-22T13:07:48.000Z"
   },
   {
     "id": "rec8bf5ate9920FEb",
@@ -1210,6 +1354,18 @@
     "serial": "4-35",
     "photoUrl": "assets/img/plates/attXeBfp1E3487zE8.jpg",
     "dateAdded": "2026-08-21T00:44:23.000Z"
+  },
+  {
+    "id": "rec968lU4RUN2jTeH",
+    "year": 1951,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "18-5320",
+    "photoUrl": "assets/img/plates/attjcSlO9ABs2BElo.jpg",
+    "dateAdded": "2026-08-22T13:06:43.000Z"
   },
   {
     "id": "rec98g3KjO8obayaD",
@@ -1308,6 +1464,18 @@
     "dateAdded": "2026-08-21T20:07:54.000Z"
   },
   {
+    "id": "rec9iU1fXm6PjEb1t",
+    "year": 1945,
+    "countyNumber": "19",
+    "countyName": "Bradley",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "19-509",
+    "photoUrl": "assets/img/plates/attz45Z1xO6TIDJdF.jpg",
+    "dateAdded": "2026-08-22T13:24:34.000Z"
+  },
+  {
     "id": "rec9rAJ4jgm7ki09n",
     "year": 1946,
     "countyNumber": "6",
@@ -1378,6 +1546,30 @@
     "serial": "3W4FX",
     "photoUrl": "assets/img/plates/attD6eEVoJNIA2pEk.jpg",
     "dateAdded": "2026-08-21T13:21:40.000Z"
+  },
+  {
+    "id": "recAPqlOJjuQ8xpQI",
+    "year": 1955,
+    "countyNumber": "19",
+    "countyName": "Bradley",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "19-1717",
+    "photoUrl": "assets/img/plates/attyqR9XXe3HQweyG.jpg",
+    "dateAdded": "2026-08-22T13:23:42.000Z"
+  },
+  {
+    "id": "recAVAgm6hyYJ7RQ0",
+    "year": 1941,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "18A-4",
+    "photoUrl": "assets/img/plates/attuUgrQiDkjEZtU1.jpg",
+    "dateAdded": "2026-08-22T13:07:17.000Z"
   },
   {
     "id": "recAar9JFpgl0Q57M",
@@ -1500,6 +1692,18 @@
     "dateAdded": "2026-08-20T02:49:58.000Z"
   },
   {
+    "id": "recC1tMN7tiXjY2bP",
+    "year": 1965,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "18-19",
+    "photoUrl": "assets/img/plates/attqV1eoMthEy2gsp.jpg",
+    "dateAdded": "2026-08-22T13:15:04.000Z"
+  },
+  {
     "id": "recC2HJ7SuLAT0AsK",
     "year": 1946,
     "countyNumber": "14",
@@ -1618,6 +1822,18 @@
     "serial": "8-1",
     "photoUrl": "assets/img/plates/attQ1fmbyfAHK4iyr.jpg",
     "dateAdded": "2026-08-21T15:30:02.000Z"
+  },
+  {
+    "id": "recCpHiczJZfDkrJ2",
+    "year": 1949,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Taxi",
+    "serial": "18TAXI-38",
+    "photoUrl": "assets/img/plates/attoU1O1KOMP4zRbX.jpg",
+    "dateAdded": "2026-08-22T13:08:50.000Z"
   },
   {
     "id": "recCvgugk3qgJipw7",
@@ -1740,6 +1956,18 @@
     "dateAdded": "2026-08-21T00:06:16.000Z"
   },
   {
+    "id": "recDwEWEtFwiSj5pn",
+    "year": 1951,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "18P/1-502",
+    "photoUrl": "assets/img/plates/attF2WhAfX5sgDjc6.jpg",
+    "dateAdded": "2026-08-22T13:17:42.000Z"
+  },
+  {
     "id": "recE2KShrRtJs2dr7",
     "year": 1951,
     "countyNumber": "5",
@@ -1848,6 +2076,30 @@
     "dateAdded": "2026-08-22T03:07:00.000Z"
   },
   {
+    "id": "recEvK02ODO6Dw9Dc",
+    "year": 1951,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "18-4",
+    "photoUrl": "assets/img/plates/att6EzY3mMVWf4RXw.jpg",
+    "dateAdded": "2026-08-22T13:21:14.000Z"
+  },
+  {
+    "id": "recEyvpk1smA5u4H9",
+    "year": 1944,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "18-738",
+    "photoUrl": "assets/img/plates/atthAvfx6netab8wr.jpg",
+    "dateAdded": "2026-08-22T13:04:28.000Z"
+  },
+  {
     "id": "recEzk0Yq4VjxokZ4",
     "year": 1951,
     "countyNumber": "17",
@@ -1858,6 +2110,18 @@
     "serial": "17-2571",
     "photoUrl": "assets/img/plates/attDt47FtudwGAW36.jpg",
     "dateAdded": "2026-08-22T03:31:28.000Z"
+  },
+  {
+    "id": "recFL3nv53up096K2",
+    "year": 1952,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "18-5",
+    "photoUrl": "assets/img/plates/att92befscQqdnaqs.jpg",
+    "dateAdded": "2026-08-22T13:21:28.000Z"
   },
   {
     "id": "recFRAkiz3e43X075",
@@ -2040,6 +2304,18 @@
     "dateAdded": "2026-08-21T14:44:38.000Z"
   },
   {
+    "id": "recGYvxyjdx3MniHp",
+    "year": 1951,
+    "countyNumber": "19",
+    "countyName": "Bradley",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "19-352",
+    "photoUrl": "assets/img/plates/attFeLKGe4Ntfi3I6.jpg",
+    "dateAdded": "2026-08-22T13:22:54.000Z"
+  },
+  {
     "id": "recGaJ5Ae9a1sQEjc",
     "year": 1956,
     "countyNumber": "12",
@@ -2148,6 +2424,18 @@
     "dateAdded": "2026-08-21T18:04:04.000Z"
   },
   {
+    "id": "recH7Kcrk8T6vB5Vh",
+    "year": 1946,
+    "countyNumber": "19",
+    "countyName": "Bradley",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "19-2809",
+    "photoUrl": "assets/img/plates/attPp07Cb8VdwKEvj.jpg",
+    "dateAdded": "2026-08-22T13:26:48.000Z"
+  },
+  {
     "id": "recH8lE5SKaL8e6FF",
     "year": 1949,
     "countyNumber": "17",
@@ -2208,6 +2496,18 @@
     "dateAdded": "2026-08-13T23:48:42.000Z"
   },
   {
+    "id": "recHXPccM5iEaW4Gq",
+    "year": 1953,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "18-5871",
+    "photoUrl": "assets/img/plates/att8qfBTKW4bFeRxf.jpg",
+    "dateAdded": "2026-08-22T13:03:09.000Z"
+  },
+  {
     "id": "recHkVWoDtLWAlPaH",
     "year": 1939,
     "countyNumber": "8",
@@ -2218,6 +2518,18 @@
     "serial": "8FREE-100",
     "photoUrl": "assets/img/plates/attti9W0RFaQQ4s7d.jpg",
     "dateAdded": "2026-08-21T15:43:04.000Z"
+  },
+  {
+    "id": "recI27aWgolc3I8QB",
+    "year": 1955,
+    "countyNumber": "20",
+    "countyName": "Williamson",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Farm Truck",
+    "serial": "20F/1-225",
+    "photoUrl": "assets/img/plates/attYFLa0IAXUrM7xU.jpg",
+    "dateAdded": "2026-08-22T13:29:36.000Z"
   },
   {
     "id": "recIEdZl9MDs97Pwa",
@@ -2232,6 +2544,18 @@
     "dateAdded": "2026-08-13T22:23:29.000Z"
   },
   {
+    "id": "recILiUuPLBlq3f2B",
+    "year": 1939,
+    "countyNumber": "20",
+    "countyName": "Williamson",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "20-527",
+    "photoUrl": "assets/img/plates/atti9xYgyDxU9EnlC.jpg",
+    "dateAdded": "2026-08-22T13:31:43.000Z"
+  },
+  {
     "id": "recIQZlki1GzoCdFe",
     "year": 1952,
     "countyNumber": "11",
@@ -2242,6 +2566,18 @@
     "serial": "11-1886",
     "photoUrl": "assets/img/plates/attnMo9zLhGZUdMND.jpg",
     "dateAdded": "2026-08-21T18:03:50.000Z"
+  },
+  {
+    "id": "recIbtlslTBwxD6FL",
+    "year": 1949,
+    "countyNumber": "20",
+    "countyName": "Williamson",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "20-385",
+    "photoUrl": "assets/img/plates/attf6DTzMvz5kxr0I.jpg",
+    "dateAdded": "2026-08-22T13:32:30.000Z"
   },
   {
     "id": "recIf5PHhXrYUxHdS",
@@ -2314,6 +2650,18 @@
     "serial": "7D-558",
     "photoUrl": "assets/img/plates/att7NSQzMPlW1sRUA.jpg",
     "dateAdded": "2026-08-21T15:17:43.000Z"
+  },
+  {
+    "id": "recJICOZq9nfNPZI8",
+    "year": 1956,
+    "countyNumber": "19",
+    "countyName": "Bradley",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "19-5402",
+    "photoUrl": "assets/img/plates/atty7oYo9hPZ2H2t2.jpg",
+    "dateAdded": "2026-08-22T13:26:30.000Z"
   },
   {
     "id": "recJKxXD9FoGmvDis",
@@ -2424,6 +2772,18 @@
     "dateAdded": "2026-08-13T22:23:29.000Z"
   },
   {
+    "id": "recKODdzVUYk3BMk6",
+    "year": 1949,
+    "countyNumber": "20",
+    "countyName": "Williamson",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Heavy Car",
+    "serial": "20D-7",
+    "photoUrl": "assets/img/plates/attD1daWZX41A64pJ.jpg",
+    "dateAdded": "2026-08-22T13:30:10.000Z"
+  },
+  {
     "id": "recKU5VaxHjSxJUnO",
     "year": 1954,
     "countyNumber": "4",
@@ -2458,6 +2818,18 @@
     "serial": "4F/1-975",
     "photoUrl": "assets/img/plates/attW6jdi8nKb8vOw0.jpg",
     "dateAdded": "2026-08-21T00:56:05.000Z"
+  },
+  {
+    "id": "recKdaAROnZ6DIndz",
+    "year": 1940,
+    "countyNumber": "19",
+    "countyName": "Bradley",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "19-127",
+    "photoUrl": "assets/img/plates/attjhh6ptLjXnXDFl.jpg",
+    "dateAdded": "2026-08-22T13:25:11.000Z"
   },
   {
     "id": "recKhwmOrGesE31KM",
@@ -2640,6 +3012,18 @@
     "dateAdded": "2026-08-21T15:36:30.000Z"
   },
   {
+    "id": "recMm5ddCQ4eA1mPu",
+    "year": 1954,
+    "countyNumber": "19",
+    "countyName": "Bradley",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Truck",
+    "serial": "19P/1-502",
+    "photoUrl": "assets/img/plates/att7Kcg85lWNwa5XO.jpg",
+    "dateAdded": "2026-08-22T13:25:33.000Z"
+  },
+  {
     "id": "recMqAmLovtsDimOO",
     "year": 1945,
     "countyNumber": "17",
@@ -2796,6 +3180,18 @@
     "dateAdded": "2026-08-21T18:22:34.000Z"
   },
   {
+    "id": "recNm2t1cggJtDRfM",
+    "year": 1955,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Farm Truck",
+    "serial": "18F/1-2",
+    "photoUrl": "assets/img/plates/attYpDygpQdPBVqA3.jpg",
+    "dateAdded": "2026-08-22T13:14:03.000Z"
+  },
+  {
     "id": "recNuaIBafEXHbec6",
     "year": 1951,
     "countyNumber": "2",
@@ -2892,6 +3288,30 @@
     "dateAdded": "2026-08-22T03:19:20.000Z"
   },
   {
+    "id": "recOy7TnJiRXIfgqe",
+    "year": 1942,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Taxi",
+    "serial": "18TAXID/3-52",
+    "photoUrl": "assets/img/plates/attMOPL6kediCohyx.jpg",
+    "dateAdded": "2026-08-22T13:05:13.000Z"
+  },
+  {
+    "id": "recOzElxIEX4FePrd",
+    "year": 1955,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "18D-1130",
+    "photoUrl": "assets/img/plates/attjPGBojSUti7IGa.jpg",
+    "dateAdded": "2026-08-22T13:04:00.000Z"
+  },
+  {
     "id": "recP00PYFnOisPsWe",
     "year": 1951,
     "countyNumber": "10",
@@ -2940,6 +3360,54 @@
     "dateAdded": "2026-08-21T17:59:56.000Z"
   },
   {
+    "id": "recP8eHauby8zsSiT",
+    "year": 1948,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "18-493",
+    "photoUrl": "assets/img/plates/attd9A3v3Z17rVbz0.jpg",
+    "dateAdded": "2026-08-22T13:02:35.000Z"
+  },
+  {
+    "id": "recPGj7FU1IH0yGI9",
+    "year": 1950,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Heavy Car",
+    "serial": "18D-405",
+    "photoUrl": "assets/img/plates/att8mMk6oQRppnSjS.jpg",
+    "dateAdded": "2026-08-22T13:09:47.000Z"
+  },
+  {
+    "id": "recPqvVQAVyjkKAKq",
+    "year": 1950,
+    "countyNumber": "19",
+    "countyName": "Bradley",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "19-281",
+    "photoUrl": "assets/img/plates/attaBwQl0vmfyg9PY.jpg",
+    "dateAdded": "2026-08-22T13:27:55.000Z"
+  },
+  {
+    "id": "recPyET4jJB0mIxUT",
+    "year": 1947,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "18-1818",
+    "photoUrl": "assets/img/plates/attCfT6QOK1HfTQD2.jpg",
+    "dateAdded": "2026-08-22T13:19:26.000Z"
+  },
+  {
     "id": "recQT2a6GHVj0aZF1",
     "year": 1955,
     "countyNumber": "2",
@@ -2962,6 +3430,18 @@
     "serial": "13-80",
     "photoUrl": "assets/img/plates/attDArnEr0p9Yt5Dr.jpg",
     "dateAdded": "2026-08-21T20:00:20.000Z"
+  },
+  {
+    "id": "recQVDkUT49dc5Itg",
+    "year": 1965,
+    "countyNumber": "19",
+    "countyName": "Bradley",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "19-14",
+    "photoUrl": "assets/img/plates/attivuQLUzk6j7SGz.jpg",
+    "dateAdded": "2026-08-22T13:23:59.000Z"
   },
   {
     "id": "recQYNeH7LqTxx34K",
@@ -3048,6 +3528,18 @@
     "dateAdded": "2026-08-20T23:54:41.000Z"
   },
   {
+    "id": "recQylC9oLwxTXFsC",
+    "year": 1939,
+    "countyNumber": "2",
+    "countyName": "Shelby",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "2-6727",
+    "photoUrl": "assets/img/plates/attN5Do394pmDK9fQ.jpg",
+    "dateAdded": "2026-08-22T13:20:30.000Z"
+  },
+  {
     "id": "recR76eK1LlahpkVq",
     "year": 1953,
     "countyNumber": "4",
@@ -3108,6 +3600,18 @@
     "dateAdded": "2026-08-22T03:22:58.000Z"
   },
   {
+    "id": "recRUCdDLhUXkbFAv",
+    "year": 1947,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "18-4583",
+    "photoUrl": "assets/img/plates/attpCA016P9ytW2VB.jpg",
+    "dateAdded": "2026-08-22T13:09:27.000Z"
+  },
+  {
     "id": "recRgTRhqUi3o2CdN",
     "year": 1951,
     "countyNumber": "8",
@@ -3142,6 +3646,18 @@
     "serial": "14-645",
     "photoUrl": "assets/img/plates/attRYFUUpbAAqSeqd.jpg",
     "dateAdded": "2026-08-21T20:33:56.000Z"
+  },
+  {
+    "id": "recSLnGfFikW59Ejj",
+    "year": 1946,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "18-1818",
+    "photoUrl": "assets/img/plates/attGh6MjTS6TLTiBQ.jpg",
+    "dateAdded": "2026-08-22T13:19:07.000Z"
   },
   {
     "id": "recSNThc4zcWIn0KU",
@@ -3192,6 +3708,30 @@
     "dateAdded": "2026-08-21T16:05:53.000Z"
   },
   {
+    "id": "recSvF4OIFpE9ngYE",
+    "year": 1951,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "18-1473",
+    "photoUrl": "assets/img/plates/attIM9oDN5wtT8Tgs.jpg",
+    "dateAdded": "2026-08-22T13:18:50.000Z"
+  },
+  {
+    "id": "recT0uNT3F91KmytV",
+    "year": 1962,
+    "countyNumber": "20",
+    "countyName": "Williamson",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "20-6",
+    "photoUrl": "assets/img/plates/att7ZEgiq3NG1mrST.jpg",
+    "dateAdded": "2026-08-22T13:32:46.000Z"
+  },
+  {
     "id": "recTD2dI6s7X8bGk7",
     "year": 1945,
     "countyNumber": "11",
@@ -3204,6 +3744,30 @@
     "dateAdded": "2026-08-21T18:01:12.000Z"
   },
   {
+    "id": "recTRnhRSQpsvt7PI",
+    "year": 1941,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "18-3387",
+    "photoUrl": "assets/img/plates/atttxw5FmVlExgQ8B.jpg",
+    "dateAdded": "2026-08-22T13:01:44.000Z"
+  },
+  {
+    "id": "recTdeLkx4FH3NDbl",
+    "year": 1956,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "18-1528",
+    "photoUrl": "assets/img/plates/att8LMSTyCZk4d3a9.jpg",
+    "dateAdded": "2026-08-22T13:14:45.000Z"
+  },
+  {
     "id": "recTesWEj30eQWzz0",
     "year": 1951,
     "countyNumber": "17",
@@ -3214,6 +3778,30 @@
     "serial": "17-2150",
     "photoUrl": "assets/img/plates/attYaLbcSPz1NPc4U.jpg",
     "dateAdded": "2026-08-22T03:23:51.000Z"
+  },
+  {
+    "id": "recThp1rILXlALvLE",
+    "year": 1948,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "18-420",
+    "photoUrl": "assets/img/plates/attadcjI7m7cqUvr9.jpg",
+    "dateAdded": "2026-08-22T13:19:42.000Z"
+  },
+  {
+    "id": "recTv076QDppw5QcH",
+    "year": 1949,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Motorcycle",
+    "serial": "18-6",
+    "photoUrl": "assets/img/plates/attbRihqu3PUuxc7L.jpg",
+    "dateAdded": "2026-08-22T13:08:19.000Z"
   },
   {
     "id": "recUPbtt1bcWCabfK",
@@ -3274,6 +3862,18 @@
     "serial": "6H/7-Z010",
     "photoUrl": "assets/img/plates/attXg6tsa0jX7Vh8F.jpg",
     "dateAdded": "2026-08-21T14:58:11.000Z"
+  },
+  {
+    "id": "recUaI2h5nB2dEFld",
+    "year": 1942,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "18-527",
+    "photoUrl": "assets/img/plates/attREGKDYmIAZO9G9.jpg",
+    "dateAdded": "2026-08-22T13:04:15.000Z"
   },
   {
     "id": "recUgSP736Yu1ePUP",
@@ -3420,6 +4020,18 @@
     "dateAdded": "2026-08-21T20:35:20.000Z"
   },
   {
+    "id": "recWaSDrTXjYoP5mb",
+    "year": 1949,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "18F/1-951",
+    "photoUrl": "assets/img/plates/att4VxvTtYFrZjx3W.jpg",
+    "dateAdded": "2026-08-22T13:10:36.000Z"
+  },
+  {
     "id": "recWenXmzCmhGXwjN",
     "year": 1942,
     "countyNumber": "7",
@@ -3456,6 +4068,18 @@
     "dateAdded": "2026-08-20T23:54:38.000Z"
   },
   {
+    "id": "recWrjgvgcN2ZTroY",
+    "year": 1949,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Heavy Car",
+    "serial": "18D-149",
+    "photoUrl": "assets/img/plates/attFLRK4B0Zg3PvEL.jpg",
+    "dateAdded": "2026-08-22T13:09:13.000Z"
+  },
+  {
     "id": "recWtKcPRsHBc24iW",
     "year": 1962,
     "countyNumber": "2",
@@ -3490,6 +4114,30 @@
     "serial": "9P/2-5424",
     "photoUrl": "assets/img/plates/att5DLlYLNRnW1yNG.jpg",
     "dateAdded": "2026-08-21T15:53:21.000Z"
+  },
+  {
+    "id": "recXC6Uyc0SQv23if",
+    "year": 1954,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "18-201",
+    "photoUrl": "assets/img/plates/attk6bUpUnqIsif3c.jpg",
+    "dateAdded": "2026-08-22T13:03:29.000Z"
+  },
+  {
+    "id": "recXGxVuTjqqVFagg",
+    "year": 1956,
+    "countyNumber": "20",
+    "countyName": "Williamson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "For Hire",
+    "serial": "20H/7-Z03",
+    "photoUrl": "assets/img/plates/attSjo5Xw9ydRaHCx.jpg",
+    "dateAdded": "2026-08-22T13:31:07.000Z"
   },
   {
     "id": "recXNTb3fUaSqtp0e",
@@ -3682,6 +4330,18 @@
     "serial": "4CITY-705",
     "photoUrl": "assets/img/plates/attEhBKBeWihjpNfo.jpg",
     "dateAdded": "2026-08-21T00:56:03.000Z"
+  },
+  {
+    "id": "recZ5MXqit3D9WmLb",
+    "year": 1948,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "18-1119",
+    "photoUrl": "assets/img/plates/atteEJST82swWGg3S.jpg",
+    "dateAdded": "2026-08-22T13:02:00.000Z"
   },
   {
     "id": "recZ5RLjglPVgj6x1",
@@ -3936,6 +4596,18 @@
     "dateAdded": "2026-08-21T00:02:00.000Z"
   },
   {
+    "id": "recb79Xin4ConjgR9",
+    "year": 1940,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Motorcycle",
+    "serial": "18A-4",
+    "photoUrl": "assets/img/plates/attJrl1wVhEdqdSRA.jpg",
+    "dateAdded": "2026-08-22T13:07:02.000Z"
+  },
+  {
     "id": "recb9Nbca0msjQqUa",
     "year": 1939,
     "countyNumber": "17",
@@ -3958,6 +4630,18 @@
     "serial": "8-3812",
     "photoUrl": "assets/img/plates/attX1KF2Sf6yxfs6Q.jpg",
     "dateAdded": "2026-08-21T15:39:07.000Z"
+  },
+  {
+    "id": "recbCDBhI1aKuqer3",
+    "year": 1951,
+    "countyNumber": "20",
+    "countyName": "Williamson",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "20D-214",
+    "photoUrl": "assets/img/plates/attiKuRDdMAMjzegc.jpg",
+    "dateAdded": "2026-08-22T13:28:46.000Z"
   },
   {
     "id": "recbKfFEW33IfusJw",
@@ -4078,6 +4762,30 @@
     "serial": "10-6",
     "photoUrl": "assets/img/plates/attzSrxiQ6j0AUomn.jpg",
     "dateAdded": "2026-08-21T16:04:26.000Z"
+  },
+  {
+    "id": "recdDSS57cYhXcHUV",
+    "year": 1939,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "18-3860",
+    "photoUrl": "assets/img/plates/attX3tZa8sSZ7DG4o.jpg",
+    "dateAdded": "2026-08-22T13:17:05.000Z"
+  },
+  {
+    "id": "recdXJ4viYwEBsGMD",
+    "year": 1940,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "18-45",
+    "photoUrl": "assets/img/plates/attXH5PeaBHJM2ICD.jpg",
+    "dateAdded": "2026-08-22T13:01:15.000Z"
   },
   {
     "id": "recda6RbV2Ce383Dk",
@@ -4224,6 +4932,18 @@
     "dateAdded": "2026-08-21T15:15:07.000Z"
   },
   {
+    "id": "recf3evN1221aXV1N",
+    "year": 1946,
+    "countyNumber": "19",
+    "countyName": "Bradley",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Heavy Car",
+    "serial": "19D-303",
+    "photoUrl": "assets/img/plates/attkthMdsAUTm3vOZ.jpg",
+    "dateAdded": "2026-08-22T13:24:52.000Z"
+  },
+  {
     "id": "recf5gSBeGT35Lwec",
     "year": 1952,
     "countyNumber": "12",
@@ -4306,6 +5026,18 @@
     "serial": "17-3107",
     "photoUrl": "assets/img/plates/att3qGgaHl1E8Zj9X.jpg",
     "dateAdded": "2026-08-22T03:29:37.000Z"
+  },
+  {
+    "id": "recfRyDcCeuHePOIg",
+    "year": 1950,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "18-2",
+    "photoUrl": "assets/img/plates/atta87LEZGyGRP4yk.jpg",
+    "dateAdded": "2026-08-22T13:08:37.000Z"
   },
   {
     "id": "recfU7kqtkXGajoC5",
@@ -4428,6 +5160,18 @@
     "dateAdded": "2026-08-21T18:17:12.000Z"
   },
   {
+    "id": "recgrGkoAiT4y4ojw",
+    "year": 1955,
+    "countyNumber": "19",
+    "countyName": "Bradley",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "19-900",
+    "photoUrl": "assets/img/plates/attqSuvvEa1nB8tBJ.jpg",
+    "dateAdded": "2026-08-22T13:25:59.000Z"
+  },
+  {
     "id": "recgz56wOv0SKLcv7",
     "year": 1939,
     "countyNumber": "13",
@@ -4500,6 +5244,18 @@
     "dateAdded": "2026-08-21T16:01:23.000Z"
   },
   {
+    "id": "rechTEHIZY4yYkYtS",
+    "year": 1949,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "18-1278",
+    "photoUrl": "assets/img/plates/attiQdduYfVWy8nqV.jpg",
+    "dateAdded": "2026-08-22T13:18:16.000Z"
+  },
+  {
     "id": "rechXjWn5lL8efHiz",
     "year": 1952,
     "countyNumber": "14",
@@ -4510,6 +5266,18 @@
     "serial": "14-246",
     "photoUrl": "assets/img/plates/attd3HhX0FDxIIOeW.jpg",
     "dateAdded": "2026-08-21T20:36:16.000Z"
+  },
+  {
+    "id": "rechZKW7oiS8yRo9H",
+    "year": 1951,
+    "countyNumber": "20",
+    "countyName": "Williamson",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "20-1414",
+    "photoUrl": "assets/img/plates/att2Jfam7DP9qbkAe.jpg",
+    "dateAdded": "2026-08-22T13:31:29.000Z"
   },
   {
     "id": "rechbs6bAiSLxuhbf",
@@ -4546,6 +5314,18 @@
     "serial": "14-1363",
     "photoUrl": "assets/img/plates/attcIK2llRRIDv6s6.jpg",
     "dateAdded": "2026-08-21T20:26:05.000Z"
+  },
+  {
+    "id": "rechp4SCexpHIPB54",
+    "year": null,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Green",
+    "fontColor": "White",
+    "type": "Government",
+    "serial": "18-149",
+    "photoUrl": "assets/img/plates/att15mEtAUGfUfrJY.jpg",
+    "dateAdded": "2026-08-22T13:11:05.000Z"
   },
   {
     "id": "rechsrfY7SPwOqFr5",
@@ -4692,6 +5472,30 @@
     "dateAdded": "2026-08-21T15:58:19.000Z"
   },
   {
+    "id": "recive2sIJDYvvqNg",
+    "year": 1950,
+    "countyNumber": "20",
+    "countyName": "Williamson",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Heavy Car",
+    "serial": "20D-126",
+    "photoUrl": "assets/img/plates/attsa5Ah3ZKQEfhjj.jpg",
+    "dateAdded": "2026-08-22T13:29:52.000Z"
+  },
+  {
+    "id": "reciydhCCl3dv4Pok",
+    "year": 1948,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "18-12",
+    "photoUrl": "assets/img/plates/attmy8EECxzQ13PIq.jpg",
+    "dateAdded": "2026-08-22T13:08:05.000Z"
+  },
+  {
     "id": "recj1ue7LbGHhxci5",
     "year": 1954,
     "countyNumber": "15",
@@ -4762,6 +5566,30 @@
     "serial": "14-5604",
     "photoUrl": "assets/img/plates/attolQun5MPJiZbcq.jpg",
     "dateAdded": "2026-08-21T20:32:51.000Z"
+  },
+  {
+    "id": "recjiqPkndpOFuuyX",
+    "year": 1947,
+    "countyNumber": "20",
+    "countyName": "Williamson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "20-335",
+    "photoUrl": "assets/img/plates/attOI0heA26jiduvI.jpg",
+    "dateAdded": "2026-08-22T13:30:37.000Z"
+  },
+  {
+    "id": "recjljqjpPGuvRnLg",
+    "year": 1951,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "18D-662",
+    "photoUrl": "assets/img/plates/att4CZHDaq1xbLJ6r.jpg",
+    "dateAdded": "2026-08-22T13:18:01.000Z"
   },
   {
     "id": "recjmV5FLTQKFW9QS",
@@ -4860,6 +5688,18 @@
     "dateAdded": "2026-08-21T20:00:49.000Z"
   },
   {
+    "id": "reckJuMw9YJYniCjX",
+    "year": 1955,
+    "countyNumber": "19",
+    "countyName": "Bradley",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "19-87",
+    "photoUrl": "assets/img/plates/attWcKaTypsGgNxKP.jpg",
+    "dateAdded": "2026-08-22T13:23:09.000Z"
+  },
+  {
     "id": "reckQVqjYKwnpxGQf",
     "year": 1951,
     "countyNumber": "5",
@@ -4870,6 +5710,18 @@
     "serial": "5-12883",
     "photoUrl": "assets/img/plates/attWx2OerO100DZe7.jpg",
     "dateAdded": "2026-08-21T14:44:37.000Z"
+  },
+  {
+    "id": "reckRIlCG1puyv06R",
+    "year": 1952,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "18F/1-424",
+    "photoUrl": "assets/img/plates/attlpxBCY6R7WdtYd.jpg",
+    "dateAdded": "2026-08-22T13:02:52.000Z"
   },
   {
     "id": "reckWYs7O6F6iE14k",
@@ -4966,6 +5818,18 @@
     "serial": "9-2642",
     "photoUrl": "assets/img/plates/attEC3kuk5wid0W1U.jpg",
     "dateAdded": "2026-08-21T15:46:54.000Z"
+  },
+  {
+    "id": "recl1jLdutnSK0jxM",
+    "year": 1944,
+    "countyNumber": "19",
+    "countyName": "Bradley",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "19-351",
+    "photoUrl": "assets/img/plates/attvABhFgzu0roSsq.jpg",
+    "dateAdded": "2026-08-22T13:22:40.000Z"
   },
   {
     "id": "reclGSDty7bnpWXqf",
@@ -5074,6 +5938,18 @@
     "serial": "17-630",
     "photoUrl": "assets/img/plates/attO33yL61vxdkQBL.jpg",
     "dateAdded": "2026-08-22T03:26:39.000Z"
+  },
+  {
+    "id": "reclvH0n62dfzrE96",
+    "year": null,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Green",
+    "fontColor": "White",
+    "type": "Government",
+    "serial": "18-THP-144",
+    "photoUrl": "assets/img/plates/attwOR2BsS8Jss12X.jpg",
+    "dateAdded": "2026-08-22T13:13:44.000Z"
   },
   {
     "id": "recm3Yu7fvYA8vh06",
@@ -5256,6 +6132,18 @@
     "dateAdded": "2026-08-21T20:12:01.000Z"
   },
   {
+    "id": "recnJ7CpZBMb7WnlA",
+    "year": 1951,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "18-28",
+    "photoUrl": "assets/img/plates/atts2VLO1rMF04JlQ.jpg",
+    "dateAdded": "2026-08-22T13:06:25.000Z"
+  },
+  {
     "id": "recnNa5kj6VJj7pGd",
     "year": 1946,
     "countyNumber": "17",
@@ -5278,6 +6166,18 @@
     "serial": "8-81",
     "photoUrl": "assets/img/plates/attF8bqRrMRMcf0Em.jpg",
     "dateAdded": "2026-08-21T15:32:16.000Z"
+  },
+  {
+    "id": "recndLNb7RO2046ng",
+    "year": 1945,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "18-591",
+    "photoUrl": "assets/img/plates/attX60YwOTVTvoTZg.jpg",
+    "dateAdded": "2026-08-22T13:04:55.000Z"
   },
   {
     "id": "recoALkgKjG0hRuG1",
@@ -5340,6 +6240,18 @@
     "dateAdded": "2026-08-21T18:02:01.000Z"
   },
   {
+    "id": "recoWiMoqCn5JY89K",
+    "year": 1956,
+    "countyNumber": "19",
+    "countyName": "Bradley",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "19-1628",
+    "photoUrl": "assets/img/plates/attHi1xIip713ZzCw.jpg",
+    "dateAdded": "2026-08-22T13:22:21.000Z"
+  },
+  {
     "id": "recoYGF7EaR7zTnwJ",
     "year": 1954,
     "countyNumber": "5",
@@ -5398,6 +6310,18 @@
     "serial": "1-1204",
     "photoUrl": "assets/img/plates/att91Rg11KmW09QZ6.jpg",
     "dateAdded": "2026-08-13T22:23:29.000Z"
+  },
+  {
+    "id": "recpGv0eomgcpD0on",
+    "year": 1942,
+    "countyNumber": "20",
+    "countyName": "Williamson",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "20-1053",
+    "photoUrl": "assets/img/plates/att0URqHFAuv8u5qf.jpg",
+    "dateAdded": "2026-08-22T13:32:15.000Z"
   },
   {
     "id": "recpH0Azke04LkVKk",
@@ -5628,6 +6552,18 @@
     "dateAdded": "2026-08-21T15:13:23.000Z"
   },
   {
+    "id": "recsI60ZkAGywGS6w",
+    "year": 1941,
+    "countyNumber": "20",
+    "countyName": "Williamson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "20-673",
+    "photoUrl": "assets/img/plates/attS1h8S4X5MFH3QZ.jpg",
+    "dateAdded": "2026-08-22T13:29:01.000Z"
+  },
+  {
     "id": "recsRW3BxkTA24Lhs",
     "year": 1953,
     "countyNumber": "2",
@@ -5676,6 +6612,18 @@
     "dateAdded": "2026-08-13T23:48:40.000Z"
   },
   {
+    "id": "recspWYwqJWDGwRxI",
+    "year": 1947,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "18-703",
+    "photoUrl": "assets/img/plates/attLr35KZcRCU4xmu.jpg",
+    "dateAdded": "2026-08-22T13:02:20.000Z"
+  },
+  {
     "id": "recsrkM5jouZkfqGW",
     "year": 1939,
     "countyNumber": "17",
@@ -5712,6 +6660,30 @@
     "dateAdded": "2026-08-21T15:53:43.000Z"
   },
   {
+    "id": "recsusNkiErTx2pym",
+    "year": 1939,
+    "countyNumber": "20",
+    "countyName": "Williamson",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "20-2546",
+    "photoUrl": "assets/img/plates/attvLjHYC3coPfTuf.jpg",
+    "dateAdded": "2026-08-22T13:31:58.000Z"
+  },
+  {
+    "id": "recsvT18UwbhKSzAA",
+    "year": 1945,
+    "countyNumber": "20",
+    "countyName": "Williamson",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "20-2354",
+    "photoUrl": "assets/img/plates/att29h9KMQaAEuFDr.jpg",
+    "dateAdded": "2026-08-22T13:30:23.000Z"
+  },
+  {
     "id": "recsz2o0Fm0h7NHdI",
     "year": 1952,
     "countyNumber": "17",
@@ -5734,6 +6706,30 @@
     "serial": "3COUNTY-60",
     "photoUrl": "assets/img/plates/atthfGJdjhVZyL1Tc.jpg",
     "dateAdded": "2026-08-21T00:02:06.000Z"
+  },
+  {
+    "id": "rect6nzZrJwYqnATx",
+    "year": 1955,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "18-1282",
+    "photoUrl": "assets/img/plates/attJqDXcA2gQieRA3.jpg",
+    "dateAdded": "2026-08-22T13:03:47.000Z"
+  },
+  {
+    "id": "rectEeL8cQksmbUMh",
+    "year": 1955,
+    "countyNumber": "20",
+    "countyName": "Williamson",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Farm Truck",
+    "serial": "20F/3-818",
+    "photoUrl": "assets/img/plates/att6Qcp6ArT2j6bn8.jpg",
+    "dateAdded": "2026-08-22T13:28:28.000Z"
   },
   {
     "id": "rectUvCkS2SIbPyl7",
@@ -5868,6 +6864,18 @@
     "dateAdded": "2026-08-21T15:35:53.000Z"
   },
   {
+    "id": "recuVWxI0wYp8QzyZ",
+    "year": 1950,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Heavy Car",
+    "serial": "18D-25",
+    "photoUrl": "assets/img/plates/attOf8gsmb2rnN9Is.jpg",
+    "dateAdded": "2026-08-22T13:18:29.000Z"
+  },
+  {
     "id": "recugv8M3584UmPCg",
     "year": 1953,
     "countyNumber": "3",
@@ -5890,6 +6898,18 @@
     "serial": "12-588",
     "photoUrl": "assets/img/plates/attcajI4BMciz6j2K.jpg",
     "dateAdded": "2026-08-21T18:22:07.000Z"
+  },
+  {
+    "id": "recvIQEY5aIxBaZwh",
+    "year": 1956,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "18-95",
+    "photoUrl": "assets/img/plates/attdMuOOf00VaNqDC.jpg",
+    "dateAdded": "2026-08-22T13:17:26.000Z"
   },
   {
     "id": "recvVPwKUnAaSN6og",
@@ -6132,6 +7152,18 @@
     "serial": "6-1654",
     "photoUrl": "assets/img/plates/att2gmNxEIJtkqX6Z.jpg",
     "dateAdded": "2026-08-21T14:44:46.000Z"
+  },
+  {
+    "id": "recxITIR8BLanEFKA",
+    "year": 1942,
+    "countyNumber": "18",
+    "countyName": "Dyer",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "18A-10",
+    "photoUrl": "assets/img/plates/att1OKEj2PaVt7jcC.jpg",
+    "dateAdded": "2026-08-22T13:07:32.000Z"
   },
   {
     "id": "recxK7OGUxglZQkGh",
@@ -6432,6 +7464,18 @@
     "serial": "8-1915",
     "photoUrl": "assets/img/plates/attFur0bXjIKhP0ou.jpg",
     "dateAdded": "2026-08-21T15:39:21.000Z"
+  },
+  {
+    "id": "reczKsFCx7n196OTq",
+    "year": 1960,
+    "countyNumber": "19",
+    "countyName": "Bradley",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "19-34",
+    "photoUrl": "assets/img/plates/attKFf94bdI5QSxlv.jpg",
+    "dateAdded": "2026-08-22T13:27:41.000Z"
   },
   {
     "id": "reczYjDtPwO4tG7Fo",
