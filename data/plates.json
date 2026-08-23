@@ -96,6 +96,18 @@
     "dateAdded": "2026-08-21T20:01:34.000Z"
   },
   {
+    "id": "rec0LG9KZAzbClHqt",
+    "year": 1953,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "27-1990",
+    "photoUrl": "assets/img/plates/att6heDz3gdIdV4kh.jpg",
+    "dateAdded": "2026-08-23T11:46:11.000Z"
+  },
+  {
     "id": "rec0LUx70rvho4QW9",
     "year": 1956,
     "countyNumber": "12",
@@ -154,6 +166,18 @@
     "serial": "4-23623",
     "photoUrl": "assets/img/plates/att2KBGCufbI6qo5x.jpg",
     "dateAdded": "2026-08-21T00:50:36.000Z"
+  },
+  {
+    "id": "rec0qD3glzK4OWNz1",
+    "year": 1951,
+    "countyNumber": "29",
+    "countyName": "Anderson",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "29F/1-176",
+    "photoUrl": "assets/img/plates/attZN1NVBFzOev1bh.jpg",
+    "dateAdded": "2026-08-23T12:15:00.000Z"
   },
   {
     "id": "rec0sSrZLK9dHcBGB",
@@ -384,6 +408,18 @@
     "dateAdded": "2026-08-21T20:48:04.000Z"
   },
   {
+    "id": "rec2VdcRm5O9bw4kl",
+    "year": 1951,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "27-3490",
+    "photoUrl": "assets/img/plates/attnpkNnAZyBRJOTM.jpg",
+    "dateAdded": "2026-08-23T11:38:01.000Z"
+  },
+  {
     "id": "rec2XM1Sb96TgpBwI",
     "year": 1942,
     "countyNumber": "12",
@@ -406,6 +442,18 @@
     "serial": "20F/1-58",
     "photoUrl": "assets/img/plates/attEfxhWiuaQH8fSN.jpg",
     "dateAdded": "2026-08-22T13:29:16.000Z"
+  },
+  {
+    "id": "rec2aXKJXverNaF7o",
+    "year": 1952,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Green",
+    "fontColor": "White",
+    "type": "Radio",
+    "serial": "27-W4PAG",
+    "photoUrl": "assets/img/plates/attYlvGqNhqJKu4qJ.jpg",
+    "dateAdded": "2026-08-23T11:54:21.000Z"
   },
   {
     "id": "rec2bYeEyGlPW0zti",
@@ -478,6 +526,18 @@
     "serial": "8-355",
     "photoUrl": "assets/img/plates/atthNiG66d1UrrAqF.jpg",
     "dateAdded": "2026-08-21T15:42:18.000Z"
+  },
+  {
+    "id": "rec346xJwIRZL0b8f",
+    "year": 1951,
+    "countyNumber": "28",
+    "countyName": "Lincoln",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "28-4072",
+    "photoUrl": "assets/img/plates/att499rTQXArjJLxT.jpg",
+    "dateAdded": "2026-08-23T11:58:04.000Z"
   },
   {
     "id": "rec3646VJDy6L64Wg",
@@ -936,6 +996,18 @@
     "dateAdded": "2026-08-21T15:49:36.000Z"
   },
   {
+    "id": "rec57vtnGJDFb2473",
+    "year": 1945,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "27-1596",
+    "photoUrl": "assets/img/plates/attHZfcdn4I6PS7hH.jpg",
+    "dateAdded": "2026-08-23T11:51:51.000Z"
+  },
+  {
     "id": "rec5AGbb4UdTAHMaB",
     "year": 1955,
     "countyNumber": "10",
@@ -1090,6 +1162,18 @@
     "serial": "25D-595",
     "photoUrl": "assets/img/plates/att8q1HYU7Cp5p60g.jpg",
     "dateAdded": "2026-08-22T15:09:49.000Z"
+  },
+  {
+    "id": "rec61F13UhHdQZlcv",
+    "year": 1955,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Maroon",
+    "fontColor": "White",
+    "type": "Dealer",
+    "serial": "27DLR7G",
+    "photoUrl": "assets/img/plates/att3tztfrmrjOTqy9.jpg",
+    "dateAdded": "2026-08-23T11:48:58.000Z"
   },
   {
     "id": "rec68dR8moc1VPn03",
@@ -1476,6 +1560,18 @@
     "dateAdded": "2026-08-22T14:56:00.000Z"
   },
   {
+    "id": "rec7xfDikUq6Abub1",
+    "year": 1951,
+    "countyNumber": "26",
+    "countyName": "Henry",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "26-1957",
+    "photoUrl": "assets/img/plates/att8tFTLP6EmVRxtF.jpg",
+    "dateAdded": "2026-08-23T02:38:07.000Z"
+  },
+  {
     "id": "rec805ddyEEg7Pq5Z",
     "year": 1955,
     "countyNumber": "21",
@@ -1498,6 +1594,18 @@
     "serial": "12-18",
     "photoUrl": "assets/img/plates/attWjQSpOb2wAQSzS.jpg",
     "dateAdded": "2026-08-21T18:23:05.000Z"
+  },
+  {
+    "id": "rec88iWMGor5lBVkh",
+    "year": 1952,
+    "countyNumber": "26",
+    "countyName": "Henry",
+    "colors": "Green",
+    "fontColor": "White",
+    "type": "County",
+    "serial": "26COUNTY-50",
+    "photoUrl": "assets/img/plates/attva8Y5tcYrli5P3.jpg",
+    "dateAdded": "2026-08-23T02:36:01.000Z"
   },
   {
     "id": "rec892JrAvnf1Ot6D",
@@ -1524,6 +1632,18 @@
     "dateAdded": "2026-08-21T15:14:10.000Z"
   },
   {
+    "id": "rec8EjHLltuNuPwgz",
+    "year": 1955,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Maroon",
+    "fontColor": "White",
+    "type": "Dealer",
+    "serial": "27DLR-7H",
+    "photoUrl": "assets/img/plates/att1dQp9LmsbskJOZ.jpg",
+    "dateAdded": "2026-08-23T11:49:27.000Z"
+  },
+  {
     "id": "rec8FjG9IxrSXkegY",
     "year": 1956,
     "countyNumber": "5",
@@ -1534,6 +1654,18 @@
     "serial": "5X",
     "photoUrl": "assets/img/plates/attRtKFNpQ8PT2AsP.jpg",
     "dateAdded": "2026-08-21T14:44:43.000Z"
+  },
+  {
+    "id": "rec8IECsQLUBFtdc4",
+    "year": 1951,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "27-1844",
+    "photoUrl": "assets/img/plates/att1Zdr6LktGMahL4.jpg",
+    "dateAdded": "2026-08-23T11:43:51.000Z"
   },
   {
     "id": "rec8KqNDRC3DVeAKG",
@@ -1752,6 +1884,18 @@
     "dateAdded": "2026-08-22T14:42:43.000Z"
   },
   {
+    "id": "rec9KSZ5hv7SLM3Ex",
+    "year": 1948,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "27-1596",
+    "photoUrl": "assets/img/plates/att1fvFcO3nQv0A1n.jpg",
+    "dateAdded": "2026-08-23T11:44:41.000Z"
+  },
+  {
     "id": "rec9QG8DTvkrL8zON",
     "year": 1958,
     "countyNumber": "6",
@@ -1872,6 +2016,18 @@
     "dateAdded": "2026-08-22T03:07:48.000Z"
   },
   {
+    "id": "recACzAorzoSCKYjD",
+    "year": 1946,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Truck",
+    "serial": "27P/1-143",
+    "photoUrl": "assets/img/plates/attxitSBmSBXt07ZT.jpg",
+    "dateAdded": "2026-08-23T11:42:08.000Z"
+  },
+  {
     "id": "recAF8gsCBnfss204",
     "year": 1956,
     "countyNumber": "24",
@@ -1944,6 +2100,18 @@
     "dateAdded": "2026-08-22T13:07:17.000Z"
   },
   {
+    "id": "recAXDgB9XfF8tS5L",
+    "year": 1956,
+    "countyNumber": "26",
+    "countyName": "Henry",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "26D948",
+    "photoUrl": "assets/img/plates/attXfgkfJbrAjgzLx.jpg",
+    "dateAdded": "2026-08-23T02:37:29.000Z"
+  },
+  {
     "id": "recAar9JFpgl0Q57M",
     "year": 1952,
     "countyNumber": "17",
@@ -1954,6 +2122,18 @@
     "serial": "17-2414",
     "photoUrl": "assets/img/plates/attbDmcsnd6wJBubS.jpg",
     "dateAdded": "2026-08-22T03:17:49.000Z"
+  },
+  {
+    "id": "recAhOAXpmSbpkHzh",
+    "year": 1956,
+    "countyNumber": "29",
+    "countyName": "Anderson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "29D-3627",
+    "photoUrl": "assets/img/plates/att554OjF5vJp5MzS.jpg",
+    "dateAdded": "2026-08-23T12:15:18.000Z"
   },
   {
     "id": "recAywk7x5K617m9W",
@@ -2086,6 +2266,30 @@
     "serial": "2-8752",
     "photoUrl": "assets/img/plates/attSdlA6tj59vIBBj.jpg",
     "dateAdded": "2026-08-20T02:40:35.000Z"
+  },
+  {
+    "id": "recBmSSHKya8yKyUe",
+    "year": 1940,
+    "countyNumber": "26",
+    "countyName": "Henry",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "26-216",
+    "photoUrl": "assets/img/plates/att7cTxEiBiWn40jW.jpg",
+    "dateAdded": "2026-08-23T02:39:36.000Z"
+  },
+  {
+    "id": "recBmV74MWTJBcjer",
+    "year": 1941,
+    "countyNumber": "26",
+    "countyName": "Henry",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "26-369",
+    "photoUrl": "assets/img/plates/attGJPx9IPOqJUhRp.jpg",
+    "dateAdded": "2026-08-23T02:37:15.000Z"
   },
   {
     "id": "recBsUc7vGaUrfjXF",
@@ -2292,6 +2496,18 @@
     "dateAdded": "2026-08-22T15:04:14.000Z"
   },
   {
+    "id": "recCvPTvyTqI9DmYv",
+    "year": 1953,
+    "countyNumber": "26",
+    "countyName": "Henry",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "26-4753",
+    "photoUrl": "assets/img/plates/att85v8xess6wOExN.jpg",
+    "dateAdded": "2026-08-23T02:39:00.000Z"
+  },
+  {
     "id": "recCvgugk3qgJipw7",
     "year": 1964,
     "countyNumber": "3",
@@ -2302,6 +2518,18 @@
     "serial": "3-534",
     "photoUrl": "assets/img/plates/attT8e5IK3etlclOp.jpg",
     "dateAdded": "2026-08-20T23:50:42.000Z"
+  },
+  {
+    "id": "recCyv1VVrAcH7EBp",
+    "year": 1951,
+    "countyNumber": "28",
+    "countyName": "Lincoln",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "28-2921",
+    "photoUrl": "assets/img/plates/atttPDLogyAxalPZP.jpg",
+    "dateAdded": "2026-08-23T11:57:51.000Z"
   },
   {
     "id": "recDH4PNy95Xq7uri",
@@ -2460,6 +2688,18 @@
     "dateAdded": "2026-08-22T13:17:42.000Z"
   },
   {
+    "id": "recDyVufWoZaKDPQ9",
+    "year": 1965,
+    "countyNumber": "28",
+    "countyName": "Lincoln",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "28-28",
+    "photoUrl": "assets/img/plates/attAZyym9DwIGOkUQ.jpg",
+    "dateAdded": "2026-08-23T12:00:52.000Z"
+  },
+  {
     "id": "recE2KShrRtJs2dr7",
     "year": 1951,
     "countyNumber": "5",
@@ -2506,6 +2746,18 @@
     "serial": "11D-363",
     "photoUrl": "assets/img/plates/attIcpvF1mIa1f45g.jpg",
     "dateAdded": "2026-08-21T18:03:08.000Z"
+  },
+  {
+    "id": "recEBpdqi8ySUGLp6",
+    "year": 1955,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Maroon",
+    "fontColor": "White",
+    "type": "Dealer",
+    "serial": "27DLR7D",
+    "photoUrl": "assets/img/plates/att6OPaB0BkPSuTOm.jpg",
+    "dateAdded": "2026-08-23T11:49:16.000Z"
   },
   {
     "id": "recECeOJu1S4t4rJT",
@@ -2628,6 +2880,18 @@
     "dateAdded": "2026-08-22T13:04:28.000Z"
   },
   {
+    "id": "recEzJcQKOkh7JLDb",
+    "year": 1954,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "27-3400",
+    "photoUrl": "assets/img/plates/atterdng1IXPgF3Qy.jpg",
+    "dateAdded": "2026-08-23T11:46:29.000Z"
+  },
+  {
     "id": "recEzk0Yq4VjxokZ4",
     "year": 1951,
     "countyNumber": "17",
@@ -2640,6 +2904,18 @@
     "dateAdded": "2026-08-22T03:31:28.000Z"
   },
   {
+    "id": "recF8c0i4IxZVQYCk",
+    "year": 1946,
+    "countyNumber": "29",
+    "countyName": "Anderson",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "29-5907",
+    "photoUrl": "assets/img/plates/attWa2L31mlRdCchu.jpg",
+    "dateAdded": "2026-08-23T12:14:07.000Z"
+  },
+  {
     "id": "recFL3nv53up096K2",
     "year": 1952,
     "countyNumber": "18",
@@ -2650,6 +2926,18 @@
     "serial": "18-5",
     "photoUrl": "assets/img/plates/att92befscQqdnaqs.jpg",
     "dateAdded": "2026-08-22T13:21:28.000Z"
+  },
+  {
+    "id": "recFMGmNxKtwbXhfT",
+    "year": 1951,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "27-1889",
+    "photoUrl": "assets/img/plates/atts3tt1d8tZXPbUz.jpg",
+    "dateAdded": "2026-08-23T11:36:57.000Z"
   },
   {
     "id": "recFRAkiz3e43X075",
@@ -2736,6 +3024,18 @@
     "dateAdded": "2026-08-21T20:05:35.000Z"
   },
   {
+    "id": "recFzBXBFqARjcgqW",
+    "year": 1955,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Maroon",
+    "fontColor": "White",
+    "type": "Dealer",
+    "serial": "27DLR-3D",
+    "photoUrl": "assets/img/plates/attuRv1CpCFXzVlb9.jpg",
+    "dateAdded": "2026-08-23T11:51:08.000Z"
+  },
+  {
     "id": "recG2CcAVJFRqwvCI",
     "year": 1948,
     "countyNumber": "17",
@@ -2746,6 +3046,18 @@
     "serial": "17-1357",
     "photoUrl": "assets/img/plates/attD1Tua6ZIdL6fB4.jpg",
     "dateAdded": "2026-08-22T03:30:42.000Z"
+  },
+  {
+    "id": "recG4PuEXuiqOmK66",
+    "year": 1956,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "27-7290",
+    "photoUrl": "assets/img/plates/attM6uRBFeSzn27P1.jpg",
+    "dateAdded": "2026-08-23T11:37:47.000Z"
   },
   {
     "id": "recG8pESwNeBpS19b",
@@ -2964,6 +3276,18 @@
     "dateAdded": "2026-08-21T00:44:25.000Z"
   },
   {
+    "id": "recGv3Dcmoy9CmYa9",
+    "year": 1956,
+    "countyNumber": "26",
+    "countyName": "Henry",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "26P/1-179",
+    "photoUrl": "assets/img/plates/attgjrZ8RrjWj17EN.jpg",
+    "dateAdded": "2026-08-23T02:40:34.000Z"
+  },
+  {
     "id": "recH2wM5FR3attAl2",
     "year": 1941,
     "countyNumber": "11",
@@ -2998,6 +3322,18 @@
     "serial": "17-1491",
     "photoUrl": "assets/img/plates/att2kHHVhrQ6zohzh.jpg",
     "dateAdded": "2026-08-22T03:26:18.000Z"
+  },
+  {
+    "id": "recHFHCMiiRxDd0F1",
+    "year": 1954,
+    "countyNumber": "28",
+    "countyName": "Lincoln",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "28-1026",
+    "photoUrl": "assets/img/plates/att70Nj9lZw2FdLOK.jpg",
+    "dateAdded": "2026-08-23T11:58:42.000Z"
   },
   {
     "id": "recHFLyi3vNct67NX",
@@ -3118,6 +3454,18 @@
     "serial": "20F/1-225",
     "photoUrl": "assets/img/plates/attYFLa0IAXUrM7xU.jpg",
     "dateAdded": "2026-08-22T13:29:36.000Z"
+  },
+  {
+    "id": "recI9JkMaKHD87gta",
+    "year": 1945,
+    "countyNumber": "28",
+    "countyName": "Lincoln",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "28-946",
+    "photoUrl": "assets/img/plates/attvKFHBCUifZn6z0.jpg",
+    "dateAdded": "2026-08-23T11:56:02.000Z"
   },
   {
     "id": "recIAxJpcU0sNXYCT",
@@ -3276,6 +3624,18 @@
     "dateAdded": "2026-08-21T15:17:43.000Z"
   },
   {
+    "id": "recJHOiJsskzr5QPE",
+    "year": 1954,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "27-6337",
+    "photoUrl": "assets/img/plates/att6y12YiFwzscg7Q.jpg",
+    "dateAdded": "2026-08-23T11:53:37.000Z"
+  },
+  {
     "id": "recJICOZq9nfNPZI8",
     "year": 1956,
     "countyNumber": "19",
@@ -3384,6 +3744,18 @@
     "dateAdded": "2026-08-22T15:01:57.000Z"
   },
   {
+    "id": "recKBSnmjEBlF4i2f",
+    "year": 1940,
+    "countyNumber": "28",
+    "countyName": "Lincoln",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Farm Truck",
+    "serial": "28F/1-298",
+    "photoUrl": "assets/img/plates/attrF9xoGaAMNDeuZ.jpg",
+    "dateAdded": "2026-08-23T11:55:45.000Z"
+  },
+  {
     "id": "recKJbRsPXfUgPBVk",
     "year": 1956,
     "countyNumber": "9",
@@ -3430,6 +3802,18 @@
     "serial": "4-30014",
     "photoUrl": "assets/img/plates/attPG9iptzxD336eF.jpg",
     "dateAdded": "2026-08-21T00:50:38.000Z"
+  },
+  {
+    "id": "recKXtdqOPesZbdTg",
+    "year": 1956,
+    "countyNumber": "28",
+    "countyName": "Lincoln",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "28-4177",
+    "photoUrl": "assets/img/plates/attSvVENu68eOjGLf.jpg",
+    "dateAdded": "2026-08-23T11:59:17.000Z"
   },
   {
     "id": "recKY6UQ4C34m9LyG",
@@ -3516,6 +3900,42 @@
     "dateAdded": "2026-08-21T15:47:25.000Z"
   },
   {
+    "id": "recL2aSNxmPZSBcjF",
+    "year": 1953,
+    "countyNumber": "28",
+    "countyName": "Lincoln",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "28-2407",
+    "photoUrl": "assets/img/plates/attNJTMatXb8ptal3.jpg",
+    "dateAdded": "2026-08-23T11:56:34.000Z"
+  },
+  {
+    "id": "recL83mjEJV5Ey315",
+    "year": 1944,
+    "countyNumber": "29",
+    "countyName": "Anderson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "29-6423",
+    "photoUrl": "assets/img/plates/attLutG7lfWC75xZf.jpg",
+    "dateAdded": "2026-08-23T12:18:09.000Z"
+  },
+  {
+    "id": "recL9woX5BoaGXqnu",
+    "year": 1955,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "27-1705",
+    "photoUrl": "assets/img/plates/atta72NELZGyETRCN.jpg",
+    "dateAdded": "2026-08-23T11:53:24.000Z"
+  },
+  {
     "id": "recLGSuGthDBzImgs",
     "year": 1953,
     "countyNumber": "1",
@@ -3526,6 +3946,18 @@
     "serial": "1P/7-Z121",
     "photoUrl": "assets/img/plates/attSaVvKrks28xj51.jpg",
     "dateAdded": "2026-08-13T23:59:43.000Z"
+  },
+  {
+    "id": "recLM9viz9n6orn8A",
+    "year": 1956,
+    "countyNumber": "29",
+    "countyName": "Anderson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "29-3892",
+    "photoUrl": "assets/img/plates/attKgVRvBDxICHB2Z.jpg",
+    "dateAdded": "2026-08-23T12:15:32.000Z"
   },
   {
     "id": "recLTO0q6B3vQ188x",
@@ -3562,6 +3994,18 @@
     "serial": "16F/1-143",
     "photoUrl": "assets/img/plates/attcYbJcKpkQAJgCa.jpg",
     "dateAdded": "2026-08-22T03:11:44.000Z"
+  },
+  {
+    "id": "recLnWRsZ8CsrNauC",
+    "year": 1954,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Heavy Car",
+    "serial": "27D-130",
+    "photoUrl": "assets/img/plates/attXPCfOFc8H0KDr8.jpg",
+    "dateAdded": "2026-08-23T11:45:54.000Z"
   },
   {
     "id": "recLoPOOdDkv2RLMV",
@@ -3622,6 +4066,18 @@
     "serial": "22T-219",
     "photoUrl": "assets/img/plates/attYu1oNRFasXy1Oz.jpg",
     "dateAdded": "2026-08-22T14:48:02.000Z"
+  },
+  {
+    "id": "recMAWgU2a29h3ack",
+    "year": 1951,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "27D-113",
+    "photoUrl": "assets/img/plates/attZyJI1pcJFLRdbB.jpg",
+    "dateAdded": "2026-08-23T11:45:12.000Z"
   },
   {
     "id": "recMDxOZAVyAIPty8",
@@ -3792,6 +4248,18 @@
     "dateAdded": "2026-08-22T14:43:59.000Z"
   },
   {
+    "id": "recNCOOILd2ZJ3jWv",
+    "year": 1950,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "27-317",
+    "photoUrl": "assets/img/plates/attICPF35Dt5jo3Yu.jpg",
+    "dateAdded": "2026-08-23T11:37:15.000Z"
+  },
+  {
     "id": "recNCX3e4WJZ3Lieq",
     "year": 1956,
     "countyNumber": "2",
@@ -3802,6 +4270,18 @@
     "serial": "2-7305",
     "photoUrl": "assets/img/plates/attIZupDQmoJtfrtS.jpg",
     "dateAdded": "2026-08-20T02:40:34.000Z"
+  },
+  {
+    "id": "recNCXEGIwEDw3N4p",
+    "year": 1951,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "27-1508",
+    "photoUrl": "assets/img/plates/attPP65YtfAcnrwfg.jpg",
+    "dateAdded": "2026-08-23T11:50:54.000Z"
   },
   {
     "id": "recNL1SEAKMllSeTY",
@@ -3900,6 +4380,18 @@
     "dateAdded": "2026-08-21T18:22:34.000Z"
   },
   {
+    "id": "recNjaXk9JBvYu3F7",
+    "year": 1956,
+    "countyNumber": "29",
+    "countyName": "Anderson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "29-93",
+    "photoUrl": "assets/img/plates/atteJyxqPtNEor4QD.jpg",
+    "dateAdded": "2026-08-23T12:15:45.000Z"
+  },
+  {
     "id": "recNlpKwoOvwNZZl3",
     "year": 1965,
     "countyNumber": "21",
@@ -3946,6 +4438,30 @@
     "serial": "2D-18407",
     "photoUrl": "assets/img/plates/attwoAoIpL7fWXP7c.jpg",
     "dateAdded": "2026-08-20T02:48:22.000Z"
+  },
+  {
+    "id": "recO8bbRKzF7sQtVm",
+    "year": 1939,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Truck",
+    "serial": "27T-642",
+    "photoUrl": "assets/img/plates/attZz2dg9IhIIvgQI.jpg",
+    "dateAdded": "2026-08-23T11:50:33.000Z"
+  },
+  {
+    "id": "recO8ktE1jx9m4N0D",
+    "year": 1955,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Blue",
+    "fontColor": "Red",
+    "type": "Auxiliary Police",
+    "serial": "27-4",
+    "photoUrl": "assets/img/plates/attoJZaXG4IfJw2Ei.jpg",
+    "dateAdded": "2026-08-23T11:52:07.000Z"
   },
   {
     "id": "recOGb5FCl1jc6r60",
@@ -4030,6 +4546,18 @@
     "serial": "2-1951",
     "photoUrl": "assets/img/plates/attc7CK9ACJHoUZat.jpg",
     "dateAdded": "2026-08-20T02:39:18.000Z"
+  },
+  {
+    "id": "recOfLiB74TUaqNud",
+    "year": 1964,
+    "countyNumber": "29",
+    "countyName": "Anderson",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Motorcycle",
+    "serial": "29-171",
+    "photoUrl": "assets/img/plates/attNMAk4mRwfLAVrs.jpg",
+    "dateAdded": "2026-08-23T12:13:13.000Z"
   },
   {
     "id": "recOoTsnRT8aHKd3Z",
@@ -4164,6 +4692,18 @@
     "dateAdded": "2026-08-22T13:09:47.000Z"
   },
   {
+    "id": "recPNPoGy30OfczMk",
+    "year": 1956,
+    "countyNumber": "28",
+    "countyName": "Lincoln",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "28-79",
+    "photoUrl": "assets/img/plates/att8LCDgFCOR0bjsc.jpg",
+    "dateAdded": "2026-08-23T11:57:36.000Z"
+  },
+  {
     "id": "recPedT02IRT8ZsFY",
     "year": 1941,
     "countyNumber": "25",
@@ -4174,6 +4714,30 @@
     "serial": "25-2218",
     "photoUrl": "assets/img/plates/attlHXszXwXBSIa91.jpg",
     "dateAdded": "2026-08-22T15:09:38.000Z"
+  },
+  {
+    "id": "recPgkkBRYrjNjDDU",
+    "year": 1945,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "27-596",
+    "photoUrl": "assets/img/plates/attAJHcELfKORbE8A.jpg",
+    "dateAdded": "2026-08-23T11:53:51.000Z"
+  },
+  {
+    "id": "recPgzC40kaRgxFqb",
+    "year": 1945,
+    "countyNumber": "29",
+    "countyName": "Anderson",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Farm Truck",
+    "serial": "29F/1-2",
+    "photoUrl": "assets/img/plates/att1WTnwN44QidFus.jpg",
+    "dateAdded": "2026-08-23T12:16:08.000Z"
   },
   {
     "id": "recPqvVQAVyjkKAKq",
@@ -4224,6 +4788,18 @@
     "dateAdded": "2026-08-22T14:49:07.000Z"
   },
   {
+    "id": "recQNwNTDWQOtG01Y",
+    "year": 1945,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "27-739",
+    "photoUrl": "assets/img/plates/atthtkFE3IvnXf692.jpg",
+    "dateAdded": "2026-08-23T02:43:20.000Z"
+  },
+  {
     "id": "recQT2a6GHVj0aZF1",
     "year": 1955,
     "countyNumber": "2",
@@ -4272,6 +4848,18 @@
     "dateAdded": "2026-08-21T15:13:47.000Z"
   },
   {
+    "id": "recQZh8ClxEEJDXGX",
+    "year": 1954,
+    "countyNumber": "29",
+    "countyName": "Anderson",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "City",
+    "serial": "29CITY-507",
+    "photoUrl": "assets/img/plates/attJ5UQf6vYirLm8V.jpg",
+    "dateAdded": "2026-08-23T12:12:41.000Z"
+  },
+  {
     "id": "recQbrmmd3Rj8407c",
     "year": 1964,
     "countyNumber": "8",
@@ -4282,6 +4870,18 @@
     "serial": "8-502",
     "photoUrl": "assets/img/plates/attAs2wA3qn32YPfo.jpg",
     "dateAdded": "2026-08-21T15:32:36.000Z"
+  },
+  {
+    "id": "recQcUh0bL7dU6iNV",
+    "year": 1945,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "27-1065",
+    "photoUrl": "assets/img/plates/att2fWTlWetWNH0mQ.jpg",
+    "dateAdded": "2026-08-23T02:41:53.000Z"
   },
   {
     "id": "recQeGCGUYmmgP059",
@@ -4308,6 +4908,18 @@
     "dateAdded": "2026-08-21T20:42:52.000Z"
   },
   {
+    "id": "recQigTW7Be0S3rGz",
+    "year": 1949,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "27-2174",
+    "photoUrl": "assets/img/plates/attdnfqW24pS1pajY.jpg",
+    "dateAdded": "2026-08-23T11:52:52.000Z"
+  },
+  {
     "id": "recQl3pROd9e947dQ",
     "year": 1953,
     "countyNumber": "7",
@@ -4318,6 +4930,18 @@
     "serial": "7-6192",
     "photoUrl": "assets/img/plates/attPqOLoXajUdcrcS.jpg",
     "dateAdded": "2026-08-21T15:20:54.000Z"
+  },
+  {
+    "id": "recQlwTm3gnR14YXv",
+    "year": 1949,
+    "countyNumber": "26",
+    "countyName": "Henry",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "26-86",
+    "photoUrl": "assets/img/plates/attcO6nptVSklP9No.jpg",
+    "dateAdded": "2026-08-23T02:41:29.000Z"
   },
   {
     "id": "recQsRk3x1RdzDe4m",
@@ -4464,6 +5088,30 @@
     "dateAdded": "2026-08-13T23:51:26.000Z"
   },
   {
+    "id": "recRqMbcSOP4zUkXR",
+    "year": 1952,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Green",
+    "fontColor": "White",
+    "type": "Radio",
+    "serial": "27-W4KKR",
+    "photoUrl": "assets/img/plates/atth7Qk9uqKMUmcM6.jpg",
+    "dateAdded": "2026-08-23T11:51:31.000Z"
+  },
+  {
+    "id": "recRxyFk064vXN2Wq",
+    "year": 1951,
+    "countyNumber": "26",
+    "countyName": "Henry",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "26P/2-609",
+    "photoUrl": "assets/img/plates/att9KRbcmY4frVDAV.jpg",
+    "dateAdded": "2026-08-23T02:36:20.000Z"
+  },
+  {
     "id": "recS7gUDk2TG5a1S3",
     "year": 1942,
     "countyNumber": "14",
@@ -4498,6 +5146,18 @@
     "serial": "9F/1-365",
     "photoUrl": "assets/img/plates/attesMaNeRpB9NcBj.jpg",
     "dateAdded": "2026-08-21T15:47:10.000Z"
+  },
+  {
+    "id": "recSSbLJFc4o3gUAg",
+    "year": 1956,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "27F/1-173",
+    "photoUrl": "assets/img/plates/attAPSZQ0NLgayHNj.jpg",
+    "dateAdded": "2026-08-23T11:43:35.000Z"
   },
   {
     "id": "recSVP0HXdzWsgPDQ",
@@ -4536,6 +5196,18 @@
     "dateAdded": "2026-08-22T14:32:57.000Z"
   },
   {
+    "id": "recSp9MI0GGmo2ZyB",
+    "year": 1956,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "27-5527",
+    "photoUrl": "assets/img/plates/attg0RINdXbMrJqdV.jpg",
+    "dateAdded": "2026-08-23T11:44:19.000Z"
+  },
+  {
     "id": "recSrsFBRjIb0G19f",
     "year": 1951,
     "countyNumber": "10",
@@ -4560,6 +5232,18 @@
     "dateAdded": "2026-08-22T13:18:50.000Z"
   },
   {
+    "id": "recSzDAKVSBJJI4QZ",
+    "year": 1951,
+    "countyNumber": "27",
+    "countyName": "Lincoln",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "27-1539",
+    "photoUrl": "assets/img/plates/attzVvxfAPbdf68wq.jpg",
+    "dateAdded": "2026-08-23T11:55:29.000Z"
+  },
+  {
     "id": "recT0uNT3F91KmytV",
     "year": 1962,
     "countyNumber": "20",
@@ -4570,6 +5254,18 @@
     "serial": "20-6",
     "photoUrl": "assets/img/plates/att7ZEgiq3NG1mrST.jpg",
     "dateAdded": "2026-08-22T13:32:46.000Z"
+  },
+  {
+    "id": "recT1YpJowXRjd7Nr",
+    "year": 1952,
+    "countyNumber": "28",
+    "countyName": "Lincoln",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "28F/1-357",
+    "photoUrl": "assets/img/plates/atthjqyeOJzSZtrZF.jpg",
+    "dateAdded": "2026-08-23T11:59:47.000Z"
   },
   {
     "id": "recT9YnJUho0v6uun",
@@ -4678,6 +5374,42 @@
     "serial": "18-6",
     "photoUrl": "assets/img/plates/attbRihqu3PUuxc7L.jpg",
     "dateAdded": "2026-08-22T13:08:19.000Z"
+  },
+  {
+    "id": "recTykRplt7kr5DCO",
+    "year": 1951,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "27P/1-108",
+    "photoUrl": "assets/img/plates/att3OHyGZMJAedZ2B.jpg",
+    "dateAdded": "2026-08-23T11:38:26.000Z"
+  },
+  {
+    "id": "recUJ6FpfLE6VG0XN",
+    "year": 1952,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Green",
+    "fontColor": "White",
+    "type": "Radio",
+    "serial": "27-W4KKR",
+    "photoUrl": "assets/img/plates/attzdr8m8jKBUPX3J.jpg",
+    "dateAdded": "2026-08-23T11:39:19.000Z"
+  },
+  {
+    "id": "recUKqfUFtWoZC6uz",
+    "year": 1950,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "27-3085",
+    "photoUrl": "assets/img/plates/attUX8Y8EngWv8Gu2.jpg",
+    "dateAdded": "2026-08-23T11:52:22.000Z"
   },
   {
     "id": "recULTnCKqWZa0aPa",
@@ -4800,6 +5532,18 @@
     "dateAdded": "2026-08-21T14:38:30.000Z"
   },
   {
+    "id": "recUqldXGvSzl6S5y",
+    "year": 1954,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "27-2210",
+    "photoUrl": "assets/img/plates/attuCdetJp9G6g5Wm.jpg",
+    "dateAdded": "2026-08-23T11:44:04.000Z"
+  },
+  {
     "id": "recUuEXNTuTVEa9eg",
     "year": 1940,
     "countyNumber": "17",
@@ -4846,6 +5590,18 @@
     "serial": "22F/1-140",
     "photoUrl": "assets/img/plates/attJRs16oPyRhSV1z.jpg",
     "dateAdded": "2026-08-22T14:48:47.000Z"
+  },
+  {
+    "id": "recVYLg0LS578Wgp4",
+    "year": 1955,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Radio",
+    "serial": "27-W4KKR",
+    "photoUrl": "assets/img/plates/att4Kr26c2uX5MmVZ.jpg",
+    "dateAdded": "2026-08-23T11:41:17.000Z"
   },
   {
     "id": "recVb2jIg4nlt37p8",
@@ -4918,6 +5674,18 @@
     "serial": "3-92",
     "photoUrl": "assets/img/plates/attkoHhk0uAFjNk6u.jpg",
     "dateAdded": "2026-08-20T23:50:39.000Z"
+  },
+  {
+    "id": "recWIsZZcR2TEsSc1",
+    "year": 1956,
+    "countyNumber": "26",
+    "countyName": "Henry",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "26F/1-43",
+    "photoUrl": "assets/img/plates/atta0Mo7OIkKsuDdm.jpg",
+    "dateAdded": "2026-08-23T02:40:53.000Z"
   },
   {
     "id": "recWRvXxzLaj34yrf",
@@ -5062,6 +5830,18 @@
     "serial": "20H/7-Z03",
     "photoUrl": "assets/img/plates/attSjo5Xw9ydRaHCx.jpg",
     "dateAdded": "2026-08-22T13:31:07.000Z"
+  },
+  {
+    "id": "recXI7zcwd8Ukr27q",
+    "year": 1951,
+    "countyNumber": "29",
+    "countyName": "Anderson",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "29-213",
+    "photoUrl": "assets/img/plates/attLoZYC6Z8JL2Ois.jpg",
+    "dateAdded": "2026-08-23T12:17:55.000Z"
   },
   {
     "id": "recXNTb3fUaSqtp0e",
@@ -5424,6 +6204,18 @@
     "dateAdded": "2026-08-21T18:06:43.000Z"
   },
   {
+    "id": "recZeLB4V0PYp6YDe",
+    "year": 1940,
+    "countyNumber": "28",
+    "countyName": "Lincoln",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "28-670",
+    "photoUrl": "assets/img/plates/attazKjOGP57InhYk.jpg",
+    "dateAdded": "2026-08-23T11:59:31.000Z"
+  },
+  {
     "id": "recZgPuBzxUQVjhnx",
     "year": 1965,
     "countyNumber": "25",
@@ -5484,6 +6276,30 @@
     "dateAdded": "2026-08-21T20:28:21.000Z"
   },
   {
+    "id": "recaMbyvzxOGYLc4K",
+    "year": 1951,
+    "countyNumber": "26",
+    "countyName": "Henry",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "26-828",
+    "photoUrl": "assets/img/plates/attNEY5vMLSdW3TkB.jpg",
+    "dateAdded": "2026-08-23T02:39:53.000Z"
+  },
+  {
+    "id": "recaNSSwWKndNcYtW",
+    "year": 1940,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "27-2142",
+    "photoUrl": "assets/img/plates/attTQNyHs6RuYXKPW.jpg",
+    "dateAdded": "2026-08-23T11:50:16.000Z"
+  },
+  {
     "id": "recaQaWyhz5rPgQuY",
     "year": 1947,
     "countyNumber": "24",
@@ -5542,6 +6358,18 @@
     "serial": "2-3637",
     "photoUrl": "assets/img/plates/att6IHbFQ5jg1fVQB.jpg",
     "dateAdded": "2026-08-20T02:39:19.000Z"
+  },
+  {
+    "id": "recarwxs6PChvc05O",
+    "year": 1947,
+    "countyNumber": "28",
+    "countyName": "Lincoln",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "28D-407",
+    "photoUrl": "assets/img/plates/attvmsra6lDUpFF8C.jpg",
+    "dateAdded": "2026-08-23T12:01:09.000Z"
   },
   {
     "id": "recasCSGukJ6p7SH4",
@@ -5616,6 +6444,18 @@
     "dateAdded": "2026-08-22T13:07:02.000Z"
   },
   {
+    "id": "recb8MYrZ2SIg8Jlu",
+    "year": 1956,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Radio",
+    "serial": "27-W4KKR",
+    "photoUrl": "assets/img/plates/att5jDqctx61lEDDp.jpg",
+    "dateAdded": "2026-08-23T11:41:36.000Z"
+  },
+  {
     "id": "recb9Nbca0msjQqUa",
     "year": 1939,
     "countyNumber": "17",
@@ -5650,6 +6490,18 @@
     "serial": "20D-214",
     "photoUrl": "assets/img/plates/attiKuRDdMAMjzegc.jpg",
     "dateAdded": "2026-08-22T13:28:46.000Z"
+  },
+  {
+    "id": "recbCZCtQWlJ0DPH5",
+    "year": 1964,
+    "countyNumber": "28",
+    "countyName": "Lincoln",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Motorcycle",
+    "serial": "28-56",
+    "photoUrl": "assets/img/plates/attWYEUO2D6itlCJn.jpg",
+    "dateAdded": "2026-08-23T12:00:36.000Z"
   },
   {
     "id": "recbKfFEW33IfusJw",
@@ -5724,6 +6576,18 @@
     "dateAdded": "2026-08-21T15:48:57.000Z"
   },
   {
+    "id": "recbnIuWSRhtN2hCk",
+    "year": 1939,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "27-746",
+    "photoUrl": "assets/img/plates/attEAzQ5pPUC1J2xI.jpg",
+    "dateAdded": "2026-08-23T02:42:40.000Z"
+  },
+  {
     "id": "recbpbcmYPj5FF0Ka",
     "year": 1953,
     "countyNumber": "21",
@@ -5734,6 +6598,18 @@
     "serial": "21-W4CYZ",
     "photoUrl": "assets/img/plates/attUPgUxiZnU67nuT.jpg",
     "dateAdded": "2026-08-22T14:40:00.000Z"
+  },
+  {
+    "id": "recbswiNQgra7CZro",
+    "year": 1954,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "27-1916",
+    "photoUrl": "assets/img/plates/attmUynvmHMcZFWsF.jpg",
+    "dateAdded": "2026-08-23T11:37:33.000Z"
   },
   {
     "id": "recc0An8OBTmxH4OM",
@@ -5844,6 +6720,18 @@
     "dateAdded": "2026-08-22T15:12:45.000Z"
   },
   {
+    "id": "reccz7ldO5Ie6QXTA",
+    "year": 1955,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Heavy Car",
+    "serial": "27D-2",
+    "photoUrl": "assets/img/plates/att1vs82NKygbRCaW.jpg",
+    "dateAdded": "2026-08-23T11:41:54.000Z"
+  },
+  {
     "id": "recd2Cmu8vwnW18Ph",
     "year": 1950,
     "countyNumber": "25",
@@ -5854,6 +6742,18 @@
     "serial": "25CITY-521",
     "photoUrl": "assets/img/plates/att3ZIb4IyXDf1A6g.jpg",
     "dateAdded": "2026-08-22T15:13:37.000Z"
+  },
+  {
+    "id": "recd4OkRPa7vjJDn2",
+    "year": 1954,
+    "countyNumber": "29",
+    "countyName": "Anderson",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Motorcycle",
+    "serial": "29-260",
+    "photoUrl": "assets/img/plates/attQ0rzita65HFFqE.jpg",
+    "dateAdded": "2026-08-23T12:17:28.000Z"
   },
   {
     "id": "recd7E1xMnVZgeyqX",
@@ -5890,6 +6790,18 @@
     "serial": "21TAXI-89",
     "photoUrl": "assets/img/plates/att9LVtY4DWRvTyBy.jpg",
     "dateAdded": "2026-08-22T14:39:04.000Z"
+  },
+  {
+    "id": "recdSBVSAr6au10QU",
+    "year": 1947,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "27-978",
+    "photoUrl": "assets/img/plates/attC2V1NBXpAzh2gb.jpg",
+    "dateAdded": "2026-08-23T11:52:37.000Z"
   },
   {
     "id": "recdXJ4viYwEBsGMD",
@@ -6012,6 +6924,42 @@
     "dateAdded": "2026-08-21T15:33:56.000Z"
   },
   {
+    "id": "receLl7mfokX6ukxB",
+    "year": 1947,
+    "countyNumber": "29",
+    "countyName": "Anderson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "29F/1-2",
+    "photoUrl": "assets/img/plates/attGi3LLjmTtMPE2n.jpg",
+    "dateAdded": "2026-08-23T12:16:49.000Z"
+  },
+  {
+    "id": "receSxPmsQsxegLt5",
+    "year": 1948,
+    "countyNumber": "28",
+    "countyName": "Lincoln",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "28-1576",
+    "photoUrl": "assets/img/plates/attmzz7rBMQDp0zIS.jpg",
+    "dateAdded": "2026-08-23T12:01:23.000Z"
+  },
+  {
+    "id": "receVSL7XGR3ecGvM",
+    "year": 1950,
+    "countyNumber": "28",
+    "countyName": "Lincoln",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "28-3188",
+    "photoUrl": "assets/img/plates/attDuZsUU2LlLrEg8.jpg",
+    "dateAdded": "2026-08-23T11:59:04.000Z"
+  },
+  {
     "id": "receZqj2CLq7DejEa",
     "year": 1945,
     "countyNumber": "8",
@@ -6058,6 +7006,18 @@
     "serial": "4-28197",
     "photoUrl": "assets/img/plates/att3rWow2CjnnRHt7.jpg",
     "dateAdded": "2026-08-21T00:50:41.000Z"
+  },
+  {
+    "id": "recer7JmQm28cRMEB",
+    "year": 1949,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Taxi",
+    "serial": "27COUNT-25",
+    "photoUrl": "assets/img/plates/att43hOVItQBAsKpw.jpg",
+    "dateAdded": "2026-08-23T11:47:56.000Z"
   },
   {
     "id": "receyoVCKk656j2pL",
@@ -6324,6 +7284,30 @@
     "dateAdded": "2026-08-21T15:11:00.000Z"
   },
   {
+    "id": "recfydLYIA6WoN9lv",
+    "year": 1940,
+    "countyNumber": "29",
+    "countyName": "Anderson",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "29-6",
+    "photoUrl": "assets/img/plates/att1RQZkB55OPawXL.jpg",
+    "dateAdded": "2026-08-23T12:18:22.000Z"
+  },
+  {
+    "id": "recg7bGZK41asw06a",
+    "year": 1955,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Heavy Car",
+    "serial": "27D-56",
+    "photoUrl": "assets/img/plates/att8J3aghvNVARHjl.jpg",
+    "dateAdded": "2026-08-23T11:48:12.000Z"
+  },
+  {
     "id": "recgTkuRB3m4W75iS",
     "year": 1959,
     "countyNumber": "23",
@@ -6346,6 +7330,18 @@
     "serial": "12F/1-V12",
     "photoUrl": "assets/img/plates/attmNRQh7XhtJ7gs6.jpg",
     "dateAdded": "2026-08-21T18:17:12.000Z"
+  },
+  {
+    "id": "recggsU3rpd9itPCU",
+    "year": 1951,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Radio",
+    "serial": "27-W4PAG",
+    "photoUrl": "assets/img/plates/attEotsUheHDkrKQh.jpg",
+    "dateAdded": "2026-08-23T11:54:04.000Z"
   },
   {
     "id": "recgl1iZPB0hvGFt1",
@@ -6504,6 +7500,18 @@
     "dateAdded": "2026-08-22T03:13:58.000Z"
   },
   {
+    "id": "rechhdtSBxAhwLaNw",
+    "year": 1948,
+    "countyNumber": "26",
+    "countyName": "Henry",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "26-731",
+    "photoUrl": "assets/img/plates/attrPwl9HCLm94XWA.jpg",
+    "dateAdded": "2026-08-23T02:36:53.000Z"
+  },
+  {
     "id": "rechjsbF2rKZZcRMS",
     "year": 1953,
     "countyNumber": "17",
@@ -6552,6 +7560,18 @@
     "dateAdded": "2026-08-21T18:02:30.000Z"
   },
   {
+    "id": "rechuaffGbVMBSxFg",
+    "year": 1954,
+    "countyNumber": "26",
+    "countyName": "Henry",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Farm Truck",
+    "serial": "26F/1-203",
+    "photoUrl": "assets/img/plates/attTTrOzPnbOHMhmf.jpg",
+    "dateAdded": "2026-08-23T02:37:48.000Z"
+  },
+  {
     "id": "rechwigHncsE3aWvN",
     "year": 1956,
     "countyNumber": "13",
@@ -6576,6 +7596,18 @@
     "dateAdded": "2026-08-21T20:12:59.000Z"
   },
   {
+    "id": "reci7mGDUxDPMNnRS",
+    "year": 1954,
+    "countyNumber": "34",
+    "countyName": "Putnam",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Radio",
+    "serial": "34-W4VQD",
+    "photoUrl": "assets/img/plates/attVpz8v4HJr3skXm.jpg",
+    "dateAdded": "2026-08-23T11:40:36.000Z"
+  },
+  {
     "id": "reciAxNHwLkmv4eEU",
     "year": 1941,
     "countyNumber": "241",
@@ -6586,6 +7618,18 @@
     "serial": "241-1838",
     "photoUrl": "assets/img/plates/attV3CmzVwV2Joe8N.jpg",
     "dateAdded": "2026-08-22T15:02:27.000Z"
+  },
+  {
+    "id": "reciDzI6dkWpDgTBh",
+    "year": 1952,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "27-2442",
+    "photoUrl": "assets/img/plates/attl1AfZ1VVBqzBmw.jpg",
+    "dateAdded": "2026-08-23T11:43:19.000Z"
   },
   {
     "id": "reciJTIivUaBBQLN6",
@@ -6718,6 +7762,18 @@
     "serial": "10D-32",
     "photoUrl": "assets/img/plates/attFgVXDUeeyjvv46.jpg",
     "dateAdded": "2026-08-21T15:58:19.000Z"
+  },
+  {
+    "id": "recitt2bDMvuXreTE",
+    "year": 1940,
+    "countyNumber": "26",
+    "countyName": "Henry",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "26-216",
+    "photoUrl": "assets/img/plates/attV0zzNEGlkAYGog.jpg",
+    "dateAdded": "2026-08-23T02:36:39.000Z"
   },
   {
     "id": "recive2sIJDYvvqNg",
@@ -6958,6 +8014,18 @@
     "serial": "3-27387",
     "photoUrl": "assets/img/plates/attezygcvAJ2HNr1Z.jpg",
     "dateAdded": "2026-08-21T00:02:01.000Z"
+  },
+  {
+    "id": "reckA99dbYaMmtlhJ",
+    "year": 1950,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "27-6",
+    "photoUrl": "assets/img/plates/attUXtGBIcBKTPtJw.jpg",
+    "dateAdded": "2026-08-23T11:42:36.000Z"
   },
   {
     "id": "reckCEElfVEjODP8t",
@@ -7356,6 +8424,30 @@
     "dateAdded": "2026-08-22T14:44:15.000Z"
   },
   {
+    "id": "recmWhzoH9rsya3Lu",
+    "year": 1955,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Maroon",
+    "fontColor": "White",
+    "type": "Dealer",
+    "serial": "27DLR-8",
+    "photoUrl": "assets/img/plates/attox5V6jBqaTKvDn.jpg",
+    "dateAdded": "2026-08-23T11:45:27.000Z"
+  },
+  {
+    "id": "recmZG4lJM6kI5edH",
+    "year": 1945,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "27-1150",
+    "photoUrl": "assets/img/plates/attpECzVnm9PMO3o2.jpg",
+    "dateAdded": "2026-08-23T11:42:49.000Z"
+  },
+  {
     "id": "recmcP3A5AqPsnpFK",
     "year": 1954,
     "countyNumber": "13",
@@ -7536,6 +8628,18 @@
     "dateAdded": "2026-08-21T20:12:01.000Z"
   },
   {
+    "id": "recnGpXnLyGkNO4AC",
+    "year": 1955,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Maroon",
+    "fontColor": "White",
+    "type": "Dealer",
+    "serial": "27DLR-7F",
+    "photoUrl": "assets/img/plates/attMbk0VJa0Luttbt.jpg",
+    "dateAdded": "2026-08-23T11:49:41.000Z"
+  },
+  {
     "id": "recnJ7CpZBMb7WnlA",
     "year": 1951,
     "countyNumber": "18",
@@ -7594,6 +8698,18 @@
     "serial": "24F/1-164",
     "photoUrl": "assets/img/plates/attqY4MevMvIq7JR8.jpg",
     "dateAdded": "2026-08-22T15:07:18.000Z"
+  },
+  {
+    "id": "reco6lpIc5xRU2wfS",
+    "year": 1942,
+    "countyNumber": "26",
+    "countyName": "Henry",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "26-129",
+    "photoUrl": "assets/img/plates/attv7uQfYQNozELhI.jpg",
+    "dateAdded": "2026-08-23T02:38:40.000Z"
   },
   {
     "id": "recoALkgKjG0hRuG1",
@@ -7740,6 +8856,18 @@
     "dateAdded": "2026-08-22T03:19:38.000Z"
   },
   {
+    "id": "recozFQeTQWXXPPOm",
+    "year": 1953,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Radio",
+    "serial": "27-W4PAG",
+    "photoUrl": "assets/img/plates/attbLUJYU0Gye5JNC.jpg",
+    "dateAdded": "2026-08-23T11:54:45.000Z"
+  },
+  {
     "id": "recp2ZZOS6SXITk8l",
     "year": 1950,
     "countyNumber": "1",
@@ -7812,6 +8940,18 @@
     "dateAdded": "2026-08-22T14:46:53.000Z"
   },
   {
+    "id": "recplLgA7adxspFQw",
+    "year": 1961,
+    "countyNumber": "28",
+    "countyName": "Lincoln",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "28-10",
+    "photoUrl": "assets/img/plates/attFcKto3LfQKGyxO.jpg",
+    "dateAdded": "2026-08-23T12:00:22.000Z"
+  },
+  {
     "id": "recplqdTHtI9KWPkL",
     "year": 1946,
     "countyNumber": "17",
@@ -7872,6 +9012,18 @@
     "dateAdded": "2026-08-22T14:51:09.000Z"
   },
   {
+    "id": "recqhncJYwrmEO9Qk",
+    "year": 1963,
+    "countyNumber": "28",
+    "countyName": "Lincoln",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "28-58",
+    "photoUrl": "assets/img/plates/att1rUpKXZy0RNyLy.jpg",
+    "dateAdded": "2026-08-23T12:00:06.000Z"
+  },
+  {
     "id": "recqkRWaV7HOypME3",
     "year": 1947,
     "countyNumber": "13",
@@ -7908,6 +9060,18 @@
     "dateAdded": "2026-08-21T18:14:05.000Z"
   },
   {
+    "id": "recqqSRViEzk7Xf9x",
+    "year": 1951,
+    "countyNumber": "29",
+    "countyName": "Anderson",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "29-4155",
+    "photoUrl": "assets/img/plates/attOjb7VEoxGN1KQV.jpg",
+    "dateAdded": "2026-08-23T12:14:44.000Z"
+  },
+  {
     "id": "recqrBUyfSkcFCcHN",
     "year": 1954,
     "countyNumber": "13",
@@ -7932,6 +9096,18 @@
     "dateAdded": "2026-08-21T20:39:38.000Z"
   },
   {
+    "id": "recr1wWfNTGUx7sPw",
+    "year": 1947,
+    "countyNumber": "28",
+    "countyName": "Lincoln",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "28-3103",
+    "photoUrl": "assets/img/plates/attxKl9f6fQSM9TWS.jpg",
+    "dateAdded": "2026-08-23T11:57:21.000Z"
+  },
+  {
     "id": "recr7ev3SIthCYGVn",
     "year": 1954,
     "countyNumber": "4",
@@ -7942,6 +9118,18 @@
     "serial": "4-609",
     "photoUrl": "assets/img/plates/attyZOWIetj8IQSgO.jpg",
     "dateAdded": "2026-08-21T00:44:24.000Z"
+  },
+  {
+    "id": "recr8rBDzn516iyD4",
+    "year": 1948,
+    "countyNumber": "29",
+    "countyName": "Anderson",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "29-97-27",
+    "photoUrl": "assets/img/plates/attwYFTwKUHOgafGN.jpg",
+    "dateAdded": "2026-08-23T12:13:50.000Z"
   },
   {
     "id": "recrEiPvmGNtXt8Di",
@@ -8086,6 +9274,18 @@
     "serial": "21TAXID-1",
     "photoUrl": "assets/img/plates/attfQjm7JTgKjBGkq.jpg",
     "dateAdded": "2026-08-22T14:32:36.000Z"
+  },
+  {
+    "id": "recsDXg9HF9DoiXQe",
+    "year": 1948,
+    "countyNumber": "28",
+    "countyName": "Lincoln",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "28-614",
+    "photoUrl": "assets/img/plates/att24jMEEMu7bs8ET.jpg",
+    "dateAdded": "2026-08-23T11:56:18.000Z"
   },
   {
     "id": "recsGBVC9pvHEvbFk",
@@ -8256,6 +9456,18 @@
     "dateAdded": "2026-08-22T13:30:23.000Z"
   },
   {
+    "id": "recsyhBlCSTW0RW3C",
+    "year": 1955,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Maroon",
+    "fontColor": "White",
+    "type": "Dealer",
+    "serial": "27DLR-7B",
+    "photoUrl": "assets/img/plates/attQzMbpOYbjAWc2y.jpg",
+    "dateAdded": "2026-08-23T11:48:27.000Z"
+  },
+  {
     "id": "recsz2o0Fm0h7NHdI",
     "year": 1952,
     "countyNumber": "17",
@@ -8314,6 +9526,30 @@
     "serial": "20F/3-818",
     "photoUrl": "assets/img/plates/att6Qcp6ArT2j6bn8.jpg",
     "dateAdded": "2026-08-22T13:28:28.000Z"
+  },
+  {
+    "id": "rectFb7iEirv2qsxv",
+    "year": 1951,
+    "countyNumber": "26",
+    "countyName": "Henry",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "26-1224",
+    "photoUrl": "assets/img/plates/attivrgJInRk9AvNJ.jpg",
+    "dateAdded": "2026-08-23T02:41:15.000Z"
+  },
+  {
+    "id": "rectMYrrb2TeMPMV8",
+    "year": 1953,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "27-5111",
+    "photoUrl": "assets/img/plates/attr5l8PwA9bAAOb2.jpg",
+    "dateAdded": "2026-08-23T02:43:38.000Z"
   },
   {
     "id": "rectUvCkS2SIbPyl7",
@@ -8424,6 +9660,18 @@
     "dateAdded": "2026-08-21T15:34:56.000Z"
   },
   {
+    "id": "rectwKtlWR1HPiyXZ",
+    "year": 1956,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "27-6779",
+    "photoUrl": "assets/img/plates/attiohuudsIdjZFi0.jpg",
+    "dateAdded": "2026-08-23T11:53:11.000Z"
+  },
+  {
     "id": "recu023i517A7O3Al",
     "year": 1941,
     "countyNumber": "15",
@@ -8436,6 +9684,18 @@
     "dateAdded": "2026-08-21T20:45:47.000Z"
   },
   {
+    "id": "recu31iJgvP2pForg",
+    "year": 1946,
+    "countyNumber": "29",
+    "countyName": "Anderson",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Farm Truck",
+    "serial": "29F/1-2",
+    "photoUrl": "assets/img/plates/att2v0MpwdjPgJyrD.jpg",
+    "dateAdded": "2026-08-23T12:16:30.000Z"
+  },
+  {
     "id": "recuB9pRIGP3N6cCu",
     "year": 1953,
     "countyNumber": "21",
@@ -8446,6 +9706,18 @@
     "serial": "21D-1461",
     "photoUrl": "assets/img/plates/att37iKUJEz1dICwW.jpg",
     "dateAdded": "2026-08-22T14:47:42.000Z"
+  },
+  {
+    "id": "recuEGsvITCsDQSwK",
+    "year": 1953,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "27-7012",
+    "photoUrl": "assets/img/plates/attScLJk7TyCeIO6O.jpg",
+    "dateAdded": "2026-08-23T11:44:56.000Z"
   },
   {
     "id": "recuJVaO8A12dHeEG",
@@ -8518,6 +9790,18 @@
     "serial": "3-1501",
     "photoUrl": "assets/img/plates/atth4G4wcq70tHYSP.jpg",
     "dateAdded": "2026-08-20T23:54:38.000Z"
+  },
+  {
+    "id": "recunipuIG02Dh5dE",
+    "year": 1956,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "27-3300",
+    "photoUrl": "assets/img/plates/attsvtGodG37YV1Pn.jpg",
+    "dateAdded": "2026-08-23T11:43:05.000Z"
   },
   {
     "id": "recuvhvuOhThMMm0R",
@@ -8822,6 +10106,18 @@
     "dateAdded": "2026-08-21T20:08:13.000Z"
   },
   {
+    "id": "recx5inLc8OFDjhO0",
+    "year": 1951,
+    "countyNumber": "28",
+    "countyName": "Lincoln",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "28D-393",
+    "photoUrl": "assets/img/plates/attzk3IuOTTPZj3Hr.jpg",
+    "dateAdded": "2026-08-23T11:57:06.000Z"
+  },
+  {
     "id": "recx7YIC3aDzpijCC",
     "year": 1940,
     "countyNumber": "24",
@@ -8904,6 +10200,18 @@
     "serial": "18A-10",
     "photoUrl": "assets/img/plates/att1OKEj2PaVt7jcC.jpg",
     "dateAdded": "2026-08-22T13:07:32.000Z"
+  },
+  {
+    "id": "recxJbrbY3gbpWdjJ",
+    "year": 1954,
+    "countyNumber": "29",
+    "countyName": "Anderson",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "29-14831",
+    "photoUrl": "assets/img/plates/attzFM0AGASBrhkrs.jpg",
+    "dateAdded": "2026-08-23T12:12:26.000Z"
   },
   {
     "id": "recxK7OGUxglZQkGh",
@@ -9038,6 +10346,18 @@
     "dateAdded": "2026-08-21T20:33:07.000Z"
   },
   {
+    "id": "recxuTC3DbunB4ybW",
+    "year": 1955,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "27-351",
+    "photoUrl": "assets/img/plates/attZoqqmDyCH2NmVu.jpg",
+    "dateAdded": "2026-08-23T11:38:14.000Z"
+  },
+  {
     "id": "recxvcU1v3nvy8z7L",
     "year": 1956,
     "countyNumber": "4",
@@ -9122,6 +10442,18 @@
     "dateAdded": "2026-08-22T03:29:23.000Z"
   },
   {
+    "id": "recyVRVeHyJFUo9md",
+    "year": 1952,
+    "countyNumber": "26",
+    "countyName": "Henry",
+    "colors": "Green",
+    "fontColor": "White",
+    "type": "County",
+    "serial": "26COUNTY-8",
+    "photoUrl": "assets/img/plates/attZr6KRaa7SOWYHJ.jpg",
+    "dateAdded": "2026-08-23T02:39:20.000Z"
+  },
+  {
     "id": "recyeVDnDaLUEOBn9",
     "year": 1950,
     "countyNumber": "6",
@@ -9132,6 +10464,18 @@
     "serial": "6-1",
     "photoUrl": "assets/img/plates/atttrhQUMwQfv5wXn.jpg",
     "dateAdded": "2026-08-21T14:53:43.000Z"
+  },
+  {
+    "id": "recyg2mGnKvLQiOxr",
+    "year": 1947,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Black",
+    "fontColor": "Whte",
+    "type": "Taxi",
+    "serial": "27TAXI-37",
+    "photoUrl": "assets/img/plates/attwkaKFz2ZcYnoSe.jpg",
+    "dateAdded": "2026-08-23T11:47:06.000Z"
   },
   {
     "id": "recyvcr17sUPKyuw0",
@@ -9324,5 +10668,29 @@
     "serial": "21-5530",
     "photoUrl": "assets/img/plates/att9g2bJEVaCPX7Xd.jpg",
     "dateAdded": "2026-08-22T14:33:19.000Z"
+  },
+  {
+    "id": "reczrWC3mSgIcMWxQ",
+    "year": 1951,
+    "countyNumber": "29",
+    "countyName": "Anderson",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "29-500",
+    "photoUrl": "assets/img/plates/att50k6flaIGkSzKq.jpg",
+    "dateAdded": "2026-08-23T12:13:34.000Z"
+  },
+  {
+    "id": "reczuqRmD9NXHuQfB",
+    "year": 1949,
+    "countyNumber": "28",
+    "countyName": "Lincoln",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "28-3561",
+    "photoUrl": "assets/img/plates/attNdtaID2e2ZfQWv.jpg",
+    "dateAdded": "2026-08-23T11:58:28.000Z"
   }
 ]
