@@ -144,6 +144,13 @@ function sortPlates(list){
   switch (state.sort) {
     case 'year-desc': return copy.sort((a,b) => (b.year||0) - (a.year||0));
     case 'year-asc': return copy.sort((a,b) => (a.year||0) - (b.year||0));
+    case 'county-number-asc': return copy.sort((a,b) => {
+      const aNumber = Number(a.countyNumber);
+      const bNumber = Number(b.countyNumber);
+      if (!Number.isFinite(aNumber)) return Number.isFinite(bNumber) ? 1 : 0;
+      if (!Number.isFinite(bNumber)) return -1;
+      return aNumber - bNumber;
+    });
     case 'county-asc': return copy.sort((a,b) => (a._countyName||'').localeCompare(b._countyName||''));
     default: return copy.sort((a,b) => (b.dateAdded||'').localeCompare(a.dateAdded||''));
   }
