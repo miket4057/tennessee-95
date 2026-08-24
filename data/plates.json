@@ -168,6 +168,18 @@
     "dateAdded": "2026-08-21T00:50:36.000Z"
   },
   {
+    "id": "rec0iZUYya8rcdeta",
+    "year": 1954,
+    "countyNumber": "32",
+    "countyName": "Marshall",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "32-4065",
+    "photoUrl": "assets/img/plates/attAPf0GdEmUaSw4q.jpg",
+    "dateAdded": "2026-08-23T18:14:00.000Z"
+  },
+  {
     "id": "rec0qD3glzK4OWNz1",
     "year": 1951,
     "countyNumber": "29",
@@ -322,6 +334,18 @@
     "serial": "21P/1-714",
     "photoUrl": "assets/img/plates/attPtHCQLCevDoC5F.jpg",
     "dateAdded": "2026-08-22T14:45:51.000Z"
+  },
+  {
+    "id": "rec1wrjGJG7BBcR5g",
+    "year": 1951,
+    "countyNumber": "32",
+    "countyName": "Marshall",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "32-2007",
+    "photoUrl": "assets/img/plates/attaqYE1jZpAiexKu.jpg",
+    "dateAdded": "2026-08-23T18:12:54.000Z"
   },
   {
     "id": "rec27p5aOk1epQ2yd",
@@ -526,6 +550,18 @@
     "serial": "8-355",
     "photoUrl": "assets/img/plates/atthNiG66d1UrrAqF.jpg",
     "dateAdded": "2026-08-21T15:42:18.000Z"
+  },
+  {
+    "id": "rec30iZKRLgEUWl4S",
+    "year": 1954,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "33-4788",
+    "photoUrl": "assets/img/plates/attxfvahcQHwnxOop.jpg",
+    "dateAdded": "2026-08-24T00:52:02.000Z"
   },
   {
     "id": "rec346xJwIRZL0b8f",
@@ -900,6 +936,18 @@
     "dateAdded": "2026-08-22T14:59:02.000Z"
   },
   {
+    "id": "rec4g5a2GtTbAxIp9",
+    "year": 1940,
+    "countyNumber": "32",
+    "countyName": "Marshall",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "32-2212",
+    "photoUrl": "assets/img/plates/attejMJxMq43eiABN.jpg",
+    "dateAdded": "2026-08-23T18:17:51.000Z"
+  },
+  {
     "id": "rec4iKpwpXBVNneG6",
     "year": 1941,
     "countyNumber": "1",
@@ -984,6 +1032,18 @@
     "dateAdded": "2026-08-20T23:54:42.000Z"
   },
   {
+    "id": "rec51tvLGjtq54Dic",
+    "year": 1942,
+    "countyNumber": "32",
+    "countyName": "Marshall",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "County",
+    "serial": "32COUNTY-40",
+    "photoUrl": "assets/img/plates/attcWxeRPUvaGlqao.jpg",
+    "dateAdded": "2026-08-23T18:11:40.000Z"
+  },
+  {
     "id": "rec52IBaj37hbb4Qn",
     "year": 1949,
     "countyNumber": "9",
@@ -1018,6 +1078,18 @@
     "serial": "10-3708",
     "photoUrl": "assets/img/plates/attK64wOklpSaFXud.jpg",
     "dateAdded": "2026-08-21T16:07:23.000Z"
+  },
+  {
+    "id": "rec5BQO4tOhV5Hzt2",
+    "year": 1953,
+    "countyNumber": "11",
+    "countyName": "Montgomery",
+    "colors": "Blue",
+    "fontColor": "Silver",
+    "type": "Dealer",
+    "serial": "11-31BDLR",
+    "photoUrl": "assets/img/plates/attDOKQdU8mB6qC0z.jpg",
+    "dateAdded": "2026-08-23T18:05:59.000Z"
   },
   {
     "id": "rec5KBUsazN560ygK",
@@ -1138,6 +1210,18 @@
     "serial": "19-352",
     "photoUrl": "assets/img/plates/attuKqMlY9VDLgjgi.jpg",
     "dateAdded": "2026-08-22T13:24:12.000Z"
+  },
+  {
+    "id": "rec5pUDFCDbydcvRm",
+    "year": 1951,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "33-226",
+    "photoUrl": "assets/img/plates/attj0KIb9PAN0YsVw.jpg",
+    "dateAdded": "2026-08-24T00:51:46.000Z"
   },
   {
     "id": "rec606ID13ECK7T6B",
@@ -1308,6 +1392,18 @@
     "dateAdded": "2026-08-22T13:28:11.000Z"
   },
   {
+    "id": "rec6uZilsrAessSog",
+    "year": 1955,
+    "countyNumber": "32",
+    "countyName": "Marshall",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Farm Truck",
+    "serial": "32F/1-11",
+    "photoUrl": "assets/img/plates/attgjhesVkPGUbxJB.jpg",
+    "dateAdded": "2026-08-23T18:18:19.000Z"
+  },
+  {
     "id": "rec71PhUcXmn1SNZY",
     "year": 1940,
     "countyNumber": "4",
@@ -1392,6 +1488,18 @@
     "dateAdded": "2026-08-13T22:23:29.000Z"
   },
   {
+    "id": "rec7ERa1EzFW50xT6",
+    "year": 1951,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Taxi",
+    "serial": "33TAXI-7",
+    "photoUrl": "assets/img/plates/attLWWF8qweG3HxGs.jpg",
+    "dateAdded": "2026-08-24T00:56:40.000Z"
+  },
+  {
     "id": "rec7IFZ45zLu8DNhJ",
     "year": 1951,
     "countyNumber": "16",
@@ -1462,6 +1570,18 @@
     "serial": "12-7195",
     "photoUrl": "assets/img/plates/attOsIgHYU3sYZTpu.jpg",
     "dateAdded": "2026-08-21T18:20:01.000Z"
+  },
+  {
+    "id": "rec7bKGC7j4maarMZ",
+    "year": 1942,
+    "countyNumber": "31",
+    "countyName": "Campbell",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "31P/3-886",
+    "photoUrl": "assets/img/plates/attz1T6MEJOdsEX1R.jpg",
+    "dateAdded": "2026-08-23T18:06:24.000Z"
   },
   {
     "id": "rec7ebMC55523mhV5",
@@ -1740,6 +1860,18 @@
     "dateAdded": "2026-08-22T03:28:33.000Z"
   },
   {
+    "id": "rec8qgHsIeHGgHhQ6",
+    "year": 1952,
+    "countyNumber": "32",
+    "countyName": "Marshall",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "32-550",
+    "photoUrl": "assets/img/plates/attZTJszhTN5rxwyn.jpg",
+    "dateAdded": "2026-08-23T18:17:09.000Z"
+  },
+  {
     "id": "rec8uylnS2MAPkL8v",
     "year": 1948,
     "countyNumber": "17",
@@ -1896,6 +2028,18 @@
     "dateAdded": "2026-08-23T11:44:41.000Z"
   },
   {
+    "id": "rec9KgMuz4jP53vrX",
+    "year": 1951,
+    "countyNumber": "32",
+    "countyName": "Marshall",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "32-242",
+    "photoUrl": "assets/img/plates/attVQddRqdvpmcDJM.jpg",
+    "dateAdded": "2026-08-23T18:13:20.000Z"
+  },
+  {
     "id": "rec9QG8DTvkrL8zON",
     "year": 1958,
     "countyNumber": "6",
@@ -2002,6 +2146,18 @@
     "serial": "2-268",
     "photoUrl": "assets/img/plates/att5a196eFdAHsBFy.jpg",
     "dateAdded": "2026-08-20T02:36:58.000Z"
+  },
+  {
+    "id": "recA2O7EcWQVpJhg1",
+    "year": 1942,
+    "countyNumber": "32",
+    "countyName": "Marshall",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "32-3066",
+    "photoUrl": "assets/img/plates/atte6igN1ZJOaPDAK.jpg",
+    "dateAdded": "2026-08-23T18:13:46.000Z"
   },
   {
     "id": "recAC5WEQd6wM3gXK",
@@ -2136,6 +2292,30 @@
     "dateAdded": "2026-08-23T12:15:18.000Z"
   },
   {
+    "id": "recArEPJF1Bhq4ipQ",
+    "year": 1952,
+    "countyNumber": "30",
+    "countyName": "Tipton",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "30-3066",
+    "photoUrl": "assets/img/plates/attQn4GcPLSodrFKB.jpg",
+    "dateAdded": "2026-08-23T18:03:31.000Z"
+  },
+  {
+    "id": "recAy5rNeb1IINsQF",
+    "year": 1949,
+    "countyNumber": "34",
+    "countyName": "Putnam",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "34-4489",
+    "photoUrl": "assets/img/plates/att1BsahLPCQb9IrW.jpg",
+    "dateAdded": "2026-08-24T01:05:22.000Z"
+  },
+  {
     "id": "recAywk7x5K617m9W",
     "year": 1948,
     "countyNumber": "21",
@@ -2172,6 +2352,18 @@
     "dateAdded": "2026-08-21T15:52:03.000Z"
   },
   {
+    "id": "recBErJSIiCjnGhKv",
+    "year": 1942,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "County",
+    "serial": "33COUNTY-53",
+    "photoUrl": "assets/img/plates/attUsnxJAgk2BmeiX.jpg",
+    "dateAdded": "2026-08-24T00:52:59.000Z"
+  },
+  {
     "id": "recBHOh5YASV1YMZ0",
     "year": 1956,
     "countyNumber": "25",
@@ -2182,6 +2374,18 @@
     "serial": "25D-73",
     "photoUrl": "assets/img/plates/attWhkxxX62IFdI07.jpg",
     "dateAdded": "2026-08-22T15:15:18.000Z"
+  },
+  {
+    "id": "recBHTDvdHZi0eGzS",
+    "year": 1956,
+    "countyNumber": "31",
+    "countyName": "Campbell",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Taxi",
+    "serial": "31TAXI-75",
+    "photoUrl": "assets/img/plates/attYSJyso1nn3Dv3I.jpg",
+    "dateAdded": "2026-08-23T18:07:50.000Z"
   },
   {
     "id": "recBIKGAugM1C3Q3U",
@@ -2316,6 +2520,18 @@
     "dateAdded": "2026-08-20T02:49:58.000Z"
   },
   {
+    "id": "recBz5rrYfB5dKuGe",
+    "year": 1951,
+    "countyNumber": "34",
+    "countyName": "Putnam",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "34-403",
+    "photoUrl": "assets/img/plates/att5ZNKQ3j5jx99Mb.jpg",
+    "dateAdded": "2026-08-24T01:03:30.000Z"
+  },
+  {
     "id": "recC1tMN7tiXjY2bP",
     "year": 1965,
     "countyNumber": "18",
@@ -2410,6 +2626,18 @@
     "serial": "22-293",
     "photoUrl": "assets/img/plates/attT3zWzJdJzys3Wj.jpg",
     "dateAdded": "2026-08-22T14:52:20.000Z"
+  },
+  {
+    "id": "recCJ8SKuFeiRFBOs",
+    "year": 1942,
+    "countyNumber": "32",
+    "countyName": "Marshall",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "32F/1-191",
+    "photoUrl": "assets/img/plates/attgQM5Tiugi17TzQ.jpg",
+    "dateAdded": "2026-08-23T18:14:13.000Z"
   },
   {
     "id": "recCKqBDK8VwtjJTH",
@@ -2578,6 +2806,18 @@
     "serial": "1F/1-992",
     "photoUrl": "assets/img/plates/attHCWFp0pAeYqDOH.jpg",
     "dateAdded": "2026-08-13T23:58:07.000Z"
+  },
+  {
+    "id": "recDOhbnXNpSu4MO0",
+    "year": 1946,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "33-29",
+    "photoUrl": "assets/img/plates/attBNqCKNNjfbXnvU.jpg",
+    "dateAdded": "2026-08-24T00:58:11.000Z"
   },
   {
     "id": "recDZ7i8q8nmLds8V",
@@ -2796,6 +3036,18 @@
     "dateAdded": "2026-08-22T03:24:50.000Z"
   },
   {
+    "id": "recEMJNskzNxQNt9V",
+    "year": 1953,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "33-6343",
+    "photoUrl": "assets/img/plates/attvxuo0qNsyggKEB.jpg",
+    "dateAdded": "2026-08-24T00:58:39.000Z"
+  },
+  {
     "id": "recEacsys934K3iCx",
     "year": 1947,
     "countyNumber": "22",
@@ -2904,6 +3156,18 @@
     "dateAdded": "2026-08-22T03:31:28.000Z"
   },
   {
+    "id": "recF7Xvml7vQ8gotG",
+    "year": 1949,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "33-613",
+    "photoUrl": "assets/img/plates/attZC7k7njDhcLOBK.jpg",
+    "dateAdded": "2026-08-24T00:57:09.000Z"
+  },
+  {
     "id": "recF8c0i4IxZVQYCk",
     "year": 1946,
     "countyNumber": "29",
@@ -2938,6 +3202,18 @@
     "serial": "27-1889",
     "photoUrl": "assets/img/plates/atts3tt1d8tZXPbUz.jpg",
     "dateAdded": "2026-08-23T11:36:57.000Z"
+  },
+  {
+    "id": "recFQeVEnkKi3MgwU",
+    "year": 1951,
+    "countyNumber": "34",
+    "countyName": "Putnam",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "34F/1-686",
+    "photoUrl": "assets/img/plates/attAduS9aAhHZeb53.jpg",
+    "dateAdded": "2026-08-24T01:03:12.000Z"
   },
   {
     "id": "recFRAkiz3e43X075",
@@ -3000,6 +3276,18 @@
     "dateAdded": "2026-08-22T14:43:01.000Z"
   },
   {
+    "id": "recFkVvIHcMDwz99v",
+    "year": 1952,
+    "countyNumber": "32",
+    "countyName": "Marshall",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "32P/1-15",
+    "photoUrl": "assets/img/plates/attURbspsDV86eKij.jpg",
+    "dateAdded": "2026-08-23T18:18:05.000Z"
+  },
+  {
     "id": "recFoXzx5nOKyZz8n",
     "year": 1955,
     "countyNumber": "3",
@@ -3010,6 +3298,18 @@
     "serial": "3-63",
     "photoUrl": "assets/img/plates/attE7OxZOB1gdW2bP.jpg",
     "dateAdded": "2026-08-20T23:50:38.000Z"
+  },
+  {
+    "id": "recFtPeqiiFCntnMM",
+    "year": 1942,
+    "countyNumber": "32",
+    "countyName": "Marshall",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "32-3084",
+    "photoUrl": "assets/img/plates/attMREdrJfyMd3im2.jpg",
+    "dateAdded": "2026-08-23T18:12:10.000Z"
   },
   {
     "id": "recFwycocz1YLq7Ja",
@@ -3082,6 +3382,18 @@
     "serial": "7-2104",
     "photoUrl": "assets/img/plates/attS0QD3N0FpTEGMa.jpg",
     "dateAdded": "2026-08-21T15:16:03.000Z"
+  },
+  {
+    "id": "recGElna3NHyTraR3",
+    "year": 1956,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "33-51",
+    "photoUrl": "assets/img/plates/attj99uGMY2zzfMJy.jpg",
+    "dateAdded": "2026-08-24T01:01:07.000Z"
   },
   {
     "id": "recGGz2rVo5aOYP0r",
@@ -3178,6 +3490,18 @@
     "serial": "12-2859",
     "photoUrl": "assets/img/plates/att6AX8hQdBu6XCZa.jpg",
     "dateAdded": "2026-08-21T18:24:07.000Z"
+  },
+  {
+    "id": "recGd8BReGibCbZGs",
+    "year": 1952,
+    "countyNumber": "30",
+    "countyName": "Tipton",
+    "colors": "Green",
+    "fontColor": "White",
+    "type": "County",
+    "serial": "30COUNTY-59",
+    "photoUrl": "assets/img/plates/attpPQErs696PZBzh.jpg",
+    "dateAdded": "2026-08-23T18:02:28.000Z"
   },
   {
     "id": "recGhxEhMtgF8dE6U",
@@ -3300,6 +3624,18 @@
     "dateAdded": "2026-08-21T18:04:04.000Z"
   },
   {
+    "id": "recH7I1YPeGnjORBn",
+    "year": 1951,
+    "countyNumber": "30",
+    "countyName": "Tipton",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "30F/1-1309",
+    "photoUrl": "assets/img/plates/attzqaZbaOYPze2CX.jpg",
+    "dateAdded": "2026-08-23T18:01:25.000Z"
+  },
+  {
     "id": "recH7Kcrk8T6vB5Vh",
     "year": 1946,
     "countyNumber": "19",
@@ -3322,6 +3658,18 @@
     "serial": "17-1491",
     "photoUrl": "assets/img/plates/att2kHHVhrQ6zohzh.jpg",
     "dateAdded": "2026-08-22T03:26:18.000Z"
+  },
+  {
+    "id": "recH9YBErDV3qWbuE",
+    "year": 1940,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "33-2075",
+    "photoUrl": "assets/img/plates/att8zTVjwe6zDFmZL.jpg",
+    "dateAdded": "2026-08-24T00:56:12.000Z"
   },
   {
     "id": "recHFHCMiiRxDd0F1",
@@ -3370,6 +3718,18 @@
     "serial": "22CITY-506",
     "photoUrl": "assets/img/plates/attRJAKp8dTn7wFmP.jpg",
     "dateAdded": "2026-08-22T14:51:24.000Z"
+  },
+  {
+    "id": "recHKrsGYS9WGzu1c",
+    "year": 1950,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "City",
+    "serial": "33CITY-517",
+    "photoUrl": "assets/img/plates/attSJMWdGynaaXnFo.jpg",
+    "dateAdded": "2026-08-24T01:00:09.000Z"
   },
   {
     "id": "recHLeG1YS7u0L0A6",
@@ -3480,6 +3840,18 @@
     "dateAdded": "2026-08-22T14:41:46.000Z"
   },
   {
+    "id": "recIBfJdhD8R3KLgz",
+    "year": 1946,
+    "countyNumber": "31",
+    "countyName": "Campbell",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Truck",
+    "serial": "31P/3-X16",
+    "photoUrl": "assets/img/plates/atte8xe71aKLYWFQN.jpg",
+    "dateAdded": "2026-08-23T18:08:21.000Z"
+  },
+  {
     "id": "recIEdZl9MDs97Pwa",
     "year": 1957,
     "countyNumber": "1",
@@ -3490,6 +3862,18 @@
     "serial": "1-352",
     "photoUrl": "assets/img/plates/attcnEOPwHcZQEBeK.jpg",
     "dateAdded": "2026-08-13T22:23:29.000Z"
+  },
+  {
+    "id": "recIK2pekqPpEUtmD",
+    "year": 1948,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "33-1270",
+    "photoUrl": "assets/img/plates/attZ4p5NUhKvhvnxw.jpg",
+    "dateAdded": "2026-08-24T00:52:28.000Z"
   },
   {
     "id": "recILiUuPLBlq3f2B",
@@ -3564,6 +3948,18 @@
     "dateAdded": "2026-08-21T18:12:56.000Z"
   },
   {
+    "id": "recIhghd3btTgRgj9",
+    "year": 1951,
+    "countyNumber": "31",
+    "countyName": "Campbell",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "31-2688",
+    "photoUrl": "assets/img/plates/attmK8zsM2pA1ILMY.jpg",
+    "dateAdded": "2026-08-23T18:05:41.000Z"
+  },
+  {
     "id": "recIjEECRZXenR1pi",
     "year": 1954,
     "countyNumber": "6",
@@ -3598,6 +3994,18 @@
     "serial": "8F/1-1075",
     "photoUrl": "assets/img/plates/attGoBXsSCnhAuhWe.jpg",
     "dateAdded": "2026-08-21T15:44:01.000Z"
+  },
+  {
+    "id": "recJ2Gld5YTlFylWm",
+    "year": 1952,
+    "countyNumber": "32",
+    "countyName": "Marshall",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "32-1542",
+    "photoUrl": "assets/img/plates/atthdwaYincyvtYNY.jpg",
+    "dateAdded": "2026-08-23T18:13:35.000Z"
   },
   {
     "id": "recJ6KpVvkZLbk2Bj",
@@ -3682,6 +4090,18 @@
     "serial": "16-18",
     "photoUrl": "assets/img/plates/attN8uPRCm68eUqX4.jpg",
     "dateAdded": "2026-08-22T03:09:35.000Z"
+  },
+  {
+    "id": "recJqS2bgeEK3vp32",
+    "year": 1939,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "33-2305",
+    "photoUrl": "assets/img/plates/attqJVq7nFra3g7vr.jpg",
+    "dateAdded": "2026-08-24T00:56:00.000Z"
   },
   {
     "id": "recJrB6ChZl7u7Lqs",
@@ -3792,6 +4212,18 @@
     "dateAdded": "2026-08-22T13:30:10.000Z"
   },
   {
+    "id": "recKRPEo2DXs10HmU",
+    "year": 1951,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "33P/2-678",
+    "photoUrl": "assets/img/plates/attSROExkRCFb5pS2.jpg",
+    "dateAdded": "2026-08-24T00:55:26.000Z"
+  },
+  {
     "id": "recKU5VaxHjSxJUnO",
     "year": 1954,
     "countyNumber": "4",
@@ -3826,6 +4258,18 @@
     "serial": "17-1750",
     "photoUrl": "assets/img/plates/attmYrJ3bl5YV5ij2.jpg",
     "dateAdded": "2026-08-22T03:24:07.000Z"
+  },
+  {
+    "id": "recKanRCnOSDgzvxS",
+    "year": 1955,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Maroon",
+    "fontColor": "White",
+    "type": "Dealer",
+    "serial": "33DLR23C",
+    "photoUrl": "assets/img/plates/attONvm3VRtLX8Tdv.jpg",
+    "dateAdded": "2026-08-24T00:59:53.000Z"
   },
   {
     "id": "recKax5JoIP0YYUbv",
@@ -3900,6 +4344,18 @@
     "dateAdded": "2026-08-21T15:47:25.000Z"
   },
   {
+    "id": "recL2OlLGtL30kKYw",
+    "year": 1954,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "33-4788",
+    "photoUrl": "assets/img/plates/attXNxFSgRlsgAZR4.jpg",
+    "dateAdded": "2026-08-24T00:58:57.000Z"
+  },
+  {
     "id": "recL2aSNxmPZSBcjF",
     "year": 1953,
     "countyNumber": "28",
@@ -3922,6 +4378,18 @@
     "serial": "29-6423",
     "photoUrl": "assets/img/plates/attLutG7lfWC75xZf.jpg",
     "dateAdded": "2026-08-23T12:18:09.000Z"
+  },
+  {
+    "id": "recL8OzuG8n8ZN9It",
+    "year": 1956,
+    "countyNumber": "35",
+    "countyName": "Putnam",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "35-4898",
+    "photoUrl": "assets/img/plates/attRn4wkgG6qexsQW.jpg",
+    "dateAdded": "2026-08-24T01:09:01.000Z"
   },
   {
     "id": "recL9woX5BoaGXqnu",
@@ -3960,6 +4428,18 @@
     "dateAdded": "2026-08-23T12:15:32.000Z"
   },
   {
+    "id": "recLN531BlnCcYU4X",
+    "year": 1949,
+    "countyNumber": "31",
+    "countyName": "Campbell",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "31-28",
+    "photoUrl": "assets/img/plates/att1PWo544Gu966yf.jpg",
+    "dateAdded": "2026-08-23T18:06:46.000Z"
+  },
+  {
     "id": "recLTO0q6B3vQ188x",
     "year": 1942,
     "countyNumber": "14",
@@ -3994,6 +4474,18 @@
     "serial": "16F/1-143",
     "photoUrl": "assets/img/plates/attcYbJcKpkQAJgCa.jpg",
     "dateAdded": "2026-08-22T03:11:44.000Z"
+  },
+  {
+    "id": "recLmTyGsvDyr9TjM",
+    "year": 1962,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "33-55",
+    "photoUrl": "assets/img/plates/att0eoIuVwExcBxK4.jpg",
+    "dateAdded": "2026-08-24T00:54:00.000Z"
   },
   {
     "id": "recLnWRsZ8CsrNauC",
@@ -4104,6 +4596,18 @@
     "dateAdded": "2026-08-22T14:58:31.000Z"
   },
   {
+    "id": "recMEKi4LEIZq8L64",
+    "year": 1949,
+    "countyNumber": "30",
+    "countyName": "Tipton",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Heavy Car",
+    "serial": "30D-51",
+    "photoUrl": "assets/img/plates/attv9SxnOIHtlSgPs.jpg",
+    "dateAdded": "2026-08-23T18:03:03.000Z"
+  },
+  {
     "id": "recMIyaZDOTLJkILg",
     "year": 1941,
     "countyNumber": "15",
@@ -4114,6 +4618,18 @@
     "serial": "15-130",
     "photoUrl": "assets/img/plates/att7gP7q28gr7ojxS.jpg",
     "dateAdded": "2026-08-21T20:39:23.000Z"
+  },
+  {
+    "id": "recMJt9ty14YlSftS",
+    "year": 1942,
+    "countyNumber": "32",
+    "countyName": "Marshall",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "32P/2-643",
+    "photoUrl": "assets/img/plates/attKE0PA4arApWujl.jpg",
+    "dateAdded": "2026-08-23T18:16:48.000Z"
   },
   {
     "id": "recMMQ2T7BmTXRSX7",
@@ -4138,6 +4654,18 @@
     "serial": "3-15932",
     "photoUrl": "assets/img/plates/attY6ZIxCsrDbNvxF.jpg",
     "dateAdded": "2026-08-21T00:02:00.000Z"
+  },
+  {
+    "id": "recMQbGwDxjf08cLD",
+    "year": 1950,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "33-18",
+    "photoUrl": "assets/img/plates/att0vXjCGQlokTzsY.jpg",
+    "dateAdded": "2026-08-24T00:59:12.000Z"
   },
   {
     "id": "recMY98f11GaNUDkU",
@@ -4282,6 +4810,18 @@
     "serial": "27-1508",
     "photoUrl": "assets/img/plates/attPP65YtfAcnrwfg.jpg",
     "dateAdded": "2026-08-23T11:50:54.000Z"
+  },
+  {
+    "id": "recNJTxC5blyfkf0b",
+    "year": 1952,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "33-2467",
+    "photoUrl": "assets/img/plates/attKvw0jHVtOIqvaG.jpg",
+    "dateAdded": "2026-08-24T00:55:01.000Z"
   },
   {
     "id": "recNL1SEAKMllSeTY",
@@ -4464,6 +5004,18 @@
     "dateAdded": "2026-08-23T11:52:07.000Z"
   },
   {
+    "id": "recO98THAafgsWJ1X",
+    "year": 1954,
+    "countyNumber": "35",
+    "countyName": "Putnam",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "35-4682",
+    "photoUrl": "assets/img/plates/att44X07z4qWlU7Fn.jpg",
+    "dateAdded": "2026-08-24T01:07:28.000Z"
+  },
+  {
     "id": "recOGb5FCl1jc6r60",
     "year": 1944,
     "countyNumber": "17",
@@ -4558,6 +5110,18 @@
     "serial": "29-171",
     "photoUrl": "assets/img/plates/attNMAk4mRwfLAVrs.jpg",
     "dateAdded": "2026-08-23T12:13:13.000Z"
+  },
+  {
+    "id": "recOo3i0ibNjQG3XK",
+    "year": 1955,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Maroon",
+    "fontColor": "White",
+    "type": "Dealer",
+    "serial": "33DLR-23C",
+    "photoUrl": "assets/img/plates/attEpfEJveg5PKcSi.jpg",
+    "dateAdded": "2026-08-24T00:52:42.000Z"
   },
   {
     "id": "recOoTsnRT8aHKd3Z",
@@ -4666,6 +5230,30 @@
     "serial": "11F/1-93",
     "photoUrl": "assets/img/plates/attGcXAouU6ZwWPzs.jpg",
     "dateAdded": "2026-08-21T17:59:56.000Z"
+  },
+  {
+    "id": "recP2t5kFVrGhqwl0",
+    "year": 1947,
+    "countyNumber": "30",
+    "countyName": "Tipton",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "30-1456",
+    "photoUrl": "assets/img/plates/att00EFHmsjMJfyea.jpg",
+    "dateAdded": "2026-08-23T18:02:01.000Z"
+  },
+  {
+    "id": "recP4SuiC2bkueSZw",
+    "year": 1953,
+    "countyNumber": "32",
+    "countyName": "Marshall",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "32P/1-15",
+    "photoUrl": "assets/img/plates/attvC8e128H46r9vU.jpg",
+    "dateAdded": "2026-08-23T18:17:20.000Z"
   },
   {
     "id": "recP8eHauby8zsSiT",
@@ -4944,6 +5532,18 @@
     "dateAdded": "2026-08-23T02:41:29.000Z"
   },
   {
+    "id": "recQra9WYb64yeXmQ",
+    "year": 1950,
+    "countyNumber": "32",
+    "countyName": "Marshall",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "32-24",
+    "photoUrl": "assets/img/plates/attN65QWqLI3UUa0F.jpg",
+    "dateAdded": "2026-08-23T18:14:32.000Z"
+  },
+  {
     "id": "recQsRk3x1RdzDe4m",
     "year": 1945,
     "countyNumber": "6",
@@ -5064,6 +5664,18 @@
     "dateAdded": "2026-08-22T13:09:27.000Z"
   },
   {
+    "id": "recRZKRLjxb22tOxb",
+    "year": 1946,
+    "countyNumber": "34",
+    "countyName": "Putnam",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "34-623",
+    "photoUrl": "assets/img/plates/attyAZoprUEzCwITE.jpg",
+    "dateAdded": "2026-08-24T01:04:07.000Z"
+  },
+  {
     "id": "recRgTRhqUi3o2CdN",
     "year": 1951,
     "countyNumber": "8",
@@ -5110,6 +5722,18 @@
     "serial": "26P/2-609",
     "photoUrl": "assets/img/plates/att9KRbcmY4frVDAV.jpg",
     "dateAdded": "2026-08-23T02:36:20.000Z"
+  },
+  {
+    "id": "recRy01ugifpI851m",
+    "year": 1951,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "33-1951",
+    "photoUrl": "assets/img/plates/attO94qtwJISVV9b9.jpg",
+    "dateAdded": "2026-08-24T01:00:53.000Z"
   },
   {
     "id": "recS7gUDk2TG5a1S3",
@@ -5170,6 +5794,18 @@
     "serial": "17-1051",
     "photoUrl": "assets/img/plates/attukSlwpdg8daizq.jpg",
     "dateAdded": "2026-08-22T03:27:01.000Z"
+  },
+  {
+    "id": "recSWn0vt7oa9V9X0",
+    "year": 1964,
+    "countyNumber": "30",
+    "countyName": "Tipton",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Motorcycle",
+    "serial": "30-69",
+    "photoUrl": "assets/img/plates/attsq6UfujOVXMHTm.jpg",
+    "dateAdded": "2026-08-23T18:04:10.000Z"
   },
   {
     "id": "recSa90zz8y8fEOFs",
@@ -5292,6 +5928,18 @@
     "dateAdded": "2026-08-21T18:01:12.000Z"
   },
   {
+    "id": "recTF6HRhEU9kwMnN",
+    "year": 1952,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Heavy Car",
+    "serial": "33D-151",
+    "photoUrl": "assets/img/plates/attfqp7iuPzGCIFGr.jpg",
+    "dateAdded": "2026-08-24T01:01:24.000Z"
+  },
+  {
     "id": "recTRnhRSQpsvt7PI",
     "year": 1941,
     "countyNumber": "18",
@@ -5302,6 +5950,18 @@
     "serial": "18-3387",
     "photoUrl": "assets/img/plates/atttxw5FmVlExgQ8B.jpg",
     "dateAdded": "2026-08-22T13:01:44.000Z"
+  },
+  {
+    "id": "recTVrXqZleMI6wCB",
+    "year": 1956,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "33-469",
+    "photoUrl": "assets/img/plates/attxBMGptGQNCHueh.jpg",
+    "dateAdded": "2026-08-24T00:52:21.000Z"
   },
   {
     "id": "recTazIkIonZlwVDp",
@@ -5352,6 +6012,18 @@
     "dateAdded": "2026-08-22T13:19:42.000Z"
   },
   {
+    "id": "recTnn59GtxIQ8x8K",
+    "year": 1952,
+    "countyNumber": "30",
+    "countyName": "Tipton",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "30-13",
+    "photoUrl": "assets/img/plates/attoUUodUe7zcqj5w.jpg",
+    "dateAdded": "2026-08-23T18:03:58.000Z"
+  },
+  {
     "id": "recTszCfPyU4Rt8Uv",
     "year": 1945,
     "countyNumber": "24",
@@ -5386,6 +6058,18 @@
     "serial": "27P/1-108",
     "photoUrl": "assets/img/plates/att3OHyGZMJAedZ2B.jpg",
     "dateAdded": "2026-08-23T11:38:26.000Z"
+  },
+  {
+    "id": "recU4OwQ4dU4ftdFF",
+    "year": 1942,
+    "countyNumber": "34",
+    "countyName": "Putnam",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "34P/3-876",
+    "photoUrl": "assets/img/plates/attft2AM5fuUgVqgr.jpg",
+    "dateAdded": "2026-08-24T01:02:45.000Z"
   },
   {
     "id": "recUJ6FpfLE6VG0XN",
@@ -5520,6 +6204,18 @@
     "dateAdded": "2026-08-22T03:17:21.000Z"
   },
   {
+    "id": "recUmCgDXCEPnpIV1",
+    "year": 1956,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "33-51",
+    "photoUrl": "assets/img/plates/attF1XiIJDrdGkLJD.jpg",
+    "dateAdded": "2026-08-24T00:58:26.000Z"
+  },
+  {
     "id": "recUn20iiZWUuvUxR",
     "year": 1959,
     "countyNumber": "5",
@@ -5556,6 +6252,18 @@
     "dateAdded": "2026-08-22T03:16:57.000Z"
   },
   {
+    "id": "recUya3PoEqh2yiJU",
+    "year": 1941,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "33-749",
+    "photoUrl": "assets/img/plates/attAQoaqr0YjGWlJj.jpg",
+    "dateAdded": "2026-08-24T00:51:18.000Z"
+  },
+  {
     "id": "recV2GR0l8CzNf69U",
     "year": 1955,
     "countyNumber": "21",
@@ -5580,6 +6288,30 @@
     "dateAdded": "2026-08-21T18:19:13.000Z"
   },
   {
+    "id": "recVBFFiKsaVXVjQK",
+    "year": 1950,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "33-4770",
+    "photoUrl": "assets/img/plates/attq5QfiPxslbltIl.jpg",
+    "dateAdded": "2026-08-24T00:57:21.000Z"
+  },
+  {
+    "id": "recVJLuFYlLCxB6Yp",
+    "year": 1956,
+    "countyNumber": "32",
+    "countyName": "Marshall",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "32-15",
+    "photoUrl": "assets/img/plates/attFaNqBLodR1HLx8.jpg",
+    "dateAdded": "2026-08-23T18:17:37.000Z"
+  },
+  {
     "id": "recVLIVMNdL32IcOb",
     "year": 1942,
     "countyNumber": "22",
@@ -5590,6 +6322,18 @@
     "serial": "22F/1-140",
     "photoUrl": "assets/img/plates/attJRs16oPyRhSV1z.jpg",
     "dateAdded": "2026-08-22T14:48:47.000Z"
+  },
+  {
+    "id": "recVUFDBSXHlu85aY",
+    "year": 1955,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "33-1955",
+    "photoUrl": "assets/img/plates/attSy8LFPVnuoFysV.jpg",
+    "dateAdded": "2026-08-24T01:00:34.000Z"
   },
   {
     "id": "recVYLg0LS578Wgp4",
@@ -5652,6 +6396,30 @@
     "dateAdded": "2026-08-21T15:50:10.000Z"
   },
   {
+    "id": "recW03Ip5GFw7DaS4",
+    "year": 1954,
+    "countyNumber": "35",
+    "countyName": "Putnam",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "35-2338",
+    "photoUrl": "assets/img/plates/attPOgP7PKK04oNAf.jpg",
+    "dateAdded": "2026-08-24T01:08:42.000Z"
+  },
+  {
+    "id": "recWAwy3AGrWcEZVH",
+    "year": 1945,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "33-5051",
+    "photoUrl": "assets/img/plates/attgtXd7J9ANpFEqv.jpg",
+    "dateAdded": "2026-08-24T00:57:55.000Z"
+  },
+  {
     "id": "recWBu3fgTOY9rpMg",
     "year": 1944,
     "countyNumber": "16",
@@ -5688,6 +6456,18 @@
     "dateAdded": "2026-08-23T02:40:53.000Z"
   },
   {
+    "id": "recWOT3hniikfp0WX",
+    "year": 1950,
+    "countyNumber": "35",
+    "countyName": "Putnam",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "35-2485",
+    "photoUrl": "assets/img/plates/attHcD4MW8wmLfKQf.jpg",
+    "dateAdded": "2026-08-24T01:06:22.000Z"
+  },
+  {
     "id": "recWRvXxzLaj34yrf",
     "year": 1950,
     "countyNumber": "14",
@@ -5698,6 +6478,18 @@
     "serial": "14-246",
     "photoUrl": "assets/img/plates/attp992RGHlpjXEfW.jpg",
     "dateAdded": "2026-08-21T20:35:20.000Z"
+  },
+  {
+    "id": "recWTin3CG8DU0D7a",
+    "year": 1939,
+    "countyNumber": "32",
+    "countyName": "Marshall",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "32-158",
+    "photoUrl": "assets/img/plates/attHTsTwtzRfpHqtX.jpg",
+    "dateAdded": "2026-08-23T18:11:55.000Z"
   },
   {
     "id": "recWaSDrTXjYoP5mb",
@@ -5748,6 +6540,18 @@
     "dateAdded": "2026-08-20T23:54:38.000Z"
   },
   {
+    "id": "recWrCFpI10ktRQ0m",
+    "year": 1956,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "33D-1821",
+    "photoUrl": "assets/img/plates/attWYOHRgyc0wPz52.jpg",
+    "dateAdded": "2026-08-24T00:59:24.000Z"
+  },
+  {
     "id": "recWrjgvgcN2ZTroY",
     "year": 1949,
     "countyNumber": "18",
@@ -5758,6 +6562,18 @@
     "serial": "18D-149",
     "photoUrl": "assets/img/plates/attFLRK4B0Zg3PvEL.jpg",
     "dateAdded": "2026-08-22T13:09:13.000Z"
+  },
+  {
+    "id": "recWsExlt1mz6Stdm",
+    "year": 1953,
+    "countyNumber": "31",
+    "countyName": "Campbell",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "31D-280",
+    "photoUrl": "assets/img/plates/attm1BHxGyrZwvLKH.jpg",
+    "dateAdded": "2026-08-23T18:08:42.000Z"
   },
   {
     "id": "recWtKcPRsHBc24iW",
@@ -5784,6 +6600,18 @@
     "dateAdded": "2026-08-21T15:18:54.000Z"
   },
   {
+    "id": "recX3JyZKMk9ZKZY9",
+    "year": 1942,
+    "countyNumber": "34",
+    "countyName": "Putnam",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "34P/2-942",
+    "photoUrl": "assets/img/plates/attxTNRhKxvKZGuDk.jpg",
+    "dateAdded": "2026-08-24T01:01:38.000Z"
+  },
+  {
     "id": "recX4AARQmjlIZWFu",
     "year": 1951,
     "countyNumber": "24",
@@ -5806,6 +6634,18 @@
     "serial": "9P/2-5424",
     "photoUrl": "assets/img/plates/att5DLlYLNRnW1yNG.jpg",
     "dateAdded": "2026-08-21T15:53:21.000Z"
+  },
+  {
+    "id": "recXBQKww7lUaV3UV",
+    "year": 1951,
+    "countyNumber": "35",
+    "countyName": "Putnam",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "35-2346",
+    "photoUrl": "assets/img/plates/attYWh4rTWNtifnbj.jpg",
+    "dateAdded": "2026-08-24T01:07:15.000Z"
   },
   {
     "id": "recXC6Uyc0SQv23if",
@@ -5866,6 +6706,18 @@
     "serial": "8-1169",
     "photoUrl": "assets/img/plates/attpNQ2rA12zWC6sS.jpg",
     "dateAdded": "2026-08-21T15:27:08.000Z"
+  },
+  {
+    "id": "recXX3raAJhxodmBl",
+    "year": 1955,
+    "countyNumber": "34",
+    "countyName": "Putnam",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "34-4470",
+    "photoUrl": "assets/img/plates/atto1HaJTZi1lobnM.jpg",
+    "dateAdded": "2026-08-24T01:02:07.000Z"
   },
   {
     "id": "recXb92i18k5iMIpE",
@@ -5988,6 +6840,18 @@
     "dateAdded": "2026-08-21T20:23:19.000Z"
   },
   {
+    "id": "recYGWCaHDqS9IEgm",
+    "year": 1951,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "33-949",
+    "photoUrl": "assets/img/plates/attuwUrEdys3VectK.jpg",
+    "dateAdded": "2026-08-24T00:55:15.000Z"
+  },
+  {
     "id": "recYZewXCmAqmCRAY",
     "year": 1956,
     "countyNumber": "4",
@@ -6082,6 +6946,18 @@
     "serial": "17-4546",
     "photoUrl": "assets/img/plates/attQBmlqygcrFv2Ys.jpg",
     "dateAdded": "2026-08-22T03:30:25.000Z"
+  },
+  {
+    "id": "recZAJFd6uaUEQSlH",
+    "year": 1956,
+    "countyNumber": "35",
+    "countyName": "Putnam",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "35-786",
+    "photoUrl": "assets/img/plates/attqYelQjAsCZCQgv.jpg",
+    "dateAdded": "2026-08-24T01:07:45.000Z"
   },
   {
     "id": "recZI8kLoVDUlTm7e",
@@ -6192,6 +7068,18 @@
     "dateAdded": "2026-08-21T16:03:55.000Z"
   },
   {
+    "id": "recZbSPInE97RbFRL",
+    "year": 1964,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Motorcycle",
+    "serial": "33-37",
+    "photoUrl": "assets/img/plates/att9sLZAo3YeiuYSl.jpg",
+    "dateAdded": "2026-08-24T00:54:13.000Z"
+  },
+  {
     "id": "recZdkwQCg7CaPSEF",
     "year": 1955,
     "countyNumber": "11",
@@ -6238,6 +7126,18 @@
     "serial": "15-248",
     "photoUrl": "assets/img/plates/attZjNgc2NcNN57BH.jpg",
     "dateAdded": "2026-08-21T20:43:27.000Z"
+  },
+  {
+    "id": "recZltlSTwNI4don9",
+    "year": 1951,
+    "countyNumber": "35",
+    "countyName": "Putnam",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "35-780",
+    "photoUrl": "assets/img/plates/attFVqGVWdcUnky9C.jpg",
+    "dateAdded": "2026-08-24T01:09:35.000Z"
   },
   {
     "id": "recZmpSBVMJ8WGCYX",
@@ -6310,6 +7210,18 @@
     "serial": "24A-20",
     "photoUrl": "assets/img/plates/attZCvj1kOHSHW1mm.jpg",
     "dateAdded": "2026-08-22T15:04:52.000Z"
+  },
+  {
+    "id": "recaYFkbC0X3MGlVV",
+    "year": 1955,
+    "countyNumber": "31",
+    "countyName": "Campbell",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "31-1324",
+    "photoUrl": "assets/img/plates/attM0ShYLkN6eyslt.jpg",
+    "dateAdded": "2026-08-23T18:07:03.000Z"
   },
   {
     "id": "recabxUhz5LPSb70U",
@@ -6576,6 +7488,18 @@
     "dateAdded": "2026-08-21T15:48:57.000Z"
   },
   {
+    "id": "recbl7eR7XVuYmSHa",
+    "year": 1956,
+    "countyNumber": "30",
+    "countyName": "Tipton",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "30-1000",
+    "photoUrl": "assets/img/plates/attdCLeFNwtNennHM.jpg",
+    "dateAdded": "2026-08-23T18:02:46.000Z"
+  },
+  {
     "id": "recbnIuWSRhtN2hCk",
     "year": 1939,
     "countyNumber": "27",
@@ -6586,6 +7510,18 @@
     "serial": "27-746",
     "photoUrl": "assets/img/plates/attEAzQ5pPUC1J2xI.jpg",
     "dateAdded": "2026-08-23T02:42:40.000Z"
+  },
+  {
+    "id": "recboyD7G3q3rj7ne",
+    "year": 1942,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "County",
+    "serial": "33COUNTY-55",
+    "photoUrl": "assets/img/plates/attDyAKCHDR7P4zN3.jpg",
+    "dateAdded": "2026-08-24T00:53:40.000Z"
   },
   {
     "id": "recbpbcmYPj5FF0Ka",
@@ -6864,6 +7800,18 @@
     "dateAdded": "2026-08-22T03:12:16.000Z"
   },
   {
+    "id": "recdsqcDUhM544LIL",
+    "year": 1948,
+    "countyNumber": "30",
+    "countyName": "Tipton",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "30-563",
+    "photoUrl": "assets/img/plates/attpJkygrviffmgV4.jpg",
+    "dateAdded": "2026-08-23T18:03:43.000Z"
+  },
+  {
     "id": "recdt4I9UGmMSkGhm",
     "year": 1940,
     "countyNumber": "1",
@@ -6898,6 +7846,18 @@
     "serial": "15-14",
     "photoUrl": "assets/img/plates/atthSFjcBJJukXUAz.jpg",
     "dateAdded": "2026-08-21T20:38:19.000Z"
+  },
+  {
+    "id": "rece4xT3xMq5P8J3X",
+    "year": 1951,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "33-3164",
+    "photoUrl": "assets/img/plates/attXjyuFgI750jyyT.jpg",
+    "dateAdded": "2026-08-24T00:54:44.000Z"
   },
   {
     "id": "receHxmNNt0KY5Zm1",
@@ -6960,6 +7920,18 @@
     "dateAdded": "2026-08-23T11:59:04.000Z"
   },
   {
+    "id": "receWibRjyqVY9a55",
+    "year": 1939,
+    "countyNumber": "31",
+    "countyName": "Campbell",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "31-622",
+    "photoUrl": "assets/img/plates/attrI83dSHvz9o7BG.jpg",
+    "dateAdded": "2026-08-23T18:08:58.000Z"
+  },
+  {
     "id": "receZqj2CLq7DejEa",
     "year": 1945,
     "countyNumber": "8",
@@ -6996,6 +7968,18 @@
     "dateAdded": "2026-08-21T00:48:24.000Z"
   },
   {
+    "id": "recekVH6I5rUFqQDj",
+    "year": 1951,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "33-1065",
+    "photoUrl": "assets/img/plates/attHpAf40jY6HnI6q.jpg",
+    "dateAdded": "2026-08-24T00:57:35.000Z"
+  },
+  {
     "id": "receoRDvmmpvA9pKn",
     "year": 1950,
     "countyNumber": "4",
@@ -7018,6 +8002,18 @@
     "serial": "27COUNT-25",
     "photoUrl": "assets/img/plates/att43hOVItQBAsKpw.jpg",
     "dateAdded": "2026-08-23T11:47:56.000Z"
+  },
+  {
+    "id": "recev9pkEs9EwaUOm",
+    "year": 1955,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Farm Truck",
+    "serial": "33F/1-21",
+    "photoUrl": "assets/img/plates/attsXQIlnIgp1bImK.jpg",
+    "dateAdded": "2026-08-24T00:55:44.000Z"
   },
   {
     "id": "receyoVCKk656j2pL",
@@ -7260,6 +8256,30 @@
     "dateAdded": "2026-08-13T22:23:29.000Z"
   },
   {
+    "id": "recfv3ciWbVbZpiBJ",
+    "year": 1963,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "33-59",
+    "photoUrl": "assets/img/plates/att5G0Mxl3dbn1UlZ.jpg",
+    "dateAdded": "2026-08-24T00:54:31.000Z"
+  },
+  {
+    "id": "recfvcruvuFe6Ywdm",
+    "year": 1942,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "County",
+    "serial": "33COUNTY-54",
+    "photoUrl": "assets/img/plates/attpaUuMcQaKWPXgX.jpg",
+    "dateAdded": "2026-08-24T00:53:23.000Z"
+  },
+  {
     "id": "recfxVZuZ7pEO085Y",
     "year": 1951,
     "countyNumber": "17",
@@ -7306,6 +8326,18 @@
     "serial": "27D-56",
     "photoUrl": "assets/img/plates/att8J3aghvNVARHjl.jpg",
     "dateAdded": "2026-08-23T11:48:12.000Z"
+  },
+  {
+    "id": "recgBo2giURfU9Lnr",
+    "year": 1954,
+    "countyNumber": "32",
+    "countyName": "Marshall",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "32-32",
+    "photoUrl": "assets/img/plates/attFFNcu1BESu1pok.jpg",
+    "dateAdded": "2026-08-23T18:14:43.000Z"
   },
   {
     "id": "recgTkuRB3m4W75iS",
@@ -7656,6 +8688,18 @@
     "dateAdded": "2026-08-21T20:46:41.000Z"
   },
   {
+    "id": "reciODMZlLSOaYAjr",
+    "year": 1950,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "City",
+    "serial": "33CITY-518",
+    "photoUrl": "assets/img/plates/attb2a2M3RcYXwZmu.jpg",
+    "dateAdded": "2026-08-24T00:50:57.000Z"
+  },
+  {
     "id": "reciOVHsFnCXowr4g",
     "year": 1939,
     "countyNumber": "6",
@@ -7678,6 +8722,18 @@
     "serial": "25TAXI-12",
     "photoUrl": "assets/img/plates/attsOiStfyPZGarEJ.jpg",
     "dateAdded": "2026-08-22T15:09:04.000Z"
+  },
+  {
+    "id": "reciSxVqHmmGWfpeB",
+    "year": 1942,
+    "countyNumber": "31",
+    "countyName": "Campbell",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "County",
+    "serial": "31COUNTY-30",
+    "photoUrl": "assets/img/plates/attgJvt5skp6KmlGb.jpg",
+    "dateAdded": "2026-08-23T18:07:18.000Z"
   },
   {
     "id": "reciUgGVep1jmYivL",
@@ -7858,6 +8914,18 @@
     "serial": "7COUNTY-88",
     "photoUrl": "assets/img/plates/attJJL9zycrhQjfrq.jpg",
     "dateAdded": "2026-08-21T15:18:18.000Z"
+  },
+  {
+    "id": "recjVieJnoNY6Y9O1",
+    "year": 1951,
+    "countyNumber": "30",
+    "countyName": "Tipton",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "30F/1-491",
+    "photoUrl": "assets/img/plates/attPDiy9WSldVLbI0.jpg",
+    "dateAdded": "2026-08-23T18:01:41.000Z"
   },
   {
     "id": "recjZlNLu3RczcRQa",
@@ -8196,6 +9264,18 @@
     "dateAdded": "2026-08-22T13:22:40.000Z"
   },
   {
+    "id": "reclCtOa1C2e8t3bJ",
+    "year": 1942,
+    "countyNumber": "34",
+    "countyName": "Putnam",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "For Hire",
+    "serial": "34H/2-504",
+    "photoUrl": "assets/img/plates/att4FTtNNaFeLQD5t.jpg",
+    "dateAdded": "2026-08-24T01:05:51.000Z"
+  },
+  {
     "id": "reclGSDty7bnpWXqf",
     "year": 1954,
     "countyNumber": "14",
@@ -8316,6 +9396,18 @@
     "dateAdded": "2026-08-22T03:26:39.000Z"
   },
   {
+    "id": "recluszkhr4pOjKOT",
+    "year": 1956,
+    "countyNumber": "34",
+    "countyName": "Putnam",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "For Hire",
+    "serial": "34H/3-801",
+    "photoUrl": "assets/img/plates/attCE0BgVuAOOujUh.jpg",
+    "dateAdded": "2026-08-24T01:04:53.000Z"
+  },
+  {
     "id": "reclvH0n62dfzrE96",
     "year": null,
     "countyNumber": "18",
@@ -8376,6 +9468,18 @@
     "dateAdded": "2026-08-22T14:31:59.000Z"
   },
   {
+    "id": "recmJQ9EeT2w3Xj5b",
+    "year": 1951,
+    "countyNumber": "34",
+    "countyName": "Putnam",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "34-900",
+    "photoUrl": "assets/img/plates/attzPeFwyUU3LvTHq.jpg",
+    "dateAdded": "2026-08-24T01:03:43.000Z"
+  },
+  {
     "id": "recmMktbsAirZgUHW",
     "year": 1963,
     "countyNumber": "17",
@@ -8410,6 +9514,18 @@
     "serial": "3-13",
     "photoUrl": "assets/img/plates/att6wS6piyabvt2v2.jpg",
     "dateAdded": "2026-08-20T23:47:41.000Z"
+  },
+  {
+    "id": "recmOzmhSyA3WYW51",
+    "year": 1964,
+    "countyNumber": "31",
+    "countyName": "Campbell",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Motorcycle",
+    "serial": "31-78",
+    "photoUrl": "assets/img/plates/attMWFgwKyon1XVRP.jpg",
+    "dateAdded": "2026-08-23T18:09:26.000Z"
   },
   {
     "id": "recmRFmI9EybnX4H6",
@@ -8698,6 +9814,42 @@
     "serial": "24F/1-164",
     "photoUrl": "assets/img/plates/attqY4MevMvIq7JR8.jpg",
     "dateAdded": "2026-08-22T15:07:18.000Z"
+  },
+  {
+    "id": "recnkonIXWLcONBOt",
+    "year": 1950,
+    "countyNumber": "35",
+    "countyName": "Putnam",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "35-3465",
+    "photoUrl": "assets/img/plates/att8PAlXyLgiz0Q7E.jpg",
+    "dateAdded": "2026-08-24T01:06:46.000Z"
+  },
+  {
+    "id": "recnnS9HIN1HtnYTa",
+    "year": 1952,
+    "countyNumber": "35",
+    "countyName": "Putnam",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "35-39",
+    "photoUrl": "assets/img/plates/attAglM4oU4JbaSGv.jpg",
+    "dateAdded": "2026-08-24T01:08:00.000Z"
+  },
+  {
+    "id": "recnvuGgDvQiSgTwl",
+    "year": 1951,
+    "countyNumber": "30",
+    "countyName": "Tipton",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "30-5067",
+    "photoUrl": "assets/img/plates/attimwmDyvaZRvAZn.jpg",
+    "dateAdded": "2026-08-23T18:01:08.000Z"
   },
   {
     "id": "reco6lpIc5xRU2wfS",
@@ -9084,6 +10236,18 @@
     "dateAdded": "2026-08-21T20:09:58.000Z"
   },
   {
+    "id": "recqscl25BIbmynXs",
+    "year": 1939,
+    "countyNumber": "34",
+    "countyName": "Putnam",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "34-690",
+    "photoUrl": "assets/img/plates/att7fvXrMw32hqwNM.jpg",
+    "dateAdded": "2026-08-24T01:02:31.000Z"
+  },
+  {
     "id": "recqz9oENsyPFeBX9",
     "year": 1951,
     "countyNumber": "15",
@@ -9204,6 +10368,18 @@
     "dateAdded": "2026-08-21T16:05:17.000Z"
   },
   {
+    "id": "recrmHm4Wah7jI3Ml",
+    "year": 1940,
+    "countyNumber": "32",
+    "countyName": "Marshall",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "32-645",
+    "photoUrl": "assets/img/plates/attqZC5zYqRNqEBFl.jpg",
+    "dateAdded": "2026-08-23T18:16:34.000Z"
+  },
+  {
     "id": "recrwFcuD45aIx5rk",
     "year": 1953,
     "countyNumber": "9",
@@ -9312,6 +10488,18 @@
     "dateAdded": "2026-08-22T13:29:01.000Z"
   },
   {
+    "id": "recsIdZiqlMNsConP",
+    "year": 1956,
+    "countyNumber": "31",
+    "countyName": "Campbell",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "31-20",
+    "photoUrl": "assets/img/plates/att3UabnTSG0kRTO1.jpg",
+    "dateAdded": "2026-08-23T18:09:13.000Z"
+  },
+  {
     "id": "recsRW3BxkTA24Lhs",
     "year": 1953,
     "countyNumber": "2",
@@ -9346,6 +10534,18 @@
     "serial": "24-642",
     "photoUrl": "assets/img/plates/attmCVwotwYR73Ri8.jpg",
     "dateAdded": "2026-08-22T15:01:44.000Z"
+  },
+  {
+    "id": "recsaeHwBp8fJbYFO",
+    "year": 1942,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "33-3417",
+    "photoUrl": "assets/img/plates/attSzCLNdOg09U5zL.jpg",
+    "dateAdded": "2026-08-24T00:51:33.000Z"
   },
   {
     "id": "recshDyfkJ7OijqVU",
@@ -9454,6 +10654,18 @@
     "serial": "20-2354",
     "photoUrl": "assets/img/plates/att29h9KMQaAEuFDr.jpg",
     "dateAdded": "2026-08-22T13:30:23.000Z"
+  },
+  {
+    "id": "recsvjkcXFI7fSfrn",
+    "year": 1939,
+    "countyNumber": "35",
+    "countyName": "Putnam",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Farm",
+    "serial": "35FARM-45",
+    "photoUrl": "assets/img/plates/atty9qlrBmTllg2R0.jpg",
+    "dateAdded": "2026-08-24T01:07:01.000Z"
   },
   {
     "id": "recsyhBlCSTW0RW3C",
@@ -9636,6 +10848,18 @@
     "dateAdded": "2026-08-22T14:40:57.000Z"
   },
   {
+    "id": "rectnNNn1V2KImReA",
+    "year": 1940,
+    "countyNumber": "32",
+    "countyName": "Marshall",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "32-870",
+    "photoUrl": "assets/img/plates/attIusv0bAh3pAbdR.jpg",
+    "dateAdded": "2026-08-23T18:12:39.000Z"
+  },
+  {
     "id": "rectojqDMVVKJZhSd",
     "year": 1938,
     "countyNumber": "5",
@@ -9720,6 +10944,18 @@
     "dateAdded": "2026-08-23T11:44:56.000Z"
   },
   {
+    "id": "recuG8jcXpFZp9TtS",
+    "year": 1945,
+    "countyNumber": "31",
+    "countyName": "Campbell",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Taxi",
+    "serial": "31TAXID-7",
+    "photoUrl": "assets/img/plates/attSg0dq5EWEZxbOk.jpg",
+    "dateAdded": "2026-08-23T18:08:04.000Z"
+  },
+  {
     "id": "recuJVaO8A12dHeEG",
     "year": 1954,
     "countyNumber": "17",
@@ -9754,6 +10990,18 @@
     "serial": "5-1073",
     "photoUrl": "assets/img/plates/attOuZy7bgCmUOC3y.jpg",
     "dateAdded": "2026-08-21T14:38:45.000Z"
+  },
+  {
+    "id": "recuOAKKAPqE3s2j8",
+    "year": 1951,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "33-4090",
+    "photoUrl": "assets/img/plates/attxju8STSLz7JziC.jpg",
+    "dateAdded": "2026-08-24T00:56:27.000Z"
   },
   {
     "id": "recuUaqlLLy7ljeAW",
@@ -9802,6 +11050,30 @@
     "serial": "27-3300",
     "photoUrl": "assets/img/plates/attsvtGodG37YV1Pn.jpg",
     "dateAdded": "2026-08-23T11:43:05.000Z"
+  },
+  {
+    "id": "recuqPO0PNJ17xhEY",
+    "year": 1955,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Heavy Car",
+    "serial": "33D-1821",
+    "photoUrl": "assets/img/plates/attMuN5KdAEvUG3wC.jpg",
+    "dateAdded": "2026-08-24T00:59:37.000Z"
+  },
+  {
+    "id": "recuvE8BTkYw6BQZL",
+    "year": 1940,
+    "countyNumber": "34",
+    "countyName": "Putnam",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "34-947",
+    "photoUrl": "assets/img/plates/attctMf8n5NTGq9e4.jpg",
+    "dateAdded": "2026-08-24T01:05:39.000Z"
   },
   {
     "id": "recuvhvuOhThMMm0R",
@@ -9862,6 +11134,30 @@
     "serial": "18-95",
     "photoUrl": "assets/img/plates/attdMuOOf00VaNqDC.jpg",
     "dateAdded": "2026-08-22T13:17:26.000Z"
+  },
+  {
+    "id": "recvJwquIPneqyb5G",
+    "year": 1950,
+    "countyNumber": "31",
+    "countyName": "Campbell",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Heavy Car",
+    "serial": "31D-141",
+    "photoUrl": "assets/img/plates/attRtgJgFPXuyhYhy.jpg",
+    "dateAdded": "2026-08-23T18:07:35.000Z"
+  },
+  {
+    "id": "recvLW1xvrr8bvSMP",
+    "year": 1941,
+    "countyNumber": "35",
+    "countyName": "Putnam",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "35-68",
+    "photoUrl": "assets/img/plates/att5xc265qL298uB3.jpg",
+    "dateAdded": "2026-08-24T01:09:23.000Z"
   },
   {
     "id": "recvLqgJvbGmS35Iy",
@@ -9948,6 +11244,18 @@
     "dateAdded": "2026-08-22T03:25:55.000Z"
   },
   {
+    "id": "recwCByFArDKYQxEY",
+    "year": 1956,
+    "countyNumber": "34",
+    "countyName": "Putnam",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "34-463",
+    "photoUrl": "assets/img/plates/attlLcnuTSllsQPRT.jpg",
+    "dateAdded": "2026-08-24T01:06:08.000Z"
+  },
+  {
     "id": "recwI8DsbouEDijCp",
     "year": 1951,
     "countyNumber": "3",
@@ -9958,6 +11266,18 @@
     "serial": "3CITY-904",
     "photoUrl": "assets/img/plates/attIdGdWK57ttZiDz.jpg",
     "dateAdded": "2026-08-21T00:02:05.000Z"
+  },
+  {
+    "id": "recwKlPi934FSxq93",
+    "year": 1950,
+    "countyNumber": "30",
+    "countyName": "Tipton",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "30-3260",
+    "photoUrl": "assets/img/plates/attLSOD0TM9ojm2Qw.jpg",
+    "dateAdded": "2026-08-23T18:03:17.000Z"
   },
   {
     "id": "recwLw5mPIXImHXfA",
@@ -10042,6 +11362,18 @@
     "serial": "7-591",
     "photoUrl": "assets/img/plates/atty8AWicsfi5pDzB.jpg",
     "dateAdded": "2026-08-21T15:21:52.000Z"
+  },
+  {
+    "id": "recwniOZRHrk852qk",
+    "year": 1948,
+    "countyNumber": "30",
+    "countyName": "Tipton",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "30-2067",
+    "photoUrl": "assets/img/plates/att67yRtn6ECYEwC3.jpg",
+    "dateAdded": "2026-08-23T18:02:15.000Z"
   },
   {
     "id": "recwnofcNkWZqRSDe",
@@ -10298,6 +11630,18 @@
     "dateAdded": "2026-08-20T23:54:37.000Z"
   },
   {
+    "id": "recxdt38wbMboIXT7",
+    "year": 1939,
+    "countyNumber": "32",
+    "countyName": "Marshall",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "32-967",
+    "photoUrl": "assets/img/plates/attVAF5a3Dz7tCMv0.jpg",
+    "dateAdded": "2026-08-23T18:12:22.000Z"
+  },
+  {
     "id": "recxiZyMJexlv8b96",
     "year": 1944,
     "countyNumber": "13",
@@ -10320,6 +11664,18 @@
     "serial": "17F/2-544",
     "photoUrl": "assets/img/plates/attDWUgkx4gEH5uV0.jpg",
     "dateAdded": "2026-08-22T03:16:24.000Z"
+  },
+  {
+    "id": "recxpLS9CZeVg73ec",
+    "year": 1942,
+    "countyNumber": "34",
+    "countyName": "Putnam",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Heavy Car",
+    "serial": "34D-405",
+    "photoUrl": "assets/img/plates/attzbWvQdm4dDbYJ6.jpg",
+    "dateAdded": "2026-08-24T01:05:10.000Z"
   },
   {
     "id": "recxpW6CqCoesI6lo",
@@ -10394,6 +11750,18 @@
     "dateAdded": "2026-08-21T00:50:38.000Z"
   },
   {
+    "id": "recyI89X9XxkanKiz",
+    "year": 1948,
+    "countyNumber": "34",
+    "countyName": "Putnam",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "34-1648",
+    "photoUrl": "assets/img/plates/attnVlygPmCw5BiTa.jpg",
+    "dateAdded": "2026-08-24T01:04:20.000Z"
+  },
+  {
     "id": "recyJE6cH6Bf5Z82H",
     "year": 1953,
     "countyNumber": "16",
@@ -10416,6 +11784,18 @@
     "serial": "12-1213",
     "photoUrl": "assets/img/plates/att3y2TBBRhxSBf2V.jpg",
     "dateAdded": "2026-08-21T18:20:18.000Z"
+  },
+  {
+    "id": "recyNq8ul4Bwm1o3B",
+    "year": 1954,
+    "countyNumber": "34",
+    "countyName": "Putnam",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "34-32",
+    "photoUrl": "assets/img/plates/attQOiyEkKb5KomNK.jpg",
+    "dateAdded": "2026-08-24T01:03:55.000Z"
   },
   {
     "id": "recyOJbEyNRXGmvbv",
@@ -10452,6 +11832,18 @@
     "serial": "26COUNTY-8",
     "photoUrl": "assets/img/plates/attZr6KRaa7SOWYHJ.jpg",
     "dateAdded": "2026-08-23T02:39:20.000Z"
+  },
+  {
+    "id": "recydi3ehe2GJEBhO",
+    "year": 1951,
+    "countyNumber": "32",
+    "countyName": "Marshall",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "32-98",
+    "photoUrl": "assets/img/plates/attemCR34eqgbjsS1.jpg",
+    "dateAdded": "2026-08-23T18:13:07.000Z"
   },
   {
     "id": "recyeVDnDaLUEOBn9",
@@ -10524,6 +11916,18 @@
     "serial": "13F/1-V51",
     "photoUrl": "assets/img/plates/attZ3Yf0l7E29H5c6.jpg",
     "dateAdded": "2026-08-21T20:02:39.000Z"
+  },
+  {
+    "id": "recz11Wtj3NGOLcnU",
+    "year": 1952,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Taxi",
+    "serial": "33TAXI-33",
+    "photoUrl": "assets/img/plates/attCcNJpIK6kT6l64.jpg",
+    "dateAdded": "2026-08-24T00:56:53.000Z"
   },
   {
     "id": "recz1QOuchcRLpRBq",
@@ -10610,6 +12014,18 @@
     "dateAdded": "2026-08-22T13:27:41.000Z"
   },
   {
+    "id": "reczVl8mLbBvUQhfF",
+    "year": 1952,
+    "countyNumber": "35",
+    "countyName": "Putnam",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "35F/1-411",
+    "photoUrl": "assets/img/plates/attY7aGlaeNRleWMr.jpg",
+    "dateAdded": "2026-08-24T01:08:12.000Z"
+  },
+  {
     "id": "reczYjDtPwO4tG7Fo",
     "year": 1951,
     "countyNumber": "16",
@@ -10644,6 +12060,18 @@
     "serial": "4-192",
     "photoUrl": "assets/img/plates/attIppacHRE5h9Dr4.jpg",
     "dateAdded": "2026-08-21T00:44:24.000Z"
+  },
+  {
+    "id": "reczhAhYwCRYZT6CA",
+    "year": 1939,
+    "countyNumber": "35",
+    "countyName": "Putnam",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "35-1600",
+    "photoUrl": "assets/img/plates/attU9XorWudFuHhfn.jpg",
+    "dateAdded": "2026-08-24T01:08:27.000Z"
   },
   {
     "id": "recznAI1UKTGdNXLX",
