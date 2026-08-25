@@ -120,6 +120,18 @@
     "dateAdded": "2026-08-21T18:16:54.000Z"
   },
   {
+    "id": "rec0RaizWTp9A3XvA",
+    "year": 1951,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "36F/1-1199",
+    "photoUrl": "assets/img/plates/attzagzir6jD6tDKx.jpg",
+    "dateAdded": "2026-08-25T01:50:40.000Z"
+  },
+  {
     "id": "rec0SnErRuZUgSwCd",
     "year": 1951,
     "countyNumber": "11",
@@ -240,6 +252,18 @@
     "dateAdded": "2026-08-22T03:10:57.000Z"
   },
   {
+    "id": "rec13YX2Ia7lC88Ec",
+    "year": 1942,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "36-474",
+    "photoUrl": "assets/img/plates/attiW0of4dfjSLLRw.jpg",
+    "dateAdded": "2026-08-25T01:52:01.000Z"
+  },
+  {
     "id": "rec1HKKovJ9KffDvr",
     "year": 1950,
     "countyNumber": "3",
@@ -274,6 +298,18 @@
     "serial": "19-1430",
     "photoUrl": "assets/img/plates/attaQY1lnzJh11ztB.jpg",
     "dateAdded": "2026-08-22T13:27:23.000Z"
+  },
+  {
+    "id": "rec1MLdr4XIDvvf3I",
+    "year": 1955,
+    "countyNumber": "37",
+    "countyName": "Franklin",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "37-2741",
+    "photoUrl": "assets/img/plates/attDF1QmfdgaUz2cH.jpg",
+    "dateAdded": "2026-08-25T02:05:30.000Z"
   },
   {
     "id": "rec1XRAxGcIGS6Qz7",
@@ -370,6 +406,18 @@
     "serial": "18DLR-556",
     "photoUrl": "assets/img/plates/attj2fyOLhtlirjEx.jpg",
     "dateAdded": "2026-08-22T13:16:47.000Z"
+  },
+  {
+    "id": "rec2DTbq3VHqinvyx",
+    "year": 1964,
+    "countyNumber": "38",
+    "countyName": "Sevier",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Motorcycle",
+    "serial": "38-36",
+    "photoUrl": "assets/img/plates/attg2SEwYakx8wS48.jpg",
+    "dateAdded": "2026-08-25T02:10:18.000Z"
   },
   {
     "id": "rec2EaheIC7yOlBYM",
@@ -502,6 +550,18 @@
     "serial": "14-889",
     "photoUrl": "assets/img/plates/attCHPkqp5iBQZrGm.jpg",
     "dateAdded": "2026-08-21T20:21:37.000Z"
+  },
+  {
+    "id": "rec2isNxMRomFs5fY",
+    "year": 1949,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "36-2281",
+    "photoUrl": "assets/img/plates/attJERZjsQzGsYarh.jpg",
+    "dateAdded": "2026-08-25T01:59:04.000Z"
   },
   {
     "id": "rec2ob33m0fWqXsSY",
@@ -660,6 +720,18 @@
     "dateAdded": "2026-08-22T15:02:14.000Z"
   },
   {
+    "id": "rec3GGdUi7cKEbndH",
+    "year": 1947,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "36-2281",
+    "photoUrl": "assets/img/plates/attUOzPbHUCE0ECHN.jpg",
+    "dateAdded": "2026-08-25T01:57:40.000Z"
+  },
+  {
     "id": "rec3GYRamvPwGg9y2",
     "year": 1955,
     "countyNumber": "16",
@@ -804,6 +876,18 @@
     "dateAdded": "2026-08-21T15:36:43.000Z"
   },
   {
+    "id": "rec3tZyN0gGYt7cpb",
+    "year": 1961,
+    "countyNumber": "38",
+    "countyName": "Sevier",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "38-150",
+    "photoUrl": "assets/img/plates/attaiczNgYLLGyyBu.jpg",
+    "dateAdded": "2026-08-25T02:12:51.000Z"
+  },
+  {
     "id": "rec3xB6Td9QSG2Gb8",
     "year": 1953,
     "countyNumber": "3",
@@ -814,6 +898,18 @@
     "serial": "3D-11736",
     "photoUrl": "assets/img/plates/attLe2N9LYTtsEVCy.jpg",
     "dateAdded": "2026-08-21T00:06:17.000Z"
+  },
+  {
+    "id": "rec444XYSgf5iGCi7",
+    "year": 1956,
+    "countyNumber": "40",
+    "countyName": "Loudon",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Taxi",
+    "serial": "40TAXID/3-52",
+    "photoUrl": "assets/img/plates/attigd6MJdWkkG9QW.jpg",
+    "dateAdded": "2026-08-25T02:22:34.000Z"
   },
   {
     "id": "rec45GRUMaqMbf4js",
@@ -874,6 +970,18 @@
     "serial": "19D-28",
     "photoUrl": "assets/img/plates/att5dP14awVxjAUNI.jpg",
     "dateAdded": "2026-08-22T13:23:24.000Z"
+  },
+  {
+    "id": "rec4Awpqq4FCCGHlW",
+    "year": 1940,
+    "countyNumber": "38",
+    "countyName": "Sevier",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "38-83",
+    "photoUrl": "assets/img/plates/attLNHqnxQErvBFJI.jpg",
+    "dateAdded": "2026-08-25T02:11:20.000Z"
   },
   {
     "id": "rec4M9nTyhwNQlfgC",
@@ -1128,6 +1236,18 @@
     "dateAdded": "2026-08-21T15:08:38.000Z"
   },
   {
+    "id": "rec5WnIwJ7FdOjaC8",
+    "year": 1949,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "36-1391",
+    "photoUrl": "assets/img/plates/att6xZ46fl1xqYTFi.jpg",
+    "dateAdded": "2026-08-25T01:51:48.000Z"
+  },
+  {
     "id": "rec5XoXPKWhHHr7Ej",
     "year": 1948,
     "countyNumber": "12",
@@ -1198,6 +1318,18 @@
     "serial": "6-13",
     "photoUrl": "assets/img/plates/attHzLjei74NQapc2.jpg",
     "dateAdded": "2026-08-21T14:53:45.000Z"
+  },
+  {
+    "id": "rec5jQYHfhyQZERqX",
+    "year": 1951,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "36-155",
+    "photoUrl": "assets/img/plates/att1LwNipI2jwIeTl.jpg",
+    "dateAdded": "2026-08-25T01:46:51.000Z"
   },
   {
     "id": "rec5lMO3OtDy1aqHg",
@@ -1284,6 +1416,18 @@
     "dateAdded": "2026-08-22T13:05:49.000Z"
   },
   {
+    "id": "rec6BBE9WU1gG97Ix",
+    "year": 1951,
+    "countyNumber": "40",
+    "countyName": "Loudon",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "40D-462",
+    "photoUrl": "assets/img/plates/att9kqkGrwuNANGd0.jpg",
+    "dateAdded": "2026-08-25T02:20:14.000Z"
+  },
+  {
     "id": "rec6G9vIfYqX3qr5O",
     "year": 1939,
     "countyNumber": "22",
@@ -1356,6 +1500,18 @@
     "dateAdded": "2026-08-22T14:57:37.000Z"
   },
   {
+    "id": "rec6dAoZ5IIPJMtWQ",
+    "year": 1956,
+    "countyNumber": "39",
+    "countyName": "Dickson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "39-2940",
+    "photoUrl": "assets/img/plates/attL113SFwddvDrVZ.jpg",
+    "dateAdded": "2026-08-25T02:15:12.000Z"
+  },
+  {
     "id": "rec6ejPT5TOZqsEDI",
     "year": 1944,
     "countyNumber": "17",
@@ -1414,6 +1570,18 @@
     "serial": "4A-9",
     "photoUrl": "assets/img/plates/attxNihG9cQf1mPsG.jpg",
     "dateAdded": "2026-08-21T00:50:42.000Z"
+  },
+  {
+    "id": "rec73plA4x3cSQQpz",
+    "year": 1949,
+    "countyNumber": "40",
+    "countyName": "Loudon",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "40-3651",
+    "photoUrl": "assets/img/plates/att03mNmKwiGQviZ6.jpg",
+    "dateAdded": "2026-08-25T02:20:57.000Z"
   },
   {
     "id": "rec78nptBrBMPRNX9",
@@ -1644,6 +1812,18 @@
     "dateAdded": "2026-08-22T13:27:05.000Z"
   },
   {
+    "id": "rec7lQNmyWj7yD3oM",
+    "year": 1954,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "36-2509",
+    "photoUrl": "assets/img/plates/attCjkKGI7CNR5tNl.jpg",
+    "dateAdded": "2026-08-25T01:59:16.000Z"
+  },
+  {
     "id": "rec7sYlX3qjgLmt50",
     "year": 1950,
     "countyNumber": "13",
@@ -1752,6 +1932,18 @@
     "dateAdded": "2026-08-21T15:14:10.000Z"
   },
   {
+    "id": "rec8EBfwetptaRYZh",
+    "year": 1955,
+    "countyNumber": "37",
+    "countyName": "Franklin",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "37-3161",
+    "photoUrl": "assets/img/plates/attNHus0H8LDBvGfs.jpg",
+    "dateAdded": "2026-08-25T02:07:50.000Z"
+  },
+  {
     "id": "rec8EjHLltuNuPwgz",
     "year": 1955,
     "countyNumber": "27",
@@ -1858,6 +2050,18 @@
     "serial": "17-172",
     "photoUrl": "assets/img/plates/attV7k9JW2H3y7159.jpg",
     "dateAdded": "2026-08-22T03:28:33.000Z"
+  },
+  {
+    "id": "rec8ibPmOxOuW9BOS",
+    "year": 1939,
+    "countyNumber": "40",
+    "countyName": "Loudon",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Truck",
+    "serial": "40T-25",
+    "photoUrl": "assets/img/plates/attuXhG1whzPhqGLI.jpg",
+    "dateAdded": "2026-08-25T02:21:59.000Z"
   },
   {
     "id": "rec8qgHsIeHGgHhQ6",
@@ -2232,6 +2436,18 @@
     "dateAdded": "2026-08-22T13:23:42.000Z"
   },
   {
+    "id": "recAPwIp6WO83M8vF",
+    "year": 1951,
+    "countyNumber": "38",
+    "countyName": "Sevier",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "38F/1-86",
+    "photoUrl": "assets/img/plates/att4P9RAUAFBGY0at.jpg",
+    "dateAdded": "2026-08-25T02:10:36.000Z"
+  },
+  {
     "id": "recATUVowrvjhwbTU",
     "year": 1951,
     "countyNumber": "25",
@@ -2290,6 +2506,18 @@
     "serial": "29D-3627",
     "photoUrl": "assets/img/plates/att554OjF5vJp5MzS.jpg",
     "dateAdded": "2026-08-23T12:15:18.000Z"
+  },
+  {
+    "id": "recApqsibp6BhWF93",
+    "year": 1945,
+    "countyNumber": "40",
+    "countyName": "Loudon",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "40-88",
+    "photoUrl": "assets/img/plates/attKHZLu7KmNsvwoz.jpg",
+    "dateAdded": "2026-08-25T02:21:23.000Z"
   },
   {
     "id": "recArEPJF1Bhq4ipQ",
@@ -2410,6 +2638,30 @@
     "serial": "5P/2-5496",
     "photoUrl": "assets/img/plates/attyPw1IsqCDQXCh8.jpg",
     "dateAdded": "2026-08-21T14:44:42.000Z"
+  },
+  {
+    "id": "recBJslrdGYAkN1mc",
+    "year": 1965,
+    "countyNumber": "37",
+    "countyName": "Franklin",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "37-67",
+    "photoUrl": "assets/img/plates/attSRal3ZvwjktpQ5.jpg",
+    "dateAdded": "2026-08-25T02:04:55.000Z"
+  },
+  {
+    "id": "recBRuUiub3e6aX0R",
+    "year": 1939,
+    "countyNumber": "37",
+    "countyName": "Franklin",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "37-69",
+    "photoUrl": "assets/img/plates/att5fBkYTo0JBCba3.jpg",
+    "dateAdded": "2026-08-25T02:06:12.000Z"
   },
   {
     "id": "recBYbrmrBRynFmBu",
@@ -2604,6 +2856,30 @@
     "dateAdded": "2026-08-21T15:49:18.000Z"
   },
   {
+    "id": "recCBqmpsZBODl6ft",
+    "year": 1951,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "36-474",
+    "photoUrl": "assets/img/plates/attzi8TCqLepAsjZN.jpg",
+    "dateAdded": "2026-08-25T02:01:09.000Z"
+  },
+  {
+    "id": "recCE3bXsHS5Z5VNa",
+    "year": 1946,
+    "countyNumber": "39",
+    "countyName": "Dickson",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "39-1767",
+    "photoUrl": "assets/img/plates/attn4SBkBIL2dnbm8.jpg",
+    "dateAdded": "2026-08-25T02:15:43.000Z"
+  },
+  {
     "id": "recCFAHGFzb6Ziy6S",
     "year": 1952,
     "countyNumber": "7",
@@ -2700,6 +2976,18 @@
     "dateAdded": "2026-08-21T15:30:02.000Z"
   },
   {
+    "id": "recCjAUN0lrQFGXA6",
+    "year": 1965,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "36-52",
+    "photoUrl": "assets/img/plates/attPfCSxtczQZohaI.jpg",
+    "dateAdded": "2026-08-25T01:53:09.000Z"
+  },
+  {
     "id": "recCpHiczJZfDkrJ2",
     "year": 1949,
     "countyNumber": "18",
@@ -2758,6 +3046,18 @@
     "serial": "28-2921",
     "photoUrl": "assets/img/plates/atttPDLogyAxalPZP.jpg",
     "dateAdded": "2026-08-23T11:57:51.000Z"
+  },
+  {
+    "id": "recCzaZHyiEiT1wxX",
+    "year": 1944,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "36P/5-10",
+    "photoUrl": "assets/img/plates/att8kbF0pHhXNMjMG.jpg",
+    "dateAdded": "2026-08-25T01:52:40.000Z"
   },
   {
     "id": "recDH4PNy95Xq7uri",
@@ -3036,6 +3336,18 @@
     "dateAdded": "2026-08-22T03:24:50.000Z"
   },
   {
+    "id": "recEM5u8y5R5H3OQb",
+    "year": 1950,
+    "countyNumber": "37",
+    "countyName": "Franklin",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "37-92",
+    "photoUrl": "assets/img/plates/attxW6FOyhvmS5wkk.jpg",
+    "dateAdded": "2026-08-25T02:05:43.000Z"
+  },
+  {
     "id": "recEMJNskzNxQNt9V",
     "year": 1953,
     "countyNumber": "33",
@@ -3058,6 +3370,18 @@
     "serial": "22-4639",
     "photoUrl": "assets/img/plates/attE50hqmqXQjWjbI.jpg",
     "dateAdded": "2026-08-22T14:51:50.000Z"
+  },
+  {
+    "id": "recEaid81NNCuCHFP",
+    "year": 1951,
+    "countyNumber": "38",
+    "countyName": "Sevier",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "38-3510",
+    "photoUrl": "assets/img/plates/att8HUtIdd0w1lKvn.jpg",
+    "dateAdded": "2026-08-25T02:12:36.000Z"
   },
   {
     "id": "recEbPj5U91vzEYsK",
@@ -3324,6 +3648,18 @@
     "dateAdded": "2026-08-21T20:05:35.000Z"
   },
   {
+    "id": "recFyMqUvGlyCFZHH",
+    "year": 1954,
+    "countyNumber": "37",
+    "countyName": "Franklin",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "37-877",
+    "photoUrl": "assets/img/plates/attbB7TBiMguJMp6o.jpg",
+    "dateAdded": "2026-08-25T02:06:32.000Z"
+  },
+  {
     "id": "recFzBXBFqARjcgqW",
     "year": 1955,
     "countyNumber": "27",
@@ -3358,6 +3694,30 @@
     "serial": "27-7290",
     "photoUrl": "assets/img/plates/attM6uRBFeSzn27P1.jpg",
     "dateAdded": "2026-08-23T11:37:47.000Z"
+  },
+  {
+    "id": "recG5XYBPHVCDUbs3",
+    "year": 1950,
+    "countyNumber": "39",
+    "countyName": "Dickson",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "39F/1-79",
+    "photoUrl": "assets/img/plates/attrkajv18t9bDIPs.jpg",
+    "dateAdded": "2026-08-25T02:16:47.000Z"
+  },
+  {
+    "id": "recG6iqb4vD8zWydC",
+    "year": 1956,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "36-1766",
+    "photoUrl": "assets/img/plates/attWoShQn4E9leysW.jpg",
+    "dateAdded": "2026-08-25T01:49:36.000Z"
   },
   {
     "id": "recG8pESwNeBpS19b",
@@ -4008,6 +4368,18 @@
     "dateAdded": "2026-08-23T18:13:35.000Z"
   },
   {
+    "id": "recJ5nvucYMfBW19F",
+    "year": 1948,
+    "countyNumber": "39",
+    "countyName": "Dickson",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Heavy Car",
+    "serial": "39D-115",
+    "photoUrl": "assets/img/plates/attjxzGkumn8fssfh.jpg",
+    "dateAdded": "2026-08-25T02:18:36.000Z"
+  },
+  {
     "id": "recJ6KpVvkZLbk2Bj",
     "year": 1951,
     "countyNumber": "17",
@@ -4066,6 +4438,18 @@
     "serial": "3-324",
     "photoUrl": "assets/img/plates/attbv8AJkM0TjSpgV.jpg",
     "dateAdded": "2026-08-20T23:50:41.000Z"
+  },
+  {
+    "id": "recJOxTEqfhWgydMT",
+    "year": 1951,
+    "countyNumber": "37",
+    "countyName": "Franklin",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "37-2978",
+    "photoUrl": "assets/img/plates/attOMgo20siARMzNf.jpg",
+    "dateAdded": "2026-08-25T02:08:46.000Z"
   },
   {
     "id": "recJV7Bktv24e487w",
@@ -4162,6 +4546,30 @@
     "serial": "24P/1-222",
     "photoUrl": "assets/img/plates/attLSUFcdm86VQLCH.jpg",
     "dateAdded": "2026-08-22T15:01:57.000Z"
+  },
+  {
+    "id": "recK2rX6xaAwCRyIQ",
+    "year": 1940,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Truck",
+    "serial": "36P/1-113",
+    "photoUrl": "assets/img/plates/att45uQvt4rkXRydh.jpg",
+    "dateAdded": "2026-08-25T02:00:37.000Z"
+  },
+  {
+    "id": "recK8zdzu0gbgWUV6",
+    "year": 1954,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "36-3786",
+    "photoUrl": "assets/img/plates/attOBxUVTxEnDGPua.jpg",
+    "dateAdded": "2026-08-25T01:50:11.000Z"
   },
   {
     "id": "recKBSnmjEBlF4i2f",
@@ -4332,6 +4740,18 @@
     "dateAdded": "2026-08-21T14:53:46.000Z"
   },
   {
+    "id": "recKsfSxK6dufQSqK",
+    "year": 1951,
+    "countyNumber": "39",
+    "countyName": "Dickson",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "39-87",
+    "photoUrl": "assets/img/plates/att5saur7Rxrv2Dsj.jpg",
+    "dateAdded": "2026-08-25T02:16:35.000Z"
+  },
+  {
     "id": "recKxTAN17cX2McRz",
     "year": 1953,
     "countyNumber": "9",
@@ -4416,6 +4836,18 @@
     "dateAdded": "2026-08-13T23:59:43.000Z"
   },
   {
+    "id": "recLH7YNRVI1CqF9h",
+    "year": 1942,
+    "countyNumber": "39",
+    "countyName": "Dickson",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "39-312",
+    "photoUrl": "assets/img/plates/attGtTr1djsMiOYGa.jpg",
+    "dateAdded": "2026-08-25T02:16:10.000Z"
+  },
+  {
     "id": "recLM9viz9n6orn8A",
     "year": 1956,
     "countyNumber": "29",
@@ -4476,6 +4908,18 @@
     "dateAdded": "2026-08-22T03:11:44.000Z"
   },
   {
+    "id": "recLiAgr5Mw1po0Uy",
+    "year": 1945,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Heavy Car",
+    "serial": "36D-371",
+    "photoUrl": "assets/img/plates/attIYAjGaqTmE15PC.jpg",
+    "dateAdded": "2026-08-25T01:59:48.000Z"
+  },
+  {
     "id": "recLmTyGsvDyr9TjM",
     "year": 1962,
     "countyNumber": "33",
@@ -4510,6 +4954,18 @@
     "serial": "17-4978",
     "photoUrl": "assets/img/plates/attvmddMsDwa9Z3l4.jpg",
     "dateAdded": "2026-08-22T03:30:56.000Z"
+  },
+  {
+    "id": "recLoiCksTWAeVb60",
+    "year": 1956,
+    "countyNumber": "40",
+    "countyName": "Loudon",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "40-1895",
+    "photoUrl": "assets/img/plates/att3Px4hplCX8UBP5.jpg",
+    "dateAdded": "2026-08-25T02:22:20.000Z"
   },
   {
     "id": "recLt8NV2HFSxkSm9",
@@ -4548,6 +5004,18 @@
     "dateAdded": "2026-08-21T20:08:42.000Z"
   },
   {
+    "id": "recLwClJ0Jf7mJhLO",
+    "year": 1939,
+    "countyNumber": "37",
+    "countyName": "Franklin",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "37-1160",
+    "photoUrl": "assets/img/plates/attsjarmN0bOFqAHu.jpg",
+    "dateAdded": "2026-08-25T02:05:57.000Z"
+  },
+  {
     "id": "recM5iTQPrfq0UZlR",
     "year": 1939,
     "countyNumber": "22",
@@ -4570,6 +5038,18 @@
     "serial": "27D-113",
     "photoUrl": "assets/img/plates/attZyJI1pcJFLRdbB.jpg",
     "dateAdded": "2026-08-23T11:45:12.000Z"
+  },
+  {
+    "id": "recMCFBdW0cLGt74K",
+    "year": 1939,
+    "countyNumber": "40",
+    "countyName": "Loudon",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "40-707",
+    "photoUrl": "assets/img/plates/attcmRen6ByhRLCGo.jpg",
+    "dateAdded": "2026-08-25T02:20:01.000Z"
   },
   {
     "id": "recMDxOZAVyAIPty8",
@@ -4692,6 +5172,18 @@
     "dateAdded": "2026-08-22T14:49:52.000Z"
   },
   {
+    "id": "recMfulS5KT023Yto",
+    "year": 1951,
+    "countyNumber": "40",
+    "countyName": "Loudon",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "40-2564",
+    "photoUrl": "assets/img/plates/attwWadKX9fbzTAMm.jpg",
+    "dateAdded": "2026-08-25T02:21:10.000Z"
+  },
+  {
     "id": "recMgbryi8rgobJWp",
     "year": 1952,
     "countyNumber": "8",
@@ -4702,6 +5194,18 @@
     "serial": "8-21",
     "photoUrl": "assets/img/plates/attGQegSQMxWRhB7j.jpg",
     "dateAdded": "2026-08-21T15:36:30.000Z"
+  },
+  {
+    "id": "recMkH22F5cNAxyFu",
+    "year": 1949,
+    "countyNumber": "40",
+    "countyName": "Loudon",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "40-1297",
+    "photoUrl": "assets/img/plates/attUHSTNCwntz99gq.jpg",
+    "dateAdded": "2026-08-25T02:19:30.000Z"
   },
   {
     "id": "recMm5ddCQ4eA1mPu",
@@ -4738,6 +5242,18 @@
     "serial": "15-584",
     "photoUrl": "assets/img/plates/attCfnms1Qda8Beo8.jpg",
     "dateAdded": "2026-08-21T20:43:11.000Z"
+  },
+  {
+    "id": "recN2Px8yBwnf8fqr",
+    "year": 1948,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "36-2281",
+    "photoUrl": "assets/img/plates/attAzlnCZNy6SPJaH.jpg",
+    "dateAdded": "2026-08-25T01:58:22.000Z"
   },
   {
     "id": "recN2XlSZ1C922ogf",
@@ -4836,6 +5352,18 @@
     "dateAdded": "2026-08-21T20:28:37.000Z"
   },
   {
+    "id": "recNMRVhG6KioU2W0",
+    "year": 1942,
+    "countyNumber": "38",
+    "countyName": "Sevier",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "38-1500",
+    "photoUrl": "assets/img/plates/attYsLgdB9njQCqQc.jpg",
+    "dateAdded": "2026-08-25T02:10:05.000Z"
+  },
+  {
     "id": "recNUmhkZX3kmSo1i",
     "year": 1955,
     "countyNumber": "17",
@@ -4932,6 +5460,18 @@
     "dateAdded": "2026-08-23T12:15:45.000Z"
   },
   {
+    "id": "recNjpPR0TxmkezWJ",
+    "year": 1951,
+    "countyNumber": "1",
+    "countyName": "Davidson",
+    "colors": "White",
+    "fontColor": "Orange",
+    "type": "Dealer",
+    "serial": "1-807DLR",
+    "photoUrl": "assets/img/plates/attyj8g02KpUmO6Dc.jpg",
+    "dateAdded": "2026-08-24T01:13:30.000Z"
+  },
+  {
     "id": "recNlpKwoOvwNZZl3",
     "year": 1965,
     "countyNumber": "21",
@@ -5026,6 +5566,18 @@
     "serial": "17-1514",
     "photoUrl": "assets/img/plates/attyTM2YistdTXRM5.jpg",
     "dateAdded": "2026-08-22T03:30:11.000Z"
+  },
+  {
+    "id": "recOGfN7izc1NbY1d",
+    "year": 1954,
+    "countyNumber": "38",
+    "countyName": "Sevier",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "38-3147",
+    "photoUrl": "assets/img/plates/attVV3D0qPfahRHh3.jpg",
+    "dateAdded": "2026-08-25T02:14:22.000Z"
   },
   {
     "id": "recOKbIIU1TXH3ijo",
@@ -5148,6 +5700,18 @@
     "dateAdded": "2026-08-22T15:02:39.000Z"
   },
   {
+    "id": "recOuPM4aCUQMIKIV",
+    "year": 1951,
+    "countyNumber": "38",
+    "countyName": "Sevier",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "38-3474",
+    "photoUrl": "assets/img/plates/attGp5z4rKf5IWU5z.jpg",
+    "dateAdded": "2026-08-25T02:11:33.000Z"
+  },
+  {
     "id": "recOvEYVZL2FGPrSj",
     "year": 1951,
     "countyNumber": "21",
@@ -5194,6 +5758,18 @@
     "serial": "10P/2-504",
     "photoUrl": "assets/img/plates/attJruqHWAab0igAG.jpg",
     "dateAdded": "2026-08-21T16:02:35.000Z"
+  },
+  {
+    "id": "recP0wOOk5pt0j6vY",
+    "year": 1950,
+    "countyNumber": "38",
+    "countyName": "Sevier",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "38-3523",
+    "photoUrl": "assets/img/plates/att2VB0JU0igOsIy4.jpg",
+    "dateAdded": "2026-08-25T02:10:51.000Z"
   },
   {
     "id": "recP1TJxCMtCgOuwC",
@@ -5424,6 +6000,30 @@
     "dateAdded": "2026-08-22T13:23:59.000Z"
   },
   {
+    "id": "recQVw0TuSZSrVoHA",
+    "year": 1956,
+    "countyNumber": "39",
+    "countyName": "Dickson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "39-1472",
+    "photoUrl": "assets/img/plates/attMk48MoAWCkkKdS.jpg",
+    "dateAdded": "2026-08-25T02:16:22.000Z"
+  },
+  {
+    "id": "recQVzRm6o3S6ExJd",
+    "year": 1951,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "36-206",
+    "photoUrl": "assets/img/plates/attctG88VMBgTLpIz.jpg",
+    "dateAdded": "2026-08-25T01:46:36.000Z"
+  },
+  {
     "id": "recQYNeH7LqTxx34K",
     "year": 1955,
     "countyNumber": "7",
@@ -5532,6 +6132,18 @@
     "dateAdded": "2026-08-23T02:41:29.000Z"
   },
   {
+    "id": "recQpsUR8RmyWPzMB",
+    "year": 1954,
+    "countyNumber": "37",
+    "countyName": "Franklin",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "37-817",
+    "photoUrl": "assets/img/plates/attiwk6vaN3jLX9Lq.jpg",
+    "dateAdded": "2026-08-25T02:07:12.000Z"
+  },
+  {
     "id": "recQra9WYb64yeXmQ",
     "year": 1950,
     "countyNumber": "32",
@@ -5628,6 +6240,18 @@
     "dateAdded": "2026-08-21T20:01:20.000Z"
   },
   {
+    "id": "recRHtqM3R6Q00BUa",
+    "year": 1962,
+    "countyNumber": "40",
+    "countyName": "Loudon",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "40-33",
+    "photoUrl": "assets/img/plates/attZEzdorzuQvinYw.jpg",
+    "dateAdded": "2026-08-25T02:19:47.000Z"
+  },
+  {
     "id": "recRTGc72LS9pLBOf",
     "year": 1955,
     "countyNumber": "3",
@@ -5662,6 +6286,18 @@
     "serial": "18-4583",
     "photoUrl": "assets/img/plates/attpCA016P9ytW2VB.jpg",
     "dateAdded": "2026-08-22T13:09:27.000Z"
+  },
+  {
+    "id": "recRVIkzBao1FFSgM",
+    "year": 1942,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "36P/3-898",
+    "photoUrl": "assets/img/plates/attriEJjn0hbq2Lh1.jpg",
+    "dateAdded": "2026-08-25T01:49:52.000Z"
   },
   {
     "id": "recRZKRLjxb22tOxb",
@@ -5748,6 +6384,18 @@
     "dateAdded": "2026-08-21T20:33:56.000Z"
   },
   {
+    "id": "recS88s3mWj6nV7Wt",
+    "year": 1945,
+    "countyNumber": "38",
+    "countyName": "Sevier",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "38-1817",
+    "photoUrl": "assets/img/plates/atttjahkAncceYVZW.jpg",
+    "dateAdded": "2026-08-25T02:13:05.000Z"
+  },
+  {
     "id": "recSLnGfFikW59Ejj",
     "year": 1946,
     "countyNumber": "18",
@@ -5806,6 +6454,18 @@
     "serial": "30-69",
     "photoUrl": "assets/img/plates/attsq6UfujOVXMHTm.jpg",
     "dateAdded": "2026-08-23T18:04:10.000Z"
+  },
+  {
+    "id": "recSYD4A3cwg2UAcW",
+    "year": 1946,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Truck",
+    "serial": "36P/6-V11",
+    "photoUrl": "assets/img/plates/attFX66nxKwlMDN8L.jpg",
+    "dateAdded": "2026-08-25T01:51:03.000Z"
   },
   {
     "id": "recSa90zz8y8fEOFs",
@@ -5938,6 +6598,18 @@
     "serial": "33D-151",
     "photoUrl": "assets/img/plates/attfqp7iuPzGCIFGr.jpg",
     "dateAdded": "2026-08-24T01:01:24.000Z"
+  },
+  {
+    "id": "recTMi6p7e8vpwoEQ",
+    "year": 1950,
+    "countyNumber": "37",
+    "countyName": "Franklin",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "37-2219",
+    "photoUrl": "assets/img/plates/attcXE72uhPmRlVq0.jpg",
+    "dateAdded": "2026-08-25T02:08:04.000Z"
   },
   {
     "id": "recTRnhRSQpsvt7PI",
@@ -6144,6 +6816,18 @@
     "dateAdded": "2026-08-21T15:41:03.000Z"
   },
   {
+    "id": "recUTWDM1FXJxiHjK",
+    "year": 1942,
+    "countyNumber": "37",
+    "countyName": "Franklin",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "37-1992",
+    "photoUrl": "assets/img/plates/att1aKw0nV7sImi5W.jpg",
+    "dateAdded": "2026-08-25T02:08:33.000Z"
+  },
+  {
     "id": "recUTiK8wYb9p3X4W",
     "year": 1949,
     "countyNumber": "13",
@@ -6226,6 +6910,18 @@
     "serial": "5-1",
     "photoUrl": "assets/img/plates/attfyH8TFzXh1c2hO.jpg",
     "dateAdded": "2026-08-21T14:38:30.000Z"
+  },
+  {
+    "id": "recUoglqQTOCsuBtX",
+    "year": 1953,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Heavy Car",
+    "serial": "36D-620",
+    "photoUrl": "assets/img/plates/attWiPmOqKzzk1IWw.jpg",
+    "dateAdded": "2026-08-25T01:58:39.000Z"
   },
   {
     "id": "recUqldXGvSzl6S5y",
@@ -6624,6 +7320,18 @@
     "dateAdded": "2026-08-22T15:05:05.000Z"
   },
   {
+    "id": "recX4JixpADasjoEN",
+    "year": 1939,
+    "countyNumber": "39",
+    "countyName": "Dickson",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "39-120",
+    "photoUrl": "assets/img/plates/attZZk49F0IGgzCcV.jpg",
+    "dateAdded": "2026-08-25T02:18:21.000Z"
+  },
+  {
     "id": "recX9KfTRo8kShhOG",
     "year": 1951,
     "countyNumber": "9",
@@ -6790,6 +7498,18 @@
     "serial": "21P/1/140",
     "photoUrl": "assets/img/plates/attGWr1ePN7kVoncj.jpg",
     "dateAdded": "2026-08-22T14:36:17.000Z"
+  },
+  {
+    "id": "recY3pWyqxhCRPetk",
+    "year": 1942,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "36P/3-863",
+    "photoUrl": "assets/img/plates/attwnj9UAwZy7vIDa.jpg",
+    "dateAdded": "2026-08-25T01:48:29.000Z"
   },
   {
     "id": "recY4BfP9DHgp1Ve4",
@@ -6960,6 +7680,18 @@
     "dateAdded": "2026-08-24T01:07:45.000Z"
   },
   {
+    "id": "recZHvYfnKybC6xWO",
+    "year": 1949,
+    "countyNumber": "40",
+    "countyName": "Loudon",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "40-379",
+    "photoUrl": "assets/img/plates/attbpNVVfL2r4ynH7.jpg",
+    "dateAdded": "2026-08-25T02:20:43.000Z"
+  },
+  {
     "id": "recZI8kLoVDUlTm7e",
     "year": 1951,
     "countyNumber": "23",
@@ -7006,6 +7738,18 @@
     "serial": "6-418",
     "photoUrl": "assets/img/plates/attNfQahaEf3tzQkO.jpg",
     "dateAdded": "2026-08-21T15:07:54.000Z"
+  },
+  {
+    "id": "recZLJfkLSXZdVtP6",
+    "year": 1948,
+    "countyNumber": "38",
+    "countyName": "Sevier",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "38-857",
+    "photoUrl": "assets/img/plates/attaXMycT1rJhgcdK.jpg",
+    "dateAdded": "2026-08-25T02:12:06.000Z"
   },
   {
     "id": "recZM9i4ROmPPRi6D",
@@ -7258,6 +8002,18 @@
     "serial": "10-351",
     "photoUrl": "assets/img/plates/attMULNF3Sn6Hdf32.jpg",
     "dateAdded": "2026-08-21T15:56:06.000Z"
+  },
+  {
+    "id": "recacj0VTnYLFVciW",
+    "year": 1948,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "36-207",
+    "photoUrl": "assets/img/plates/attNlIi62UWszIA9T.jpg",
+    "dateAdded": "2026-08-25T01:49:20.000Z"
   },
   {
     "id": "recalitnsROwjLkrA",
@@ -7572,6 +8328,30 @@
     "dateAdded": "2026-08-22T03:10:29.000Z"
   },
   {
+    "id": "reccDGfVglcjCX5Pp",
+    "year": 1944,
+    "countyNumber": "37",
+    "countyName": "Franklin",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "37A-11",
+    "photoUrl": "assets/img/plates/att3xK3GvmTQB721u.jpg",
+    "dateAdded": "2026-08-25T02:05:14.000Z"
+  },
+  {
+    "id": "reccLr2euuSHJZiHt",
+    "year": 1944,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "36-445",
+    "photoUrl": "assets/img/plates/attTQYHXDOqPKldtG.jpg",
+    "dateAdded": "2026-08-25T01:58:51.000Z"
+  },
+  {
     "id": "reccNwI9WEu32tUKg",
     "year": 1951,
     "countyNumber": "5",
@@ -7654,6 +8434,18 @@
     "serial": "25-GS3227",
     "photoUrl": "assets/img/plates/attaO0YWSb4q2b5IC.jpg",
     "dateAdded": "2026-08-22T15:12:45.000Z"
+  },
+  {
+    "id": "reccZ2IS2UL4zNtSV",
+    "year": 1956,
+    "countyNumber": "39",
+    "countyName": "Dickson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "39-3890",
+    "photoUrl": "assets/img/plates/atttn2dQuLksSDvGS.jpg",
+    "dateAdded": "2026-08-25T02:17:06.000Z"
   },
   {
     "id": "reccz7ldO5Ie6QXTA",
@@ -7980,6 +8772,18 @@
     "dateAdded": "2026-08-24T00:57:35.000Z"
   },
   {
+    "id": "recelmHIPT7B0QGXC",
+    "year": 1956,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "36-370",
+    "photoUrl": "assets/img/plates/attZuc4qqDJGVEKQb.jpg",
+    "dateAdded": "2026-08-25T02:01:21.000Z"
+  },
+  {
     "id": "receoRDvmmpvA9pKn",
     "year": 1950,
     "countyNumber": "4",
@@ -8184,6 +8988,18 @@
     "dateAdded": "2026-08-21T18:23:32.000Z"
   },
   {
+    "id": "recfbaiXCyg7CiHg4",
+    "year": 1941,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "36-951",
+    "photoUrl": "assets/img/plates/atttVZA69pPBwswHM.jpg",
+    "dateAdded": "2026-08-25T01:46:15.000Z"
+  },
+  {
     "id": "recfgXY6gIbAUuNfw",
     "year": 1951,
     "countyNumber": "14",
@@ -8340,6 +9156,18 @@
     "dateAdded": "2026-08-23T18:14:43.000Z"
   },
   {
+    "id": "recgRSR1AtD6a16ys",
+    "year": 1954,
+    "countyNumber": "38",
+    "countyName": "Sevier",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "38-739",
+    "photoUrl": "assets/img/plates/attgQRhFaE01NTsGk.jpg",
+    "dateAdded": "2026-08-25T02:13:39.000Z"
+  },
+  {
     "id": "recgTkuRB3m4W75iS",
     "year": 1959,
     "countyNumber": "23",
@@ -8448,6 +9276,18 @@
     "dateAdded": "2026-08-21T16:03:04.000Z"
   },
   {
+    "id": "rechA5nL3JcX4ShXw",
+    "year": 1952,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "36-2417",
+    "photoUrl": "assets/img/plates/attlxwNsq2CUYz4VU.jpg",
+    "dateAdded": "2026-08-25T01:57:54.000Z"
+  },
+  {
     "id": "rechHYFZAJzlxVwWq",
     "year": 1953,
     "countyNumber": "5",
@@ -8470,6 +9310,18 @@
     "serial": "13P/1-25",
     "photoUrl": "assets/img/plates/attGGioS9lDsOVdzF.jpg",
     "dateAdded": "2026-08-21T20:06:11.000Z"
+  },
+  {
+    "id": "rechQn0iaihkv3nXY",
+    "year": 1950,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "36F/1-332",
+    "photoUrl": "assets/img/plates/attVaiJuBqnty7pFQ.jpg",
+    "dateAdded": "2026-08-25T02:00:02.000Z"
   },
   {
     "id": "rechSFwUaXaOSyEIu",
@@ -8628,6 +9480,18 @@
     "dateAdded": "2026-08-21T20:12:59.000Z"
   },
   {
+    "id": "reci6alOYCD1sIWHb",
+    "year": 1946,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "36-2281",
+    "photoUrl": "assets/img/plates/attoFbA56ddxLlGom.jpg",
+    "dateAdded": "2026-08-25T02:00:54.000Z"
+  },
+  {
     "id": "reci7mGDUxDPMNnRS",
     "year": 1954,
     "countyNumber": "34",
@@ -8662,6 +9526,18 @@
     "serial": "27-2442",
     "photoUrl": "assets/img/plates/attl1AfZ1VVBqzBmw.jpg",
     "dateAdded": "2026-08-23T11:43:19.000Z"
+  },
+  {
+    "id": "reciHpX5VuxlIVvn7",
+    "year": 1951,
+    "countyNumber": "39",
+    "countyName": "Dickson",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "39-1039",
+    "photoUrl": "assets/img/plates/attjuWjHPgE8jOzod.jpg",
+    "dateAdded": "2026-08-25T02:14:57.000Z"
   },
   {
     "id": "reciJTIivUaBBQLN6",
@@ -8856,6 +9732,18 @@
     "dateAdded": "2026-08-22T13:08:05.000Z"
   },
   {
+    "id": "recizql5wDlh84WRz",
+    "year": 1959,
+    "countyNumber": "39",
+    "countyName": "Dickson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "39-42",
+    "photoUrl": "assets/img/plates/attG3RoQ4vC5x1lz8.jpg",
+    "dateAdded": "2026-08-25T02:15:56.000Z"
+  },
+  {
     "id": "recj1ue7LbGHhxci5",
     "year": 1954,
     "countyNumber": "15",
@@ -8866,6 +9754,18 @@
     "serial": "15-4",
     "photoUrl": "assets/img/plates/att3K3kTXCUaoE5gt.jpg",
     "dateAdded": "2026-08-21T20:44:04.000Z"
+  },
+  {
+    "id": "recj8R0PkreYo0dNE",
+    "year": 1956,
+    "countyNumber": "40",
+    "countyName": "Loudon",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "40-2332",
+    "photoUrl": "assets/img/plates/attIa2WE7P97rpl8g.jpg",
+    "dateAdded": "2026-08-25T02:21:45.000Z"
   },
   {
     "id": "recj9DI7p5OgLGvL8",
@@ -9348,6 +10248,18 @@
     "dateAdded": "2026-08-21T15:36:11.000Z"
   },
   {
+    "id": "reclgf4jLcsWc0oNh",
+    "year": 1939,
+    "countyNumber": "38",
+    "countyName": "Sevier",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "38-158",
+    "photoUrl": "assets/img/plates/attB6qWmgiBcZo7HM.jpg",
+    "dateAdded": "2026-08-25T02:11:07.000Z"
+  },
+  {
     "id": "reclh8pk6lQY2jKDY",
     "year": 1958,
     "countyNumber": "16",
@@ -9576,6 +10488,18 @@
     "dateAdded": "2026-08-21T20:07:14.000Z"
   },
   {
+    "id": "recmftAXd877HD7x6",
+    "year": 1953,
+    "countyNumber": "38",
+    "countyName": "Sevier",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Truck",
+    "serial": "38P/7-Z04",
+    "photoUrl": "assets/img/plates/att4gC5e2OwoWNzc4.jpg",
+    "dateAdded": "2026-08-25T02:12:19.000Z"
+  },
+  {
     "id": "recmi4gkk4BFH7i4g",
     "year": 1949,
     "countyNumber": "25",
@@ -9610,6 +10534,30 @@
     "serial": "2-213 B",
     "photoUrl": "assets/img/plates/attD1CycspvRxXrch.jpg",
     "dateAdded": "2026-08-20T02:36:57.000Z"
+  },
+  {
+    "id": "recmrYJdo4rdKkSaq",
+    "year": 1956,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Dealer",
+    "serial": "3-2J",
+    "photoUrl": "assets/img/plates/attMhKAXiw23c4m7h.jpg",
+    "dateAdded": "2026-08-24T01:14:10.000Z"
+  },
+  {
+    "id": "recmskeSMnLtnPmBw",
+    "year": 1942,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "County",
+    "serial": "36COUNTY-48",
+    "photoUrl": "assets/img/plates/attxiA6S0go8YY2uP.jpg",
+    "dateAdded": "2026-08-25T01:58:07.000Z"
   },
   {
     "id": "recmwfXT6UsinPBDs",
@@ -9768,6 +10716,18 @@
     "dateAdded": "2026-08-22T13:06:25.000Z"
   },
   {
+    "id": "recnKb5rdKEXQeXJ1",
+    "year": 1956,
+    "countyNumber": "37",
+    "countyName": "Franklin",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "37-1885",
+    "photoUrl": "assets/img/plates/attULzCxArndfSOzG.jpg",
+    "dateAdded": "2026-08-25T02:07:24.000Z"
+  },
+  {
     "id": "recnNa5kj6VJj7pGd",
     "year": 1946,
     "countyNumber": "17",
@@ -9804,6 +10764,18 @@
     "dateAdded": "2026-08-22T13:04:55.000Z"
   },
   {
+    "id": "recniRyy2LwGHnoJU",
+    "year": 1941,
+    "countyNumber": "39",
+    "countyName": "Dickson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "39P/2-522",
+    "photoUrl": "assets/img/plates/attw1OpU1CwovQAuL.jpg",
+    "dateAdded": "2026-08-25T02:17:20.000Z"
+  },
+  {
     "id": "recnkZYKSQu8I6beS",
     "year": 1951,
     "countyNumber": "24",
@@ -9826,6 +10798,18 @@
     "serial": "35-3465",
     "photoUrl": "assets/img/plates/att8PAlXyLgiz0Q7E.jpg",
     "dateAdded": "2026-08-24T01:06:46.000Z"
+  },
+  {
+    "id": "recnliYzKAK3WSlRr",
+    "year": 1962,
+    "countyNumber": "38",
+    "countyName": "Sevier",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "38-76",
+    "photoUrl": "assets/img/plates/attwGwrkXfg5jeTK2.jpg",
+    "dateAdded": "2026-08-25T02:14:39.000Z"
   },
   {
     "id": "recnnS9HIN1HtnYTa",
@@ -10020,6 +11004,18 @@
     "dateAdded": "2026-08-23T11:54:45.000Z"
   },
   {
+    "id": "recoztV0AIysQnOyR",
+    "year": 1946,
+    "countyNumber": "38",
+    "countyName": "Sevier",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "38-2452",
+    "photoUrl": "assets/img/plates/att8u0hd7F5teU5C2.jpg",
+    "dateAdded": "2026-08-25T02:11:46.000Z"
+  },
+  {
     "id": "recp2ZZOS6SXITk8l",
     "year": 1950,
     "countyNumber": "1",
@@ -10138,6 +11134,18 @@
     "serial": "24-494",
     "photoUrl": "assets/img/plates/att8LWVDxwtXfgjoG.jpg",
     "dateAdded": "2026-08-22T15:03:46.000Z"
+  },
+  {
+    "id": "recqIw7hMNsoAzSw1",
+    "year": 1952,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Green",
+    "fontColor": "White",
+    "type": "State",
+    "serial": "9-70",
+    "photoUrl": "assets/img/plates/attDA8kSdLCKo2TPc.jpg",
+    "dateAdded": "2026-08-24T01:14:42.000Z"
   },
   {
     "id": "recqL6fUhFxAlAdHa",
@@ -10272,6 +11280,18 @@
     "dateAdded": "2026-08-23T11:57:21.000Z"
   },
   {
+    "id": "recr5EYHGlDf7I70h",
+    "year": 1945,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Farm Truck",
+    "serial": "36F/1-269",
+    "photoUrl": "assets/img/plates/attKofWKCxa7Mx6tf.jpg",
+    "dateAdded": "2026-08-25T01:47:03.000Z"
+  },
+  {
     "id": "recr7ev3SIthCYGVn",
     "year": 1954,
     "countyNumber": "4",
@@ -10294,6 +11314,18 @@
     "serial": "29-97-27",
     "photoUrl": "assets/img/plates/attwYFTwKUHOgafGN.jpg",
     "dateAdded": "2026-08-23T12:13:50.000Z"
+  },
+  {
+    "id": "recr9BlZUplWqTJOm",
+    "year": 1955,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Farm Truck",
+    "serial": "36F/1-90",
+    "photoUrl": "assets/img/plates/attnh4AdY2Nxc35PF.jpg",
+    "dateAdded": "2026-08-25T02:00:22.000Z"
   },
   {
     "id": "recrEiPvmGNtXt8Di",
@@ -10356,6 +11388,18 @@
     "dateAdded": "2026-08-21T14:58:12.000Z"
   },
   {
+    "id": "recrgMR58TDJQnonP",
+    "year": 1941,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "36-667",
+    "photoUrl": "assets/img/plates/att1eblG3PFN67VoZ.jpg",
+    "dateAdded": "2026-08-25T01:57:20.000Z"
+  },
+  {
     "id": "recrgN2b4az9PHhJO",
     "year": 1951,
     "countyNumber": "10",
@@ -10402,6 +11446,18 @@
     "serial": "21TAXI-5",
     "photoUrl": "assets/img/plates/attUkdpw7Fbxqzqb5.jpg",
     "dateAdded": "2026-08-22T14:44:30.000Z"
+  },
+  {
+    "id": "recs2pKFsH1kBeibX",
+    "year": 1944,
+    "countyNumber": "37",
+    "countyName": "Franklin",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "37-1332",
+    "photoUrl": "assets/img/plates/atts6ADGlm4xjSuC0.jpg",
+    "dateAdded": "2026-08-25T02:08:19.000Z"
   },
   {
     "id": "recs8pZUa8tHLVgyR",
@@ -10608,6 +11664,18 @@
     "dateAdded": "2026-08-22T03:15:57.000Z"
   },
   {
+    "id": "recssIdpuz8RtfDWS",
+    "year": 1965,
+    "countyNumber": "40",
+    "countyName": "Loudon",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "40-54",
+    "photoUrl": "assets/img/plates/attCvUBIdovJN4FwX.jpg",
+    "dateAdded": "2026-08-25T02:19:12.000Z"
+  },
+  {
     "id": "recsskwE202hEDXAB",
     "year": 1955,
     "countyNumber": "3",
@@ -10618,6 +11686,18 @@
     "serial": "3-4",
     "photoUrl": "assets/img/plates/attMykyvonJmcR0Fb.jpg",
     "dateAdded": "2026-08-20T23:47:40.000Z"
+  },
+  {
+    "id": "recstQQkeaJF3RCan",
+    "year": 1947,
+    "countyNumber": "37",
+    "countyName": "Franklin",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "37-36",
+    "photoUrl": "assets/img/plates/attxV07AFNVO2Q8IY.jpg",
+    "dateAdded": "2026-08-25T02:04:26.000Z"
   },
   {
     "id": "recstwfCPDKQaa00U",
@@ -10714,6 +11794,18 @@
     "serial": "3COUNTY-60",
     "photoUrl": "assets/img/plates/atthfGJdjhVZyL1Tc.jpg",
     "dateAdded": "2026-08-21T00:02:06.000Z"
+  },
+  {
+    "id": "rect411dOmtmcWFqV",
+    "year": 1942,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "36-409",
+    "photoUrl": "assets/img/plates/attPmYXRJi3NPsGLh.jpg",
+    "dateAdded": "2026-08-25T01:51:19.000Z"
   },
   {
     "id": "rect6nzZrJwYqnATx",
@@ -10920,6 +12012,18 @@
     "dateAdded": "2026-08-23T12:16:30.000Z"
   },
   {
+    "id": "recuAFloN0e7fBHhP",
+    "year": 1939,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "36-2262",
+    "photoUrl": "assets/img/plates/attOLz0uamT29uVM1.jpg",
+    "dateAdded": "2026-08-25T01:59:31.000Z"
+  },
+  {
     "id": "recuB9pRIGP3N6cCu",
     "year": 1953,
     "countyNumber": "21",
@@ -10930,6 +12034,18 @@
     "serial": "21D-1461",
     "photoUrl": "assets/img/plates/att37iKUJEz1dICwW.jpg",
     "dateAdded": "2026-08-22T14:47:42.000Z"
+  },
+  {
+    "id": "recuDUCWZ8XIlktaO",
+    "year": 1946,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "36-3089",
+    "photoUrl": "assets/img/plates/attq0kiSn2Go7ZRV7.jpg",
+    "dateAdded": "2026-08-25T01:49:07.000Z"
   },
   {
     "id": "recuEGsvITCsDQSwK",
@@ -10990,6 +12106,18 @@
     "serial": "5-1073",
     "photoUrl": "assets/img/plates/attOuZy7bgCmUOC3y.jpg",
     "dateAdded": "2026-08-21T14:38:45.000Z"
+  },
+  {
+    "id": "recuMOmcz1qOuiS0E",
+    "year": 1950,
+    "countyNumber": "39",
+    "countyName": "Dickson",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "39-231",
+    "photoUrl": "assets/img/plates/attLKQGshVL4SuNxc.jpg",
+    "dateAdded": "2026-08-25T02:17:37.000Z"
   },
   {
     "id": "recuOAKKAPqE3s2j8",
@@ -11064,6 +12192,18 @@
     "dateAdded": "2026-08-24T00:59:37.000Z"
   },
   {
+    "id": "recute7yNMMQN7q3k",
+    "year": 1951,
+    "countyNumber": "37",
+    "countyName": "Franklin",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "37-1304",
+    "photoUrl": "assets/img/plates/attKdC0CanP4bnax1.jpg",
+    "dateAdded": "2026-08-25T02:04:40.000Z"
+  },
+  {
     "id": "recuvE8BTkYw6BQZL",
     "year": 1940,
     "countyNumber": "34",
@@ -11110,6 +12250,18 @@
     "serial": "23-486",
     "photoUrl": "assets/img/plates/attj6y1xSSYhigZpI.jpg",
     "dateAdded": "2026-08-22T14:57:22.000Z"
+  },
+  {
+    "id": "recvGQHKS1vqbpojk",
+    "year": 1951,
+    "countyNumber": "38",
+    "countyName": "Sevier",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "38-4021",
+    "photoUrl": "assets/img/plates/attUQvFNM0VQa0gug.jpg",
+    "dateAdded": "2026-08-25T02:14:07.000Z"
   },
   {
     "id": "recvHpDmSbCrqQYsh",
@@ -11220,6 +12372,18 @@
     "dateAdded": "2026-08-22T03:10:43.000Z"
   },
   {
+    "id": "recvkO9AEOLxhBwvx",
+    "year": 1944,
+    "countyNumber": "37",
+    "countyName": "Franklin",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "37F/1-13",
+    "photoUrl": "assets/img/plates/attkB2jpj637xFCt0.jpg",
+    "dateAdded": "2026-08-25T02:07:37.000Z"
+  },
+  {
     "id": "recvoMBF7Np6fCq1Y",
     "year": 1955,
     "countyNumber": "1",
@@ -11230,6 +12394,18 @@
     "serial": "1-4977",
     "photoUrl": "assets/img/plates/att8ESdnrrzNReDCl.jpg",
     "dateAdded": "2026-08-13T22:23:29.000Z"
+  },
+  {
+    "id": "recvpGMv67XoSSFSO",
+    "year": 1947,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "36D-382",
+    "photoUrl": "assets/img/plates/attPnyLJOweeogGUG.jpg",
+    "dateAdded": "2026-08-25T01:48:46.000Z"
   },
   {
     "id": "recvsDtMHrqCJS97z",
@@ -11484,6 +12660,18 @@
     "serial": "3B-16",
     "photoUrl": "assets/img/plates/attokyJCyf2kbzbOL.jpg",
     "dateAdded": "2026-08-21T00:02:03.000Z"
+  },
+  {
+    "id": "recx9XkjD0UEpafwO",
+    "year": 1951,
+    "countyNumber": "38",
+    "countyName": "Sevier",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "38F/1-514",
+    "photoUrl": "assets/img/plates/attOg0WZwJCaGC25L.jpg",
+    "dateAdded": "2026-08-25T02:13:52.000Z"
   },
   {
     "id": "recxC3oORUBuNu8KL",
