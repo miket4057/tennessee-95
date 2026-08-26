@@ -36,6 +36,18 @@
     "dateAdded": "2026-08-20T02:50:27.000Z"
   },
   {
+    "id": "rec0Aa0Pq1fgIhOq4",
+    "year": 1952,
+    "countyNumber": "49",
+    "countyName": "Claiborne",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "49-911",
+    "photoUrl": "assets/img/plates/atttCyWNitQYfEuRO.jpg",
+    "dateAdded": "2026-08-26T22:06:12.000Z"
+  },
+  {
     "id": "rec0DDOihAN0ESRRP",
     "year": 1942,
     "countyNumber": "8",
@@ -118,6 +130,42 @@
     "serial": "12-1702",
     "photoUrl": "assets/img/plates/attbSQdecVyxDlEvP.jpg",
     "dateAdded": "2026-08-21T18:16:54.000Z"
+  },
+  {
+    "id": "rec0OJdybqR59lYCT",
+    "year": 1953,
+    "countyNumber": "42",
+    "countyName": "Lauderdale",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "42-810",
+    "photoUrl": "assets/img/plates/attk0XeZqLzJ7WSVh.jpg",
+    "dateAdded": "2026-08-26T20:42:03.000Z"
+  },
+  {
+    "id": "rec0OYAg1crWprlFb",
+    "year": 1964,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Motorcycle",
+    "serial": "43-18",
+    "photoUrl": "assets/img/plates/attO8d7fctcnekDM1.jpg",
+    "dateAdded": "2026-08-26T21:03:40.000Z"
+  },
+  {
+    "id": "rec0QBLztxW1jCpUH",
+    "year": 1955,
+    "countyNumber": "46",
+    "countyName": "Cocke",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "46-702",
+    "photoUrl": "assets/img/plates/attTlJjqdahc6vnRK.jpg",
+    "dateAdded": "2026-08-26T21:49:12.000Z"
   },
   {
     "id": "rec0RaizWTp9A3XvA",
@@ -264,6 +312,18 @@
     "dateAdded": "2026-08-25T01:52:01.000Z"
   },
   {
+    "id": "rec19zjcJsOKpTLpD",
+    "year": 1947,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "43-667",
+    "photoUrl": "assets/img/plates/attxWkf9JiqNsD1YQ.jpg",
+    "dateAdded": "2026-08-26T21:02:47.000Z"
+  },
+  {
     "id": "rec1HKKovJ9KffDvr",
     "year": 1950,
     "countyNumber": "3",
@@ -312,6 +372,30 @@
     "dateAdded": "2026-08-25T02:05:30.000Z"
   },
   {
+    "id": "rec1V2vQnQ7bM4DgW",
+    "year": 1955,
+    "countyNumber": "41",
+    "countyName": "Coffee",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "41-2336",
+    "photoUrl": "assets/img/plates/attfOYDv6Qhlwi4s4.jpg",
+    "dateAdded": "2026-08-26T20:40:32.000Z"
+  },
+  {
+    "id": "rec1X4zmaxoL3yznv",
+    "year": 1955,
+    "countyNumber": "42",
+    "countyName": "Lauderdale",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "City",
+    "serial": "42CITY-510",
+    "photoUrl": "assets/img/plates/attufRknvlUhj89bw.jpg",
+    "dateAdded": "2026-08-26T20:46:10.000Z"
+  },
+  {
     "id": "rec1XRAxGcIGS6Qz7",
     "year": 1956,
     "countyNumber": "6",
@@ -334,6 +418,30 @@
     "serial": "8F/1-369",
     "photoUrl": "assets/img/plates/attLwy9OvvOUhYSQM.jpg",
     "dateAdded": "2026-08-21T15:42:38.000Z"
+  },
+  {
+    "id": "rec1ZtwKYwWVAqrYq",
+    "year": 1951,
+    "countyNumber": "49",
+    "countyName": "Claiborne",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "49-888",
+    "photoUrl": "assets/img/plates/atth9KTZb86NOQPsZ.jpg",
+    "dateAdded": "2026-08-26T22:04:44.000Z"
+  },
+  {
+    "id": "rec1dQ9cejNo9BkRJ",
+    "year": 1963,
+    "countyNumber": "41",
+    "countyName": "Coffee",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "41-54",
+    "photoUrl": "assets/img/plates/attHwsoEUGrZAJfyP.jpg",
+    "dateAdded": "2026-08-26T20:37:32.000Z"
   },
   {
     "id": "rec1gd328J5hrDxzx",
@@ -420,6 +528,18 @@
     "dateAdded": "2026-08-25T02:10:18.000Z"
   },
   {
+    "id": "rec2DzFH0Nsw3KQKa",
+    "year": 1939,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "50-604",
+    "photoUrl": "assets/img/plates/attavn1a7kpWwGya4.jpg",
+    "dateAdded": "2026-08-26T22:19:11.000Z"
+  },
+  {
     "id": "rec2EaheIC7yOlBYM",
     "year": 1941,
     "countyNumber": "8",
@@ -456,6 +576,18 @@
     "dateAdded": "2026-08-21T00:50:39.000Z"
   },
   {
+    "id": "rec2QZ7rgyzRrOajs",
+    "year": 1957,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "44-14",
+    "photoUrl": "assets/img/plates/attK4xHSVCyxgHzIJ.jpg",
+    "dateAdded": "2026-08-26T21:30:56.000Z"
+  },
+  {
     "id": "rec2RU6uhyjtJ0FsU",
     "year": 1939,
     "countyNumber": "25",
@@ -466,6 +598,18 @@
     "serial": "25-642",
     "photoUrl": "assets/img/plates/attFsqILVK6VGi855.jpg",
     "dateAdded": "2026-08-22T15:13:52.000Z"
+  },
+  {
+    "id": "rec2RigoBAvvJTGNR",
+    "year": 1947,
+    "countyNumber": "46",
+    "countyName": "Cocke",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "46-64",
+    "photoUrl": "assets/img/plates/attegm5OLLF0T4bzZ.jpg",
+    "dateAdded": "2026-08-26T21:50:54.000Z"
   },
   {
     "id": "rec2RjBN5bQLxZKjs",
@@ -540,6 +684,18 @@
     "dateAdded": "2026-08-21T20:32:33.000Z"
   },
   {
+    "id": "rec2cjwVe7OoiPwWH",
+    "year": 1964,
+    "countyNumber": "46",
+    "countyName": "Cocke",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Motorcycle",
+    "serial": "46-59",
+    "photoUrl": "assets/img/plates/attrKrjh5tkmXr0KS.jpg",
+    "dateAdded": "2026-08-26T21:46:59.000Z"
+  },
+  {
     "id": "rec2fwJ0C7uGYCfbN",
     "year": 1948,
     "countyNumber": "14",
@@ -550,6 +706,18 @@
     "serial": "14-889",
     "photoUrl": "assets/img/plates/attCHPkqp5iBQZrGm.jpg",
     "dateAdded": "2026-08-21T20:21:37.000Z"
+  },
+  {
+    "id": "rec2gYmfnbGeBEBph",
+    "year": 1952,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "44-434",
+    "photoUrl": "assets/img/plates/att2RBaAa4V6MtD9r.jpg",
+    "dateAdded": "2026-08-26T21:22:47.000Z"
   },
   {
     "id": "rec2isNxMRomFs5fY",
@@ -984,6 +1152,18 @@
     "dateAdded": "2026-08-25T02:11:20.000Z"
   },
   {
+    "id": "rec4FCO3rAFfmhqDM",
+    "year": 1954,
+    "countyNumber": "41",
+    "countyName": "Coffee",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "41-3354",
+    "photoUrl": "assets/img/plates/attsrOv8tQNNc6XDx.jpg",
+    "dateAdded": "2026-08-26T20:40:17.000Z"
+  },
+  {
     "id": "rec4M9nTyhwNQlfgC",
     "year": 1949,
     "countyNumber": "11",
@@ -1008,6 +1188,18 @@
     "dateAdded": "2026-08-21T20:46:23.000Z"
   },
   {
+    "id": "rec4O27bTYfsBhfxO",
+    "year": 1953,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "County",
+    "serial": "44COUNTY-40",
+    "photoUrl": "assets/img/plates/atts4gAtIn5UdinuL.jpg",
+    "dateAdded": "2026-08-26T21:29:13.000Z"
+  },
+  {
     "id": "rec4Odf9bNKhggFpF",
     "year": 1946,
     "countyNumber": "13",
@@ -1030,6 +1222,30 @@
     "serial": "13F/1-445",
     "photoUrl": "assets/img/plates/atthtPoJLzl49kPLd.jpg",
     "dateAdded": "2026-08-21T20:16:35.000Z"
+  },
+  {
+    "id": "rec4VDXUa9LbJfm5r",
+    "year": 1954,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Heavy Car",
+    "serial": "43D-227",
+    "photoUrl": "assets/img/plates/attFPX9uiTCyH1D2j.jpg",
+    "dateAdded": "2026-08-26T21:02:01.000Z"
+  },
+  {
+    "id": "rec4ZrubAPWET4lyN",
+    "year": 1956,
+    "countyNumber": "48",
+    "countyName": "Fayette",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "48D-389",
+    "photoUrl": "assets/img/plates/attS4S9jvYnNEhHUs.jpg",
+    "dateAdded": "2026-08-26T21:58:44.000Z"
   },
   {
     "id": "rec4b5OVUnibPsQMV",
@@ -1066,6 +1282,18 @@
     "serial": "1P/2-5493",
     "photoUrl": "assets/img/plates/attjmrkpxP1kCNHQZ.jpg",
     "dateAdded": "2026-08-13T23:59:10.000Z"
+  },
+  {
+    "id": "rec4kMfHKs42I0dGB",
+    "year": 1953,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "43-2683",
+    "photoUrl": "assets/img/plates/attVg0h6O3yNfJcON.jpg",
+    "dateAdded": "2026-08-26T21:04:24.000Z"
   },
   {
     "id": "rec4kkP3HlbUsXE4E",
@@ -1128,6 +1356,18 @@
     "dateAdded": "2026-08-13T23:48:39.000Z"
   },
   {
+    "id": "rec4p11VK0ILvMDr9",
+    "year": 1948,
+    "countyNumber": "48",
+    "countyName": "Fayette",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "48-F/1-493",
+    "photoUrl": "assets/img/plates/attsf8dyrg8L7Vkd6.jpg",
+    "dateAdded": "2026-08-26T21:59:57.000Z"
+  },
+  {
     "id": "rec4q6yrU0WKQ6DLb",
     "year": 1951,
     "countyNumber": "3",
@@ -1138,6 +1378,30 @@
     "serial": "3-4467",
     "photoUrl": "assets/img/plates/attUYd85nitD1q0vC.jpg",
     "dateAdded": "2026-08-20T23:54:42.000Z"
+  },
+  {
+    "id": "rec4y4XcVY60VzEhx",
+    "year": 1951,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "43-2792",
+    "photoUrl": "assets/img/plates/attEdbCBsTbX2JtWe.jpg",
+    "dateAdded": "2026-08-26T20:49:11.000Z"
+  },
+  {
+    "id": "rec50Gel5RE4mKnIv",
+    "year": 1947,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "44-103",
+    "photoUrl": "assets/img/plates/attueEP0OYM3Nes76.jpg",
+    "dateAdded": "2026-08-26T21:23:06.000Z"
   },
   {
     "id": "rec51tvLGjtq54Dic",
@@ -1222,6 +1486,18 @@
     "serial": "7COUNTY-32",
     "photoUrl": "assets/img/plates/attJqk6BsRzoDKW7D.jpg",
     "dateAdded": "2026-08-21T15:20:30.000Z"
+  },
+  {
+    "id": "rec5NYnuppsTlxn0x",
+    "year": 1953,
+    "countyNumber": "41",
+    "countyName": "Coffee",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "41-1516",
+    "photoUrl": "assets/img/plates/attas8g5LvLcyIcHD.jpg",
+    "dateAdded": "2026-08-26T20:40:00.000Z"
   },
   {
     "id": "rec5V4UhWMfjJauxm",
@@ -1356,6 +1632,30 @@
     "dateAdded": "2026-08-24T00:51:46.000Z"
   },
   {
+    "id": "rec5twZEcWKi8R2TJ",
+    "year": 1948,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Heavy Car",
+    "serial": "44D-72",
+    "photoUrl": "assets/img/plates/attihCKeSAmz53mi4.jpg",
+    "dateAdded": "2026-08-26T21:18:59.000Z"
+  },
+  {
+    "id": "rec606G9cTU6vcCML",
+    "year": 1946,
+    "countyNumber": "48",
+    "countyName": "Fayette",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "48-2332",
+    "photoUrl": "assets/img/plates/attxnrWdfuFl0UHwn.jpg",
+    "dateAdded": "2026-08-26T21:58:56.000Z"
+  },
+  {
     "id": "rec606ID13ECK7T6B",
     "year": 1948,
     "countyNumber": "10",
@@ -1390,6 +1690,18 @@
     "serial": "27DLR7G",
     "photoUrl": "assets/img/plates/att3tztfrmrjOTqy9.jpg",
     "dateAdded": "2026-08-23T11:48:58.000Z"
+  },
+  {
+    "id": "rec68HhwLkeDEsIr7",
+    "year": 1956,
+    "countyNumber": "46",
+    "countyName": "Cocke",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "46-532",
+    "photoUrl": "assets/img/plates/attHNmzllmXkMKbgk.jpg",
+    "dateAdded": "2026-08-26T21:47:26.000Z"
   },
   {
     "id": "rec68dR8moc1VPn03",
@@ -1450,6 +1762,30 @@
     "serial": "17-634",
     "photoUrl": "assets/img/plates/atthip0mtOFYDqzrI.jpg",
     "dateAdded": "2026-08-22T03:19:06.000Z"
+  },
+  {
+    "id": "rec6T5jZGJbjH6brr",
+    "year": 1944,
+    "countyNumber": "42",
+    "countyName": "Lauderdale",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "42-999",
+    "photoUrl": "assets/img/plates/attZNJmHhjYGa6zyp.jpg",
+    "dateAdded": "2026-08-26T20:43:30.000Z"
+  },
+  {
+    "id": "rec6XRByarbbfC4fl",
+    "year": 1942,
+    "countyNumber": "49",
+    "countyName": "Claiborne",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "49-172",
+    "photoUrl": "assets/img/plates/attZPQaGmhYWMSDtU.jpg",
+    "dateAdded": "2026-08-26T22:07:10.000Z"
   },
   {
     "id": "rec6YaRWjb7c2hDpC",
@@ -1560,6 +1896,30 @@
     "dateAdded": "2026-08-23T18:18:19.000Z"
   },
   {
+    "id": "rec6vLxG3PRheGGMS",
+    "year": 1952,
+    "countyNumber": "48",
+    "countyName": "Fayette",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "48F/1-970",
+    "photoUrl": "assets/img/plates/attz0wwuSTOLNwwsJ.jpg",
+    "dateAdded": "2026-08-26T22:01:10.000Z"
+  },
+  {
+    "id": "rec6xnNSjO0X9Ijas",
+    "year": 1950,
+    "countyNumber": "42",
+    "countyName": "Lauderdale",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "42-3218",
+    "photoUrl": "assets/img/plates/attiF3LUqb1WUU39z.jpg",
+    "dateAdded": "2026-08-26T20:45:39.000Z"
+  },
+  {
     "id": "rec71PhUcXmn1SNZY",
     "year": 1940,
     "countyNumber": "4",
@@ -1570,6 +1930,18 @@
     "serial": "4A-9",
     "photoUrl": "assets/img/plates/attxNihG9cQf1mPsG.jpg",
     "dateAdded": "2026-08-21T00:50:42.000Z"
+  },
+  {
+    "id": "rec73iOxCziISbXNU",
+    "year": 1951,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "50-2047",
+    "photoUrl": "assets/img/plates/attIE2c9RoRTtJ1Kk.jpg",
+    "dateAdded": "2026-08-26T22:17:25.000Z"
   },
   {
     "id": "rec73plA4x3cSQQpz",
@@ -1692,6 +2064,18 @@
     "dateAdded": "2026-08-21T18:21:12.000Z"
   },
   {
+    "id": "rec7J2qTFKCAAXj7x",
+    "year": 1955,
+    "countyNumber": "46",
+    "countyName": "Cocke",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Truck",
+    "serial": "46P/1-128",
+    "photoUrl": "assets/img/plates/attQFMBRVIzJrK90c.jpg",
+    "dateAdded": "2026-08-26T21:46:43.000Z"
+  },
+  {
     "id": "rec7KY4fyG7wW8hzp",
     "year": 1941,
     "countyNumber": "23",
@@ -1714,6 +2098,18 @@
     "serial": "15-36",
     "photoUrl": "assets/img/plates/attF9aDkkllvlezzH.jpg",
     "dateAdded": "2026-08-21T20:44:54.000Z"
+  },
+  {
+    "id": "rec7V3bVsdVskxwTB",
+    "year": 1951,
+    "countyNumber": "45",
+    "countyName": "Warren",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "45-1183",
+    "photoUrl": "assets/img/plates/attR86JWx84Bld0Rw.jpg",
+    "dateAdded": "2026-08-26T21:40:10.000Z"
   },
   {
     "id": "rec7aFnJ7ABhLsBXX",
@@ -1860,6 +2256,18 @@
     "dateAdded": "2026-08-22T14:56:00.000Z"
   },
   {
+    "id": "rec7x2yBLl8UGmtmx",
+    "year": 1942,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "50-564",
+    "photoUrl": "assets/img/plates/attADdKIu6GJTtO8H.jpg",
+    "dateAdded": "2026-08-26T22:20:37.000Z"
+  },
+  {
     "id": "rec7xfDikUq6Abub1",
     "year": 1951,
     "countyNumber": "26",
@@ -1906,6 +2314,18 @@
     "serial": "26COUNTY-50",
     "photoUrl": "assets/img/plates/attva8Y5tcYrli5P3.jpg",
     "dateAdded": "2026-08-23T02:36:01.000Z"
+  },
+  {
+    "id": "rec8905jtAYaGhuhf",
+    "year": 1951,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "44-223",
+    "photoUrl": "assets/img/plates/attm1aBI8Sl3Hjniq.jpg",
+    "dateAdded": "2026-08-26T21:18:18.000Z"
   },
   {
     "id": "rec892JrAvnf1Ot6D",
@@ -1968,6 +2388,30 @@
     "dateAdded": "2026-08-21T14:44:43.000Z"
   },
   {
+    "id": "rec8HnV1DhkEdPLFg",
+    "year": 1953,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "44-848",
+    "photoUrl": "assets/img/plates/attxilIHYpfRdylKb.jpg",
+    "dateAdded": "2026-08-26T21:33:33.000Z"
+  },
+  {
+    "id": "rec8IB7tQQ8aGF6rI",
+    "year": 1948,
+    "countyNumber": "45",
+    "countyName": "Warren",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "45F/1-271",
+    "photoUrl": "assets/img/plates/attHUjOisc01OCdsW.jpg",
+    "dateAdded": "2026-08-26T21:42:06.000Z"
+  },
+  {
     "id": "rec8IECsQLUBFtdc4",
     "year": 1951,
     "countyNumber": "27",
@@ -2016,6 +2460,18 @@
     "dateAdded": "2026-08-22T13:07:48.000Z"
   },
   {
+    "id": "rec8V3eTswADJlvXm",
+    "year": 1955,
+    "countyNumber": "49",
+    "countyName": "Claiborne",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Farm Truck",
+    "serial": "49F/1-74",
+    "photoUrl": "assets/img/plates/attn9sG3OFQjBUmWe.jpg",
+    "dateAdded": "2026-08-26T22:07:23.000Z"
+  },
+  {
     "id": "rec8bf5ate9920FEb",
     "year": 1985,
     "countyNumber": "1",
@@ -2062,6 +2518,18 @@
     "serial": "40T-25",
     "photoUrl": "assets/img/plates/attuXhG1whzPhqGLI.jpg",
     "dateAdded": "2026-08-25T02:21:59.000Z"
+  },
+  {
+    "id": "rec8pWeczdjJPIEzj",
+    "year": 1955,
+    "countyNumber": "49",
+    "countyName": "Claiborne",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "49-263",
+    "photoUrl": "assets/img/plates/attxHaoDAZO00zJmu.jpg",
+    "dateAdded": "2026-08-26T22:05:59.000Z"
   },
   {
     "id": "rec8qgHsIeHGgHhQ6",
@@ -2508,6 +2976,18 @@
     "dateAdded": "2026-08-23T12:15:18.000Z"
   },
   {
+    "id": "recAkKwZRyBMwfS2E",
+    "year": 1941,
+    "countyNumber": "46",
+    "countyName": "Cocke",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "46-2004",
+    "photoUrl": "assets/img/plates/attmvecNTQVJZp0g4.jpg",
+    "dateAdded": "2026-08-26T21:50:41.000Z"
+  },
+  {
     "id": "recApqsibp6BhWF93",
     "year": 1945,
     "countyNumber": "40",
@@ -2532,6 +3012,18 @@
     "dateAdded": "2026-08-23T18:03:31.000Z"
   },
   {
+    "id": "recAxQRiaIT76fOQ7",
+    "year": 1956,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "50F/1-821",
+    "photoUrl": "assets/img/plates/attYfPEVEWoo6uuaj.jpg",
+    "dateAdded": "2026-08-26T22:14:28.000Z"
+  },
+  {
     "id": "recAy5rNeb1IINsQF",
     "year": 1949,
     "countyNumber": "34",
@@ -2554,6 +3046,18 @@
     "serial": "21-3194",
     "photoUrl": "assets/img/plates/attrZAeTWknlG1Lsc.jpg",
     "dateAdded": "2026-08-22T14:45:20.000Z"
+  },
+  {
+    "id": "recB4PNCutfSU63Xq",
+    "year": 1941,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "44-1349",
+    "photoUrl": "assets/img/plates/attUl0aNHgp1VdPjB.jpg",
+    "dateAdded": "2026-08-26T21:17:51.000Z"
   },
   {
     "id": "recBBLz7N1qbsTLi9",
@@ -2664,6 +3168,18 @@
     "dateAdded": "2026-08-25T02:06:12.000Z"
   },
   {
+    "id": "recBV9njtDZMYPL9n",
+    "year": 1954,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "44-2553",
+    "photoUrl": "assets/img/plates/attp3W3v8BlSZga75.jpg",
+    "dateAdded": "2026-08-26T21:32:31.000Z"
+  },
+  {
     "id": "recBYbrmrBRynFmBu",
     "year": 1944,
     "countyNumber": "7",
@@ -2698,6 +3214,18 @@
     "serial": "6-329",
     "photoUrl": "assets/img/plates/atta3Dxd2qZIvAEvQ.jpg",
     "dateAdded": "2026-08-21T15:09:16.000Z"
+  },
+  {
+    "id": "recBhNLlOnVOBqLW2",
+    "year": 1954,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "44-26",
+    "photoUrl": "assets/img/plates/att9kv2DiL8x0Jrgn.jpg",
+    "dateAdded": "2026-08-26T21:30:23.000Z"
   },
   {
     "id": "recBjbNYiTPzxwz0t",
@@ -2748,6 +3276,18 @@
     "dateAdded": "2026-08-23T02:37:15.000Z"
   },
   {
+    "id": "recBodMtlnpQvCJca",
+    "year": 1944,
+    "countyNumber": "46",
+    "countyName": "Cocke",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "46-56",
+    "photoUrl": "assets/img/plates/attTo3AQ4hSkaP5kR.jpg",
+    "dateAdded": "2026-08-26T21:50:11.000Z"
+  },
+  {
     "id": "recBsUc7vGaUrfjXF",
     "year": 1955,
     "countyNumber": "12",
@@ -2782,6 +3322,18 @@
     "serial": "34-403",
     "photoUrl": "assets/img/plates/att5ZNKQ3j5jx99Mb.jpg",
     "dateAdded": "2026-08-24T01:03:30.000Z"
+  },
+  {
+    "id": "recC0ZxCbF5DLcxhv",
+    "year": 1956,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "43-2115",
+    "photoUrl": "assets/img/plates/attFkU3HbMuaNUF6P.jpg",
+    "dateAdded": "2026-08-26T20:53:58.000Z"
   },
   {
     "id": "recC1tMN7tiXjY2bP",
@@ -2820,6 +3372,18 @@
     "dateAdded": "2026-08-22T03:12:30.000Z"
   },
   {
+    "id": "recC2d2FvnZ4BC8qk",
+    "year": 1939,
+    "countyNumber": "45",
+    "countyName": "Warren",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "45-89",
+    "photoUrl": "assets/img/plates/attTnjfmuo9BbgMEB.jpg",
+    "dateAdded": "2026-08-26T21:41:39.000Z"
+  },
+  {
     "id": "recC3l00H6qqbrkWo",
     "year": 1939,
     "countyNumber": "15",
@@ -2844,6 +3408,18 @@
     "dateAdded": "2026-08-13T23:56:00.000Z"
   },
   {
+    "id": "recC6zOx6qfVeyzdd",
+    "year": 1950,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "44F/2-605",
+    "photoUrl": "assets/img/plates/att4lN4b03zvgOyN4.jpg",
+    "dateAdded": "2026-08-26T21:20:45.000Z"
+  },
+  {
     "id": "recC8bBHM78Qfx6bC",
     "year": 1946,
     "countyNumber": "9",
@@ -2854,6 +3430,30 @@
     "serial": "9CITY-530",
     "photoUrl": "assets/img/plates/atthQ7lj3WRE1UBkX.jpg",
     "dateAdded": "2026-08-21T15:49:18.000Z"
+  },
+  {
+    "id": "recC9Eao1YRYEEC5d",
+    "year": 1951,
+    "countyNumber": "45",
+    "countyName": "Warren",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "45-286",
+    "photoUrl": "assets/img/plates/att2Qz7vL2yiBRvjf.jpg",
+    "dateAdded": "2026-08-26T21:40:55.000Z"
+  },
+  {
+    "id": "recC9Vl3b0f0GvKlB",
+    "year": 1954,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "44-141",
+    "photoUrl": "assets/img/plates/attqbuCtdPgd5kEM3.jpg",
+    "dateAdded": "2026-08-26T21:32:16.000Z"
   },
   {
     "id": "recCBqmpsZBODl6ft",
@@ -3012,6 +3612,30 @@
     "dateAdded": "2026-08-22T15:04:14.000Z"
   },
   {
+    "id": "recCt1MLw1GNBloJ2",
+    "year": 1944,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Blue",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "43-246",
+    "photoUrl": "assets/img/plates/attsVxYZiCmhfTgJX.jpg",
+    "dateAdded": "2026-08-26T20:51:40.000Z"
+  },
+  {
+    "id": "recCttxv8HqBu0ThQ",
+    "year": 1956,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "44F/3-851",
+    "photoUrl": "assets/img/plates/attlOPIL4jAyoz7fa.jpg",
+    "dateAdded": "2026-08-26T21:23:44.000Z"
+  },
+  {
     "id": "recCvPTvyTqI9DmYv",
     "year": 1953,
     "countyNumber": "26",
@@ -3060,6 +3684,18 @@
     "dateAdded": "2026-08-25T01:52:40.000Z"
   },
   {
+    "id": "recD6wS9UIx2jjdmp",
+    "year": 1949,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "43P/1-12",
+    "photoUrl": "assets/img/plates/attGdE6ywhxLMvCFY.jpg",
+    "dateAdded": "2026-08-26T20:48:03.000Z"
+  },
+  {
     "id": "recDH4PNy95Xq7uri",
     "year": 1947,
     "countyNumber": "17",
@@ -3096,6 +3732,30 @@
     "dateAdded": "2026-08-21T15:58:35.000Z"
   },
   {
+    "id": "recDMBx4mjH2Y5PsW",
+    "year": 1942,
+    "countyNumber": "47",
+    "countyName": "Haywood",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "47-90",
+    "photoUrl": "assets/img/plates/attrir8nxAbuQaU3j.jpg",
+    "dateAdded": "2026-08-26T21:53:30.000Z"
+  },
+  {
+    "id": "recDMGMiPn7SIfR5y",
+    "year": 1956,
+    "countyNumber": "45",
+    "countyName": "Warren",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "45-746",
+    "photoUrl": "assets/img/plates/attpjRJK3GF192Guj.jpg",
+    "dateAdded": "2026-08-26T21:42:26.000Z"
+  },
+  {
     "id": "recDNIJ6HDLbWjSkO",
     "year": 1953,
     "countyNumber": "1",
@@ -3130,6 +3790,18 @@
     "serial": "11-318",
     "photoUrl": "assets/img/plates/attLg8TrlazW7ufyY.jpg",
     "dateAdded": "2026-08-21T18:01:37.000Z"
+  },
+  {
+    "id": "recDaLWXETFZEu0rI",
+    "year": 1951,
+    "countyNumber": "42",
+    "countyName": "Lauderdale",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "42-635",
+    "photoUrl": "assets/img/plates/attDRqmtGg4IZWt7X.jpg",
+    "dateAdded": "2026-08-26T20:42:32.000Z"
   },
   {
     "id": "recDdX9euoJvEN877",
@@ -3312,6 +3984,18 @@
     "dateAdded": "2026-08-21T20:11:10.000Z"
   },
   {
+    "id": "recEDjijBB8htWPki",
+    "year": 1945,
+    "countyNumber": "45",
+    "countyName": "Warren",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Heavy Car",
+    "serial": "45D-333",
+    "photoUrl": "assets/img/plates/attdIlPV6sVit8oai.jpg",
+    "dateAdded": "2026-08-26T21:40:36.000Z"
+  },
+  {
     "id": "recEFedOr51UjrEwQ",
     "year": 1955,
     "countyNumber": "22",
@@ -3360,6 +4044,30 @@
     "dateAdded": "2026-08-24T00:58:39.000Z"
   },
   {
+    "id": "recEPgq01OgFWkP6e",
+    "year": 1946,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Taxi",
+    "serial": "44TAXID-23",
+    "photoUrl": "assets/img/plates/attcNNY2d6f7gP0XE.jpg",
+    "dateAdded": "2026-08-26T21:31:30.000Z"
+  },
+  {
+    "id": "recEYSYQEkqoIoTGl",
+    "year": 1951,
+    "countyNumber": "46",
+    "countyName": "Cocke",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "46-814",
+    "photoUrl": "assets/img/plates/attmuHjPYoz0nWaTT.jpg",
+    "dateAdded": "2026-08-26T21:48:33.000Z"
+  },
+  {
     "id": "recEacsys934K3iCx",
     "year": 1947,
     "countyNumber": "22",
@@ -3382,6 +4090,18 @@
     "serial": "38-3510",
     "photoUrl": "assets/img/plates/att8HUtIdd0w1lKvn.jpg",
     "dateAdded": "2026-08-25T02:12:36.000Z"
+  },
+  {
+    "id": "recEb8BkWIt4Qqk7O",
+    "year": 1955,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "44F/3-856",
+    "photoUrl": "assets/img/plates/attsRWhuRPtuPsW3W.jpg",
+    "dateAdded": "2026-08-26T21:35:06.000Z"
   },
   {
     "id": "recEbPj5U91vzEYsK",
@@ -3504,6 +4224,30 @@
     "dateAdded": "2026-08-23T12:14:07.000Z"
   },
   {
+    "id": "recFAOXK7snI505WY",
+    "year": 1944,
+    "countyNumber": "46",
+    "countyName": "Cocke",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "46-64",
+    "photoUrl": "assets/img/plates/attL01BckxTALqXRg.jpg",
+    "dateAdded": "2026-08-26T21:51:28.000Z"
+  },
+  {
+    "id": "recFDeVYFki37ko2T",
+    "year": 1940,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "43-1730",
+    "photoUrl": "assets/img/plates/att2efFYdCxVLyw2M.jpg",
+    "dateAdded": "2026-08-26T21:01:00.000Z"
+  },
+  {
     "id": "recFL3nv53up096K2",
     "year": 1952,
     "countyNumber": "18",
@@ -3514,6 +4258,18 @@
     "serial": "18-5",
     "photoUrl": "assets/img/plates/att92befscQqdnaqs.jpg",
     "dateAdded": "2026-08-22T13:21:28.000Z"
+  },
+  {
+    "id": "recFLxaN6w1ChpfYe",
+    "year": 1951,
+    "countyNumber": "48",
+    "countyName": "Fayette",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Radio",
+    "serial": "48-W4FWX",
+    "photoUrl": "assets/img/plates/attlk2NbCjNYdWXsq.jpg",
+    "dateAdded": "2026-08-26T21:58:02.000Z"
   },
   {
     "id": "recFMGmNxKtwbXhfT",
@@ -3756,6 +4512,18 @@
     "dateAdded": "2026-08-24T01:01:07.000Z"
   },
   {
+    "id": "recGFaRFHyLzZa6kf",
+    "year": 1942,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "50-1001",
+    "photoUrl": "assets/img/plates/attTZMn6F6J4eevBT.jpg",
+    "dateAdded": "2026-08-26T22:16:40.000Z"
+  },
+  {
     "id": "recGGz2rVo5aOYP0r",
     "year": 1956,
     "countyNumber": "5",
@@ -3768,6 +4536,18 @@
     "dateAdded": "2026-08-21T14:38:31.000Z"
   },
   {
+    "id": "recGJXTOCd2tstnUs",
+    "year": 1961,
+    "countyNumber": "46",
+    "countyName": "Cocke",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "46-3",
+    "photoUrl": "assets/img/plates/attaTVBK9OeSJ7j6Q.jpg",
+    "dateAdded": "2026-08-26T21:49:56.000Z"
+  },
+  {
     "id": "recGL5eTjEQdrhuYC",
     "year": 1951,
     "countyNumber": "14",
@@ -3778,6 +4558,18 @@
     "serial": "14F/1-15",
     "photoUrl": "assets/img/plates/attr50AyuwNjROKcD.jpg",
     "dateAdded": "2026-08-21T20:35:55.000Z"
+  },
+  {
+    "id": "recGNXOYEg8Ug42km",
+    "year": 1951,
+    "countyNumber": "46",
+    "countyName": "Cocke",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "46-46",
+    "photoUrl": "assets/img/plates/attREuPFaiQWhj96i.jpg",
+    "dateAdded": "2026-08-26T21:48:48.000Z"
   },
   {
     "id": "recGO3g4Y2yJlnkRB",
@@ -3814,6 +4606,42 @@
     "serial": "7-5884",
     "photoUrl": "assets/img/plates/attfJf6wiU1NzWNHR.jpg",
     "dateAdded": "2026-08-21T15:15:29.000Z"
+  },
+  {
+    "id": "recGSPJaeIb9HKbq6",
+    "year": 1947,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "50-325",
+    "photoUrl": "assets/img/plates/attfgZnTbTc7rsl6e.jpg",
+    "dateAdded": "2026-08-26T22:19:25.000Z"
+  },
+  {
+    "id": "recGTJvjE7i5XVtxE",
+    "year": 1952,
+    "countyNumber": "41",
+    "countyName": "Coffee",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "41-719",
+    "photoUrl": "assets/img/plates/attorphNGeNg3PdRb.jpg",
+    "dateAdded": "2026-08-26T20:39:48.000Z"
+  },
+  {
+    "id": "recGVYG1GlmT4GCeT",
+    "year": 1958,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "44-11",
+    "photoUrl": "assets/img/plates/attJW3Dm3KAHJsglJ.jpg",
+    "dateAdded": "2026-08-26T21:31:07.000Z"
   },
   {
     "id": "recGWKcuunra4kfel",
@@ -3900,6 +4728,18 @@
     "dateAdded": "2026-08-21T20:07:33.000Z"
   },
   {
+    "id": "recGmbJaPpYJCkgg0",
+    "year": 1956,
+    "countyNumber": "41",
+    "countyName": "Coffee",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "41-1224",
+    "photoUrl": "assets/img/plates/att8V4UC3vzi6zMho.jpg",
+    "dateAdded": "2026-08-26T20:36:09.000Z"
+  },
+  {
     "id": "recGp39MbFv3Iandi",
     "year": 1951,
     "countyNumber": "7",
@@ -3970,6 +4810,18 @@
     "serial": "26P/1-179",
     "photoUrl": "assets/img/plates/attgjrZ8RrjWj17EN.jpg",
     "dateAdded": "2026-08-23T02:40:34.000Z"
+  },
+  {
+    "id": "recGw7OvdWDhEioM3",
+    "year": 1952,
+    "countyNumber": "48",
+    "countyName": "Fayette",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "48F/1-174",
+    "photoUrl": "assets/img/plates/attoA23dL8XlZjRHN.jpg",
+    "dateAdded": "2026-08-26T22:02:31.000Z"
   },
   {
     "id": "recH2wM5FR3attAl2",
@@ -4104,6 +4956,18 @@
     "dateAdded": "2026-08-22T03:14:35.000Z"
   },
   {
+    "id": "recHMIOh8OHhOzFwU",
+    "year": 1948,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "43P/1-274",
+    "photoUrl": "assets/img/plates/attaNfzGogyXLgUAI.jpg",
+    "dateAdded": "2026-08-26T20:51:09.000Z"
+  },
+  {
     "id": "recHNysQxy2KAIqZN",
     "year": 1951,
     "countyNumber": "1",
@@ -4114,6 +4978,18 @@
     "serial": "1-40628",
     "photoUrl": "assets/img/plates/attTkmGLxsL61zMEq.jpg",
     "dateAdded": "2026-08-13T23:48:42.000Z"
+  },
+  {
+    "id": "recHQmkEV8aPphRtV",
+    "year": 1941,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "43-304",
+    "photoUrl": "assets/img/plates/attBozLPMN9JSOX2n.jpg",
+    "dateAdded": "2026-08-26T20:52:52.000Z"
   },
   {
     "id": "recHXPccM5iEaW4Gq",
@@ -4176,6 +5052,18 @@
     "dateAdded": "2026-08-22T13:29:36.000Z"
   },
   {
+    "id": "recI4uzWhESATVyOC",
+    "year": 1951,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "44-1558",
+    "photoUrl": "assets/img/plates/attl6x6TuQHGt0u4K.jpg",
+    "dateAdded": "2026-08-26T21:18:02.000Z"
+  },
+  {
     "id": "recI9JkMaKHD87gta",
     "year": 1945,
     "countyNumber": "28",
@@ -4222,6 +5110,30 @@
     "serial": "1-352",
     "photoUrl": "assets/img/plates/attcnEOPwHcZQEBeK.jpg",
     "dateAdded": "2026-08-13T22:23:29.000Z"
+  },
+  {
+    "id": "recIIlbxJzrqMd3fT",
+    "year": 1950,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "44-3581",
+    "photoUrl": "assets/img/plates/attI1dboxzSyuJ1yH.jpg",
+    "dateAdded": "2026-08-26T21:05:33.000Z"
+  },
+  {
+    "id": "recIIqUmjQfqA6BWb",
+    "year": 1945,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "44-1517",
+    "photoUrl": "assets/img/plates/att20bVNHbNaj4CvL.jpg",
+    "dateAdded": "2026-08-26T21:26:37.000Z"
   },
   {
     "id": "recIK2pekqPpEUtmD",
@@ -4356,6 +5268,30 @@
     "dateAdded": "2026-08-21T15:44:01.000Z"
   },
   {
+    "id": "recIxWe0fPEz3srli",
+    "year": 1948,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "44-17",
+    "photoUrl": "assets/img/plates/attk1wRNXxtQmWj6J.jpg",
+    "dateAdded": "2026-08-26T21:35:20.000Z"
+  },
+  {
+    "id": "recJ1pb98CZ38Zxtn",
+    "year": 1951,
+    "countyNumber": "41",
+    "countyName": "Coffee",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "41-2513",
+    "photoUrl": "assets/img/plates/att95VfcWGHxIaLcX.jpg",
+    "dateAdded": "2026-08-26T20:38:18.000Z"
+  },
+  {
     "id": "recJ2Gld5YTlFylWm",
     "year": 1952,
     "countyNumber": "32",
@@ -4390,6 +5326,30 @@
     "serial": "17F/1-6",
     "photoUrl": "assets/img/plates/attl5Ux1N2nv6dGxT.jpg",
     "dateAdded": "2026-08-22T03:25:04.000Z"
+  },
+  {
+    "id": "recJ7QOVjgxXnLyyy",
+    "year": 1950,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "43-57",
+    "photoUrl": "assets/img/plates/attu87IZYksNVLxUv.jpg",
+    "dateAdded": "2026-08-26T21:03:19.000Z"
+  },
+  {
+    "id": "recJ8lnZvJQy8uu4M",
+    "year": 1940,
+    "countyNumber": "45",
+    "countyName": "Warren",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "45-796",
+    "photoUrl": "assets/img/plates/attu2Xyj0qXWihkq5.jpg",
+    "dateAdded": "2026-08-26T21:41:26.000Z"
   },
   {
     "id": "recJDyoMUgUq8aFHj",
@@ -4450,6 +5410,18 @@
     "serial": "37-2978",
     "photoUrl": "assets/img/plates/attOMgo20siARMzNf.jpg",
     "dateAdded": "2026-08-25T02:08:46.000Z"
+  },
+  {
+    "id": "recJTpLbd7wPu1ZX4",
+    "year": 1951,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "50-325",
+    "photoUrl": "assets/img/plates/attLWITvF64wNu2kA.jpg",
+    "dateAdded": "2026-08-26T22:19:35.000Z"
   },
   {
     "id": "recJV7Bktv24e487w",
@@ -4536,6 +5508,30 @@
     "dateAdded": "2026-08-21T18:14:28.000Z"
   },
   {
+    "id": "recK0ZFiuABiKzi83",
+    "year": 1951,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "50-128",
+    "photoUrl": "assets/img/plates/att5RN0cB5NJCJtnP.jpg",
+    "dateAdded": "2026-08-26T22:17:48.000Z"
+  },
+  {
+    "id": "recK1PAb4EBTRrtXp",
+    "year": 1956,
+    "countyNumber": "41",
+    "countyName": "Coffee",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "41-1810",
+    "photoUrl": "assets/img/plates/attUFlzzKypUpGOS3.jpg",
+    "dateAdded": "2026-08-26T20:40:46.000Z"
+  },
+  {
     "id": "recK2Kf80Uz0VZHLB",
     "year": 1942,
     "countyNumber": "24",
@@ -4560,6 +5556,18 @@
     "dateAdded": "2026-08-25T02:00:37.000Z"
   },
   {
+    "id": "recK6P2bFeMCIa95y",
+    "year": 1944,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "50-161",
+    "photoUrl": "assets/img/plates/attLus6nSTEP1U1t1.jpg",
+    "dateAdded": "2026-08-26T22:21:25.000Z"
+  },
+  {
     "id": "recK8zdzu0gbgWUV6",
     "year": 1954,
     "countyNumber": "36",
@@ -4582,6 +5590,18 @@
     "serial": "28F/1-298",
     "photoUrl": "assets/img/plates/attrF9xoGaAMNDeuZ.jpg",
     "dateAdded": "2026-08-23T11:55:45.000Z"
+  },
+  {
+    "id": "recKGaPOUVixq8Omk",
+    "year": 1953,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Truck",
+    "serial": "43P/1-62",
+    "photoUrl": "assets/img/plates/attGToKmeHIpcwjFp.jpg",
+    "dateAdded": "2026-08-26T20:48:24.000Z"
   },
   {
     "id": "recKJbRsPXfUgPBVk",
@@ -4632,6 +5652,18 @@
     "dateAdded": "2026-08-24T00:55:26.000Z"
   },
   {
+    "id": "recKSMNPDdYgCd3r8",
+    "year": 1941,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "50-145",
+    "photoUrl": "assets/img/plates/attsefTONNYs5nhq4.jpg",
+    "dateAdded": "2026-08-26T22:18:11.000Z"
+  },
+  {
     "id": "recKU5VaxHjSxJUnO",
     "year": 1954,
     "countyNumber": "4",
@@ -4642,6 +5674,18 @@
     "serial": "4-30014",
     "photoUrl": "assets/img/plates/attPG9iptzxD336eF.jpg",
     "dateAdded": "2026-08-21T00:50:38.000Z"
+  },
+  {
+    "id": "recKXZpOuV5axIJRd",
+    "year": 1953,
+    "countyNumber": "46",
+    "countyName": "Cocke",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Heavy Car",
+    "serial": "46D-73",
+    "photoUrl": "assets/img/plates/attmz5nw9ovBcLLZI.jpg",
+    "dateAdded": "2026-08-26T21:47:40.000Z"
   },
   {
     "id": "recKXtdqOPesZbdTg",
@@ -4704,6 +5748,18 @@
     "dateAdded": "2026-08-22T13:25:11.000Z"
   },
   {
+    "id": "recKfxyzNCXBCrMhv",
+    "year": 1950,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "50-1867",
+    "photoUrl": "assets/img/plates/attkMvQ9LqbYcD5WG.jpg",
+    "dateAdded": "2026-08-26T22:16:59.000Z"
+  },
+  {
     "id": "recKhwmOrGesE31KM",
     "year": 1954,
     "countyNumber": "3",
@@ -4750,6 +5806,18 @@
     "serial": "39-87",
     "photoUrl": "assets/img/plates/att5saur7Rxrv2Dsj.jpg",
     "dateAdded": "2026-08-25T02:16:35.000Z"
+  },
+  {
+    "id": "recKsqU7CHtdRu2ta",
+    "year": 1951,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "43P/1-204",
+    "photoUrl": "assets/img/plates/attUM7jrwrBdsVmn4.jpg",
+    "dateAdded": "2026-08-26T20:48:43.000Z"
   },
   {
     "id": "recKxTAN17cX2McRz",
@@ -4822,6 +5890,18 @@
     "serial": "27-1705",
     "photoUrl": "assets/img/plates/atta72NELZGyETRCN.jpg",
     "dateAdded": "2026-08-23T11:53:24.000Z"
+  },
+  {
+    "id": "recLAqonY643IG258",
+    "year": 1946,
+    "countyNumber": "46",
+    "countyName": "Cocke",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "46-64",
+    "photoUrl": "assets/img/plates/attmQWKddceFFWN0c.jpg",
+    "dateAdded": "2026-08-26T21:51:53.000Z"
   },
   {
     "id": "recLGSuGthDBzImgs",
@@ -4920,6 +6000,18 @@
     "dateAdded": "2026-08-25T01:59:48.000Z"
   },
   {
+    "id": "recLm1q96ueynJx6E",
+    "year": 1944,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "44-1509",
+    "photoUrl": "assets/img/plates/attruABIS4PexIiv3.jpg",
+    "dateAdded": "2026-08-26T21:23:58.000Z"
+  },
+  {
     "id": "recLmTyGsvDyr9TjM",
     "year": 1962,
     "countyNumber": "33",
@@ -4966,6 +6058,18 @@
     "serial": "40-1895",
     "photoUrl": "assets/img/plates/att3Px4hplCX8UBP5.jpg",
     "dateAdded": "2026-08-25T02:22:20.000Z"
+  },
+  {
+    "id": "recLqCPaAGgbXJ3PA",
+    "year": 1956,
+    "countyNumber": "42",
+    "countyName": "Lauderdale",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "42F/1-41",
+    "photoUrl": "assets/img/plates/attwpBUCPgAx8G7kF.jpg",
+    "dateAdded": "2026-08-26T20:41:15.000Z"
   },
   {
     "id": "recLt8NV2HFSxkSm9",
@@ -5112,6 +6216,18 @@
     "dateAdded": "2026-08-23T18:16:48.000Z"
   },
   {
+    "id": "recMLBnchcPpuI4tC",
+    "year": 1951,
+    "countyNumber": "47",
+    "countyName": "Haywood",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "47-3162",
+    "photoUrl": "assets/img/plates/attlfpzaQlBoLwyjF.jpg",
+    "dateAdded": "2026-08-26T21:52:55.000Z"
+  },
+  {
     "id": "recMMQ2T7BmTXRSX7",
     "year": 1963,
     "countyNumber": "1",
@@ -5148,6 +6264,30 @@
     "dateAdded": "2026-08-24T00:59:12.000Z"
   },
   {
+    "id": "recMSZheVnw3aUgUs",
+    "year": 1947,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "43F/1-4",
+    "photoUrl": "assets/img/plates/att2mXokXQ0yTGUZX.jpg",
+    "dateAdded": "2026-08-26T20:46:40.000Z"
+  },
+  {
+    "id": "recMVlliklhZvghmv",
+    "year": 1950,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Farm Truck",
+    "serial": "44F/1-45",
+    "photoUrl": "assets/img/plates/attMB6QwFq3hDC7tr.jpg",
+    "dateAdded": "2026-08-26T21:26:50.000Z"
+  },
+  {
     "id": "recMY98f11GaNUDkU",
     "year": 1945,
     "countyNumber": "24",
@@ -5170,6 +6310,18 @@
     "serial": "TAXI22D-6",
     "photoUrl": "assets/img/plates/attebaCAUp81EdW51.jpg",
     "dateAdded": "2026-08-22T14:49:52.000Z"
+  },
+  {
+    "id": "recMZO3tUh1DJopNQ",
+    "year": 1954,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Farm Truck",
+    "serial": "44F/1-589",
+    "photoUrl": "assets/img/plates/attcmrplqYVqKkzTm.jpg",
+    "dateAdded": "2026-08-26T21:21:28.000Z"
   },
   {
     "id": "recMfulS5KT023Yto",
@@ -5280,6 +6432,42 @@
     "dateAdded": "2026-08-21T15:37:52.000Z"
   },
   {
+    "id": "recN5eVJARq71LhuZ",
+    "year": 1951,
+    "countyNumber": "45",
+    "countyName": "Warren",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "45F/1-22",
+    "photoUrl": "assets/img/plates/attWWc9ooe39oPAf7.jpg",
+    "dateAdded": "2026-08-26T21:41:52.000Z"
+  },
+  {
+    "id": "recN6wSfOv2IPWJP2",
+    "year": 1949,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "43-95",
+    "photoUrl": "assets/img/plates/att6K3biAsKdCj0yw.jpg",
+    "dateAdded": "2026-08-26T21:03:08.000Z"
+  },
+  {
+    "id": "recN70IOdjK3isgu0",
+    "year": 1955,
+    "countyNumber": "47",
+    "countyName": "Haywood",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "47COUNTY-47",
+    "photoUrl": "assets/img/plates/attZavb4xuacMBEEv.jpg",
+    "dateAdded": "2026-08-26T21:53:42.000Z"
+  },
+  {
     "id": "recNA1Sk2hPNg2qGX",
     "year": 1954,
     "countyNumber": "21",
@@ -5328,6 +6516,30 @@
     "dateAdded": "2026-08-23T11:50:54.000Z"
   },
   {
+    "id": "recNHF0tt2HiJSpih",
+    "year": 1956,
+    "countyNumber": "46",
+    "countyName": "Cocke",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "46D-10",
+    "photoUrl": "assets/img/plates/attV6JryOmOsqlwDw.jpg",
+    "dateAdded": "2026-08-26T21:47:52.000Z"
+  },
+  {
+    "id": "recNIXEsmVr2BOGye",
+    "year": 1940,
+    "countyNumber": "46",
+    "countyName": "Cocke",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "46-46",
+    "photoUrl": "assets/img/plates/attJLZi77MEuPalxX.jpg",
+    "dateAdded": "2026-08-26T21:48:58.000Z"
+  },
+  {
     "id": "recNJTxC5blyfkf0b",
     "year": 1952,
     "countyNumber": "33",
@@ -5362,6 +6574,18 @@
     "serial": "38-1500",
     "photoUrl": "assets/img/plates/attYsLgdB9njQCqQc.jpg",
     "dateAdded": "2026-08-25T02:10:05.000Z"
+  },
+  {
+    "id": "recNTzoaKDiAZkT5p",
+    "year": 1952,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "Green",
+    "fontColor": "White",
+    "type": "County",
+    "serial": "50COUNTY-27",
+    "photoUrl": "assets/img/plates/attElnZCGPhefYGrJ.jpg",
+    "dateAdded": "2026-08-26T22:15:49.000Z"
   },
   {
     "id": "recNUmhkZX3kmSo1i",
@@ -5436,6 +6660,18 @@
     "dateAdded": "2026-08-21T20:48:36.000Z"
   },
   {
+    "id": "recNd8speww33vn0J",
+    "year": 1944,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "50-318",
+    "photoUrl": "assets/img/plates/attjdymm1JtLI8wNV.jpg",
+    "dateAdded": "2026-08-26T22:19:00.000Z"
+  },
+  {
     "id": "recNhOWUie6EObvVI",
     "year": 1939,
     "countyNumber": "12",
@@ -5496,6 +6732,30 @@
     "dateAdded": "2026-08-22T13:14:03.000Z"
   },
   {
+    "id": "recNoN9l1TEAIUVnx",
+    "year": 1948,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "43-2732",
+    "photoUrl": "assets/img/plates/attZNMhXwA9zaVyTz.jpg",
+    "dateAdded": "2026-08-26T20:54:48.000Z"
+  },
+  {
+    "id": "recNriyNzdMbWA8DU",
+    "year": 1956,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "43-57",
+    "photoUrl": "assets/img/plates/attB32cNZuOMQ6lCH.jpg",
+    "dateAdded": "2026-08-26T20:55:32.000Z"
+  },
+  {
     "id": "recNs3FIo1Tzezj1X",
     "year": 1950,
     "countyNumber": "23",
@@ -5554,6 +6814,30 @@
     "serial": "35-4682",
     "photoUrl": "assets/img/plates/att44X07z4qWlU7Fn.jpg",
     "dateAdded": "2026-08-24T01:07:28.000Z"
+  },
+  {
+    "id": "recOCOXtQql4rsJnY",
+    "year": 1939,
+    "countyNumber": "42",
+    "countyName": "Lauderdale",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Farm",
+    "serial": "42FARM-187",
+    "photoUrl": "assets/img/plates/attPsgfldeVFI3BPE.jpg",
+    "dateAdded": "2026-08-26T20:41:31.000Z"
+  },
+  {
+    "id": "recOF7jFqq6cDxodx",
+    "year": 1939,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "44-774",
+    "photoUrl": "assets/img/plates/attgC7yHNiR926lox.jpg",
+    "dateAdded": "2026-08-26T21:24:49.000Z"
   },
   {
     "id": "recOGb5FCl1jc6r60",
@@ -5652,6 +6936,18 @@
     "dateAdded": "2026-08-20T02:39:18.000Z"
   },
   {
+    "id": "recOdxwRKQ87C2kWj",
+    "year": 1956,
+    "countyNumber": "48",
+    "countyName": "Fayette",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "48-5",
+    "photoUrl": "assets/img/plates/attorfpQtgDN869hx.jpg",
+    "dateAdded": "2026-08-26T22:01:00.000Z"
+  },
+  {
     "id": "recOfLiB74TUaqNud",
     "year": 1964,
     "countyNumber": "29",
@@ -5662,6 +6958,18 @@
     "serial": "29-171",
     "photoUrl": "assets/img/plates/attNMAk4mRwfLAVrs.jpg",
     "dateAdded": "2026-08-23T12:13:13.000Z"
+  },
+  {
+    "id": "recOkVoRUeZaeVpr2",
+    "year": 1950,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "44-575",
+    "photoUrl": "assets/img/plates/attO6CTbma5wNcltK.jpg",
+    "dateAdded": "2026-08-26T21:16:58.000Z"
   },
   {
     "id": "recOo3i0ibNjQG3XK",
@@ -5698,6 +7006,18 @@
     "serial": "24-24",
     "photoUrl": "assets/img/plates/attxDm81fAv3IwSyC.jpg",
     "dateAdded": "2026-08-22T15:02:39.000Z"
+  },
+  {
+    "id": "recOsx8qzfstV2o3r",
+    "year": 1951,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "50-41",
+    "photoUrl": "assets/img/plates/att2CEzXqFvzdxKZZ.jpg",
+    "dateAdded": "2026-08-26T22:15:08.000Z"
   },
   {
     "id": "recOuPM4aCUQMIKIV",
@@ -5844,6 +7164,30 @@
     "dateAdded": "2026-08-22T13:02:35.000Z"
   },
   {
+    "id": "recPA4WbQj8DirbaS",
+    "year": 1941,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "43-692",
+    "photoUrl": "assets/img/plates/atts6jfC73NjIesYe.jpg",
+    "dateAdded": "2026-08-26T20:50:09.000Z"
+  },
+  {
+    "id": "recPCyWhHJVdeb3xc",
+    "year": 1951,
+    "countyNumber": "48",
+    "countyName": "Fayette",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "48-704",
+    "photoUrl": "assets/img/plates/atthpHo42AXQIaFku.jpg",
+    "dateAdded": "2026-08-26T22:00:24.000Z"
+  },
+  {
     "id": "recPGj7FU1IH0yGI9",
     "year": 1950,
     "countyNumber": "18",
@@ -5854,6 +7198,18 @@
     "serial": "18D-405",
     "photoUrl": "assets/img/plates/att8mMk6oQRppnSjS.jpg",
     "dateAdded": "2026-08-22T13:09:47.000Z"
+  },
+  {
+    "id": "recPJ6wUDqtuxN2D6",
+    "year": 1953,
+    "countyNumber": "48",
+    "countyName": "Fayette",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Radio",
+    "serial": "48-W4PXW",
+    "photoUrl": "assets/img/plates/attC4dsyeMmve3Mgi.jpg",
+    "dateAdded": "2026-08-26T22:02:17.000Z"
   },
   {
     "id": "recPNPoGy30OfczMk",
@@ -5916,6 +7272,18 @@
     "dateAdded": "2026-08-22T13:27:55.000Z"
   },
   {
+    "id": "recPvMoQfkJGpxtIk",
+    "year": 1942,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "43-1889",
+    "photoUrl": "assets/img/plates/atti6oQSXMp9MKDTn.jpg",
+    "dateAdded": "2026-08-26T21:01:39.000Z"
+  },
+  {
     "id": "recPyET4jJB0mIxUT",
     "year": 1947,
     "countyNumber": "18",
@@ -5926,6 +7294,30 @@
     "serial": "18-1818",
     "photoUrl": "assets/img/plates/attCfT6QOK1HfTQD2.jpg",
     "dateAdded": "2026-08-22T13:19:26.000Z"
+  },
+  {
+    "id": "recPycaBvUYT45C3W",
+    "year": 1956,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "43-95",
+    "photoUrl": "assets/img/plates/attChHMo6m2atJ1m0.jpg",
+    "dateAdded": "2026-08-26T21:05:15.000Z"
+  },
+  {
+    "id": "recQ4eFbML85R5VBD",
+    "year": 1956,
+    "countyNumber": "41",
+    "countyName": "Coffee",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "41-110",
+    "photoUrl": "assets/img/plates/attgezm8GeMDMI416.jpg",
+    "dateAdded": "2026-08-26T20:41:00.000Z"
   },
   {
     "id": "recQ5DZJKmoNLePWZ",
@@ -5950,6 +7342,30 @@
     "serial": "22-488",
     "photoUrl": "assets/img/plates/attSIfRkELZIjI5JK.jpg",
     "dateAdded": "2026-08-22T14:49:07.000Z"
+  },
+  {
+    "id": "recQKX0PTutGejBhW",
+    "year": 1952,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "50-1317",
+    "photoUrl": "assets/img/plates/attqMHKoAA7mgdD3Y.jpg",
+    "dateAdded": "2026-08-26T22:20:13.000Z"
+  },
+  {
+    "id": "recQLwP2KOkTcNLQe",
+    "year": 1953,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "43-1016",
+    "photoUrl": "assets/img/plates/attPQKOGC4dRTyWOF.jpg",
+    "dateAdded": "2026-08-26T20:54:34.000Z"
   },
   {
     "id": "recQNwNTDWQOtG01Y",
@@ -6072,6 +7488,18 @@
     "dateAdded": "2026-08-23T02:41:53.000Z"
   },
   {
+    "id": "recQdQRvA0U82omku",
+    "year": 1946,
+    "countyNumber": "87",
+    "countyName": "Hancock",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Truck",
+    "serial": "87P/196",
+    "photoUrl": "assets/img/plates/attxuKrID0fajYC5C.jpg",
+    "dateAdded": "2026-08-26T20:51:54.000Z"
+  },
+  {
     "id": "recQeGCGUYmmgP059",
     "year": 1956,
     "countyNumber": "5",
@@ -6156,6 +7584,18 @@
     "dateAdded": "2026-08-23T18:14:32.000Z"
   },
   {
+    "id": "recQsJmLGVJWeMzTi",
+    "year": 1951,
+    "countyNumber": "45",
+    "countyName": "Warren",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "45-1183",
+    "photoUrl": "assets/img/plates/attsox9Fiz3XtfesI.jpg",
+    "dateAdded": "2026-08-26T21:39:32.000Z"
+  },
+  {
     "id": "recQsRk3x1RdzDe4m",
     "year": 1945,
     "countyNumber": "6",
@@ -6204,6 +7644,18 @@
     "dateAdded": "2026-08-22T13:20:30.000Z"
   },
   {
+    "id": "recR1JNKpOljohm4T",
+    "year": 1964,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Motorcycle",
+    "serial": "50-7",
+    "photoUrl": "assets/img/plates/att6t66wbD3YUN7nC.jpg",
+    "dateAdded": "2026-08-26T22:18:48.000Z"
+  },
+  {
     "id": "recR76eK1LlahpkVq",
     "year": 1953,
     "countyNumber": "4",
@@ -6216,6 +7668,18 @@
     "dateAdded": "2026-08-21T00:50:40.000Z"
   },
   {
+    "id": "recR77EXNri81KQlh",
+    "year": 1951,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "43-2080",
+    "photoUrl": "assets/img/plates/attQnD9uLQHzXClWe.jpg",
+    "dateAdded": "2026-08-26T20:53:44.000Z"
+  },
+  {
     "id": "recR8cLoeX0Mz5pKG",
     "year": 1955,
     "countyNumber": "7",
@@ -6226,6 +7690,18 @@
     "serial": "7-10144",
     "photoUrl": "assets/img/plates/attAoiTENbC5QWxGB.jpg",
     "dateAdded": "2026-08-21T15:15:47.000Z"
+  },
+  {
+    "id": "recRAlXxKv0p6Z5Da",
+    "year": 1940,
+    "countyNumber": "42",
+    "countyName": "Lauderdale",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "42-72",
+    "photoUrl": "assets/img/plates/atthb0caruIZ6vO37.jpg",
+    "dateAdded": "2026-08-26T20:42:18.000Z"
   },
   {
     "id": "recRCCoS9z6PY9tmw",
@@ -6300,6 +7776,18 @@
     "dateAdded": "2026-08-25T01:49:52.000Z"
   },
   {
+    "id": "recRVu5RTpIYyU7fL",
+    "year": 1955,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "43-95",
+    "photoUrl": "assets/img/plates/attWD8qdgUC2gOei8.jpg",
+    "dateAdded": "2026-08-26T21:04:59.000Z"
+  },
+  {
     "id": "recRZKRLjxb22tOxb",
     "year": 1946,
     "countyNumber": "34",
@@ -6310,6 +7798,42 @@
     "serial": "34-623",
     "photoUrl": "assets/img/plates/attyAZoprUEzCwITE.jpg",
     "dateAdded": "2026-08-24T01:04:07.000Z"
+  },
+  {
+    "id": "recRZjBfralsfL6Z7",
+    "year": 1954,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "44-15",
+    "photoUrl": "assets/img/plates/attXWgpMsee6FBzTs.jpg",
+    "dateAdded": "2026-08-26T21:34:41.000Z"
+  },
+  {
+    "id": "recRcVAm6pEfoNe5s",
+    "year": 1951,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "44-248",
+    "photoUrl": "assets/img/plates/attSv66lSuckF60jB.jpg",
+    "dateAdded": "2026-08-26T21:19:52.000Z"
+  },
+  {
+    "id": "recRdcj3rFAA9XFkO",
+    "year": 1948,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "50-325",
+    "photoUrl": "assets/img/plates/attQw8NPBjKZ1JCq8.jpg",
+    "dateAdded": "2026-08-26T22:19:59.000Z"
   },
   {
     "id": "recRgTRhqUi3o2CdN",
@@ -6396,6 +7920,18 @@
     "dateAdded": "2026-08-25T02:13:05.000Z"
   },
   {
+    "id": "recSGzceiyC4apQjL",
+    "year": 1940,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "43-298",
+    "photoUrl": "assets/img/plates/attirG82ijW8fcMo6.jpg",
+    "dateAdded": "2026-08-26T20:52:36.000Z"
+  },
+  {
     "id": "recSLnGfFikW59Ejj",
     "year": 1946,
     "countyNumber": "18",
@@ -6430,6 +7966,18 @@
     "serial": "27F/1-173",
     "photoUrl": "assets/img/plates/attAPSZQ0NLgayHNj.jpg",
     "dateAdded": "2026-08-23T11:43:35.000Z"
+  },
+  {
+    "id": "recSToMMewq5nxTO1",
+    "year": 1955,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "County",
+    "serial": "44COUNTY-40",
+    "photoUrl": "assets/img/plates/attcJLicpW9m37AUm.jpg",
+    "dateAdded": "2026-08-26T21:29:47.000Z"
   },
   {
     "id": "recSVP0HXdzWsgPDQ",
@@ -6504,6 +8052,18 @@
     "dateAdded": "2026-08-23T11:44:19.000Z"
   },
   {
+    "id": "recSrKStbijFxMdKH",
+    "year": 1962,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "44-59",
+    "photoUrl": "assets/img/plates/attYhYDYJQgwSFojg.jpg",
+    "dateAdded": "2026-08-26T21:24:22.000Z"
+  },
+  {
     "id": "recSrsFBRjIb0G19f",
     "year": 1951,
     "countyNumber": "10",
@@ -6526,6 +8086,18 @@
     "serial": "18-1473",
     "photoUrl": "assets/img/plates/attIM9oDN5wtT8Tgs.jpg",
     "dateAdded": "2026-08-22T13:18:50.000Z"
+  },
+  {
+    "id": "recSz6yhoAprjRbCE",
+    "year": 1951,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "43-1115",
+    "photoUrl": "assets/img/plates/att4f4kto9FLHNYYh.jpg",
+    "dateAdded": "2026-08-26T20:47:51.000Z"
   },
   {
     "id": "recSzDAKVSBJJI4QZ",
@@ -6574,6 +8146,18 @@
     "serial": "21-1982",
     "photoUrl": "assets/img/plates/attoKsglQibsgS50x.jpg",
     "dateAdded": "2026-08-22T14:45:34.000Z"
+  },
+  {
+    "id": "recT9yyaoJ8wz4Vdc",
+    "year": 1949,
+    "countyNumber": "42",
+    "countyName": "Lauderdale",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "42-999",
+    "photoUrl": "assets/img/plates/attgoC096S4Cz2FRr.jpg",
+    "dateAdded": "2026-08-26T20:42:45.000Z"
   },
   {
     "id": "recTD2dI6s7X8bGk7",
@@ -6636,6 +8220,18 @@
     "dateAdded": "2026-08-24T00:52:21.000Z"
   },
   {
+    "id": "recTYyKXILNbFy9Xr",
+    "year": 1948,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "43-3029",
+    "photoUrl": "assets/img/plates/attO8PUnHOYTMpHqC.jpg",
+    "dateAdded": "2026-08-26T21:02:57.000Z"
+  },
+  {
     "id": "recTazIkIonZlwVDp",
     "year": 1944,
     "countyNumber": "23",
@@ -6646,6 +8242,18 @@
     "serial": "23-1925",
     "photoUrl": "assets/img/plates/attf2Pnhmro18O4SN.jpg",
     "dateAdded": "2026-08-22T14:53:47.000Z"
+  },
+  {
+    "id": "recTbOpyIzwvPh8UW",
+    "year": 1955,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "50-2363",
+    "photoUrl": "assets/img/plates/attqkTkugm7ehJMTe.jpg",
+    "dateAdded": "2026-08-26T22:18:35.000Z"
   },
   {
     "id": "recTdeLkx4FH3NDbl",
@@ -6708,6 +8316,18 @@
     "dateAdded": "2026-08-22T15:07:02.000Z"
   },
   {
+    "id": "recTti6OT9oiIgBt0",
+    "year": 1961,
+    "countyNumber": "41",
+    "countyName": "Coffee",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "41-64",
+    "photoUrl": "assets/img/plates/attsxm7z2TFaXsK7B.jpg",
+    "dateAdded": "2026-08-26T20:37:18.000Z"
+  },
+  {
     "id": "recTv076QDppw5QcH",
     "year": 1949,
     "countyNumber": "18",
@@ -6732,6 +8352,18 @@
     "dateAdded": "2026-08-23T11:38:26.000Z"
   },
   {
+    "id": "recTym6TqEL3LUGMK",
+    "year": 1945,
+    "countyNumber": "49",
+    "countyName": "Claiborne",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Truck",
+    "serial": "49P/1-169",
+    "photoUrl": "assets/img/plates/attbiFY4AvqPYSTPJ.jpg",
+    "dateAdded": "2026-08-26T22:07:51.000Z"
+  },
+  {
     "id": "recU4OwQ4dU4ftdFF",
     "year": 1942,
     "countyNumber": "34",
@@ -6742,6 +8374,30 @@
     "serial": "34P/3-876",
     "photoUrl": "assets/img/plates/attft2AM5fuUgVqgr.jpg",
     "dateAdded": "2026-08-24T01:02:45.000Z"
+  },
+  {
+    "id": "recU7LQMgh9xktJAq",
+    "year": 1939,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "43-617",
+    "photoUrl": "assets/img/plates/attA5Hzpc4zMUbfFl.jpg",
+    "dateAdded": "2026-08-26T20:46:59.000Z"
+  },
+  {
+    "id": "recU7RYNPgoGfIVG8",
+    "year": 1956,
+    "countyNumber": "41",
+    "countyName": "Coffee",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "41F/1-418",
+    "photoUrl": "assets/img/plates/att8CKaoJ7BBQI2kQ.jpg",
+    "dateAdded": "2026-08-26T20:37:46.000Z"
   },
   {
     "id": "recUJ6FpfLE6VG0XN",
@@ -6924,6 +8580,18 @@
     "dateAdded": "2026-08-25T01:58:39.000Z"
   },
   {
+    "id": "recUp2SrNEJpSdEWI",
+    "year": 1949,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "50-1619",
+    "photoUrl": "assets/img/plates/attIFxDqobrN68XLP.jpg",
+    "dateAdded": "2026-08-26T22:20:47.000Z"
+  },
+  {
     "id": "recUqldXGvSzl6S5y",
     "year": 1954,
     "countyNumber": "27",
@@ -6972,6 +8640,18 @@
     "dateAdded": "2026-08-22T14:43:16.000Z"
   },
   {
+    "id": "recV3uiY0QekM4SaU",
+    "year": 1945,
+    "countyNumber": "42",
+    "countyName": "Lauderdale",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "42-712",
+    "photoUrl": "assets/img/plates/attt5hVOuGR1i1lE9.jpg",
+    "dateAdded": "2026-08-26T20:46:24.000Z"
+  },
+  {
     "id": "recV4ynFBiP7RAJei",
     "year": 1947,
     "countyNumber": "12",
@@ -7006,6 +8686,18 @@
     "serial": "32-15",
     "photoUrl": "assets/img/plates/attFaNqBLodR1HLx8.jpg",
     "dateAdded": "2026-08-23T18:17:37.000Z"
+  },
+  {
+    "id": "recVKE3JPLOX6msgo",
+    "year": 1952,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Government",
+    "serial": "44-GS12841",
+    "photoUrl": "assets/img/plates/attC0Q8G7f4LPzAzz.jpg",
+    "dateAdded": "2026-08-26T21:33:52.000Z"
   },
   {
     "id": "recVLIVMNdL32IcOb",
@@ -7056,6 +8748,30 @@
     "dateAdded": "2026-08-21T18:21:52.000Z"
   },
   {
+    "id": "recVdXpzWFa0HmdK0",
+    "year": 1952,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Green",
+    "fontColor": "White",
+    "type": "County",
+    "serial": "44COUNTY-40",
+    "photoUrl": "assets/img/plates/att2ZWC4eYIsiGCpP.jpg",
+    "dateAdded": "2026-08-26T21:28:32.000Z"
+  },
+  {
+    "id": "recVmY4DtyjdNs95t",
+    "year": 1954,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "County",
+    "serial": "44COUNTY-40",
+    "photoUrl": "assets/img/plates/attkXbAPpOCQwaFoz.jpg",
+    "dateAdded": "2026-08-26T21:29:30.000Z"
+  },
+  {
     "id": "recVrOrA1ib4MHqxZ",
     "year": 1950,
     "countyNumber": "15",
@@ -7102,6 +8818,30 @@
     "serial": "35-2338",
     "photoUrl": "assets/img/plates/attPOgP7PKK04oNAf.jpg",
     "dateAdded": "2026-08-24T01:08:42.000Z"
+  },
+  {
+    "id": "recW0MTnUH6p6yxoV",
+    "year": 1946,
+    "countyNumber": "48",
+    "countyName": "Fayette",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "48-559",
+    "photoUrl": "assets/img/plates/attecMxbyawPA7QLW.jpg",
+    "dateAdded": "2026-08-26T21:58:19.000Z"
+  },
+  {
+    "id": "recW5zC55sbv0AJcl",
+    "year": 1948,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "44-17",
+    "photoUrl": "assets/img/plates/attwGghUGCKvQyhYb.jpg",
+    "dateAdded": "2026-08-26T21:35:48.000Z"
   },
   {
     "id": "recWAwy3AGrWcEZVH",
@@ -7200,6 +8940,18 @@
     "dateAdded": "2026-08-22T13:10:36.000Z"
   },
   {
+    "id": "recWahgdZahPDqf8C",
+    "year": 1956,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "43-3294",
+    "photoUrl": "assets/img/plates/atthM3Tw4o8NsIUq5.jpg",
+    "dateAdded": "2026-08-26T20:55:05.000Z"
+  },
+  {
     "id": "recWenXmzCmhGXwjN",
     "year": 1942,
     "countyNumber": "7",
@@ -7296,6 +9048,30 @@
     "dateAdded": "2026-08-21T15:18:54.000Z"
   },
   {
+    "id": "recWuDXCnlWPNHjeJ",
+    "year": 1951,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "50-80",
+    "photoUrl": "assets/img/plates/attLCztFYPedhkhhs.jpg",
+    "dateAdded": "2026-08-26T22:16:28.000Z"
+  },
+  {
+    "id": "recX0AsMrfjBFpL6r",
+    "year": 1949,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "50D-41",
+    "photoUrl": "assets/img/plates/attfnw343YQbOoCXK.jpg",
+    "dateAdded": "2026-08-26T22:18:23.000Z"
+  },
+  {
     "id": "recX3JyZKMk9ZKZY9",
     "year": 1942,
     "countyNumber": "34",
@@ -7330,6 +9106,30 @@
     "serial": "39-120",
     "photoUrl": "assets/img/plates/attZZk49F0IGgzCcV.jpg",
     "dateAdded": "2026-08-25T02:18:21.000Z"
+  },
+  {
+    "id": "recX4eN3eGYIrfzz8",
+    "year": 1951,
+    "countyNumber": "47",
+    "countyName": "Haywood",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "47-233",
+    "photoUrl": "assets/img/plates/atturAEqqWIHKWUqZ.jpg",
+    "dateAdded": "2026-08-26T21:53:19.000Z"
+  },
+  {
+    "id": "recX4gIOZ5AZp7GV9",
+    "year": 1955,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Farm Truck",
+    "serial": "43F/1-205",
+    "photoUrl": "assets/img/plates/attUCOikeTnSAoeFo.jpg",
+    "dateAdded": "2026-08-26T20:50:39.000Z"
   },
   {
     "id": "recX9KfTRo8kShhOG",
@@ -7380,6 +9180,18 @@
     "dateAdded": "2026-08-22T13:31:07.000Z"
   },
   {
+    "id": "recXI0a4NglanEXS2",
+    "year": 1952,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Heavy Car",
+    "serial": "44D-327",
+    "photoUrl": "assets/img/plates/attm7nLwMcduPYQUU.jpg",
+    "dateAdded": "2026-08-26T21:19:36.000Z"
+  },
+  {
     "id": "recXI7zcwd8Ukr27q",
     "year": 1951,
     "countyNumber": "29",
@@ -7392,6 +9204,30 @@
     "dateAdded": "2026-08-23T12:17:55.000Z"
   },
   {
+    "id": "recXLMUEPkmigOjAw",
+    "year": 1948,
+    "countyNumber": "47",
+    "countyName": "Haywood",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "47-1889",
+    "photoUrl": "assets/img/plates/attHyLXEBpFXUzfz6.jpg",
+    "dateAdded": "2026-08-26T21:53:07.000Z"
+  },
+  {
+    "id": "recXNFwuevggR9SFF",
+    "year": 1953,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Farm Truck",
+    "serial": "43F/1-4",
+    "photoUrl": "assets/img/plates/attmHfYDfjPl7ysJZ.jpg",
+    "dateAdded": "2026-08-26T20:51:25.000Z"
+  },
+  {
     "id": "recXNTb3fUaSqtp0e",
     "year": 1944,
     "countyNumber": "6",
@@ -7402,6 +9238,30 @@
     "serial": "6A-24",
     "photoUrl": "assets/img/plates/attIzvDBzI05AtkWx.jpg",
     "dateAdded": "2026-08-21T14:58:10.000Z"
+  },
+  {
+    "id": "recXRWcpEpCqfFcPv",
+    "year": 1954,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "50-3273",
+    "photoUrl": "assets/img/plates/attvdhzJWzYqbUKmC.jpg",
+    "dateAdded": "2026-08-26T22:22:12.000Z"
+  },
+  {
+    "id": "recXTLOysSHKcgOnZ",
+    "year": 1950,
+    "countyNumber": "41",
+    "countyName": "Coffee",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "41-746",
+    "photoUrl": "assets/img/plates/attn7lHVCVx8v3ibZ.jpg",
+    "dateAdded": "2026-08-26T20:39:18.000Z"
   },
   {
     "id": "recXWncLG2zI4cPmf",
@@ -7488,6 +9348,18 @@
     "dateAdded": "2026-08-21T00:56:04.000Z"
   },
   {
+    "id": "recXvrSIHc2EMWxOK",
+    "year": 1953,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "50-1018",
+    "photoUrl": "assets/img/plates/attbQrZT6TMrI3HLu.jpg",
+    "dateAdded": "2026-08-26T22:21:01.000Z"
+  },
+  {
     "id": "recXwSwqCKfo4a1EO",
     "year": 1952,
     "countyNumber": "21",
@@ -7536,6 +9408,18 @@
     "dateAdded": "2026-08-21T20:38:56.000Z"
   },
   {
+    "id": "recYCDEQ1lDUNMyrh",
+    "year": 1945,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "44-1490",
+    "photoUrl": "assets/img/plates/attM4QsudBOGB7yxl.jpg",
+    "dateAdded": "2026-08-26T21:17:25.000Z"
+  },
+  {
     "id": "recYDWcZCENfDsXyZ",
     "year": 1947,
     "countyNumber": "13",
@@ -7570,6 +9454,18 @@
     "serial": "33-949",
     "photoUrl": "assets/img/plates/attuwUrEdys3VectK.jpg",
     "dateAdded": "2026-08-24T00:55:15.000Z"
+  },
+  {
+    "id": "recYNVDdCdqyxlzkp",
+    "year": 1952,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "44-1050",
+    "photoUrl": "assets/img/plates/attrSOvEqSZ61c87g.jpg",
+    "dateAdded": "2026-08-26T21:24:11.000Z"
   },
   {
     "id": "recYZewXCmAqmCRAY",
@@ -7618,6 +9514,18 @@
     "serial": "23F/1-431",
     "photoUrl": "assets/img/plates/attEty17ebIpAZCNy.jpg",
     "dateAdded": "2026-08-22T14:59:54.000Z"
+  },
+  {
+    "id": "recYut2PINGcWKWDW",
+    "year": 1951,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "44-150",
+    "photoUrl": "assets/img/plates/attLmuWugCtxLddnZ.jpg",
+    "dateAdded": "2026-08-26T21:26:10.000Z"
   },
   {
     "id": "recZ3SJRnB3eB5Kid",
@@ -7680,6 +9588,18 @@
     "dateAdded": "2026-08-24T01:07:45.000Z"
   },
   {
+    "id": "recZBF11B1TzapqxD",
+    "year": 1940,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "44-359",
+    "photoUrl": "assets/img/plates/attENVctFNYxIFbiM.jpg",
+    "dateAdded": "2026-08-26T21:24:37.000Z"
+  },
+  {
     "id": "recZHvYfnKybC6xWO",
     "year": 1949,
     "countyNumber": "40",
@@ -7702,6 +9622,18 @@
     "serial": "23F/1-395",
     "photoUrl": "assets/img/plates/att1953t8hDmWEZaH.jpg",
     "dateAdded": "2026-08-22T14:54:19.000Z"
+  },
+  {
+    "id": "recZITQEM4QJg7G8R",
+    "year": 1951,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "County",
+    "serial": "44COUNTY-38",
+    "photoUrl": "assets/img/plates/attMSkWljVg9TcMzS.jpg",
+    "dateAdded": "2026-08-26T21:27:29.000Z"
   },
   {
     "id": "recZJOZrf75attPqz",
@@ -7908,6 +9840,54 @@
     "dateAdded": "2026-08-22T03:13:12.000Z"
   },
   {
+    "id": "reca0HdDGt2ZuioGl",
+    "year": 1953,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Farm Truck",
+    "serial": "44F/1-82",
+    "photoUrl": "assets/img/plates/atte6nLDPPIC7YcGr.jpg",
+    "dateAdded": "2026-08-26T21:25:22.000Z"
+  },
+  {
+    "id": "reca321Ez6dFvhaAu",
+    "year": 1955,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "50-80",
+    "photoUrl": "assets/img/plates/attL9aJvrV32gT0ee.jpg",
+    "dateAdded": "2026-08-26T22:15:19.000Z"
+  },
+  {
+    "id": "reca3xmzPjHqOVySc",
+    "year": 1952,
+    "countyNumber": "48",
+    "countyName": "Fayette",
+    "colors": "Green",
+    "fontColor": "White",
+    "type": "Radio",
+    "serial": "48-W4PXW",
+    "photoUrl": "assets/img/plates/attWJ6rOq2A1yftFV.jpg",
+    "dateAdded": "2026-08-26T21:57:21.000Z"
+  },
+  {
+    "id": "reca6AZaRxQ1WaSjH",
+    "year": 1950,
+    "countyNumber": "48",
+    "countyName": "Fayette",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "48-139",
+    "photoUrl": "assets/img/plates/attqaMNDXmhT33f89.jpg",
+    "dateAdded": "2026-08-26T22:00:36.000Z"
+  },
+  {
     "id": "recaD9IMDmEP90tmL",
     "year": 1939,
     "countyNumber": "14",
@@ -7954,6 +9934,18 @@
     "serial": "24A-20",
     "photoUrl": "assets/img/plates/attZCvj1kOHSHW1mm.jpg",
     "dateAdded": "2026-08-22T15:04:52.000Z"
+  },
+  {
+    "id": "recaSb9Yi8OSIYvla",
+    "year": 1956,
+    "countyNumber": "49",
+    "countyName": "Claiborne",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "49-263",
+    "photoUrl": "assets/img/plates/attloQsYRw1DIOTyC.jpg",
+    "dateAdded": "2026-08-26T22:04:57.000Z"
   },
   {
     "id": "recaYFkbC0X3MGlVV",
@@ -8014,6 +10006,18 @@
     "serial": "36-207",
     "photoUrl": "assets/img/plates/attNlIi62UWszIA9T.jpg",
     "dateAdded": "2026-08-25T01:49:20.000Z"
+  },
+  {
+    "id": "recacqUxMLWsqZzba",
+    "year": 1951,
+    "countyNumber": "48",
+    "countyName": "Fayette",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Radio",
+    "serial": "48-W4PXW",
+    "photoUrl": "assets/img/plates/attlINqzTNaYAgYu1.jpg",
+    "dateAdded": "2026-08-26T22:01:39.000Z"
   },
   {
     "id": "recalitnsROwjLkrA",
@@ -8208,6 +10212,18 @@
     "dateAdded": "2026-08-22T15:16:24.000Z"
   },
   {
+    "id": "recbSlRJFXnlXDgHt",
+    "year": 1949,
+    "countyNumber": "41",
+    "countyName": "Coffee",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "41-3198",
+    "photoUrl": "assets/img/plates/attuFbRjPP4H9jMsy.jpg",
+    "dateAdded": "2026-08-26T20:39:04.000Z"
+  },
+  {
     "id": "recbYxVPlFqg9qH1N",
     "year": 1940,
     "countyNumber": "21",
@@ -8340,6 +10356,30 @@
     "dateAdded": "2026-08-25T02:05:14.000Z"
   },
   {
+    "id": "reccEHq1xKGr7eqdq",
+    "year": 1942,
+    "countyNumber": "46",
+    "countyName": "Cocke",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "46-4",
+    "photoUrl": "assets/img/plates/attU6WUQ0kpwbiMEv.jpg",
+    "dateAdded": "2026-08-26T21:48:03.000Z"
+  },
+  {
+    "id": "reccKhXnwMfjhGeRb",
+    "year": 1950,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "44-575",
+    "photoUrl": "assets/img/plates/attMGhtSV2RFDUnEs.jpg",
+    "dateAdded": "2026-08-26T21:34:13.000Z"
+  },
+  {
     "id": "reccLr2euuSHJZiHt",
     "year": 1944,
     "countyNumber": "36",
@@ -8448,6 +10488,42 @@
     "dateAdded": "2026-08-25T02:17:06.000Z"
   },
   {
+    "id": "reccr4f4b4YLN3X6U",
+    "year": 1951,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "43D-90",
+    "photoUrl": "assets/img/plates/attlr8TZTDrCUUZmQ.jpg",
+    "dateAdded": "2026-08-26T20:48:58.000Z"
+  },
+  {
+    "id": "reccriSOmzWksLBa6",
+    "year": 1955,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "50-3322",
+    "photoUrl": "assets/img/plates/attTyB1FJOuL6HPO9.jpg",
+    "dateAdded": "2026-08-26T22:16:06.000Z"
+  },
+  {
+    "id": "reccwzogSraBDMVqm",
+    "year": 1954,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "44-857",
+    "photoUrl": "assets/img/plates/attCaawEw92FME2VS.jpg",
+    "dateAdded": "2026-08-26T21:32:49.000Z"
+  },
+  {
     "id": "reccz7ldO5Ie6QXTA",
     "year": 1955,
     "countyNumber": "27",
@@ -8460,6 +10536,18 @@
     "dateAdded": "2026-08-23T11:41:54.000Z"
   },
   {
+    "id": "recd1ElvC2PB3kCdL",
+    "year": 1945,
+    "countyNumber": "41",
+    "countyName": "Coffee",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "41-2448",
+    "photoUrl": "assets/img/plates/attF4bydCfFO37Rlq.jpg",
+    "dateAdded": "2026-08-26T20:36:29.000Z"
+  },
+  {
     "id": "recd2Cmu8vwnW18Ph",
     "year": 1950,
     "countyNumber": "25",
@@ -8470,6 +10558,18 @@
     "serial": "25CITY-521",
     "photoUrl": "assets/img/plates/att3ZIb4IyXDf1A6g.jpg",
     "dateAdded": "2026-08-22T15:13:37.000Z"
+  },
+  {
+    "id": "recd2DUhPKNNGREQ9",
+    "year": 1962,
+    "countyNumber": "46",
+    "countyName": "Cocke",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "46-51",
+    "photoUrl": "assets/img/plates/attEUu8Yq8cMC8ly2.jpg",
+    "dateAdded": "2026-08-26T21:48:13.000Z"
   },
   {
     "id": "recd4OkRPa7vjJDn2",
@@ -8496,6 +10596,18 @@
     "dateAdded": "2026-08-21T16:04:26.000Z"
   },
   {
+    "id": "recdCclLdDNvkr0kD",
+    "year": 1945,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "43-52",
+    "photoUrl": "assets/img/plates/attwjW813RnRsydii.jpg",
+    "dateAdded": "2026-08-26T21:02:21.000Z"
+  },
+  {
     "id": "recdDSS57cYhXcHUV",
     "year": 1939,
     "countyNumber": "18",
@@ -8506,6 +10618,18 @@
     "serial": "18-3860",
     "photoUrl": "assets/img/plates/attX3tZa8sSZ7DG4o.jpg",
     "dateAdded": "2026-08-22T13:17:05.000Z"
+  },
+  {
+    "id": "recdGdZplhrqy9hci",
+    "year": 1951,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "43-1823",
+    "photoUrl": "assets/img/plates/attnQ8TYQDK5e6g1V.jpg",
+    "dateAdded": "2026-08-26T21:03:54.000Z"
   },
   {
     "id": "recdH4XOWQeD9S8tO",
@@ -8616,6 +10740,18 @@
     "dateAdded": "2026-08-13T22:23:29.000Z"
   },
   {
+    "id": "recdtHO29U0FhzMl8",
+    "year": 1955,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "43-265",
+    "photoUrl": "assets/img/plates/attEM9P182Dg1lntg.jpg",
+    "dateAdded": "2026-08-26T21:00:47.000Z"
+  },
+  {
     "id": "recdwax312sWL0Khg",
     "year": 1944,
     "countyNumber": "9",
@@ -8626,6 +10762,18 @@
     "serial": "9TAXI-2",
     "photoUrl": "assets/img/plates/att0eaD3roF3bM487.jpg",
     "dateAdded": "2026-08-21T15:54:20.000Z"
+  },
+  {
+    "id": "recdyLeYmWtTZ9mPW",
+    "year": 1940,
+    "countyNumber": "41",
+    "countyName": "Coffee",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "41-2037",
+    "photoUrl": "assets/img/plates/attd9oHUV2Fnkq9Ec.jpg",
+    "dateAdded": "2026-08-26T20:38:00.000Z"
   },
   {
     "id": "rece2wuV0tGeKl3jR",
@@ -8650,6 +10798,18 @@
     "serial": "33-3164",
     "photoUrl": "assets/img/plates/attXjyuFgI750jyyT.jpg",
     "dateAdded": "2026-08-24T00:54:44.000Z"
+  },
+  {
+    "id": "rece6uwbioLuce1Mg",
+    "year": 1959,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "44-14",
+    "photoUrl": "assets/img/plates/att8RyxWhkBZoWdhk.jpg",
+    "dateAdded": "2026-08-26T21:31:18.000Z"
   },
   {
     "id": "receHxmNNt0KY5Zm1",
@@ -8712,6 +10872,18 @@
     "dateAdded": "2026-08-23T11:59:04.000Z"
   },
   {
+    "id": "receW9aF6L7D83Phw",
+    "year": 1945,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Truck",
+    "serial": "44P/1-87",
+    "photoUrl": "assets/img/plates/attLhm93HRBBULoUJ.jpg",
+    "dateAdded": "2026-08-26T21:20:20.000Z"
+  },
+  {
     "id": "receWibRjyqVY9a55",
     "year": 1939,
     "countyNumber": "31",
@@ -8724,6 +10896,18 @@
     "dateAdded": "2026-08-23T18:08:58.000Z"
   },
   {
+    "id": "receZT2uPoDLUEiNO",
+    "year": 1954,
+    "countyNumber": "41",
+    "countyName": "Coffee",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "41-5229",
+    "photoUrl": "assets/img/plates/attByzGlYaPwRT7t9.jpg",
+    "dateAdded": "2026-08-26T20:37:01.000Z"
+  },
+  {
     "id": "receZqj2CLq7DejEa",
     "year": 1945,
     "countyNumber": "8",
@@ -8734,6 +10918,30 @@
     "serial": "8-2867",
     "photoUrl": "assets/img/plates/attc2NBCBLy9SRwKs.jpg",
     "dateAdded": "2026-08-21T15:39:37.000Z"
+  },
+  {
+    "id": "recebRkEwOut7WFQS",
+    "year": 1940,
+    "countyNumber": "41",
+    "countyName": "Coffee",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "41-1561",
+    "photoUrl": "assets/img/plates/attVzm8J5oMpt6ZaU.jpg",
+    "dateAdded": "2026-08-26T20:38:31.000Z"
+  },
+  {
+    "id": "receefYB5YUYML4OR",
+    "year": 1941,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "50-918",
+    "photoUrl": "assets/img/plates/attPjznvuhzJ5wOBC.jpg",
+    "dateAdded": "2026-08-26T22:17:37.000Z"
   },
   {
     "id": "receekYvmfvCz29f3",
@@ -8794,6 +11002,18 @@
     "serial": "4-28197",
     "photoUrl": "assets/img/plates/att3rWow2CjnnRHt7.jpg",
     "dateAdded": "2026-08-21T00:50:41.000Z"
+  },
+  {
+    "id": "receoRrU48VBh6MVD",
+    "year": 1956,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "44-1403",
+    "photoUrl": "assets/img/plates/attvynAlF6P9f2CHj.jpg",
+    "dateAdded": "2026-08-26T21:35:35.000Z"
   },
   {
     "id": "recer7JmQm28cRMEB",
@@ -8880,6 +11100,18 @@
     "dateAdded": "2026-08-22T03:32:01.000Z"
   },
   {
+    "id": "recf6GOJjr41hbXHd",
+    "year": 1952,
+    "countyNumber": "48",
+    "countyName": "Fayette",
+    "colors": "Green",
+    "fontColor": "White",
+    "type": "Radio",
+    "serial": "48-W4PXW",
+    "photoUrl": "assets/img/plates/attbFdYh4Oai1LyCt.jpg",
+    "dateAdded": "2026-08-26T22:02:03.000Z"
+  },
+  {
     "id": "recf6luZ5RGkdYrDD",
     "year": 1951,
     "countyNumber": "17",
@@ -8914,6 +11146,18 @@
     "serial": "24-1787",
     "photoUrl": "assets/img/plates/attGCi2RiDLvLITvL.jpg",
     "dateAdded": "2026-08-22T15:06:07.000Z"
+  },
+  {
+    "id": "recfBbY8034Vo4qf5",
+    "year": 1942,
+    "countyNumber": "46",
+    "countyName": "Cocke",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "46-64",
+    "photoUrl": "assets/img/plates/att9EqJFpnb3Dfi5Y.jpg",
+    "dateAdded": "2026-08-26T21:51:10.000Z"
   },
   {
     "id": "recfCiSKan8CmfmSt",
@@ -8988,6 +11232,18 @@
     "dateAdded": "2026-08-21T18:23:32.000Z"
   },
   {
+    "id": "recfVXmJsauL8NodE",
+    "year": 1955,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Heavy Car",
+    "serial": "50D-504",
+    "photoUrl": "assets/img/plates/att5fhjrIrMcFeXu5.jpg",
+    "dateAdded": "2026-08-26T22:21:14.000Z"
+  },
+  {
     "id": "recfbaiXCyg7CiHg4",
     "year": 1941,
     "countyNumber": "36",
@@ -9034,6 +11290,18 @@
     "serial": "16-1533",
     "photoUrl": "assets/img/plates/att1E0BPVa6579Hpk.jpg",
     "dateAdded": "2026-08-22T03:12:56.000Z"
+  },
+  {
+    "id": "recfp3csxF3Cb0myv",
+    "year": 1946,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "43-565",
+    "photoUrl": "assets/img/plates/attmD0XCGxi4IHNcv.jpg",
+    "dateAdded": "2026-08-26T21:02:36.000Z"
   },
   {
     "id": "recfpAmpzs95oNfdq",
@@ -9132,6 +11400,18 @@
     "dateAdded": "2026-08-23T12:18:22.000Z"
   },
   {
+    "id": "recg5eUiJoBdXnIEz",
+    "year": 1945,
+    "countyNumber": "42",
+    "countyName": "Lauderdale",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "42-999",
+    "photoUrl": "assets/img/plates/attO05h3yGaak0EAg.jpg",
+    "dateAdded": "2026-08-26T20:44:18.000Z"
+  },
+  {
     "id": "recg7bGZK41asw06a",
     "year": 1955,
     "countyNumber": "27",
@@ -9156,6 +11436,18 @@
     "dateAdded": "2026-08-23T18:14:43.000Z"
   },
   {
+    "id": "recgIbl3xE9QyvBHy",
+    "year": 1950,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "50-986",
+    "photoUrl": "assets/img/plates/att9blC2kN2UnGyB2.jpg",
+    "dateAdded": "2026-08-26T22:21:55.000Z"
+  },
+  {
     "id": "recgRSR1AtD6a16ys",
     "year": 1954,
     "countyNumber": "38",
@@ -9166,6 +11458,18 @@
     "serial": "38-739",
     "photoUrl": "assets/img/plates/attgQRhFaE01NTsGk.jpg",
     "dateAdded": "2026-08-25T02:13:39.000Z"
+  },
+  {
+    "id": "recgSueGNfLdrLqUE",
+    "year": 1953,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "City",
+    "serial": "44CITY-501",
+    "photoUrl": "assets/img/plates/attmKVWCba8LytfMz.jpg",
+    "dateAdded": "2026-08-26T21:28:50.000Z"
   },
   {
     "id": "recgTkuRB3m4W75iS",
@@ -9240,6 +11544,18 @@
     "dateAdded": "2026-08-22T13:25:59.000Z"
   },
   {
+    "id": "recgyB7v1zVZ4WINU",
+    "year": 1950,
+    "countyNumber": "49",
+    "countyName": "Claiborne",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "County",
+    "serial": "49COUNTY-14",
+    "photoUrl": "assets/img/plates/attVHWr1JuxtLgKnD.jpg",
+    "dateAdded": "2026-08-26T22:08:09.000Z"
+  },
+  {
     "id": "recgz56wOv0SKLcv7",
     "year": 1939,
     "countyNumber": "13",
@@ -9312,6 +11628,18 @@
     "dateAdded": "2026-08-21T20:06:11.000Z"
   },
   {
+    "id": "rechKXBtpKe8AFj0X",
+    "year": 1950,
+    "countyNumber": "46",
+    "countyName": "Cocke",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "46-3388",
+    "photoUrl": "assets/img/plates/att5yowKV1OAKx83N.jpg",
+    "dateAdded": "2026-08-26T21:50:24.000Z"
+  },
+  {
     "id": "rechQn0iaihkv3nXY",
     "year": 1950,
     "countyNumber": "36",
@@ -9346,6 +11674,30 @@
     "serial": "18-1278",
     "photoUrl": "assets/img/plates/attiQdduYfVWy8nqV.jpg",
     "dateAdded": "2026-08-22T13:18:16.000Z"
+  },
+  {
+    "id": "rechTfZcZOSG9rLIH",
+    "year": 1952,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "44F/1-380",
+    "photoUrl": "assets/img/plates/attiE8A5CRNSk8lPY.jpg",
+    "dateAdded": "2026-08-26T21:21:48.000Z"
+  },
+  {
+    "id": "rechUak4C2q2oNo6I",
+    "year": 1944,
+    "countyNumber": "42",
+    "countyName": "Lauderdale",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "42-999",
+    "photoUrl": "assets/img/plates/attDi0tIQEJ785W0G.jpg",
+    "dateAdded": "2026-08-26T20:43:15.000Z"
   },
   {
     "id": "rechXjWn5lL8efHiz",
@@ -9396,6 +11748,18 @@
     "dateAdded": "2026-08-23T02:36:53.000Z"
   },
   {
+    "id": "rechiaEI8CYUNWMdU",
+    "year": 1956,
+    "countyNumber": "45",
+    "countyName": "Warren",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "45D-513",
+    "photoUrl": "assets/img/plates/attsGskJZTzWRIUiY.jpg",
+    "dateAdded": "2026-08-26T21:41:11.000Z"
+  },
+  {
     "id": "rechjsbF2rKZZcRMS",
     "year": 1953,
     "countyNumber": "17",
@@ -9442,6 +11806,18 @@
     "serial": "11-21",
     "photoUrl": "assets/img/plates/attA3lmxH47iV82yK.jpg",
     "dateAdded": "2026-08-21T18:02:30.000Z"
+  },
+  {
+    "id": "rechu4tqFl17HoX3x",
+    "year": 1951,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "44F/1-306",
+    "photoUrl": "assets/img/plates/attLNubZSRRPkyH2C.jpg",
+    "dateAdded": "2026-08-26T21:23:29.000Z"
   },
   {
     "id": "rechuaffGbVMBSxFg",
@@ -9526,6 +11902,18 @@
     "serial": "27-2442",
     "photoUrl": "assets/img/plates/attl1AfZ1VVBqzBmw.jpg",
     "dateAdded": "2026-08-23T11:43:19.000Z"
+  },
+  {
+    "id": "reciGUUzJFlwCsyw3",
+    "year": 1957,
+    "countyNumber": "48",
+    "countyName": "Fayette",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "48-19",
+    "photoUrl": "assets/img/plates/attT4uaIyt84JuozS.jpg",
+    "dateAdded": "2026-08-26T21:58:32.000Z"
   },
   {
     "id": "reciHpX5VuxlIVvn7",
@@ -9672,6 +12060,30 @@
     "dateAdded": "2026-08-20T02:36:57.000Z"
   },
   {
+    "id": "recih4j5F5mBHpFTg",
+    "year": 1951,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "44D-39",
+    "photoUrl": "assets/img/plates/attK8EpWSpLyqmdFh.jpg",
+    "dateAdded": "2026-08-26T21:17:39.000Z"
+  },
+  {
+    "id": "recihB1DCVK5rmnl8",
+    "year": 1946,
+    "countyNumber": "42",
+    "countyName": "Lauderdale",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "42-999",
+    "photoUrl": "assets/img/plates/attZpCOJoy1aq5FBD.jpg",
+    "dateAdded": "2026-08-26T20:44:33.000Z"
+  },
+  {
     "id": "recinP8UgknHZddXC",
     "year": 1948,
     "countyNumber": "4",
@@ -9756,6 +12168,18 @@
     "dateAdded": "2026-08-21T20:44:04.000Z"
   },
   {
+    "id": "recj6y8fH3FnRJfZc",
+    "year": 1951,
+    "countyNumber": "49",
+    "countyName": "Claiborne",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "49-376",
+    "photoUrl": "assets/img/plates/attXeh7wj8a1z0wgA.jpg",
+    "dateAdded": "2026-08-26T22:06:57.000Z"
+  },
+  {
     "id": "recj8R0PkreYo0dNE",
     "year": 1956,
     "countyNumber": "40",
@@ -9766,6 +12190,18 @@
     "serial": "40-2332",
     "photoUrl": "assets/img/plates/attIa2WE7P97rpl8g.jpg",
     "dateAdded": "2026-08-25T02:21:45.000Z"
+  },
+  {
+    "id": "recj8gR7GrNKBHSOs",
+    "year": 1942,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "50-1001",
+    "photoUrl": "assets/img/plates/attxRq2NYaui2RMUG.jpg",
+    "dateAdded": "2026-08-26T22:16:17.000Z"
   },
   {
     "id": "recj9DI7p5OgLGvL8",
@@ -9972,6 +12408,18 @@
     "dateAdded": "2026-08-22T03:07:33.000Z"
   },
   {
+    "id": "reck1WJkKDfJXB5gQ",
+    "year": 1951,
+    "countyNumber": "48",
+    "countyName": "Fayette",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "48F/1-516",
+    "photoUrl": "assets/img/plates/atti1KZQPTYfANDZo.jpg",
+    "dateAdded": "2026-08-26T21:57:42.000Z"
+  },
+  {
     "id": "reck6u8iMI0alHFFf",
     "year": 1953,
     "countyNumber": "3",
@@ -10056,6 +12504,18 @@
     "dateAdded": "2026-08-22T13:02:52.000Z"
   },
   {
+    "id": "reckSxRDPPEShOeLy",
+    "year": 1945,
+    "countyNumber": "46",
+    "countyName": "Cocke",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "46-56",
+    "photoUrl": "assets/img/plates/attgrcNxQU112LGC2.jpg",
+    "dateAdded": "2026-08-26T21:49:43.000Z"
+  },
+  {
     "id": "reckWYs7O6F6iE14k",
     "year": 1954,
     "countyNumber": "7",
@@ -10090,6 +12550,18 @@
     "serial": "14P/1-500",
     "photoUrl": "assets/img/plates/attRAnx0kYywtj249.jpg",
     "dateAdded": "2026-08-21T20:24:10.000Z"
+  },
+  {
+    "id": "reckf4RyD7CEXppxp",
+    "year": 1951,
+    "countyNumber": "42",
+    "countyName": "Lauderdale",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "42F/1-717",
+    "photoUrl": "assets/img/plates/atttu73Yy5h26weMZ.jpg",
+    "dateAdded": "2026-08-26T20:41:45.000Z"
   },
   {
     "id": "reckkfwYxRJ5fgRE3",
@@ -10164,6 +12636,42 @@
     "dateAdded": "2026-08-22T13:22:40.000Z"
   },
   {
+    "id": "recl3mxaq8IKkEnMt",
+    "year": 1956,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "44F/1-265",
+    "photoUrl": "assets/img/plates/att1iDqsHFqu2pMyn.jpg",
+    "dateAdded": "2026-08-26T21:19:13.000Z"
+  },
+  {
+    "id": "recl4yxrhe672h41k",
+    "year": 1952,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "50-598",
+    "photoUrl": "assets/img/plates/attttL50QowkzWkcm.jpg",
+    "dateAdded": "2026-08-26T22:17:14.000Z"
+  },
+  {
+    "id": "recl7GBT5j7kVWWNg",
+    "year": 1956,
+    "countyNumber": "42",
+    "countyName": "Lauderdale",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "42F/2-567",
+    "photoUrl": "assets/img/plates/attpqk1zzwNGpNFKE.jpg",
+    "dateAdded": "2026-08-26T20:45:53.000Z"
+  },
+  {
     "id": "reclCtOa1C2e8t3bJ",
     "year": 1942,
     "countyNumber": "34",
@@ -10188,6 +12696,18 @@
     "dateAdded": "2026-08-21T20:25:23.000Z"
   },
   {
+    "id": "reclIMDuuZlvEQB7s",
+    "year": 1945,
+    "countyNumber": "48",
+    "countyName": "Fayette",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "48-826",
+    "photoUrl": "assets/img/plates/attbMOTTqC703XXgU.jpg",
+    "dateAdded": "2026-08-26T21:59:44.000Z"
+  },
+  {
     "id": "reclKh22LX9m2MYpe",
     "year": 1951,
     "countyNumber": "12",
@@ -10198,6 +12718,18 @@
     "serial": "12-531",
     "photoUrl": "assets/img/plates/attyQl6n6PcjuG2Zm.jpg",
     "dateAdded": "2026-08-21T18:15:06.000Z"
+  },
+  {
+    "id": "reclRxbGAghAp8R0J",
+    "year": 1956,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "50-1488",
+    "photoUrl": "assets/img/plates/attt4sHglBQZBHJT9.jpg",
+    "dateAdded": "2026-08-26T22:22:24.000Z"
   },
   {
     "id": "reclUZ4g8g2BBvE62",
@@ -10440,6 +12972,18 @@
     "dateAdded": "2026-08-23T18:09:26.000Z"
   },
   {
+    "id": "recmREn7B8rpt9ucj",
+    "year": 1946,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Farm Truck",
+    "serial": "44F/1-211",
+    "photoUrl": "assets/img/plates/attXLxtkuRI67D7MU.jpg",
+    "dateAdded": "2026-08-26T21:21:03.000Z"
+  },
+  {
     "id": "recmRFmI9EybnX4H6",
     "year": 1952,
     "countyNumber": "21",
@@ -10584,6 +13128,18 @@
     "dateAdded": "2026-08-22T14:38:35.000Z"
   },
   {
+    "id": "recmy3fow73OKr7s6",
+    "year": 1940,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "44-359",
+    "photoUrl": "assets/img/plates/atttUtOpz2wWJKgrl.jpg",
+    "dateAdded": "2026-08-26T21:25:38.000Z"
+  },
+  {
     "id": "recn0MOROEPtWQEL3",
     "year": 1956,
     "countyNumber": "17",
@@ -10594,6 +13150,18 @@
     "serial": "17-345",
     "photoUrl": "assets/img/plates/atttQr3vwdHB3So17.jpg",
     "dateAdded": "2026-08-22T03:21:13.000Z"
+  },
+  {
+    "id": "recn4iI1VG9lQaiXd",
+    "year": 1950,
+    "countyNumber": "45",
+    "countyName": "Warren",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "45-3497",
+    "photoUrl": "assets/img/plates/att6l54qDPGu4K6S2.jpg",
+    "dateAdded": "2026-08-26T21:39:46.000Z"
   },
   {
     "id": "recn4mPkk2zuGJ37W",
@@ -10692,6 +13260,30 @@
     "dateAdded": "2026-08-21T20:12:01.000Z"
   },
   {
+    "id": "recnEIvwN9YCpHC3i",
+    "year": 1939,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "44-315",
+    "photoUrl": "assets/img/plates/attNiCrJoyYSJT2xr.jpg",
+    "dateAdded": "2026-08-26T21:32:00.000Z"
+  },
+  {
+    "id": "recnGSxtWhtpErVuB",
+    "year": 1942,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "43-95",
+    "photoUrl": "assets/img/plates/attDxmojpTtriFmkL.jpg",
+    "dateAdded": "2026-08-26T21:01:27.000Z"
+  },
+  {
     "id": "recnGpXnLyGkNO4AC",
     "year": 1955,
     "countyNumber": "27",
@@ -10714,6 +13306,18 @@
     "serial": "18-28",
     "photoUrl": "assets/img/plates/atts2VLO1rMF04JlQ.jpg",
     "dateAdded": "2026-08-22T13:06:25.000Z"
+  },
+  {
+    "id": "recnJlvHFnCekduYq",
+    "year": 1956,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "44-15",
+    "photoUrl": "assets/img/plates/attahJfQQdt1d9Lxa.jpg",
+    "dateAdded": "2026-08-26T21:30:36.000Z"
   },
   {
     "id": "recnKb5rdKEXQeXJ1",
@@ -10836,6 +13440,18 @@
     "dateAdded": "2026-08-23T18:01:08.000Z"
   },
   {
+    "id": "reco2Ed74UXYhje2f",
+    "year": 1950,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "43P/1-141",
+    "photoUrl": "assets/img/plates/attcQ1N8Ocyblfp7w.jpg",
+    "dateAdded": "2026-08-26T20:49:24.000Z"
+  },
+  {
     "id": "reco6lpIc5xRU2wfS",
     "year": 1942,
     "countyNumber": "26",
@@ -10848,6 +13464,18 @@
     "dateAdded": "2026-08-23T02:38:40.000Z"
   },
   {
+    "id": "reco9QfXBRcHOvDSd",
+    "year": 1948,
+    "countyNumber": "48",
+    "countyName": "Fayette",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "48-629",
+    "photoUrl": "assets/img/plates/atthW8UmER3JF9xMd.jpg",
+    "dateAdded": "2026-08-26T22:01:25.000Z"
+  },
+  {
     "id": "recoALkgKjG0hRuG1",
     "year": 1945,
     "countyNumber": "2",
@@ -10858,6 +13486,30 @@
     "serial": "2A-211",
     "photoUrl": "assets/img/plates/attxCmSa57EV30GFZ.jpg",
     "dateAdded": "2026-08-20T02:44:08.000Z"
+  },
+  {
+    "id": "recoAN55i67ukQIwq",
+    "year": 1955,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Truck",
+    "serial": "43P/1-517",
+    "photoUrl": "assets/img/plates/attcC01EWLcgTaOLp.jpg",
+    "dateAdded": "2026-08-26T20:50:54.000Z"
+  },
+  {
+    "id": "recoEiemYzb8yYCj2",
+    "year": 1948,
+    "countyNumber": "42",
+    "countyName": "Lauderdale",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "42-999",
+    "photoUrl": "assets/img/plates/attfFFpM0skMR6jJk.jpg",
+    "dateAdded": "2026-08-26T20:45:04.000Z"
   },
   {
     "id": "recoHcive0prIhrrr",
@@ -10882,6 +13534,18 @@
     "serial": "24-1788",
     "photoUrl": "assets/img/plates/attIhImLd8E4Pib8c.jpg",
     "dateAdded": "2026-08-22T15:07:51.000Z"
+  },
+  {
+    "id": "recoIgw3fO6JheiJ5",
+    "year": 1956,
+    "countyNumber": "49",
+    "countyName": "Claiborne",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "49-646",
+    "photoUrl": "assets/img/plates/attRsoXAOYfdXjmza.jpg",
+    "dateAdded": "2026-08-26T22:06:43.000Z"
   },
   {
     "id": "recoJay8HrjteeVpm",
@@ -10992,6 +13656,18 @@
     "dateAdded": "2026-08-22T03:19:38.000Z"
   },
   {
+    "id": "recorC1t5yG6B17vz",
+    "year": 1954,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "43-4815",
+    "photoUrl": "assets/img/plates/attqYkKy7vWbvxgXp.jpg",
+    "dateAdded": "2026-08-26T21:04:43.000Z"
+  },
+  {
     "id": "recozFQeTQWXXPPOm",
     "year": 1953,
     "countyNumber": "27",
@@ -11026,6 +13702,18 @@
     "serial": "1-1204",
     "photoUrl": "assets/img/plates/att91Rg11KmW09QZ6.jpg",
     "dateAdded": "2026-08-13T22:23:29.000Z"
+  },
+  {
+    "id": "recp5dtAyaHgubs7Z",
+    "year": 1953,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "50-177",
+    "photoUrl": "assets/img/plates/attBW4FxNIYtZa2O4.jpg",
+    "dateAdded": "2026-08-26T22:15:31.000Z"
   },
   {
     "id": "recpGv0eomgcpD0on",
@@ -11064,6 +13752,18 @@
     "dateAdded": "2026-08-21T14:21:56.000Z"
   },
   {
+    "id": "recpaOdnGpRVjJk1i",
+    "year": 1950,
+    "countyNumber": "49",
+    "countyName": "Claiborne",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "49P/1-81",
+    "photoUrl": "assets/img/plates/attAGEfjyqgGBjdn2.jpg",
+    "dateAdded": "2026-08-26T22:04:27.000Z"
+  },
+  {
     "id": "recpc9lVtP8WPm0GG",
     "year": 1939,
     "countyNumber": "15",
@@ -11086,6 +13786,18 @@
     "serial": "21-4",
     "photoUrl": "assets/img/plates/attu2GYn3nye5khLQ.jpg",
     "dateAdded": "2026-08-22T14:46:53.000Z"
+  },
+  {
+    "id": "recpfKqCKx2Htzmgd",
+    "year": 1947,
+    "countyNumber": "42",
+    "countyName": "Lauderdale",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "42-999",
+    "photoUrl": "assets/img/plates/att9CXglcoBsTONfD.jpg",
+    "dateAdded": "2026-08-26T20:44:50.000Z"
   },
   {
     "id": "recplLgA7adxspFQw",
@@ -11136,6 +13848,18 @@
     "dateAdded": "2026-08-22T15:03:46.000Z"
   },
   {
+    "id": "recqHknQkKBEuCgXu",
+    "year": 1951,
+    "countyNumber": "48",
+    "countyName": "Fayette",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "County",
+    "serial": "48COUNTY-22",
+    "photoUrl": "assets/img/plates/attGCPWL7qbGznHNo.jpg",
+    "dateAdded": "2026-08-26T21:59:12.000Z"
+  },
+  {
     "id": "recqIw7hMNsoAzSw1",
     "year": 1952,
     "countyNumber": "9",
@@ -11172,6 +13896,30 @@
     "dateAdded": "2026-08-22T14:51:09.000Z"
   },
   {
+    "id": "recqXeVzA5jFH5AGb",
+    "year": 1954,
+    "countyNumber": "48",
+    "countyName": "Fayette",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "48-1535",
+    "photoUrl": "assets/img/plates/attqpKis3UaSOU6o8.jpg",
+    "dateAdded": "2026-08-26T22:00:47.000Z"
+  },
+  {
+    "id": "recqbp8WWZKfL8hZZ",
+    "year": 1951,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "44-248",
+    "photoUrl": "assets/img/plates/att00StHLHI6exFb1.jpg",
+    "dateAdded": "2026-08-26T21:25:10.000Z"
+  },
+  {
     "id": "recqhncJYwrmEO9Qk",
     "year": 1963,
     "countyNumber": "28",
@@ -11182,6 +13930,18 @@
     "serial": "28-58",
     "photoUrl": "assets/img/plates/att1rUpKXZy0RNyLy.jpg",
     "dateAdded": "2026-08-23T12:00:06.000Z"
+  },
+  {
+    "id": "recqk6Dym6vzEopuW",
+    "year": 1941,
+    "countyNumber": "41",
+    "countyName": "Coffee",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "41-2172",
+    "photoUrl": "assets/img/plates/attfDuRfzKnlbYgu5.jpg",
+    "dateAdded": "2026-08-26T20:38:49.000Z"
   },
   {
     "id": "recqkRWaV7HOypME3",
@@ -11256,6 +14016,18 @@
     "dateAdded": "2026-08-24T01:02:31.000Z"
   },
   {
+    "id": "recqyTTNAFMMbQlxg",
+    "year": 1951,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "44D-92",
+    "photoUrl": "assets/img/plates/attPgnyJDvJQzKtX1.jpg",
+    "dateAdded": "2026-08-26T21:26:26.000Z"
+  },
+  {
     "id": "recqz9oENsyPFeBX9",
     "year": 1951,
     "countyNumber": "15",
@@ -11292,6 +14064,18 @@
     "dateAdded": "2026-08-25T01:47:03.000Z"
   },
   {
+    "id": "recr7HF9m41xFKfab",
+    "year": 1951,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "43P/1-574",
+    "photoUrl": "assets/img/plates/att9XGv5pz59c4WiU.jpg",
+    "dateAdded": "2026-08-26T20:50:20.000Z"
+  },
+  {
     "id": "recr7ev3SIthCYGVn",
     "year": 1954,
     "countyNumber": "4",
@@ -11314,6 +14098,18 @@
     "serial": "29-97-27",
     "photoUrl": "assets/img/plates/attwYFTwKUHOgafGN.jpg",
     "dateAdded": "2026-08-23T12:13:50.000Z"
+  },
+  {
+    "id": "recr8uaHfOV6wtdMI",
+    "year": 1952,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "43-95",
+    "photoUrl": "assets/img/plates/attlu7IfqF2sTuGQ0.jpg",
+    "dateAdded": "2026-08-26T21:04:06.000Z"
   },
   {
     "id": "recr9BlZUplWqTJOm",
@@ -11424,6 +14220,42 @@
     "dateAdded": "2026-08-23T18:16:34.000Z"
   },
   {
+    "id": "recrnTAto0bMMQZyy",
+    "year": 1951,
+    "countyNumber": "41",
+    "countyName": "Coffee",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "41F/2-665",
+    "photoUrl": "assets/img/plates/attyBq94kpsYUcc8o.jpg",
+    "dateAdded": "2026-08-26T20:39:32.000Z"
+  },
+  {
+    "id": "recro0z4OCgS83Oci",
+    "year": 1952,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "44F/1-82",
+    "photoUrl": "assets/img/plates/attp24Gtcx25CEHo2.jpg",
+    "dateAdded": "2026-08-26T21:20:31.000Z"
+  },
+  {
+    "id": "recro7eJGPlwrZBa7",
+    "year": 1950,
+    "countyNumber": "42",
+    "countyName": "Lauderdale",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "42-1537",
+    "photoUrl": "assets/img/plates/attdCaHPixYYeOo6q.jpg",
+    "dateAdded": "2026-08-26T20:43:00.000Z"
+  },
+  {
     "id": "recrwFcuD45aIx5rk",
     "year": 1953,
     "countyNumber": "9",
@@ -11448,6 +14280,30 @@
     "dateAdded": "2026-08-22T14:44:30.000Z"
   },
   {
+    "id": "recryCU4G1kZ3t5t4",
+    "year": 1945,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "44-1413",
+    "photoUrl": "assets/img/plates/attA4POsl1dIi1TFT.jpg",
+    "dateAdded": "2026-08-26T21:33:16.000Z"
+  },
+  {
+    "id": "recs1fYtZZbRvp5IS",
+    "year": 1944,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "44-649",
+    "photoUrl": "assets/img/plates/attVIqTYnsJNmQ4rO.jpg",
+    "dateAdded": "2026-08-26T21:18:28.000Z"
+  },
+  {
     "id": "recs2pKFsH1kBeibX",
     "year": 1944,
     "countyNumber": "37",
@@ -11458,6 +14314,18 @@
     "serial": "37-1332",
     "photoUrl": "assets/img/plates/atts6ADGlm4xjSuC0.jpg",
     "dateAdded": "2026-08-25T02:08:19.000Z"
+  },
+  {
+    "id": "recs7pnnLkXfGJRAf",
+    "year": 1955,
+    "countyNumber": "41",
+    "countyName": "Coffee",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Truck",
+    "serial": "41P/3-835",
+    "photoUrl": "assets/img/plates/attiUnYH51RbWXRou.jpg",
+    "dateAdded": "2026-08-26T20:35:41.000Z"
   },
   {
     "id": "recs8pZUa8tHLVgyR",
@@ -11542,6 +14410,18 @@
     "serial": "20-673",
     "photoUrl": "assets/img/plates/attS1h8S4X5MFH3QZ.jpg",
     "dateAdded": "2026-08-22T13:29:01.000Z"
+  },
+  {
+    "id": "recsILphKxxIc5vnv",
+    "year": 1942,
+    "countyNumber": "46",
+    "countyName": "Cocke",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "46-64",
+    "photoUrl": "assets/img/plates/attasVqdFQukf7AiH.jpg",
+    "dateAdded": "2026-08-26T21:51:40.000Z"
   },
   {
     "id": "recsIdZiqlMNsConP",
@@ -11820,6 +14700,30 @@
     "dateAdded": "2026-08-22T13:03:47.000Z"
   },
   {
+    "id": "rect7AzhBqAjEVqjX",
+    "year": 1950,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "County",
+    "serial": "44COUNTY-1",
+    "photoUrl": "assets/img/plates/attI3ghCQSBj8ETAn.jpg",
+    "dateAdded": "2026-08-26T21:27:10.000Z"
+  },
+  {
+    "id": "rectC9LmHDlP3NIWE",
+    "year": 1956,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Government",
+    "serial": "44-GS4417",
+    "photoUrl": "assets/img/plates/attFQVLOomBMpOT6Y.jpg",
+    "dateAdded": "2026-08-26T21:30:07.000Z"
+  },
+  {
     "id": "rectEeL8cQksmbUMh",
     "year": 1955,
     "countyNumber": "20",
@@ -11880,6 +14784,18 @@
     "dateAdded": "2026-08-21T16:03:20.000Z"
   },
   {
+    "id": "rectYtG8GbUVmYerr",
+    "year": 1952,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "43-57",
+    "photoUrl": "assets/img/plates/att9SKWlHYSdpJeUM.jpg",
+    "dateAdded": "2026-08-26T20:55:19.000Z"
+  },
+  {
     "id": "rectaAuyjGgP9i58U",
     "year": 1944,
     "countyNumber": "12",
@@ -11916,6 +14832,18 @@
     "dateAdded": "2026-08-21T15:30:41.000Z"
   },
   {
+    "id": "rectgriQpnUzs16Jg",
+    "year": 1951,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "44-1909",
+    "photoUrl": "assets/img/plates/attDyVnbC1mc9vqzv.jpg",
+    "dateAdded": "2026-08-26T21:23:18.000Z"
+  },
+  {
     "id": "recthGsGLofoBfOnF",
     "year": 1951,
     "countyNumber": "24",
@@ -11926,6 +14854,18 @@
     "serial": "24-763",
     "photoUrl": "assets/img/plates/attkwylIPG1pW8Rjc.jpg",
     "dateAdded": "2026-08-22T15:05:52.000Z"
+  },
+  {
+    "id": "rectjhOvIXmGYpxNn",
+    "year": 1956,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "43-2114",
+    "photoUrl": "assets/img/plates/attGGyB2gVZkscOtd.jpg",
+    "dateAdded": "2026-08-26T20:54:17.000Z"
   },
   {
     "id": "rectliedCWx3dhbCD",
@@ -12010,6 +14950,18 @@
     "serial": "29F/1-2",
     "photoUrl": "assets/img/plates/att2v0MpwdjPgJyrD.jpg",
     "dateAdded": "2026-08-23T12:16:30.000Z"
+  },
+  {
+    "id": "recu7HJykNXDk9o6E",
+    "year": 1947,
+    "countyNumber": "49",
+    "countyName": "Claiborne",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "49-788",
+    "photoUrl": "assets/img/plates/attoeTLi2BdHSI2oK.jpg",
+    "dateAdded": "2026-08-26T22:06:29.000Z"
   },
   {
     "id": "recuAFloN0e7fBHhP",
@@ -12132,6 +15084,18 @@
     "dateAdded": "2026-08-24T00:56:27.000Z"
   },
   {
+    "id": "recuUQDMKz4ErQnNS",
+    "year": 1949,
+    "countyNumber": "47",
+    "countyName": "Haywood",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "47-1885",
+    "photoUrl": "assets/img/plates/attbHmK1a5pW5jBiM.jpg",
+    "dateAdded": "2026-08-26T21:52:42.000Z"
+  },
+  {
     "id": "recuUaqlLLy7ljeAW",
     "year": 1956,
     "countyNumber": "8",
@@ -12154,6 +15118,18 @@
     "serial": "18D-25",
     "photoUrl": "assets/img/plates/attOf8gsmb2rnN9Is.jpg",
     "dateAdded": "2026-08-22T13:18:29.000Z"
+  },
+  {
+    "id": "recuga1E38yTfKUyl",
+    "year": 1944,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "43-477",
+    "photoUrl": "assets/img/plates/attDAlphBsWZv3oW4.jpg",
+    "dateAdded": "2026-08-26T21:01:51.000Z"
   },
   {
     "id": "recugv8M3584UmPCg",
@@ -12226,6 +15202,18 @@
     "serial": "12-588",
     "photoUrl": "assets/img/plates/attcajI4BMciz6j2K.jpg",
     "dateAdded": "2026-08-21T18:22:07.000Z"
+  },
+  {
+    "id": "recv0xJ4UUG05zuHF",
+    "year": 1941,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "50-106",
+    "photoUrl": "assets/img/plates/attmumAXb8vSgyyyL.jpg",
+    "dateAdded": "2026-08-26T22:19:48.000Z"
   },
   {
     "id": "recv6letm7C1kGw58",
@@ -12336,6 +15324,18 @@
     "dateAdded": "2026-08-21T00:50:34.000Z"
   },
   {
+    "id": "recvWSr221SsXyMFC",
+    "year": 1948,
+    "countyNumber": "47",
+    "countyName": "Haywood",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "47-1889",
+    "photoUrl": "assets/img/plates/attGRdjmEKl1cOzxl.jpg",
+    "dateAdded": "2026-08-26T21:52:26.000Z"
+  },
+  {
     "id": "recvg9YvnqTpSc62q",
     "year": 1940,
     "countyNumber": "4",
@@ -12382,6 +15382,18 @@
     "serial": "37F/1-13",
     "photoUrl": "assets/img/plates/attkB2jpj637xFCt0.jpg",
     "dateAdded": "2026-08-25T02:07:37.000Z"
+  },
+  {
+    "id": "recvkpexAEkNJFcxq",
+    "year": 1951,
+    "countyNumber": "48",
+    "countyName": "Fayette",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "48D-62",
+    "photoUrl": "assets/img/plates/att0ztKgaNVlDVKd5.jpg",
+    "dateAdded": "2026-08-26T22:00:13.000Z"
   },
   {
     "id": "recvoMBF7Np6fCq1Y",
@@ -12478,6 +15490,30 @@
     "serial": "3D-11",
     "photoUrl": "assets/img/plates/attOTjeP8xZ8E3iNR.jpg",
     "dateAdded": "2026-08-21T00:02:07.000Z"
+  },
+  {
+    "id": "recwVpZXEav9y7Yvi",
+    "year": 1951,
+    "countyNumber": "42",
+    "countyName": "Lauderdale",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "42-305",
+    "photoUrl": "assets/img/plates/atthc07Y01REbrUwG.jpg",
+    "dateAdded": "2026-08-26T20:45:25.000Z"
+  },
+  {
+    "id": "recwaI9wxiR0dJJ3z",
+    "year": 1956,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "43-3294",
+    "photoUrl": "assets/img/plates/attLaZtwoBgngTq5h.jpg",
+    "dateAdded": "2026-08-26T20:53:32.000Z"
   },
   {
     "id": "recwbWG8xUXSQEBXO",
@@ -12602,6 +15638,18 @@
     "dateAdded": "2026-08-21T16:01:51.000Z"
   },
   {
+    "id": "recwy75xMA8M7LQe4",
+    "year": 1944,
+    "countyNumber": "46",
+    "countyName": "Cocke",
+    "colors": "Black",
+    "fontColor": "Whtie",
+    "type": "Passenger",
+    "serial": "46-728",
+    "photoUrl": "assets/img/plates/attG98VexEilipVCu.jpg",
+    "dateAdded": "2026-08-26T21:49:27.000Z"
+  },
+  {
     "id": "recx0mgoDBMqg2TW3",
     "year": 1952,
     "countyNumber": "13",
@@ -12624,6 +15672,18 @@
     "serial": "28D-393",
     "photoUrl": "assets/img/plates/attzk3IuOTTPZj3Hr.jpg",
     "dateAdded": "2026-08-23T11:57:06.000Z"
+  },
+  {
+    "id": "recx60wL2JQqCxXFo",
+    "year": 1946,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "44-1068",
+    "photoUrl": "assets/img/plates/attK93h6OhsbO1Kje.jpg",
+    "dateAdded": "2026-08-26T21:34:28.000Z"
   },
   {
     "id": "recx7YIC3aDzpijCC",
@@ -12684,6 +15744,18 @@
     "serial": "16F/1-3",
     "photoUrl": "assets/img/plates/atthkw4t6nHqWMYk0.jpg",
     "dateAdded": "2026-08-22T03:09:50.000Z"
+  },
+  {
+    "id": "recxE8OJUyp96FMgs",
+    "year": 1945,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Truck",
+    "serial": "44P/2-501",
+    "photoUrl": "assets/img/plates/attvNM63kq3nE8rzY.jpg",
+    "dateAdded": "2026-08-26T21:20:03.000Z"
   },
   {
     "id": "recxFwUE5SbbVZ5G2",
@@ -12830,6 +15902,18 @@
     "dateAdded": "2026-08-23T18:12:22.000Z"
   },
   {
+    "id": "recxemylncfxPbzg1",
+    "year": 1959,
+    "countyNumber": "49",
+    "countyName": "Claiborne",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "49-19",
+    "photoUrl": "assets/img/plates/attBiVFlkLo2jjBKQ.jpg",
+    "dateAdded": "2026-08-26T22:07:38.000Z"
+  },
+  {
     "id": "recxiZyMJexlv8b96",
     "year": 1944,
     "countyNumber": "13",
@@ -12938,6 +16022,30 @@
     "dateAdded": "2026-08-21T00:50:38.000Z"
   },
   {
+    "id": "recyDXFqnUuIxJe8s",
+    "year": 1950,
+    "countyNumber": "46",
+    "countyName": "Cocke",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "46-42",
+    "photoUrl": "assets/img/plates/atts6QYuIsD5aDZnt.jpg",
+    "dateAdded": "2026-08-26T21:47:14.000Z"
+  },
+  {
+    "id": "recyFXJnJ2VCeCJZz",
+    "year": 1956,
+    "countyNumber": "41",
+    "countyName": "Coffee",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "41D1451",
+    "photoUrl": "assets/img/plates/attida5ulspOWSD11.jpg",
+    "dateAdded": "2026-08-26T20:36:44.000Z"
+  },
+  {
     "id": "recyI89X9XxkanKiz",
     "year": 1948,
     "countyNumber": "34",
@@ -13022,6 +16130,30 @@
     "dateAdded": "2026-08-23T02:39:20.000Z"
   },
   {
+    "id": "recyZ7OtIBJZHMZsS",
+    "year": 1955,
+    "countyNumber": "44",
+    "countyName": "Jefferson",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Heavy Car",
+    "serial": "44D-468",
+    "photoUrl": "assets/img/plates/attaLlFvrppDiEumE.jpg",
+    "dateAdded": "2026-08-26T21:18:41.000Z"
+  },
+  {
+    "id": "recydccMno9jsw72P",
+    "year": 1951,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "50-286",
+    "photoUrl": "assets/img/plates/attTbZv5k67FSPuQd.jpg",
+    "dateAdded": "2026-08-26T22:17:59.000Z"
+  },
+  {
     "id": "recydi3ehe2GJEBhO",
     "year": 1951,
     "countyNumber": "32",
@@ -13058,6 +16190,42 @@
     "dateAdded": "2026-08-23T11:47:06.000Z"
   },
   {
+    "id": "recyrwWdkvfB5sjhs",
+    "year": 1950,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "43-1378",
+    "photoUrl": "assets/img/plates/attCy8jqIcY4z9xnm.jpg",
+    "dateAdded": "2026-08-26T20:49:43.000Z"
+  },
+  {
+    "id": "recytqzBp2dktsvF4",
+    "year": 1955,
+    "countyNumber": "48",
+    "countyName": "Fayette",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "County",
+    "serial": "48COUNTY-1",
+    "photoUrl": "assets/img/plates/attPuJMT8cXYDOf0F.jpg",
+    "dateAdded": "2026-08-26T21:59:26.000Z"
+  },
+  {
+    "id": "recyurF8q71tUZK5f",
+    "year": 1941,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "43-858",
+    "photoUrl": "assets/img/plates/attvcQ4YguyIxceOC.jpg",
+    "dateAdded": "2026-08-26T21:01:13.000Z"
+  },
+  {
     "id": "recyvcr17sUPKyuw0",
     "year": 1950,
     "countyNumber": "5",
@@ -13068,6 +16236,18 @@
     "serial": "5-141",
     "photoUrl": "assets/img/plates/atth33YgF25GJq1TQ.jpg",
     "dateAdded": "2026-08-21T14:38:32.000Z"
+  },
+  {
+    "id": "recyvzmJ5v6jP2Xqh",
+    "year": 1954,
+    "countyNumber": "49",
+    "countyName": "Claiborne",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Taxi",
+    "serial": "49TAXID-3",
+    "photoUrl": "assets/img/plates/attrF6tVOmFlT30pq.jpg",
+    "dateAdded": "2026-08-26T22:05:40.000Z"
   },
   {
     "id": "recywBKpzEsfOhJHs",
@@ -13296,6 +16476,18 @@
     "serial": "29-500",
     "photoUrl": "assets/img/plates/att50k6flaIGkSzKq.jpg",
     "dateAdded": "2026-08-23T12:13:34.000Z"
+  },
+  {
+    "id": "recztrshHRAHAcun2",
+    "year": 1948,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "43-57",
+    "photoUrl": "assets/img/plates/attO82uYJH7yVgJXz.jpg",
+    "dateAdded": "2026-08-26T20:53:03.000Z"
   },
   {
     "id": "reczuqRmD9NXHuQfB",
