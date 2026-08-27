@@ -204,6 +204,18 @@
     "dateAdded": "2026-08-21T20:12:42.000Z"
   },
   {
+    "id": "rec0UtpNMivHqJyrL",
+    "year": 1952,
+    "countyNumber": "56",
+    "countyName": "Hardin",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "56-11",
+    "photoUrl": "assets/img/plates/attScCHCHRuFX7CWC.jpg",
+    "dateAdded": "2026-08-27T01:05:14.000Z"
+  },
+  {
     "id": "rec0Uwkg5vosZtP1C",
     "year": 1939,
     "countyNumber": "8",
@@ -264,6 +276,18 @@
     "dateAdded": "2026-08-22T14:52:45.000Z"
   },
   {
+    "id": "rec0uvJc1AlRXmi7i",
+    "year": 1956,
+    "countyNumber": "53",
+    "countyName": "Rhea",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "53F/3-902",
+    "photoUrl": "assets/img/plates/att2O0xfyeVDGPK4S.jpg",
+    "dateAdded": "2026-08-27T00:52:43.000Z"
+  },
+  {
     "id": "rec11YVVNYBH6eiKA",
     "year": 1940,
     "countyNumber": "16",
@@ -322,6 +346,18 @@
     "serial": "43-667",
     "photoUrl": "assets/img/plates/attxWkf9JiqNsD1YQ.jpg",
     "dateAdded": "2026-08-26T21:02:47.000Z"
+  },
+  {
+    "id": "rec1EjWSgypTD78uI",
+    "year": 1948,
+    "countyNumber": "51",
+    "countyName": "Monroe",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "51-991",
+    "photoUrl": "assets/img/plates/attlRCZB3cpkwhGy0.jpg",
+    "dateAdded": "2026-08-27T00:44:58.000Z"
   },
   {
     "id": "rec1HKKovJ9KffDvr",
@@ -514,6 +550,18 @@
     "serial": "18DLR-556",
     "photoUrl": "assets/img/plates/attj2fyOLhtlirjEx.jpg",
     "dateAdded": "2026-08-22T13:16:47.000Z"
+  },
+  {
+    "id": "rec2DNhEOr9D8Izoq",
+    "year": 1948,
+    "countyNumber": "55",
+    "countyName": "Smith",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "55-1224",
+    "photoUrl": "assets/img/plates/attdPi5VUs5PsfmZX.jpg",
+    "dateAdded": "2026-08-27T00:58:27.000Z"
   },
   {
     "id": "rec2DTbq3VHqinvyx",
@@ -948,6 +996,18 @@
     "dateAdded": "2026-08-22T14:54:06.000Z"
   },
   {
+    "id": "rec3Uxji8DE7ywF32",
+    "year": 1939,
+    "countyNumber": "52",
+    "countyName": "Hardeman",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "52-914",
+    "photoUrl": "assets/img/plates/att1moRutzxHvRuDr.jpg",
+    "dateAdded": "2026-08-27T00:48:48.000Z"
+  },
+  {
     "id": "rec3g7IlS8Hh7st0f",
     "year": 1956,
     "countyNumber": "10",
@@ -1380,6 +1440,18 @@
     "dateAdded": "2026-08-20T23:54:42.000Z"
   },
   {
+    "id": "rec4vBrU6bCvgC3Gi",
+    "year": 1951,
+    "countyNumber": "55",
+    "countyName": "Smith",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "55-16",
+    "photoUrl": "assets/img/plates/att93NlpB6h3rrd7N.jpg",
+    "dateAdded": "2026-08-27T00:59:57.000Z"
+  },
+  {
     "id": "rec4y4XcVY60VzEhx",
     "year": 1951,
     "countyNumber": "43",
@@ -1498,6 +1570,18 @@
     "serial": "41-1516",
     "photoUrl": "assets/img/plates/attas8g5LvLcyIcHD.jpg",
     "dateAdded": "2026-08-26T20:40:00.000Z"
+  },
+  {
+    "id": "rec5UBoayCptwYg9p",
+    "year": 1945,
+    "countyNumber": "51",
+    "countyName": "Monroe",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "51-458",
+    "photoUrl": "assets/img/plates/attoOrAiyFEduXEqI.jpg",
+    "dateAdded": "2026-08-27T00:44:31.000Z"
   },
   {
     "id": "rec5V4UhWMfjJauxm",
@@ -2820,6 +2904,18 @@
     "dateAdded": "2026-08-20T02:36:58.000Z"
   },
   {
+    "id": "recA0W8kQqEkVzdhj",
+    "year": 1955,
+    "countyNumber": "56",
+    "countyName": "Hardin",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "56-69",
+    "photoUrl": "assets/img/plates/attRHVjUo8F5Pfnss.jpg",
+    "dateAdded": "2026-08-27T01:02:38.000Z"
+  },
+  {
     "id": "recA2O7EcWQVpJhg1",
     "year": 1942,
     "countyNumber": "32",
@@ -2926,6 +3022,18 @@
     "serial": "25F/1-1",
     "photoUrl": "assets/img/plates/att6qyIMWKsZGCriQ.jpg",
     "dateAdded": "2026-08-22T15:16:50.000Z"
+  },
+  {
+    "id": "recAUdugGw6F4LE4d",
+    "year": 1952,
+    "countyNumber": "56",
+    "countyName": "Hardin",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "56-745",
+    "photoUrl": "assets/img/plates/attKaUlzkSM7G6IsP.jpg",
+    "dateAdded": "2026-08-27T01:04:52.000Z"
   },
   {
     "id": "recAVAgm6hyYJ7RQ0",
@@ -3154,6 +3262,18 @@
     "serial": "37-67",
     "photoUrl": "assets/img/plates/attSRal3ZvwjktpQ5.jpg",
     "dateAdded": "2026-08-25T02:04:55.000Z"
+  },
+  {
+    "id": "recBKeNIFcOgkKo0p",
+    "year": 1950,
+    "countyNumber": "56",
+    "countyName": null,
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "56P/2-511",
+    "photoUrl": "assets/img/plates/attYOtWQlpwZWfPJU.jpg",
+    "dateAdded": "2026-08-27T01:07:07.000Z"
   },
   {
     "id": "recBRuUiub3e6aX0R",
@@ -3420,6 +3540,18 @@
     "dateAdded": "2026-08-26T21:20:45.000Z"
   },
   {
+    "id": "recC7W1pTTxQUyj2f",
+    "year": 1942,
+    "countyNumber": "52",
+    "countyName": "Hardeman",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "52A-3",
+    "photoUrl": "assets/img/plates/att1rMq9jekj2cG6F.jpg",
+    "dateAdded": "2026-08-27T00:48:24.000Z"
+  },
+  {
     "id": "recC8bBHM78Qfx6bC",
     "year": 1946,
     "countyNumber": "9",
@@ -3528,6 +3660,18 @@
     "dateAdded": "2026-08-21T16:01:03.000Z"
   },
   {
+    "id": "recCMD8WTNfbYQfmr",
+    "year": 1956,
+    "countyNumber": "52",
+    "countyName": "Hardeman",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "52P/1-2",
+    "photoUrl": "assets/img/plates/att9P0K2WGEwrVbns.jpg",
+    "dateAdded": "2026-08-27T00:49:13.000Z"
+  },
+  {
     "id": "recCMnRpNRa86bnef",
     "year": 1949,
     "countyNumber": "24",
@@ -3634,6 +3778,18 @@
     "serial": "44F/3-851",
     "photoUrl": "assets/img/plates/attlOPIL4jAyoz7fa.jpg",
     "dateAdded": "2026-08-26T21:23:44.000Z"
+  },
+  {
+    "id": "recCuTh6BImXDl6gj",
+    "year": 1956,
+    "countyNumber": "54",
+    "countyName": "Marion",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "54F/1-217",
+    "photoUrl": "assets/img/plates/attNHPtmYChQRSKsd.jpg",
+    "dateAdded": "2026-08-27T00:57:02.000Z"
   },
   {
     "id": "recCvPTvyTqI9DmYv",
@@ -4018,6 +4174,18 @@
     "serial": "17-5752",
     "photoUrl": "assets/img/plates/attPAWVEmT9vs2Yag.jpg",
     "dateAdded": "2026-08-22T03:24:50.000Z"
+  },
+  {
+    "id": "recEJ62hHp1xIHCOP",
+    "year": 1949,
+    "countyNumber": "52",
+    "countyName": "Hardeman",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "52-58",
+    "photoUrl": "assets/img/plates/attMOWTMNdKjYxbv9.jpg",
+    "dateAdded": "2026-08-27T00:49:58.000Z"
   },
   {
     "id": "recEM5u8y5R5H3OQb",
@@ -4680,6 +4848,18 @@
     "dateAdded": "2026-08-21T18:24:07.000Z"
   },
   {
+    "id": "recGcJsQyooPeNvas",
+    "year": 1942,
+    "countyNumber": "56",
+    "countyName": "Hardin",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "56-2316",
+    "photoUrl": "assets/img/plates/attpdBG0F1hQ37giR.jpg",
+    "dateAdded": "2026-08-27T01:06:12.000Z"
+  },
+  {
     "id": "recGd8BReGibCbZGs",
     "year": 1952,
     "countyNumber": "30",
@@ -4824,6 +5004,18 @@
     "dateAdded": "2026-08-26T22:02:31.000Z"
   },
   {
+    "id": "recH0TIOYojR3Gw2A",
+    "year": 1951,
+    "countyNumber": "55",
+    "countyName": "Smith",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "55-1404",
+    "photoUrl": "assets/img/plates/attvlSienc2mo3UzX.jpg",
+    "dateAdded": "2026-08-27T01:00:07.000Z"
+  },
+  {
     "id": "recH2wM5FR3attAl2",
     "year": 1941,
     "countyNumber": "11",
@@ -4884,6 +5076,18 @@
     "dateAdded": "2026-08-24T00:56:12.000Z"
   },
   {
+    "id": "recHCRZtzvW1Rii0R",
+    "year": 1956,
+    "countyNumber": "56",
+    "countyName": null,
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "56-896",
+    "photoUrl": "assets/img/plates/attpf3KrIoaiLWgC2.jpg",
+    "dateAdded": "2026-08-27T01:07:40.000Z"
+  },
+  {
     "id": "recHFHCMiiRxDd0F1",
     "year": 1954,
     "countyNumber": "28",
@@ -4906,6 +5110,18 @@
     "serial": "17F/1-199",
     "photoUrl": "assets/img/plates/attQhw6H4AVn87zRe.jpg",
     "dateAdded": "2026-08-22T03:29:51.000Z"
+  },
+  {
+    "id": "recHFbnjNDaocfUkB",
+    "year": 1955,
+    "countyNumber": "56",
+    "countyName": "Hardin",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "56-1971",
+    "photoUrl": "assets/img/plates/att8N0XJwlcXuG1yl.jpg",
+    "dateAdded": "2026-08-27T01:04:09.000Z"
   },
   {
     "id": "recHHjZoTU9LY91As",
@@ -5062,6 +5278,18 @@
     "serial": "44-1558",
     "photoUrl": "assets/img/plates/attl6x6TuQHGt0u4K.jpg",
     "dateAdded": "2026-08-26T21:18:02.000Z"
+  },
+  {
+    "id": "recI7FV0uGOWTgcb7",
+    "year": 1950,
+    "countyNumber": "56",
+    "countyName": "Hardin",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "56-1685",
+    "photoUrl": "assets/img/plates/att38VnnRzEOSGzG8.jpg",
+    "dateAdded": "2026-08-27T01:05:24.000Z"
   },
   {
     "id": "recI9JkMaKHD87gta",
@@ -5484,6 +5712,18 @@
     "dateAdded": "2026-08-21T20:11:28.000Z"
   },
   {
+    "id": "recJvISKRo1GkOd9i",
+    "year": 1954,
+    "countyNumber": "55",
+    "countyName": "Smith",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "55-352",
+    "photoUrl": "assets/img/plates/attEaCRrAaFer1O38.jpg",
+    "dateAdded": "2026-08-27T00:59:34.000Z"
+  },
+  {
     "id": "recJw8APZnE9CcunN",
     "year": 1953,
     "countyNumber": "10",
@@ -5904,6 +6144,18 @@
     "dateAdded": "2026-08-26T21:51:53.000Z"
   },
   {
+    "id": "recLCtHzbUqUc22fP",
+    "year": 1956,
+    "countyNumber": "56",
+    "countyName": "Hardin",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "56-3183",
+    "photoUrl": "assets/img/plates/attYOLSSFMUwKCxcT.jpg",
+    "dateAdded": "2026-08-27T01:02:51.000Z"
+  },
+  {
     "id": "recLGSuGthDBzImgs",
     "year": 1953,
     "countyNumber": "1",
@@ -6010,6 +6262,18 @@
     "serial": "44-1509",
     "photoUrl": "assets/img/plates/attruABIS4PexIiv3.jpg",
     "dateAdded": "2026-08-26T21:23:58.000Z"
+  },
+  {
+    "id": "recLmHcnT18wHq9f0",
+    "year": 1948,
+    "countyNumber": "53",
+    "countyName": "Rhea",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Farm Truck",
+    "serial": "53F/1-310",
+    "photoUrl": "assets/img/plates/attO6rLhpt2Akb4Hz.jpg",
+    "dateAdded": "2026-08-27T00:54:08.000Z"
   },
   {
     "id": "recLmTyGsvDyr9TjM",
@@ -6286,6 +6550,18 @@
     "serial": "44F/1-45",
     "photoUrl": "assets/img/plates/attMB6QwFq3hDC7tr.jpg",
     "dateAdded": "2026-08-26T21:26:50.000Z"
+  },
+  {
+    "id": "recMW2ju5FBZCKmEI",
+    "year": 1956,
+    "countyNumber": "53",
+    "countyName": "Rhea",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "53-3747",
+    "photoUrl": "assets/img/plates/attHRe6RFVZJG41oT.jpg",
+    "dateAdded": "2026-08-27T00:52:22.000Z"
   },
   {
     "id": "recMY98f11GaNUDkU",
@@ -7260,6 +7536,18 @@
     "dateAdded": "2026-08-23T12:16:08.000Z"
   },
   {
+    "id": "recPhb2FBApmBuELb",
+    "year": 1954,
+    "countyNumber": "56",
+    "countyName": null,
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Farm Truck",
+    "serial": "56F/1-95",
+    "photoUrl": "assets/img/plates/attTxKwJ1Um9sh6QA.jpg",
+    "dateAdded": "2026-08-27T01:06:51.000Z"
+  },
+  {
     "id": "recPqvVQAVyjkKAKq",
     "year": 1950,
     "countyNumber": "19",
@@ -7416,6 +7704,18 @@
     "dateAdded": "2026-08-22T13:23:59.000Z"
   },
   {
+    "id": "recQVi55dVkJa2oro",
+    "year": 1951,
+    "countyNumber": "53",
+    "countyName": "Rhea",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "53-3039",
+    "photoUrl": "assets/img/plates/att7n1xVleTKq3mc2.jpg",
+    "dateAdded": "2026-08-27T00:53:16.000Z"
+  },
+  {
     "id": "recQVw0TuSZSrVoHA",
     "year": 1956,
     "countyNumber": "39",
@@ -7558,6 +7858,18 @@
     "serial": "26-86",
     "photoUrl": "assets/img/plates/attcO6nptVSklP9No.jpg",
     "dateAdded": "2026-08-23T02:41:29.000Z"
+  },
+  {
+    "id": "recQn45SPtni4aqgW",
+    "year": 1951,
+    "countyNumber": "56",
+    "countyName": "Hardin",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "56-556",
+    "photoUrl": "assets/img/plates/att5VMnkEf45P4adU.jpg",
+    "dateAdded": "2026-08-27T01:03:02.000Z"
   },
   {
     "id": "recQpsUR8RmyWPzMB",
@@ -7704,6 +8016,18 @@
     "dateAdded": "2026-08-26T20:42:18.000Z"
   },
   {
+    "id": "recRB18qDMwLQdzMx",
+    "year": 1951,
+    "countyNumber": "55",
+    "countyName": "Smith",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "55-1281",
+    "photoUrl": "assets/img/plates/attwNoGBfN9PZq4AB.jpg",
+    "dateAdded": "2026-08-27T01:00:20.000Z"
+  },
+  {
     "id": "recRCCoS9z6PY9tmw",
     "year": 1954,
     "countyNumber": "13",
@@ -7714,6 +8038,18 @@
     "serial": "13-80",
     "photoUrl": "assets/img/plates/atteMETPzxdjgZxwc.jpg",
     "dateAdded": "2026-08-21T20:01:20.000Z"
+  },
+  {
+    "id": "recRHEzztZpFiqaL3",
+    "year": 1956,
+    "countyNumber": "53",
+    "countyName": "Rhea",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "53-4176",
+    "photoUrl": "assets/img/plates/attG9d7C2dQLtTrBG.jpg",
+    "dateAdded": "2026-08-27T00:54:41.000Z"
   },
   {
     "id": "recRHtqM3R6Q00BUa",
@@ -8328,6 +8664,18 @@
     "dateAdded": "2026-08-26T20:37:18.000Z"
   },
   {
+    "id": "recTtrHBsVEHNW1tV",
+    "year": 1956,
+    "countyNumber": "51",
+    "countyName": "Monroe",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "51-100",
+    "photoUrl": "assets/img/plates/attmwpTRoh4CbDHFg.jpg",
+    "dateAdded": "2026-08-27T00:45:11.000Z"
+  },
+  {
     "id": "recTv076QDppw5QcH",
     "year": 1949,
     "countyNumber": "18",
@@ -8338,6 +8686,18 @@
     "serial": "18-6",
     "photoUrl": "assets/img/plates/attbRihqu3PUuxc7L.jpg",
     "dateAdded": "2026-08-22T13:08:19.000Z"
+  },
+  {
+    "id": "recTyYyitjMvfDJ7k",
+    "year": 1951,
+    "countyNumber": "56",
+    "countyName": "Hardin",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "56-342",
+    "photoUrl": "assets/img/plates/att6KsovFX60AZRW2.jpg",
+    "dateAdded": "2026-08-27T01:04:41.000Z"
   },
   {
     "id": "recTykRplt7kr5DCO",
@@ -8520,6 +8880,18 @@
     "dateAdded": "2026-08-22T13:04:15.000Z"
   },
   {
+    "id": "recUdhoCO8TzRlL1i",
+    "year": 1956,
+    "countyNumber": "53",
+    "countyName": "Rhea",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "53-3569",
+    "photoUrl": "assets/img/plates/attPTjd8o8qIFiolo.jpg",
+    "dateAdded": "2026-08-27T00:50:37.000Z"
+  },
+  {
     "id": "recUgSP736Yu1ePUP",
     "year": 1958,
     "countyNumber": "3",
@@ -8676,6 +9048,18 @@
     "dateAdded": "2026-08-24T00:57:21.000Z"
   },
   {
+    "id": "recVESHnOzrknC0ai",
+    "year": 1954,
+    "countyNumber": "54",
+    "countyName": "Marion",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "54-845",
+    "photoUrl": "assets/img/plates/att3br4YH8bxjxnrB.jpg",
+    "dateAdded": "2026-08-27T00:57:53.000Z"
+  },
+  {
     "id": "recVJLuFYlLCxB6Yp",
     "year": 1956,
     "countyNumber": "32",
@@ -8760,6 +9144,18 @@
     "dateAdded": "2026-08-26T21:28:32.000Z"
   },
   {
+    "id": "recVfVjsJn7369DxF",
+    "year": 1946,
+    "countyNumber": "55",
+    "countyName": "Smith",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Motorcycle",
+    "serial": "55A-1",
+    "photoUrl": "assets/img/plates/attObJlMmpD2lwIJq.jpg",
+    "dateAdded": "2026-08-27T00:59:12.000Z"
+  },
+  {
     "id": "recVmY4DtyjdNs95t",
     "year": 1954,
     "countyNumber": "44",
@@ -8770,6 +9166,18 @@
     "serial": "44COUNTY-40",
     "photoUrl": "assets/img/plates/attkXbAPpOCQwaFoz.jpg",
     "dateAdded": "2026-08-26T21:29:30.000Z"
+  },
+  {
+    "id": "recVpcw08RPZlhzL3",
+    "year": 1953,
+    "countyNumber": "51",
+    "countyName": "Monroe",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Heavy Car",
+    "serial": "51D-13",
+    "photoUrl": "assets/img/plates/att6LKGYpAueGrH4v.jpg",
+    "dateAdded": "2026-08-27T00:43:54.000Z"
   },
   {
     "id": "recVrOrA1ib4MHqxZ",
@@ -8818,6 +9226,18 @@
     "serial": "35-2338",
     "photoUrl": "assets/img/plates/attPOgP7PKK04oNAf.jpg",
     "dateAdded": "2026-08-24T01:08:42.000Z"
+  },
+  {
+    "id": "recW0K3tOMxkUZB01",
+    "year": 1951,
+    "countyNumber": "51",
+    "countyName": "Monroe",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "51-612",
+    "photoUrl": "assets/img/plates/attuADtjKUr6FBN4T.jpg",
+    "dateAdded": "2026-08-27T00:43:39.000Z"
   },
   {
     "id": "recW0MTnUH6p6yxoV",
@@ -9372,6 +9792,18 @@
     "dateAdded": "2026-08-22T14:36:17.000Z"
   },
   {
+    "id": "recY2KHAaKyGCMJfP",
+    "year": 1955,
+    "countyNumber": "51",
+    "countyName": "Monroe",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Farm Truck",
+    "serial": "51F/2-504",
+    "photoUrl": "assets/img/plates/attC9ryezjlaswTaY.jpg",
+    "dateAdded": "2026-08-27T00:45:49.000Z"
+  },
+  {
     "id": "recY3pWyqxhCRPetk",
     "year": 1942,
     "countyNumber": "36",
@@ -9478,6 +9910,18 @@
     "serial": "4-55",
     "photoUrl": "assets/img/plates/attYaIumr2Jk5yUbb.jpg",
     "dateAdded": "2026-08-21T00:44:23.000Z"
+  },
+  {
+    "id": "recYjLzE9PPqyFRaP",
+    "year": 1950,
+    "countyNumber": "54",
+    "countyName": "Marion",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "54-1390",
+    "photoUrl": "assets/img/plates/attEWMuN4xIfFX2rZ.jpg",
+    "dateAdded": "2026-08-27T00:57:38.000Z"
   },
   {
     "id": "recYkZ7P4J88RVPWQ",
@@ -9718,6 +10162,18 @@
     "serial": "13-46",
     "photoUrl": "assets/img/plates/attgGp5gKmVTMfyZq.jpg",
     "dateAdded": "2026-08-21T20:04:14.000Z"
+  },
+  {
+    "id": "recZSbiOB6DRRQSWx",
+    "year": 1950,
+    "countyNumber": "55",
+    "countyName": "Smith",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "55F/1-278",
+    "photoUrl": "assets/img/plates/att7eTkVBgOSPtnN6.jpg",
+    "dateAdded": "2026-08-27T01:00:30.000Z"
   },
   {
     "id": "recZW2OZNf0yih6bQ",
@@ -10032,6 +10488,18 @@
     "dateAdded": "2026-08-20T02:39:19.000Z"
   },
   {
+    "id": "recamdllsPspYl8R7",
+    "year": 1955,
+    "countyNumber": "53",
+    "countyName": "Rhea",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Truck",
+    "serial": "53P/3L-20",
+    "photoUrl": "assets/img/plates/attnJbcgpQypGEM2R.jpg",
+    "dateAdded": "2026-08-27T00:55:00.000Z"
+  },
+  {
     "id": "recarwxs6PChvc05O",
     "year": 1947,
     "countyNumber": "28",
@@ -10078,6 +10546,18 @@
     "serial": "5F/1-109",
     "photoUrl": "assets/img/plates/attWI1pbYmjIdh2r6.jpg",
     "dateAdded": "2026-08-21T14:44:40.000Z"
+  },
+  {
+    "id": "recaziGZPiDQaMu8j",
+    "year": 1942,
+    "countyNumber": "56",
+    "countyName": "Hardin",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "56-311",
+    "photoUrl": "assets/img/plates/attn6QozCoBT0Ze4b.jpg",
+    "dateAdded": "2026-08-27T01:05:34.000Z"
   },
   {
     "id": "recb5UnTUJsyacM9S",
@@ -10174,6 +10654,18 @@
     "serial": "28-56",
     "photoUrl": "assets/img/plates/attWYEUO2D6itlCJn.jpg",
     "dateAdded": "2026-08-23T12:00:36.000Z"
+  },
+  {
+    "id": "recbK63aleAWcyvE8",
+    "year": 1951,
+    "countyNumber": "56",
+    "countyName": "Hardin",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "56-2046",
+    "photoUrl": "assets/img/plates/attS7LotY8xmXwimm.jpg",
+    "dateAdded": "2026-08-27T01:06:37.000Z"
   },
   {
     "id": "recbKfFEW33IfusJw",
@@ -10428,6 +10920,18 @@
     "dateAdded": "2026-08-21T18:13:43.000Z"
   },
   {
+    "id": "reccUZ8fkSY1V5KST",
+    "year": 1953,
+    "countyNumber": "56",
+    "countyName": "Hardin",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Farm Truck",
+    "serial": "56F/1-113",
+    "photoUrl": "assets/img/plates/att0Btq0S1hX1d5uK.jpg",
+    "dateAdded": "2026-08-27T01:03:12.000Z"
+  },
+  {
     "id": "reccVRf55Li6YDpBG",
     "year": 1940,
     "countyNumber": "11",
@@ -10488,6 +10992,18 @@
     "dateAdded": "2026-08-25T02:17:06.000Z"
   },
   {
+    "id": "reccp0Q03J9PaFngg",
+    "year": 1941,
+    "countyNumber": "56",
+    "countyName": "Hardin",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "56-260",
+    "photoUrl": "assets/img/plates/attKjwMGVAq0o6nQZ.jpg",
+    "dateAdded": "2026-08-27T01:06:25.000Z"
+  },
+  {
     "id": "reccr4f4b4YLN3X6U",
     "year": 1951,
     "countyNumber": "43",
@@ -10498,6 +11014,18 @@
     "serial": "43D-90",
     "photoUrl": "assets/img/plates/attlr8TZTDrCUUZmQ.jpg",
     "dateAdded": "2026-08-26T20:48:58.000Z"
+  },
+  {
+    "id": "reccrSlxaxeZBUfqt",
+    "year": 1940,
+    "countyNumber": "52",
+    "countyName": "Hardeman",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "52-787",
+    "photoUrl": "assets/img/plates/attaKGmjgVcgG0hER.jpg",
+    "dateAdded": "2026-08-27T00:47:26.000Z"
   },
   {
     "id": "reccriSOmzWksLBa6",
@@ -10812,6 +11340,18 @@
     "dateAdded": "2026-08-26T21:31:18.000Z"
   },
   {
+    "id": "receEmXFT6K54GKe5",
+    "year": 1940,
+    "countyNumber": "52",
+    "countyName": "Hardeman",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "52-787",
+    "photoUrl": "assets/img/plates/attoti2v0rcqnemWR.jpg",
+    "dateAdded": "2026-08-27T00:48:03.000Z"
+  },
+  {
     "id": "receHxmNNt0KY5Zm1",
     "year": 1940,
     "countyNumber": "25",
@@ -11016,6 +11556,18 @@
     "dateAdded": "2026-08-26T21:35:35.000Z"
   },
   {
+    "id": "receoWiKmIBQ7obPg",
+    "year": 1948,
+    "countyNumber": "51",
+    "countyName": "Monroe",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "51-62",
+    "photoUrl": "assets/img/plates/attZT2TNl5tPK0jzh.jpg",
+    "dateAdded": "2026-08-27T00:46:47.000Z"
+  },
+  {
     "id": "recer7JmQm28cRMEB",
     "year": 1949,
     "countyNumber": "27",
@@ -11062,6 +11614,18 @@
     "serial": "7-7",
     "photoUrl": "assets/img/plates/attmYrXlIgHAOLpFd.jpg",
     "dateAdded": "2026-08-21T15:15:07.000Z"
+  },
+  {
+    "id": "recf0fCpYbRuMtbtX",
+    "year": 1956,
+    "countyNumber": "54",
+    "countyName": "Marion",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "54-61",
+    "photoUrl": "assets/img/plates/att22lzrxPSYzVZhR.jpg",
+    "dateAdded": "2026-08-27T00:56:21.000Z"
   },
   {
     "id": "recf3evN1221aXV1N",
@@ -11184,6 +11748,18 @@
     "dateAdded": "2026-08-13T23:51:27.000Z"
   },
   {
+    "id": "recfJXRgbpmQDICnp",
+    "year": 1956,
+    "countyNumber": "53",
+    "countyName": "Rhea",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "53F/1-856",
+    "photoUrl": "assets/img/plates/attDBQv5X9AYVqlul.jpg",
+    "dateAdded": "2026-08-27T00:52:34.000Z"
+  },
+  {
     "id": "recfL3f6KhocRG9vR",
     "year": 1955,
     "countyNumber": "17",
@@ -11206,6 +11782,18 @@
     "serial": "25-4279",
     "photoUrl": "assets/img/plates/attuPqkFaRWcDQJBl.jpg",
     "dateAdded": "2026-08-22T15:14:40.000Z"
+  },
+  {
+    "id": "recfNcoKjKtyMu3T6",
+    "year": 1951,
+    "countyNumber": "53",
+    "countyName": "Rhea",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "53F/1-99",
+    "photoUrl": "assets/img/plates/att1MjUN9FFeUNJsO.jpg",
+    "dateAdded": "2026-08-27T00:55:51.000Z"
   },
   {
     "id": "recfRyDcCeuHePOIg",
@@ -11242,6 +11830,30 @@
     "serial": "50D-504",
     "photoUrl": "assets/img/plates/att5fhjrIrMcFeXu5.jpg",
     "dateAdded": "2026-08-26T22:21:14.000Z"
+  },
+  {
+    "id": "recfX1b0zeGpJRgAk",
+    "year": 1951,
+    "countyNumber": "56",
+    "countyName": "Hardin",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "56-11",
+    "photoUrl": "assets/img/plates/attS0STd2jx2TTtyV.jpg",
+    "dateAdded": "2026-08-27T01:03:42.000Z"
+  },
+  {
+    "id": "recfZkAkpGhebZHAE",
+    "year": 1953,
+    "countyNumber": "52",
+    "countyName": "Hardeman",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Farm Truck",
+    "serial": "52F/1-907",
+    "photoUrl": "assets/img/plates/attbqVGzRAtbj8JwH.jpg",
+    "dateAdded": "2026-08-27T00:48:58.000Z"
   },
   {
     "id": "recfbaiXCyg7CiHg4",
@@ -11506,6 +12118,18 @@
     "serial": "27-W4PAG",
     "photoUrl": "assets/img/plates/attEotsUheHDkrKQh.jpg",
     "dateAdded": "2026-08-23T11:54:04.000Z"
+  },
+  {
+    "id": "recgjKaAqwOgLrSyl",
+    "year": 1951,
+    "countyNumber": "52",
+    "countyName": "Hardeman",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "52-462",
+    "photoUrl": "assets/img/plates/attckIcxt6rT6xQql.jpg",
+    "dateAdded": "2026-08-27T00:47:53.000Z"
   },
   {
     "id": "recgl1iZPB0hvGFt1",
@@ -11844,6 +12468,18 @@
     "dateAdded": "2026-08-21T20:11:45.000Z"
   },
   {
+    "id": "rechy9KsCZsVVwoRw",
+    "year": 1947,
+    "countyNumber": "56",
+    "countyName": "Hardin",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "56-1443",
+    "photoUrl": "assets/img/plates/att6Yc54vNDxXaI8V.jpg",
+    "dateAdded": "2026-08-27T01:05:56.000Z"
+  },
+  {
     "id": "reci5aBZd5Oy79Wtn",
     "year": 1951,
     "countyNumber": "13",
@@ -12084,6 +12720,18 @@
     "dateAdded": "2026-08-26T20:44:33.000Z"
   },
   {
+    "id": "recihZkuw5iKz46Hc",
+    "year": 1940,
+    "countyNumber": "52",
+    "countyName": "Hardeman",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "52-787",
+    "photoUrl": "assets/img/plates/attRdQy7fVmSAPiss.jpg",
+    "dateAdded": "2026-08-27T00:49:48.000Z"
+  },
+  {
     "id": "recinP8UgknHZddXC",
     "year": 1948,
     "countyNumber": "4",
@@ -12252,6 +12900,30 @@
     "dateAdded": "2026-08-21T15:18:18.000Z"
   },
   {
+    "id": "recjLc93jVzxS8Ann",
+    "year": 1956,
+    "countyNumber": "55",
+    "countyName": "Smith",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "55F/1-162",
+    "photoUrl": "assets/img/plates/att6qpChxELh3DBv9.jpg",
+    "dateAdded": "2026-08-27T00:59:45.000Z"
+  },
+  {
+    "id": "recjTZBbesGv4O3Lv",
+    "year": 1951,
+    "countyNumber": "52",
+    "countyName": "Hardeman",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "52-2346",
+    "photoUrl": "assets/img/plates/attmTXr34XSOA08dF.jpg",
+    "dateAdded": "2026-08-27T00:47:42.000Z"
+  },
+  {
     "id": "recjVieJnoNY6Y9O1",
     "year": 1951,
     "countyNumber": "30",
@@ -12348,6 +13020,18 @@
     "dateAdded": "2026-08-22T03:13:41.000Z"
   },
   {
+    "id": "recjosL1eatijsf8Z",
+    "year": 1951,
+    "countyNumber": "51",
+    "countyName": "Monroe",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "51P/3-831",
+    "photoUrl": "assets/img/plates/att0RyVNGtj83aJyj.jpg",
+    "dateAdded": "2026-08-27T00:46:31.000Z"
+  },
+  {
     "id": "recjpsHzfxNRswNLP",
     "year": 1951,
     "countyNumber": "15",
@@ -12418,6 +13102,18 @@
     "serial": "48F/1-516",
     "photoUrl": "assets/img/plates/atti1KZQPTYfANDZo.jpg",
     "dateAdded": "2026-08-26T21:57:42.000Z"
+  },
+  {
+    "id": "reck4r2S8oslO6D51",
+    "year": 1955,
+    "countyNumber": "53",
+    "countyName": "Rhea",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Truck",
+    "serial": "53P/3-879",
+    "photoUrl": "assets/img/plates/attKVHfhiuxj1fzSK.jpg",
+    "dateAdded": "2026-08-27T00:50:20.000Z"
   },
   {
     "id": "reck6u8iMI0alHFFf",
@@ -12660,6 +13356,18 @@
     "dateAdded": "2026-08-26T22:17:14.000Z"
   },
   {
+    "id": "recl71h5LXDlsWtQp",
+    "year": 1961,
+    "countyNumber": "51",
+    "countyName": "Monroe",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "51-84",
+    "photoUrl": "assets/img/plates/atty2Gc8TRPoLeV1L.jpg",
+    "dateAdded": "2026-08-27T00:46:59.000Z"
+  },
+  {
     "id": "recl7GBT5j7kVWWNg",
     "year": 1956,
     "countyNumber": "42",
@@ -12756,6 +13464,18 @@
     "dateAdded": "2026-08-13T23:48:43.000Z"
   },
   {
+    "id": "reclWxguvOkZLMz8Y",
+    "year": 1956,
+    "countyNumber": "53",
+    "countyName": "Rhea",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "53-3633",
+    "photoUrl": "assets/img/plates/attGSjW9yM1uRSrTF.jpg",
+    "dateAdded": "2026-08-27T00:55:32.000Z"
+  },
+  {
     "id": "reclZCPqRUHQLRWj5",
     "year": 1955,
     "countyNumber": "8",
@@ -12814,6 +13534,18 @@
     "serial": "25-1366",
     "photoUrl": "assets/img/plates/attJIN5pd6UvPeTcK.jpg",
     "dateAdded": "2026-08-22T15:10:03.000Z"
+  },
+  {
+    "id": "reclmZ1hhsz9HNgjp",
+    "year": 1953,
+    "countyNumber": "56",
+    "countyName": null,
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Heavy Car",
+    "serial": "56D-44",
+    "photoUrl": "assets/img/plates/attMVuZ0B29HU4r6d.jpg",
+    "dateAdded": "2026-08-27T01:07:23.000Z"
   },
   {
     "id": "reclsp7T6IP0Qr6zR",
@@ -12886,6 +13618,18 @@
     "serial": "13D-25",
     "photoUrl": "assets/img/plates/attM4WgQ76GI8a8oT.jpg",
     "dateAdded": "2026-08-21T20:03:55.000Z"
+  },
+  {
+    "id": "recm4G9AAUAtYEhPo",
+    "year": 1952,
+    "countyNumber": "51",
+    "countyName": "Monroe",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "51-80",
+    "photoUrl": "assets/img/plates/attuYlMdGw5tWAt0t.jpg",
+    "dateAdded": "2026-08-27T00:44:15.000Z"
   },
   {
     "id": "recmFwk6wNOe7pKKJ",
@@ -13008,6 +13752,18 @@
     "dateAdded": "2026-08-23T11:45:27.000Z"
   },
   {
+    "id": "recmXPSIjkODerTgr",
+    "year": 1956,
+    "countyNumber": "53",
+    "countyName": "Rhea",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "53-4571",
+    "photoUrl": "assets/img/plates/atteLB3HeEePqnb0f.jpg",
+    "dateAdded": "2026-08-27T00:55:20.000Z"
+  },
+  {
     "id": "recmZG4lJM6kI5edH",
     "year": 1945,
     "countyNumber": "27",
@@ -13054,6 +13810,18 @@
     "serial": "25F/1-1",
     "photoUrl": "assets/img/plates/attBs9GYPZB64w6CI.jpg",
     "dateAdded": "2026-08-22T15:15:57.000Z"
+  },
+  {
+    "id": "recmlzmwYrjJAtAmy",
+    "year": 1942,
+    "countyNumber": "52",
+    "countyName": "Hardeman",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "52-13",
+    "photoUrl": "assets/img/plates/attGPH8QhNAJ41KK7.jpg",
+    "dateAdded": "2026-08-27T00:49:36.000Z"
   },
   {
     "id": "recmmow0OTU2QjE39",
@@ -13332,6 +14100,18 @@
     "dateAdded": "2026-08-25T02:07:24.000Z"
   },
   {
+    "id": "recnKkPSPBPTGcq2L",
+    "year": 1948,
+    "countyNumber": "52",
+    "countyName": "Hardeman",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "52-2288",
+    "photoUrl": "assets/img/plates/attbDuVha5i2OY1P7.jpg",
+    "dateAdded": "2026-08-27T00:48:36.000Z"
+  },
+  {
     "id": "recnNa5kj6VJj7pGd",
     "year": 1946,
     "countyNumber": "17",
@@ -13572,6 +14352,18 @@
     "dateAdded": "2026-08-21T20:06:41.000Z"
   },
   {
+    "id": "recoOSGgDKMvI6TxV",
+    "year": 1945,
+    "countyNumber": "56",
+    "countyName": "Hardin",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "56-4",
+    "photoUrl": "assets/img/plates/attoYVQMtrrchez9A.jpg",
+    "dateAdded": "2026-08-27T01:04:21.000Z"
+  },
+  {
     "id": "recoQLlq9OljdMe9o",
     "year": 1950,
     "countyNumber": "2",
@@ -13582,6 +14374,18 @@
     "serial": "2-68619",
     "photoUrl": "assets/img/plates/attXQ6cEuG6cyT30w.jpg",
     "dateAdded": "2026-08-20T02:44:06.000Z"
+  },
+  {
+    "id": "recoRb3xBLKPRCaJK",
+    "year": 1956,
+    "countyNumber": "52",
+    "countyName": "Hardeman",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "52-1280",
+    "photoUrl": "assets/img/plates/attqLy8rs7zsMUO10.jpg",
+    "dateAdded": "2026-08-27T00:49:25.000Z"
   },
   {
     "id": "recoU61OQorYtEeEq",
@@ -13752,6 +14556,18 @@
     "dateAdded": "2026-08-21T14:21:56.000Z"
   },
   {
+    "id": "recpVeeoiaUAxWsx7",
+    "year": 1947,
+    "countyNumber": "54",
+    "countyName": "Marion",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "54P/1-24",
+    "photoUrl": "assets/img/plates/atthGhiYpUk53AHc8.jpg",
+    "dateAdded": "2026-08-27T00:57:19.000Z"
+  },
+  {
     "id": "recpaOdnGpRVjJk1i",
     "year": 1950,
     "countyNumber": "49",
@@ -13762,6 +14578,18 @@
     "serial": "49P/1-81",
     "photoUrl": "assets/img/plates/attAGEfjyqgGBjdn2.jpg",
     "dateAdded": "2026-08-26T22:04:27.000Z"
+  },
+  {
+    "id": "recpbIDgWd1NsMPsR",
+    "year": 1950,
+    "countyNumber": "54",
+    "countyName": "Marion",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "54-2312",
+    "photoUrl": "assets/img/plates/att6sOIyjL2Q4e3lM.jpg",
+    "dateAdded": "2026-08-27T00:56:07.000Z"
   },
   {
     "id": "recpc9lVtP8WPm0GG",
@@ -13798,6 +14626,18 @@
     "serial": "42-999",
     "photoUrl": "assets/img/plates/att9CXglcoBsTONfD.jpg",
     "dateAdded": "2026-08-26T20:44:50.000Z"
+  },
+  {
+    "id": "recpgof7RqQsP0Lq7",
+    "year": 1951,
+    "countyNumber": "51",
+    "countyName": "Monroe",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "51-2221",
+    "photoUrl": "assets/img/plates/attUS6Di19GaSxSkE.jpg",
+    "dateAdded": "2026-08-27T00:46:05.000Z"
   },
   {
     "id": "recplLgA7adxspFQw",
@@ -13906,6 +14746,18 @@
     "serial": "48-1535",
     "photoUrl": "assets/img/plates/attqpKis3UaSOU6o8.jpg",
     "dateAdded": "2026-08-26T22:00:47.000Z"
+  },
+  {
+    "id": "recqZm4FKbmfTuVft",
+    "year": 1956,
+    "countyNumber": "56",
+    "countyName": "Hardin",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "56F/1-568",
+    "photoUrl": "assets/img/plates/attUvYz8ykKuEdTjO.jpg",
+    "dateAdded": "2026-08-27T01:04:31.000Z"
   },
   {
     "id": "recqbp8WWZKfL8hZZ",
@@ -14160,6 +15012,18 @@
     "dateAdded": "2026-08-21T14:58:13.000Z"
   },
   {
+    "id": "recrKhcLWt9dGyVM4",
+    "year": 1951,
+    "countyNumber": "51",
+    "countyName": "Monroe",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "51-2863",
+    "photoUrl": "assets/img/plates/attxspb1xdt8da7RG.jpg",
+    "dateAdded": "2026-08-27T00:44:45.000Z"
+  },
+  {
     "id": "recrTILw3YzpvZAGC",
     "year": 1939,
     "countyNumber": "21",
@@ -14182,6 +15046,18 @@
     "serial": "6-1703",
     "photoUrl": "assets/img/plates/attOQDtpW242RpXHu.jpg",
     "dateAdded": "2026-08-21T14:58:12.000Z"
+  },
+  {
+    "id": "recrbj5H7ifVbdFsg",
+    "year": 1955,
+    "countyNumber": "54",
+    "countyName": "Marion",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Farm Truck",
+    "serial": "54F/1-10",
+    "photoUrl": "assets/img/plates/att3qbLQD9BjcuBwI.jpg",
+    "dateAdded": "2026-08-27T00:56:31.000Z"
   },
   {
     "id": "recrgMR58TDJQnonP",
@@ -15060,6 +15936,18 @@
     "dateAdded": "2026-08-21T14:38:45.000Z"
   },
   {
+    "id": "recuMHjGncfY4nbe1",
+    "year": 1948,
+    "countyNumber": "56",
+    "countyName": "Hardin",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "56-1132",
+    "photoUrl": "assets/img/plates/att0tWB61mpoZFToo.jpg",
+    "dateAdded": "2026-08-27T01:03:54.000Z"
+  },
+  {
     "id": "recuMOmcz1qOuiS0E",
     "year": 1950,
     "countyNumber": "39",
@@ -15180,6 +16068,18 @@
     "dateAdded": "2026-08-25T02:04:40.000Z"
   },
   {
+    "id": "recuu8Z9xIhOI23ur",
+    "year": 1942,
+    "countyNumber": "53",
+    "countyName": "Rhea",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "53-2464",
+    "photoUrl": "assets/img/plates/attO5UBXaKvq6Zwin.jpg",
+    "dateAdded": "2026-08-27T00:53:29.000Z"
+  },
+  {
     "id": "recuvE8BTkYw6BQZL",
     "year": 1940,
     "countyNumber": "34",
@@ -15226,6 +16126,18 @@
     "serial": "21TAXID/3-57",
     "photoUrl": "assets/img/plates/attknlVtMYYIcwsJg.jpg",
     "dateAdded": "2026-08-22T14:47:09.000Z"
+  },
+  {
+    "id": "recvAKtUdGaHS2dEY",
+    "year": 1941,
+    "countyNumber": "55",
+    "countyName": "Smith",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "55-198",
+    "photoUrl": "assets/img/plates/attzkRiH1w93ubxb9.jpg",
+    "dateAdded": "2026-08-27T00:59:23.000Z"
   },
   {
     "id": "recvDIlWe2cOCJ710",
@@ -15432,6 +16344,30 @@
     "dateAdded": "2026-08-22T03:25:55.000Z"
   },
   {
+    "id": "recvuTBzOhaOJrq7R",
+    "year": 1956,
+    "countyNumber": "52",
+    "countyName": "Hardeman",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "52-1280",
+    "photoUrl": "assets/img/plates/attMoOwj66VR77iU8.jpg",
+    "dateAdded": "2026-08-27T00:48:14.000Z"
+  },
+  {
+    "id": "recvvs3qL61fbStZm",
+    "year": 1951,
+    "countyNumber": "51",
+    "countyName": "Monroe",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "51D-27",
+    "photoUrl": "assets/img/plates/attIrhvWX7gqX8RWQ.jpg",
+    "dateAdded": "2026-08-27T00:46:16.000Z"
+  },
+  {
     "id": "recwCByFArDKYQxEY",
     "year": 1956,
     "countyNumber": "34",
@@ -15442,6 +16378,18 @@
     "serial": "34-463",
     "photoUrl": "assets/img/plates/attlLcnuTSllsQPRT.jpg",
     "dateAdded": "2026-08-24T01:06:08.000Z"
+  },
+  {
+    "id": "recwGYtQuc4MRtPOr",
+    "year": 1949,
+    "countyNumber": "55",
+    "countyName": "Smith",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "55-1147",
+    "photoUrl": "assets/img/plates/attUJW0FV9M8SeHIE.jpg",
+    "dateAdded": "2026-08-27T00:58:13.000Z"
   },
   {
     "id": "recwI8DsbouEDijCp",
@@ -15490,6 +16438,18 @@
     "serial": "3D-11",
     "photoUrl": "assets/img/plates/attOTjeP8xZ8E3iNR.jpg",
     "dateAdded": "2026-08-21T00:02:07.000Z"
+  },
+  {
+    "id": "recwUYCArhJKJ41C2",
+    "year": 1954,
+    "countyNumber": "51",
+    "countyName": "Monroe",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Farm Truck",
+    "serial": "51F/1-382",
+    "photoUrl": "assets/img/plates/attSoqhjb9V7TekGE.jpg",
+    "dateAdded": "2026-08-27T00:45:25.000Z"
   },
   {
     "id": "recwVpZXEav9y7Yvi",
@@ -15643,7 +16603,7 @@
     "countyNumber": "46",
     "countyName": "Cocke",
     "colors": "Black",
-    "fontColor": "Whtie",
+    "fontColor": null,
     "type": "Passenger",
     "serial": "46-728",
     "photoUrl": "assets/img/plates/attG98VexEilipVCu.jpg",
@@ -15732,6 +16692,18 @@
     "serial": "38F/1-514",
     "photoUrl": "assets/img/plates/attOg0WZwJCaGC25L.jpg",
     "dateAdded": "2026-08-25T02:13:52.000Z"
+  },
+  {
+    "id": "recxBr4HXZyzwXDSC",
+    "year": 1946,
+    "countyNumber": "53",
+    "countyName": "Rhea",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Farm Truck",
+    "serial": "53F/1-402",
+    "photoUrl": "assets/img/plates/attY5kDzT52XkOg9E.jpg",
+    "dateAdded": "2026-08-27T00:54:26.000Z"
   },
   {
     "id": "recxC3oORUBuNu8KL",
@@ -15828,6 +16800,18 @@
     "serial": "1-7272",
     "photoUrl": "assets/img/plates/attZTcA2rqGdAji0I.jpg",
     "dateAdded": "2026-08-13T22:23:29.000Z"
+  },
+  {
+    "id": "recxRspcTnLYLx5K1",
+    "year": 1952,
+    "countyNumber": "56",
+    "countyName": "Hardin",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "56-2213",
+    "photoUrl": "assets/img/plates/attkOJulhVlyp7fhG.jpg",
+    "dateAdded": "2026-08-27T01:05:03.000Z"
   },
   {
     "id": "recxT0pZefHC5ajQ6",
@@ -15938,6 +16922,18 @@
     "dateAdded": "2026-08-22T03:16:24.000Z"
   },
   {
+    "id": "recxoLFktGZTwd0rg",
+    "year": 1951,
+    "countyNumber": "54",
+    "countyName": "Marion",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "54-527",
+    "photoUrl": "assets/img/plates/attA3MZfuAyN9ydiX.jpg",
+    "dateAdded": "2026-08-27T00:56:47.000Z"
+  },
+  {
     "id": "recxpLS9CZeVg73ec",
     "year": 1942,
     "countyNumber": "34",
@@ -16008,6 +17004,18 @@
     "serial": "1FARM-5001",
     "photoUrl": "assets/img/plates/attiH8cKJpQDbNcpY.jpg",
     "dateAdded": "2026-08-13T23:58:41.000Z"
+  },
+  {
+    "id": "recxzOaeXiEfkGLfK",
+    "year": 1950,
+    "countyNumber": "56",
+    "countyName": "Hardin",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "56-777",
+    "photoUrl": "assets/img/plates/attRbMe7DemCJEjY7.jpg",
+    "dateAdded": "2026-08-27T01:05:46.000Z"
   },
   {
     "id": "recyBJaGlRlZj9X78",
@@ -16183,7 +17191,7 @@
     "countyNumber": "27",
     "countyName": "Hamblen",
     "colors": "Black",
-    "fontColor": "Whte",
+    "fontColor": null,
     "type": "Taxi",
     "serial": "27TAXI-37",
     "photoUrl": "assets/img/plates/attwkaKFz2ZcYnoSe.jpg",
