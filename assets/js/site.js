@@ -55,6 +55,7 @@ function plateCardHTML(p){
   const plateLabel = [countyName ? `${countyName} County` : '', p.year || ''].filter(Boolean).join(', ');
   const meta = [
     countyName ? `${countyName} County` : '',
+    p.countyNumber ? `#${p.countyNumber}` : '',
     p.year || '',
     p.type ? `<span class="type">${p.type}</span>` : '',
   ].filter(Boolean).join(' <span class="sep">·</span> ');
