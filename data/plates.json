@@ -132,6 +132,30 @@
     "dateAdded": "2026-08-21T18:16:54.000Z"
   },
   {
+    "id": "rec0LpRua36IWKJhw",
+    "year": 1948,
+    "countyNumber": "70",
+    "countyName": "Grainger",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "70-41",
+    "photoUrl": "assets/img/plates/attuhVh20lTC8EVtN.jpg",
+    "dateAdded": "2026-08-29T16:58:53.000Z"
+  },
+  {
+    "id": "rec0NBWV8TEMd2DKU",
+    "year": 1956,
+    "countyNumber": "68",
+    "countyName": "Cheatham",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "68P/1-155",
+    "photoUrl": "assets/img/plates/attJ2vItroo8ua2sz.jpg",
+    "dateAdded": "2026-08-29T13:18:21.000Z"
+  },
+  {
     "id": "rec0OJdybqR59lYCT",
     "year": 1953,
     "countyNumber": "42",
@@ -192,6 +216,18 @@
     "dateAdded": "2026-08-21T18:06:09.000Z"
   },
   {
+    "id": "rec0SrvlbdzTHDKAH",
+    "year": 1951,
+    "countyNumber": "70",
+    "countyName": "Grainger",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "70-261",
+    "photoUrl": "assets/img/plates/atteHIqi08vbc8O1O.jpg",
+    "dateAdded": "2026-08-29T16:59:49.000Z"
+  },
+  {
     "id": "rec0U3hSzKSdsSN59",
     "year": 1955,
     "countyNumber": "13",
@@ -226,6 +262,18 @@
     "serial": "8T-5020",
     "photoUrl": "assets/img/plates/attYwqKzsgOSVy0SX.jpg",
     "dateAdded": "2026-08-21T15:37:09.000Z"
+  },
+  {
+    "id": "rec0W4xgMm9Z8ZONL",
+    "year": 1954,
+    "countyNumber": "71",
+    "countyName": "Benton",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "71-574",
+    "photoUrl": "assets/img/plates/attom1Gks01yjUdkg.jpg",
+    "dateAdded": "2026-08-29T17:04:42.000Z"
   },
   {
     "id": "rec0bHHLsNcZROSot",
@@ -360,6 +408,18 @@
     "dateAdded": "2026-08-27T20:48:25.000Z"
   },
   {
+    "id": "rec1D2Vc7H6xiTV6i",
+    "year": 1951,
+    "countyNumber": "66",
+    "countyName": "Dekalb",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "66F/1-89",
+    "photoUrl": "assets/img/plates/attkN3pkzotX3PwCm.jpg",
+    "dateAdded": "2026-08-29T13:04:06.000Z"
+  },
+  {
     "id": "rec1EGWJ9If48vzag",
     "year": 1942,
     "countyNumber": "36",
@@ -442,6 +502,18 @@
     "serial": "37-2741",
     "photoUrl": "assets/img/plates/attDF1QmfdgaUz2cH.jpg",
     "dateAdded": "2026-08-25T02:05:30.000Z"
+  },
+  {
+    "id": "rec1OrLZDfdoZON2g",
+    "year": 1951,
+    "countyNumber": "72",
+    "countyName": "Fentress",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "72-267",
+    "photoUrl": "assets/img/plates/attB12FpHK1T4kmz2.jpg",
+    "dateAdded": "2026-08-29T17:11:11.000Z"
   },
   {
     "id": "rec1V2vQnQ7bM4DgW",
@@ -574,6 +646,30 @@
     "serial": "21-4073",
     "photoUrl": "assets/img/plates/attwS7EOG5csP2TI8.jpg",
     "dateAdded": "2026-08-22T14:31:34.000Z"
+  },
+  {
+    "id": "rec1qX5AJcCuK5PxR",
+    "year": 1949,
+    "countyNumber": "71",
+    "countyName": "Benton",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "71-1696",
+    "photoUrl": "assets/img/plates/attXJTmLWecc2MpCH.jpg",
+    "dateAdded": "2026-08-29T17:03:29.000Z"
+  },
+  {
+    "id": "rec1upG00Wp4SctNg",
+    "year": 1943,
+    "countyNumber": "70",
+    "countyName": "Grainger",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Farm Truck",
+    "serial": "70F/1-9",
+    "photoUrl": "assets/img/plates/attC2uLhmxnUiVUZ6.jpg",
+    "dateAdded": "2026-08-29T17:00:43.000Z"
   },
   {
     "id": "rec1vKyd37HlpHAf2",
@@ -814,6 +910,18 @@
     "serial": "20F/1-58",
     "photoUrl": "assets/img/plates/attEfxhWiuaQH8fSN.jpg",
     "dateAdded": "2026-08-22T13:29:16.000Z"
+  },
+  {
+    "id": "rec2YZ6r8XIbauEuA",
+    "year": 1959,
+    "countyNumber": "69",
+    "countyName": "Morgan",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "69-12",
+    "photoUrl": "assets/img/plates/attlF5H1olUuOuxrD.jpg",
+    "dateAdded": "2026-08-29T16:48:12.000Z"
   },
   {
     "id": "rec2Z8D4UcJvXQEsz",
@@ -1150,6 +1258,18 @@
     "serial": "52-914",
     "photoUrl": "assets/img/plates/att1moRutzxHvRuDr.jpg",
     "dateAdded": "2026-08-27T00:48:48.000Z"
+  },
+  {
+    "id": "rec3bxKsjjTfkQUTW",
+    "year": 1942,
+    "countyNumber": "67",
+    "countyName": "Hickman",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "67-107",
+    "photoUrl": "assets/img/plates/attyR8AV6SCcmJqiJ.jpg",
+    "dateAdded": "2026-08-29T13:10:27.000Z"
   },
   {
     "id": "rec3g7IlS8Hh7st0f",
@@ -1812,6 +1932,18 @@
     "dateAdded": "2026-08-21T15:08:38.000Z"
   },
   {
+    "id": "rec5VYHdCuF4LMfzz",
+    "year": 1952,
+    "countyNumber": "72",
+    "countyName": "Fentress",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "72-62",
+    "photoUrl": "assets/img/plates/attwqA1ojFeMdYjLs.jpg",
+    "dateAdded": "2026-08-29T17:13:43.000Z"
+  },
+  {
     "id": "rec5WnIwJ7FdOjaC8",
     "year": 1949,
     "countyNumber": "36",
@@ -1992,6 +2124,18 @@
     "dateAdded": "2026-08-23T11:48:58.000Z"
   },
   {
+    "id": "rec67UBV9Opz385Cn",
+    "year": 1953,
+    "countyNumber": "71",
+    "countyName": "Benton",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "71-578",
+    "photoUrl": "assets/img/plates/attpeAgwncBG3kJ0B.jpg",
+    "dateAdded": "2026-08-29T17:03:46.000Z"
+  },
+  {
     "id": "rec68HhwLkeDEsIr7",
     "year": 1956,
     "countyNumber": "46",
@@ -2062,6 +2206,18 @@
     "serial": "17-634",
     "photoUrl": "assets/img/plates/atthip0mtOFYDqzrI.jpg",
     "dateAdded": "2026-08-22T03:19:06.000Z"
+  },
+  {
+    "id": "rec6MybClPbC4JDVR",
+    "year": 1939,
+    "countyNumber": "70",
+    "countyName": "Grainger",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "70-626",
+    "photoUrl": "assets/img/plates/attqRf0VdEgcSCO29.jpg",
+    "dateAdded": "2026-08-29T17:02:16.000Z"
   },
   {
     "id": "rec6T5jZGJbjH6brr",
@@ -2182,6 +2338,18 @@
     "serial": "20-66",
     "photoUrl": "assets/img/plates/attOt8FIyhsLydHu8.jpg",
     "dateAdded": "2026-08-22T13:28:11.000Z"
+  },
+  {
+    "id": "rec6tljCZP1wcTcu8",
+    "year": 1953,
+    "countyNumber": "66",
+    "countyName": "Dekalb",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "66-662",
+    "photoUrl": "assets/img/plates/attI1idP1V0xbffev.jpg",
+    "dateAdded": "2026-08-29T13:04:32.000Z"
   },
   {
     "id": "rec6uZilsrAessSog",
@@ -2520,6 +2688,18 @@
     "dateAdded": "2026-08-25T01:59:16.000Z"
   },
   {
+    "id": "rec7qfFFPnhyo6kYN",
+    "year": 1942,
+    "countyNumber": "67",
+    "countyName": "Hickman",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "67-599",
+    "photoUrl": "assets/img/plates/attPUQbf8p1u4oMIA.jpg",
+    "dateAdded": "2026-08-29T13:08:56.000Z"
+  },
+  {
     "id": "rec7r2nkwTv7590W8",
     "year": 1952,
     "countyNumber": "59",
@@ -2820,6 +3000,18 @@
     "dateAdded": "2026-08-21T15:39:55.000Z"
   },
   {
+    "id": "rec8hFUkpBMSvJcVY",
+    "year": 1945,
+    "countyNumber": "67",
+    "countyName": "Hickman",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Motorcycle",
+    "serial": "67-9",
+    "photoUrl": "assets/img/plates/att27NplwOzkNE7Ub.jpg",
+    "dateAdded": "2026-08-29T13:09:08.000Z"
+  },
+  {
     "id": "rec8iQPk4bbfInkuM",
     "year": 1942,
     "countyNumber": "17",
@@ -2940,6 +3132,18 @@
     "dateAdded": "2026-08-21T15:51:42.000Z"
   },
   {
+    "id": "rec9276qN5htPZVwS",
+    "year": 1950,
+    "countyNumber": "67",
+    "countyName": "Hickman",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "67-95",
+    "photoUrl": "assets/img/plates/attvhNdJuhJW3SLoa.jpg",
+    "dateAdded": "2026-08-29T13:09:59.000Z"
+  },
+  {
     "id": "rec92k3LnnWGJeT2I",
     "year": 1954,
     "countyNumber": "21",
@@ -2962,6 +3166,18 @@
     "serial": "4-35",
     "photoUrl": "assets/img/plates/attXeBfp1E3487zE8.jpg",
     "dateAdded": "2026-08-21T00:44:23.000Z"
+  },
+  {
+    "id": "rec950jJ4B1jv0P5B",
+    "year": 1951,
+    "countyNumber": "67",
+    "countyName": "Hickman",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "67-244",
+    "photoUrl": "assets/img/plates/attdmRak3MY35Gldc.jpg",
+    "dateAdded": "2026-08-29T13:10:17.000Z"
   },
   {
     "id": "rec968lU4RUN2jTeH",
@@ -3168,6 +3384,18 @@
     "dateAdded": "2026-08-21T14:53:42.000Z"
   },
   {
+    "id": "rec9xHCYTPrdf2rRN",
+    "year": 1955,
+    "countyNumber": "70",
+    "countyName": "Grainger",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "70-41",
+    "photoUrl": "assets/img/plates/att9BuWOTupsqLXBa.jpg",
+    "dateAdded": "2026-08-29T16:57:44.000Z"
+  },
+  {
     "id": "rec9xThnjci6V2xXU",
     "year": 1955,
     "countyNumber": "6",
@@ -3214,6 +3442,18 @@
     "serial": "32-3066",
     "photoUrl": "assets/img/plates/atte6igN1ZJOaPDAK.jpg",
     "dateAdded": "2026-08-23T18:13:46.000Z"
+  },
+  {
+    "id": "recA6b1HmOZQ3i0f9",
+    "year": 1949,
+    "countyNumber": "67",
+    "countyName": "Hickman",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "67-366",
+    "photoUrl": "assets/img/plates/attGTBsu8yrscXNtQ.jpg",
+    "dateAdded": "2026-08-29T13:11:40.000Z"
   },
   {
     "id": "recAC5WEQd6wM3gXK",
@@ -3348,6 +3588,18 @@
     "dateAdded": "2026-08-27T01:04:52.000Z"
   },
   {
+    "id": "recAUeCDENDvUT6Lu",
+    "year": 1942,
+    "countyNumber": "66",
+    "countyName": "Dekalb",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "66-44",
+    "photoUrl": "assets/img/plates/attpzeF9ONgiYQcVB.jpg",
+    "dateAdded": "2026-08-29T13:02:47.000Z"
+  },
+  {
     "id": "recAVAgm6hyYJ7RQ0",
     "year": 1941,
     "countyNumber": "18",
@@ -3418,6 +3670,18 @@
     "serial": "59-1447",
     "photoUrl": "assets/img/plates/attUCQIJU3i2BEfaj.jpg",
     "dateAdded": "2026-08-28T20:57:58.000Z"
+  },
+  {
+    "id": "recAiTdiZ4OeYIM3H",
+    "year": 1951,
+    "countyNumber": "71",
+    "countyName": "Benton",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "71-1022",
+    "photoUrl": "assets/img/plates/attZWvbPUcE7oZ6ti.jpg",
+    "dateAdded": "2026-08-29T17:04:08.000Z"
   },
   {
     "id": "recAkKwZRyBMwfS2E",
@@ -3804,6 +4068,18 @@
     "dateAdded": "2026-08-21T18:16:34.000Z"
   },
   {
+    "id": "recBuLYi9Vbmjtnzc",
+    "year": 1951,
+    "countyNumber": "68",
+    "countyName": "Cheatham",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "68F/1-281",
+    "photoUrl": "assets/img/plates/att4yN4D5ssk6Fiwr.jpg",
+    "dateAdded": "2026-08-29T13:17:06.000Z"
+  },
+  {
     "id": "recBxHlUzCWWDbNiS",
     "year": 1956,
     "countyNumber": "2",
@@ -4020,6 +4296,18 @@
     "dateAdded": "2026-08-21T15:20:12.000Z"
   },
   {
+    "id": "recCHFAbtPbqR09xA",
+    "year": 1955,
+    "countyNumber": "72",
+    "countyName": "Fentress",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Taxi",
+    "serial": "72TAXI-10",
+    "photoUrl": "assets/img/plates/att6yVSHbG6D9iyhg.jpg",
+    "dateAdded": "2026-08-29T17:11:41.000Z"
+  },
+  {
     "id": "recCIAPKfNR7BZhJw",
     "year": 1951,
     "countyNumber": "22",
@@ -4092,6 +4380,18 @@
     "dateAdded": "2026-08-21T18:02:44.000Z"
   },
   {
+    "id": "recCZ3sP1Iyhq6Fyt",
+    "year": 1951,
+    "countyNumber": "68",
+    "countyName": "Cheatham",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "68-278",
+    "photoUrl": "assets/img/plates/attTt2vuu4WoDwEQL.jpg",
+    "dateAdded": "2026-08-29T13:15:38.000Z"
+  },
+  {
     "id": "recCZQf90IeStPvsf",
     "year": 1952,
     "countyNumber": "8",
@@ -4114,6 +4414,18 @@
     "serial": "60-484",
     "photoUrl": "assets/img/plates/attqwlSS3smyzVnAi.jpg",
     "dateAdded": "2026-08-29T01:29:30.000Z"
+  },
+  {
+    "id": "recCfKD4ncmyQWtYZ",
+    "year": 1942,
+    "countyNumber": "68",
+    "countyName": "Cheatham",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "68-239",
+    "photoUrl": "assets/img/plates/att9eBDPCTnaAPV60.jpg",
+    "dateAdded": "2026-08-29T14:03:45.000Z"
   },
   {
     "id": "recCgkzyoGOGvnL0B",
@@ -4572,6 +4884,18 @@
     "dateAdded": "2026-08-21T18:03:08.000Z"
   },
   {
+    "id": "recEBfYVYpHcorde2",
+    "year": 1941,
+    "countyNumber": "68",
+    "countyName": "Cheatham",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "68F/1-69",
+    "photoUrl": "assets/img/plates/atto1zOb8aLp2Ik82.jpg",
+    "dateAdded": "2026-08-29T13:20:01.000Z"
+  },
+  {
     "id": "recEBpdqi8ySUGLp6",
     "year": 1955,
     "countyNumber": "27",
@@ -4690,6 +5014,18 @@
     "serial": "57-724",
     "photoUrl": "assets/img/plates/attbbMLj2MeJgkhOW.jpg",
     "dateAdded": "2026-08-27T20:46:16.000Z"
+  },
+  {
+    "id": "recETpwAZCPJNU2mM",
+    "year": 1945,
+    "countyNumber": "67",
+    "countyName": "Hickman",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "67-159",
+    "photoUrl": "assets/img/plates/attUmWlc0EKVewa7F.jpg",
+    "dateAdded": "2026-08-29T13:13:13.000Z"
   },
   {
     "id": "recEWcBVX6UKvhzx8",
@@ -5136,6 +5472,18 @@
     "dateAdded": "2026-08-25T01:49:36.000Z"
   },
   {
+    "id": "recG7HqQW7JRj5Js0",
+    "year": 1956,
+    "countyNumber": "68",
+    "countyName": "Cheatham",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "68-557",
+    "photoUrl": "assets/img/plates/att33tfHU9Y8Ujom4.jpg",
+    "dateAdded": "2026-08-29T13:16:18.000Z"
+  },
+  {
     "id": "recG8pESwNeBpS19b",
     "year": 1939,
     "countyNumber": "1",
@@ -5146,6 +5494,18 @@
     "serial": "1A-164",
     "photoUrl": "assets/img/plates/att2fwFoDWvgTAf1z.jpg",
     "dateAdded": "2026-08-13T23:51:26.000Z"
+  },
+  {
+    "id": "recG8zomYhfD5batS",
+    "year": 1965,
+    "countyNumber": "66",
+    "countyName": "Dekalb",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "66-13",
+    "photoUrl": "assets/img/plates/attyAN2ldUHnZzuEf.jpg",
+    "dateAdded": "2026-08-29T13:05:21.000Z"
   },
   {
     "id": "recGDJyPLuvkNRb5i",
@@ -5736,6 +6096,18 @@
     "dateAdded": "2026-08-29T01:29:19.000Z"
   },
   {
+    "id": "recHk3Y2RerV8T4Lj",
+    "year": 1952,
+    "countyNumber": "67",
+    "countyName": "Hickman",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "67P/1-145",
+    "photoUrl": "assets/img/plates/attZCvaS8grYifXfg.jpg",
+    "dateAdded": "2026-08-29T13:10:56.000Z"
+  },
+  {
     "id": "recHkVWoDtLWAlPaH",
     "year": 1939,
     "countyNumber": "8",
@@ -5746,6 +6118,18 @@
     "serial": "8FREE-100",
     "photoUrl": "assets/img/plates/attti9W0RFaQQ4s7d.jpg",
     "dateAdded": "2026-08-21T15:43:04.000Z"
+  },
+  {
+    "id": "recHq524GCQHLiPNW",
+    "year": 1951,
+    "countyNumber": "69",
+    "countyName": "Morgan",
+    "colors": "Orange",
+    "fontColor": "Whiet",
+    "type": "Passenger",
+    "serial": "69-899",
+    "photoUrl": "assets/img/plates/attgbiC3Ywy74iOSp.jpg",
+    "dateAdded": "2026-08-29T16:46:51.000Z"
   },
   {
     "id": "recHqHjUv5W6OOgNN",
@@ -5794,6 +6178,18 @@
     "serial": "64-823",
     "photoUrl": "assets/img/plates/attjaxYddqQ330g0X.jpg",
     "dateAdded": "2026-08-29T02:09:51.000Z"
+  },
+  {
+    "id": "recI43UHKykvYWgC8",
+    "year": 1951,
+    "countyNumber": "71",
+    "countyName": "Benton",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "71-99",
+    "photoUrl": "assets/img/plates/atttbISsW608mEm6K.jpg",
+    "dateAdded": "2026-08-29T17:05:20.000Z"
   },
   {
     "id": "recI4uzWhESATVyOC",
@@ -6336,6 +6732,30 @@
     "dateAdded": "2026-08-21T18:14:28.000Z"
   },
   {
+    "id": "recJzoFWAULXCf3iq",
+    "year": 1956,
+    "countyNumber": "68",
+    "countyName": "Cheatham",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "68-550",
+    "photoUrl": "assets/img/plates/attljm26BFp2RRrcB.jpg",
+    "dateAdded": "2026-08-29T14:05:36.000Z"
+  },
+  {
+    "id": "recK0UC8qLETwWnIM",
+    "year": 1955,
+    "countyNumber": "66",
+    "countyName": "Dekalb",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Heavy Car",
+    "serial": "66D-16",
+    "photoUrl": "assets/img/plates/atto9v7CVQ1x3GVIP.jpg",
+    "dateAdded": "2026-08-29T13:04:21.000Z"
+  },
+  {
     "id": "recK0ZFiuABiKzi83",
     "year": 1951,
     "countyNumber": "50",
@@ -6466,6 +6886,18 @@
     "serial": "1-3321",
     "photoUrl": "assets/img/plates/attPYmkgVDYbNBQS6.jpg",
     "dateAdded": "2026-08-13T22:23:29.000Z"
+  },
+  {
+    "id": "recKN8NyNVHTms6SA",
+    "year": 1954,
+    "countyNumber": "72",
+    "countyName": "Fentress",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Truck",
+    "serial": "72-P/1-151",
+    "photoUrl": "assets/img/plates/attw8vFfNI1dG5yNt.jpg",
+    "dateAdded": "2026-08-29T17:10:45.000Z"
   },
   {
     "id": "recKODdzVUYk3BMk6",
@@ -6634,6 +7066,18 @@
     "serial": "3P/7-Z196",
     "photoUrl": "assets/img/plates/attx5LBRakED5AQxz.jpg",
     "dateAdded": "2026-08-21T00:08:24.000Z"
+  },
+  {
+    "id": "recKongiqzZBfjhoX",
+    "year": 1939,
+    "countyNumber": "70",
+    "countyName": "Grainger",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "70-141",
+    "photoUrl": "assets/img/plates/attKYWR1RV5rlMlB6.jpg",
+    "dateAdded": "2026-08-29T17:02:54.000Z"
   },
   {
     "id": "recKoofsSdF7ssw5R",
@@ -6924,6 +7368,18 @@
     "dateAdded": "2026-08-24T00:54:00.000Z"
   },
   {
+    "id": "recLmqXihkZxpMetD",
+    "year": 1959,
+    "countyNumber": "68",
+    "countyName": "Cheatham",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "68-1",
+    "photoUrl": "assets/img/plates/attu4nCm1sTGHpeBu.jpg",
+    "dateAdded": "2026-08-29T13:21:11.000Z"
+  },
+  {
     "id": "recLnWRsZ8CsrNauC",
     "year": 1954,
     "countyNumber": "27",
@@ -7126,6 +7582,18 @@
     "serial": "32P/2-643",
     "photoUrl": "assets/img/plates/attKE0PA4arApWujl.jpg",
     "dateAdded": "2026-08-23T18:16:48.000Z"
+  },
+  {
+    "id": "recMKPXLHyMFu8V3Z",
+    "year": 1956,
+    "countyNumber": "66",
+    "countyName": "Dekalb",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "66-813",
+    "photoUrl": "assets/img/plates/attq9k2gWiQpFlL9k.jpg",
+    "dateAdded": "2026-08-29T13:06:32.000Z"
   },
   {
     "id": "recMLBnchcPpuI4tC",
@@ -7500,6 +7968,30 @@
     "dateAdded": "2026-08-26T21:47:52.000Z"
   },
   {
+    "id": "recNHH9MU7lL9gd2g",
+    "year": 1949,
+    "countyNumber": "70",
+    "countyName": "Grainger",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "70-426",
+    "photoUrl": "assets/img/plates/attmfuwC05QeBk36E.jpg",
+    "dateAdded": "2026-08-29T17:02:28.000Z"
+  },
+  {
+    "id": "recNIDGCrZPC8w4Rk",
+    "year": 1939,
+    "countyNumber": "68",
+    "countyName": "Cheatham",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "68-460",
+    "photoUrl": "assets/img/plates/atts25IvWvquwgKbz.jpg",
+    "dateAdded": "2026-08-29T13:21:35.000Z"
+  },
+  {
     "id": "recNIXEsmVr2BOGye",
     "year": 1940,
     "countyNumber": "46",
@@ -7546,6 +8038,18 @@
     "serial": "38-1500",
     "photoUrl": "assets/img/plates/attYsLgdB9njQCqQc.jpg",
     "dateAdded": "2026-08-25T02:10:05.000Z"
+  },
+  {
+    "id": "recNO6IWUJgK7UY4T",
+    "year": 1951,
+    "countyNumber": "68",
+    "countyName": "Cheatham",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "68-817",
+    "photoUrl": "assets/img/plates/attrzsYUA0jZ3H7ZO.jpg",
+    "dateAdded": "2026-08-29T13:16:47.000Z"
   },
   {
     "id": "recNTzoaKDiAZkT5p",
@@ -7836,6 +8340,18 @@
     "dateAdded": "2026-08-26T21:24:49.000Z"
   },
   {
+    "id": "recOG784nMLC8uIPh",
+    "year": 1939,
+    "countyNumber": "68",
+    "countyName": "Cheatham",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "68-131",
+    "photoUrl": "assets/img/plates/attaCdDtB58lxmXBl.jpg",
+    "dateAdded": "2026-08-29T14:05:46.000Z"
+  },
+  {
     "id": "recOGb5FCl1jc6r60",
     "year": 1944,
     "countyNumber": "17",
@@ -7858,6 +8374,18 @@
     "serial": "38-3147",
     "photoUrl": "assets/img/plates/attVV3D0qPfahRHh3.jpg",
     "dateAdded": "2026-08-25T02:14:22.000Z"
+  },
+  {
+    "id": "recOIzVlvP6d1ldvP",
+    "year": 1955,
+    "countyNumber": "66",
+    "countyName": "Dekalb",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "66-1140",
+    "photoUrl": "assets/img/plates/att9C2wflE36EDtpS.jpg",
+    "dateAdded": "2026-08-29T13:03:57.000Z"
   },
   {
     "id": "recOJsnoLV5uKQMKP",
@@ -7932,6 +8460,30 @@
     "dateAdded": "2026-08-21T00:58:00.000Z"
   },
   {
+    "id": "recOXDNgDcAZmchmj",
+    "year": 1950,
+    "countyNumber": "72",
+    "countyName": "Fentress",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "72-1104",
+    "photoUrl": "assets/img/plates/attCMiW0O3kj74puz.jpg",
+    "dateAdded": "2026-08-29T17:10:21.000Z"
+  },
+  {
+    "id": "recOY1H5knb7t6FV9",
+    "year": 1946,
+    "countyNumber": "71",
+    "countyName": "Benton",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "71-234",
+    "photoUrl": "assets/img/plates/attJf2Ph7fB2X0R8o.jpg",
+    "dateAdded": "2026-08-29T17:05:00.000Z"
+  },
+  {
     "id": "recOYKE5HZTH3ZuJn",
     "year": 1953,
     "countyNumber": "36",
@@ -7980,6 +8532,18 @@
     "dateAdded": "2026-08-26T22:01:00.000Z"
   },
   {
+    "id": "recOe7b44mYHQLQix",
+    "year": 1942,
+    "countyNumber": "69",
+    "countyName": "Morgan",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "69F/1-1",
+    "photoUrl": "assets/img/plates/attLJcTUjuPxixPyu.jpg",
+    "dateAdded": "2026-08-29T16:47:45.000Z"
+  },
+  {
     "id": "recOfLiB74TUaqNud",
     "year": 1964,
     "countyNumber": "29",
@@ -7990,6 +8554,18 @@
     "serial": "29-171",
     "photoUrl": "assets/img/plates/attNMAk4mRwfLAVrs.jpg",
     "dateAdded": "2026-08-23T12:13:13.000Z"
+  },
+  {
+    "id": "recOhHWf38wRwfp9b",
+    "year": 1952,
+    "countyNumber": "72",
+    "countyName": "Fentress",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "72-155",
+    "photoUrl": "assets/img/plates/attJgUE9QvkuZ8KPI.jpg",
+    "dateAdded": "2026-08-29T17:11:56.000Z"
   },
   {
     "id": "recOkVoRUeZaeVpr2",
@@ -8086,6 +8662,18 @@
     "serial": "21P/1-97",
     "photoUrl": "assets/img/plates/attzIxhD1ONvJ5ElQ.jpg",
     "dateAdded": "2026-08-22T14:44:44.000Z"
+  },
+  {
+    "id": "recOwqiwmqF7L9rkW",
+    "year": 1950,
+    "countyNumber": "66",
+    "countyName": "Dekalb",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "66-108",
+    "photoUrl": "assets/img/plates/attKN3S6phIUqa4jp.jpg",
+    "dateAdded": "2026-08-29T13:01:56.000Z"
   },
   {
     "id": "recOy7TnJiRXIfgqe",
@@ -8352,6 +8940,18 @@
     "dateAdded": "2026-08-22T13:27:55.000Z"
   },
   {
+    "id": "recPtN3G08VXxGZrj",
+    "year": 1944,
+    "countyNumber": "72",
+    "countyName": "Fentress",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "72P/2-605",
+    "photoUrl": "assets/img/plates/attxSfzJb9lAQO8nn.jpg",
+    "dateAdded": "2026-08-29T17:12:07.000Z"
+  },
+  {
     "id": "recPvMoQfkJGpxtIk",
     "year": 1942,
     "countyNumber": "43",
@@ -8362,6 +8962,18 @@
     "serial": "43-1889",
     "photoUrl": "assets/img/plates/atti6oQSXMp9MKDTn.jpg",
     "dateAdded": "2026-08-26T21:01:39.000Z"
+  },
+  {
+    "id": "recPwAr8GOG8z2Tq4",
+    "year": 1953,
+    "countyNumber": "66",
+    "countyName": "Dekalb",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "66-647",
+    "photoUrl": "assets/img/plates/attBiZO1kRsignEQM.jpg",
+    "dateAdded": "2026-08-29T13:05:57.000Z"
   },
   {
     "id": "recPyET4jJB0mIxUT",
@@ -8424,6 +9036,18 @@
     "dateAdded": "2026-08-22T14:49:07.000Z"
   },
   {
+    "id": "recQBeEiTvuPyaB9m",
+    "year": 1948,
+    "countyNumber": "72",
+    "countyName": "Fentress",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "72-893",
+    "photoUrl": "assets/img/plates/attdEsb9Ur6X31cWK.jpg",
+    "dateAdded": "2026-08-29T17:09:53.000Z"
+  },
+  {
     "id": "recQKX0PTutGejBhW",
     "year": 1952,
     "countyNumber": "50",
@@ -8458,6 +9082,18 @@
     "serial": "27-739",
     "photoUrl": "assets/img/plates/atthtkFE3IvnXf692.jpg",
     "dateAdded": "2026-08-23T02:43:20.000Z"
+  },
+  {
+    "id": "recQR0eZ44j3BB3tn",
+    "year": 1951,
+    "countyNumber": "66",
+    "countyName": "Dekalb",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "66-881",
+    "photoUrl": "assets/img/plates/attBXQYWwazF6vqD6.jpg",
+    "dateAdded": "2026-08-29T13:03:33.000Z"
   },
   {
     "id": "recQRtlTdExChgoZL",
@@ -8638,6 +9274,18 @@
     "serial": "27-2174",
     "photoUrl": "assets/img/plates/attdnfqW24pS1pajY.jpg",
     "dateAdded": "2026-08-23T11:52:52.000Z"
+  },
+  {
+    "id": "recQkbcSXeqdRd0LO",
+    "year": 1939,
+    "countyNumber": "66",
+    "countyName": "Dekalb",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "66-209",
+    "photoUrl": "assets/img/plates/attHP8dJ3x47KAxu9.jpg",
+    "dateAdded": "2026-08-29T13:05:33.000Z"
   },
   {
     "id": "recQl3pROd9e947dQ",
@@ -8866,6 +9514,18 @@
     "serial": "55-1281",
     "photoUrl": "assets/img/plates/attwNoGBfN9PZq4AB.jpg",
     "dateAdded": "2026-08-27T01:00:20.000Z"
+  },
+  {
+    "id": "recRBciaQ3CgrEz3e",
+    "year": 1949,
+    "countyNumber": "72",
+    "countyName": "Fentress",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "72-805",
+    "photoUrl": "assets/img/plates/att5eT5BdMQv5pUL2.jpg",
+    "dateAdded": "2026-08-29T17:13:14.000Z"
   },
   {
     "id": "recRCCoS9z6PY9tmw",
@@ -9372,6 +10032,18 @@
     "dateAdded": "2026-08-23T11:59:47.000Z"
   },
   {
+    "id": "recT8z6pWjRVlHcSf",
+    "year": 1946,
+    "countyNumber": "70",
+    "countyName": "Grainger",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "70-45",
+    "photoUrl": "assets/img/plates/attV5pSd4ofhQ2j78.jpg",
+    "dateAdded": "2026-08-29T17:00:01.000Z"
+  },
+  {
     "id": "recT9YnJUho0v6uun",
     "year": 1949,
     "countyNumber": "21",
@@ -9756,6 +10428,18 @@
     "dateAdded": "2026-08-22T15:13:07.000Z"
   },
   {
+    "id": "recUPST8qlgoj7xbS",
+    "year": 1945,
+    "countyNumber": "70",
+    "countyName": "Grainger",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "70-78",
+    "photoUrl": "assets/img/plates/att6p0mSRBaIeEvkJ.jpg",
+    "dateAdded": "2026-08-29T17:01:42.000Z"
+  },
+  {
     "id": "recUPbtt1bcWCabfK",
     "year": 1953,
     "countyNumber": "4",
@@ -10032,6 +10716,30 @@
     "dateAdded": "2026-08-21T18:19:13.000Z"
   },
   {
+    "id": "recV6Kcq3WhciTxYI",
+    "year": 1952,
+    "countyNumber": "68",
+    "countyName": "Cheatham",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "68F/1-161",
+    "photoUrl": "assets/img/plates/attYP917vgo48sco6.jpg",
+    "dateAdded": "2026-08-29T14:04:46.000Z"
+  },
+  {
+    "id": "recVATCQVGL46Cdai",
+    "year": 1956,
+    "countyNumber": "68",
+    "countyName": "Cheatham",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "68D-111",
+    "photoUrl": "assets/img/plates/attC8rexbOiUNePlY.jpg",
+    "dateAdded": "2026-08-29T13:18:53.000Z"
+  },
+  {
     "id": "recVBFFiKsaVXVjQK",
     "year": 1950,
     "countyNumber": "33",
@@ -10306,6 +11014,18 @@
     "serial": "16F/1-62",
     "photoUrl": "assets/img/plates/attbcaLUj8f1hHD5A.jpg",
     "dateAdded": "2026-08-22T03:11:25.000Z"
+  },
+  {
+    "id": "recWERtNlzdiAcI75",
+    "year": 1954,
+    "countyNumber": "69",
+    "countyName": "Morgan",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "69-241",
+    "photoUrl": "assets/img/plates/attOCRXMXULSuLdo8.jpg",
+    "dateAdded": "2026-08-29T16:47:07.000Z"
   },
   {
     "id": "recWEfGFwHagUliiH",
@@ -10740,6 +11460,18 @@
     "dateAdded": "2026-08-21T14:58:10.000Z"
   },
   {
+    "id": "recXO7IAzOTE88JOu",
+    "year": 1951,
+    "countyNumber": "68",
+    "countyName": "Cheatham",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "68F/1-228",
+    "photoUrl": "assets/img/plates/att7JbVkSNFL4yCDC.jpg",
+    "dateAdded": "2026-08-29T13:15:53.000Z"
+  },
+  {
     "id": "recXRWcpEpCqfFcPv",
     "year": 1954,
     "countyNumber": "50",
@@ -10800,6 +11532,18 @@
     "dateAdded": "2026-08-21T00:02:03.000Z"
   },
   {
+    "id": "recXdWDQ5KtK640Uu",
+    "year": 1952,
+    "countyNumber": "69",
+    "countyName": "Morgan",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "69-3",
+    "photoUrl": "assets/img/plates/attJGSvFtpzMMkgk4.jpg",
+    "dateAdded": "2026-08-29T16:48:46.000Z"
+  },
+  {
     "id": "recXfRUVrbD43IOL1",
     "year": 1948,
     "countyNumber": "11",
@@ -10810,6 +11554,30 @@
     "serial": "11-5263",
     "photoUrl": "assets/img/plates/attMYqXxU0Fv1kCSQ.jpg",
     "dateAdded": "2026-08-21T18:05:12.000Z"
+  },
+  {
+    "id": "recXg1skuQTjrCHb9",
+    "year": 1956,
+    "countyNumber": "67",
+    "countyName": "Hickman",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "67-2342",
+    "photoUrl": "assets/img/plates/attdTBoCqPNLIZcSx.jpg",
+    "dateAdded": "2026-08-29T13:11:18.000Z"
+  },
+  {
+    "id": "recXgxbydmAvxlsS2",
+    "year": 1945,
+    "countyNumber": "69",
+    "countyName": "Morgan",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "69-730",
+    "photoUrl": "assets/img/plates/attvREHYKwDSVcWwi.jpg",
+    "dateAdded": "2026-08-29T16:47:19.000Z"
   },
   {
     "id": "recXjuuOEPnKl7iD6",
@@ -10884,6 +11652,18 @@
     "dateAdded": "2026-08-22T14:36:17.000Z"
   },
   {
+    "id": "recXyPVBrX4Q8MXdu",
+    "year": 1950,
+    "countyNumber": "67",
+    "countyName": "Hickman",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "67-916",
+    "photoUrl": "assets/img/plates/attex7EZfmpqvElpd.jpg",
+    "dateAdded": "2026-08-29T13:12:29.000Z"
+  },
+  {
     "id": "recY2KHAaKyGCMJfP",
     "year": 1955,
     "countyNumber": "51",
@@ -10942,6 +11722,18 @@
     "serial": "15-1716",
     "photoUrl": "assets/img/plates/attW4OW1FjbHj9wAx.jpg",
     "dateAdded": "2026-08-21T20:38:56.000Z"
+  },
+  {
+    "id": "recYC5doOmfjxcGZL",
+    "year": 1954,
+    "countyNumber": "70",
+    "countyName": "Grainger",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "70-570",
+    "photoUrl": "assets/img/plates/att4xK78ChWA4LPm7.jpg",
+    "dateAdded": "2026-08-29T17:02:02.000Z"
   },
   {
     "id": "recYCDEQ1lDUNMyrh",
@@ -11028,6 +11820,18 @@
     "dateAdded": "2026-08-21T00:44:23.000Z"
   },
   {
+    "id": "recYi3TZAqiidCKIs",
+    "year": 1951,
+    "countyNumber": "70",
+    "countyName": "Grainger",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "70-574",
+    "photoUrl": "assets/img/plates/attrwa4IUYGxZcGCC.jpg",
+    "dateAdded": "2026-08-29T16:58:05.000Z"
+  },
+  {
     "id": "recYj9ijvx3j12PPY",
     "year": 1947,
     "countyNumber": "58",
@@ -11074,6 +11878,18 @@
     "serial": "13-7594",
     "photoUrl": "assets/img/plates/attEYgYw13XpDTlmT.jpg",
     "dateAdded": "2026-08-21T20:15:34.000Z"
+  },
+  {
+    "id": "recYlMDbCkHwWpASq",
+    "year": 1942,
+    "countyNumber": "66",
+    "countyName": "Dekalb",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "66P/1-66",
+    "photoUrl": "assets/img/plates/attDF3tgA1AePfcAU.jpg",
+    "dateAdded": "2026-08-29T13:03:13.000Z"
   },
   {
     "id": "recYoFV7jkoTSYIVH",
@@ -11148,6 +11964,18 @@
     "dateAdded": "2026-08-21T15:54:03.000Z"
   },
   {
+    "id": "recZ3XrjE5B8mB2tB",
+    "year": 1947,
+    "countyNumber": "67",
+    "countyName": "Hickman",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "67D-336",
+    "photoUrl": "assets/img/plates/att6Hc3lb658wjWFa.jpg",
+    "dateAdded": "2026-08-29T13:08:37.000Z"
+  },
+  {
     "id": "recZ4SysCh2AzZBZa",
     "year": 1951,
     "countyNumber": "4",
@@ -11194,6 +12022,18 @@
     "serial": "35-786",
     "photoUrl": "assets/img/plates/attqYelQjAsCZCQgv.jpg",
     "dateAdded": "2026-08-24T01:07:45.000Z"
+  },
+  {
+    "id": "recZAkFDr27cKHX8s",
+    "year": 1956,
+    "countyNumber": "70",
+    "countyName": "Grainger",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "70-428",
+    "photoUrl": "assets/img/plates/attLO4P7fJVqeE6k6.jpg",
+    "dateAdded": "2026-08-29T16:59:38.000Z"
   },
   {
     "id": "recZBF11B1TzapqxD",
@@ -11350,6 +12190,18 @@
     "serial": "13-46",
     "photoUrl": "assets/img/plates/attgGp5gKmVTMfyZq.jpg",
     "dateAdded": "2026-08-21T20:04:14.000Z"
+  },
+  {
+    "id": "recZQugZjoknqqgI1",
+    "year": 1953,
+    "countyNumber": "66",
+    "countyName": "Dekalb",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Heavy Car",
+    "serial": "66D-29",
+    "photoUrl": "assets/img/plates/attu40tuL2yrQSg40.jpg",
+    "dateAdded": "2026-08-29T13:02:59.000Z"
   },
   {
     "id": "recZSbiOB6DRRQSWx",
@@ -11530,6 +12382,18 @@
     "serial": "48-139",
     "photoUrl": "assets/img/plates/attqaMNDXmhT33f89.jpg",
     "dateAdded": "2026-08-26T22:00:36.000Z"
+  },
+  {
+    "id": "reca7DASOR8mz9Qj9",
+    "year": 1952,
+    "countyNumber": "66",
+    "countyName": "Dekalb",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "66-323",
+    "photoUrl": "assets/img/plates/attPD8mqTcFKQj765.jpg",
+    "dateAdded": "2026-08-29T13:05:46.000Z"
   },
   {
     "id": "recaD9IMDmEP90tmL",
@@ -11734,6 +12598,30 @@
     "serial": "11-959",
     "photoUrl": "assets/img/plates/attTW7QUGyN5cgBUP.jpg",
     "dateAdded": "2026-08-21T18:06:58.000Z"
+  },
+  {
+    "id": "recatExrLXZjhUsAB",
+    "year": 1956,
+    "countyNumber": "72",
+    "countyName": "Fentress",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "72-3",
+    "photoUrl": "assets/img/plates/attOxE9iKtk0BdCTr.jpg",
+    "dateAdded": "2026-08-29T17:12:25.000Z"
+  },
+  {
+    "id": "recatEyCm6wrawIZi",
+    "year": 1959,
+    "countyNumber": "72",
+    "countyName": "Fentress",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "72-1",
+    "photoUrl": "assets/img/plates/att48jejZ50tailBL.jpg",
+    "dateAdded": "2026-08-29T17:13:01.000Z"
   },
   {
     "id": "recatIHIYyFMY7iui",
@@ -12010,6 +12898,18 @@
     "serial": "9CITY-502",
     "photoUrl": "assets/img/plates/attFR0hEC3JESLwLl.jpg",
     "dateAdded": "2026-08-21T15:48:57.000Z"
+  },
+  {
+    "id": "recbkOK3Q0eHSjUqK",
+    "year": 1953,
+    "countyNumber": "68",
+    "countyName": "Cheatham",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "68-1212",
+    "photoUrl": "assets/img/plates/attQrsgctpnuBJ3Uv.jpg",
+    "dateAdded": "2026-08-29T13:17:31.000Z"
   },
   {
     "id": "recbl7eR7XVuYmSHa",
@@ -12324,6 +13224,18 @@
     "dateAdded": "2026-08-29T02:12:18.000Z"
   },
   {
+    "id": "reccnuryWGsdRHso3",
+    "year": 1939,
+    "countyNumber": "66",
+    "countyName": "Dekalb",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "66-209",
+    "photoUrl": "assets/img/plates/attlmFRPBmBA458ik.jpg",
+    "dateAdded": "2026-08-29T13:05:08.000Z"
+  },
+  {
     "id": "reccp0Q03J9PaFngg",
     "year": 1941,
     "countyNumber": "56",
@@ -12540,6 +13452,18 @@
     "dateAdded": "2026-08-29T02:07:20.000Z"
   },
   {
+    "id": "recdS1dUZheahXVQM",
+    "year": 1945,
+    "countyNumber": "66",
+    "countyName": "Dekalb",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "66-116",
+    "photoUrl": "assets/img/plates/attZtsFhV1YGokItu.jpg",
+    "dateAdded": "2026-08-29T13:06:08.000Z"
+  },
+  {
     "id": "recdSBVSAr6au10QU",
     "year": 1947,
     "countyNumber": "27",
@@ -12708,6 +13632,18 @@
     "dateAdded": "2026-08-26T20:38:00.000Z"
   },
   {
+    "id": "rece0d8BEGOQH7Skk",
+    "year": 1955,
+    "countyNumber": "68",
+    "countyName": "Cheatham",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "68-550",
+    "photoUrl": "assets/img/plates/attP2wvK0NSreO9DX.jpg",
+    "dateAdded": "2026-08-29T14:05:18.000Z"
+  },
+  {
     "id": "rece2wuV0tGeKl3jR",
     "year": 1954,
     "countyNumber": "15",
@@ -12814,6 +13750,18 @@
     "serial": "62-20",
     "photoUrl": "assets/img/plates/attIWftZ2UsharD5k.jpg",
     "dateAdded": "2026-08-29T01:47:14.000Z"
+  },
+  {
+    "id": "receQXuzTd5y0SQlL",
+    "year": 1953,
+    "countyNumber": "72",
+    "countyName": "Fentress",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "72-70",
+    "photoUrl": "assets/img/plates/attFFv4n8DFLCZsSv.jpg",
+    "dateAdded": "2026-08-29T17:12:37.000Z"
   },
   {
     "id": "receSxPmsQsxegLt5",
@@ -13236,6 +14184,18 @@
     "dateAdded": "2026-08-27T00:52:34.000Z"
   },
   {
+    "id": "recfK8PbaZJ93kqH3",
+    "year": 1951,
+    "countyNumber": "67",
+    "countyName": "Hickman",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "67F/1-213",
+    "photoUrl": "assets/img/plates/attEk0lTJn2NEmlem.jpg",
+    "dateAdded": "2026-08-29T13:09:22.000Z"
+  },
+  {
     "id": "recfL3f6KhocRG9vR",
     "year": 1955,
     "countyNumber": "17",
@@ -13536,6 +14496,18 @@
     "dateAdded": "2026-08-23T18:14:43.000Z"
   },
   {
+    "id": "recgGG4AvJtBkrCrd",
+    "year": 1951,
+    "countyNumber": "67",
+    "countyName": "Hickman",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "67-330",
+    "photoUrl": "assets/img/plates/attcsX9onLgSax3FG.jpg",
+    "dateAdded": "2026-08-29T13:10:39.000Z"
+  },
+  {
     "id": "recgIbl3xE9QyvBHy",
     "year": 1950,
     "countyNumber": "50",
@@ -13558,6 +14530,18 @@
     "serial": "59-1904",
     "photoUrl": "assets/img/plates/attTAYXLG78JXqZpZ.jpg",
     "dateAdded": "2026-08-28T20:58:25.000Z"
+  },
+  {
+    "id": "recgKuQwqCDh9OlCr",
+    "year": 1951,
+    "countyNumber": "66",
+    "countyName": "Dekalb",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "66-709",
+    "photoUrl": "assets/img/plates/att82wFsJIbmUbcU4.jpg",
+    "dateAdded": "2026-08-29T13:03:43.000Z"
   },
   {
     "id": "recgRSR1AtD6a16ys",
@@ -13594,6 +14578,18 @@
     "serial": "23-46",
     "photoUrl": "assets/img/plates/att8tF5zMgVwEcBaK.jpg",
     "dateAdded": "2026-08-22T14:58:17.000Z"
+  },
+  {
+    "id": "recgevYurweeRi78G",
+    "year": 1956,
+    "countyNumber": "68",
+    "countyName": "Cheatham",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "68-557",
+    "photoUrl": "assets/img/plates/attivuEY1DnoeelMU.jpg",
+    "dateAdded": "2026-08-29T13:18:04.000Z"
   },
   {
     "id": "recgfLHUAwNyCjPuW",
@@ -13752,6 +14748,18 @@
     "dateAdded": "2026-08-25T01:57:54.000Z"
   },
   {
+    "id": "rechCONF60adH8mr3",
+    "year": 1951,
+    "countyNumber": "68",
+    "countyName": "Cheatham",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "68-817",
+    "photoUrl": "assets/img/plates/attgKiQTxQxOCQPIZ.jpg",
+    "dateAdded": "2026-08-29T13:16:07.000Z"
+  },
+  {
     "id": "rechHYFZAJzlxVwWq",
     "year": 1953,
     "countyNumber": "5",
@@ -13798,6 +14806,18 @@
     "serial": "46-3388",
     "photoUrl": "assets/img/plates/att5yowKV1OAKx83N.jpg",
     "dateAdded": "2026-08-26T21:50:24.000Z"
+  },
+  {
+    "id": "rechMba91WHgvzTMD",
+    "year": 1949,
+    "countyNumber": "69",
+    "countyName": "Morgan",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "69-1094",
+    "photoUrl": "assets/img/plates/attGXK6alJszeCQcF.jpg",
+    "dateAdded": "2026-08-29T16:48:59.000Z"
   },
   {
     "id": "rechQn0iaihkv3nXY",
@@ -13884,6 +14904,18 @@
     "dateAdded": "2026-08-22T13:31:29.000Z"
   },
   {
+    "id": "rechaExtclXhKy63o",
+    "year": 1951,
+    "countyNumber": "72",
+    "countyName": "Fentress",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "72P/1-284",
+    "photoUrl": "assets/img/plates/atttYbw1Sg8AU6FtL.jpg",
+    "dateAdded": "2026-08-29T17:13:28.000Z"
+  },
+  {
     "id": "rechbs6bAiSLxuhbf",
     "year": 1955,
     "countyNumber": "16",
@@ -13942,6 +14974,18 @@
     "serial": "17-1293",
     "photoUrl": "assets/img/plates/attH7kyvFuE8DbgdF.jpg",
     "dateAdded": "2026-08-22T03:27:40.000Z"
+  },
+  {
+    "id": "rechlEB8ILZ9wbkiM",
+    "year": 1960,
+    "countyNumber": "68",
+    "countyName": "Cheatham",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "68-1",
+    "photoUrl": "assets/img/plates/attYr3zsaiEetCXBZ.jpg",
+    "dateAdded": "2026-08-29T13:21:22.000Z"
   },
   {
     "id": "rechmYxCdRGdb7HjU",
@@ -14772,6 +15816,18 @@
     "dateAdded": "2026-08-23T11:42:36.000Z"
   },
   {
+    "id": "reckBnsSjqq5lzRBF",
+    "year": 1941,
+    "countyNumber": "68",
+    "countyName": "Cheatham",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "68F/1-69",
+    "photoUrl": "assets/img/plates/attWdjl5Uh8LgG5Hb.jpg",
+    "dateAdded": "2026-08-29T13:16:33.000Z"
+  },
+  {
     "id": "reckCEElfVEjODP8t",
     "year": 1956,
     "countyNumber": "21",
@@ -15156,6 +16212,18 @@
     "dateAdded": "2026-08-27T20:45:52.000Z"
   },
   {
+    "id": "reclfvmR3J3mekj5j",
+    "year": 1947,
+    "countyNumber": "70",
+    "countyName": "Grainger",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "70D-316",
+    "photoUrl": "assets/img/plates/attYAjYNVGe5TwehQ.jpg",
+    "dateAdded": "2026-08-29T17:02:41.000Z"
+  },
+  {
     "id": "reclgf4jLcsWc0oNh",
     "year": 1939,
     "countyNumber": "38",
@@ -15312,6 +16380,18 @@
     "dateAdded": "2026-08-20T23:50:40.000Z"
   },
   {
+    "id": "recmGrugOLtdIe61Q",
+    "year": 1951,
+    "countyNumber": "66",
+    "countyName": "Dekalb",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "66-183",
+    "photoUrl": "assets/img/plates/attO4Sn7qVMaltx0G.jpg",
+    "dateAdded": "2026-08-29T13:06:52.000Z"
+  },
+  {
     "id": "recmJKBhC3zSKSR5c",
     "year": 1951,
     "countyNumber": "21",
@@ -15456,6 +16536,18 @@
     "dateAdded": "2026-08-21T20:07:14.000Z"
   },
   {
+    "id": "recmdr4gchgPzgmrM",
+    "year": 1954,
+    "countyNumber": "68",
+    "countyName": "Cheatham",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "68-2110",
+    "photoUrl": "assets/img/plates/attm8LjmkmLrwhdUh.jpg",
+    "dateAdded": "2026-08-29T14:05:01.000Z"
+  },
+  {
     "id": "recmftAXd877HD7x6",
     "year": 1953,
     "countyNumber": "38",
@@ -15466,6 +16558,18 @@
     "serial": "38P/7-Z04",
     "photoUrl": "assets/img/plates/att4gC5e2OwoWNzc4.jpg",
     "dateAdded": "2026-08-25T02:12:19.000Z"
+  },
+  {
+    "id": "recmg3Wu6RPv7HDfh",
+    "year": 1941,
+    "countyNumber": "69",
+    "countyName": "Morgan",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "69F/1-1",
+    "photoUrl": "assets/img/plates/att3rjrJpzL3hI1c6.jpg",
+    "dateAdded": "2026-08-29T16:47:32.000Z"
   },
   {
     "id": "recmi4gkk4BFH7i4g",
@@ -15876,6 +16980,18 @@
     "dateAdded": "2026-08-29T01:44:40.000Z"
   },
   {
+    "id": "recnWXhzO7NXWoQ2J",
+    "year": 1951,
+    "countyNumber": "69",
+    "countyName": "Morgan",
+    "colors": "Orange",
+    "fontColor": "Whiet",
+    "type": "Farm Truck",
+    "serial": "69F/1-368",
+    "photoUrl": "assets/img/plates/attK9adB7eejgJJKL.jpg",
+    "dateAdded": "2026-08-29T16:46:34.000Z"
+  },
+  {
     "id": "recnbmCg66yEI82VY",
     "year": 1948,
     "countyNumber": "57",
@@ -15898,6 +17014,18 @@
     "serial": "18-591",
     "photoUrl": "assets/img/plates/attX60YwOTVTvoTZg.jpg",
     "dateAdded": "2026-08-22T13:04:55.000Z"
+  },
+  {
+    "id": "recndz0Xl9ZZdlc4u",
+    "year": 1940,
+    "countyNumber": "67",
+    "countyName": "Hickman",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "67-86",
+    "photoUrl": "assets/img/plates/attsNVdA9Wk7YQtvV.jpg",
+    "dateAdded": "2026-08-29T13:07:33.000Z"
   },
   {
     "id": "recniRyy2LwGHnoJU",
@@ -16234,6 +17362,30 @@
     "serial": "4-9782",
     "photoUrl": "assets/img/plates/attm4uHFLViFkG7Ux.jpg",
     "dateAdded": "2026-08-21T00:48:24.000Z"
+  },
+  {
+    "id": "recoh3bXdTO0yzDLO",
+    "year": 1955,
+    "countyNumber": "68",
+    "countyName": "Cheatham",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "County",
+    "serial": "68COUNTY-21",
+    "photoUrl": "assets/img/plates/attIgiXTyWXfW4LBS.jpg",
+    "dateAdded": "2026-08-29T13:17:46.000Z"
+  },
+  {
+    "id": "recooWUGAkB2zUqYA",
+    "year": 1951,
+    "countyNumber": "67",
+    "countyName": "Hickman",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "67-182",
+    "photoUrl": "assets/img/plates/attzManvY0VDIFGCD.jpg",
+    "dateAdded": "2026-08-29T13:12:43.000Z"
   },
   {
     "id": "recopg6xldErph2v7",
@@ -16692,6 +17844,18 @@
     "dateAdded": "2026-08-26T21:25:10.000Z"
   },
   {
+    "id": "recqcta0CiVk6ndxY",
+    "year": 1951,
+    "countyNumber": "67",
+    "countyName": "Hickman",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "67-366",
+    "photoUrl": "assets/img/plates/att054LEAcwIReHTg.jpg",
+    "dateAdded": "2026-08-29T13:09:48.000Z"
+  },
+  {
     "id": "recqhncJYwrmEO9Qk",
     "year": 1963,
     "countyNumber": "28",
@@ -16738,6 +17902,18 @@
     "serial": "59-226",
     "photoUrl": "assets/img/plates/attnyV9chVfxB7Byn.jpg",
     "dateAdded": "2026-08-28T20:53:22.000Z"
+  },
+  {
+    "id": "recqnA0oryMDjgIXX",
+    "year": 1951,
+    "countyNumber": "72",
+    "countyName": "Fentress",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "72-1166",
+    "photoUrl": "assets/img/plates/attwgt0LMIZ7zDftk.jpg",
+    "dateAdded": "2026-08-29T17:10:33.000Z"
   },
   {
     "id": "recqo6l664c6Cc1me",
@@ -16932,6 +18108,18 @@
     "dateAdded": "2026-08-25T02:00:22.000Z"
   },
   {
+    "id": "recrCAq9Zc59q7V6z",
+    "year": 1948,
+    "countyNumber": "68",
+    "countyName": "Cheatham",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "68-603",
+    "photoUrl": "assets/img/plates/attol9NR3znL0Zcaf.jpg",
+    "dateAdded": "2026-08-29T14:04:32.000Z"
+  },
+  {
     "id": "recrEiPvmGNtXt8Di",
     "year": 1940,
     "countyNumber": "21",
@@ -16942,6 +18130,18 @@
     "serial": "21-826",
     "photoUrl": "assets/img/plates/att2lVgAA2QPDb8L5.jpg",
     "dateAdded": "2026-08-22T14:32:23.000Z"
+  },
+  {
+    "id": "recrEpMlnpuQeHqrF",
+    "year": 1950,
+    "countyNumber": "70",
+    "countyName": "Grainger",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "70P/1-4",
+    "photoUrl": "assets/img/plates/attuq1ac9Te69kRrL.jpg",
+    "dateAdded": "2026-08-29T17:00:57.000Z"
   },
   {
     "id": "recrF5KKd9TSSlIkq",
@@ -17088,6 +18288,18 @@
     "dateAdded": "2026-08-26T20:43:00.000Z"
   },
   {
+    "id": "recroXmSkkzGCpRn7",
+    "year": 1956,
+    "countyNumber": "67",
+    "countyName": "Hickman",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "67-190",
+    "photoUrl": "assets/img/plates/att3uahMQCQEDx6l5.jpg",
+    "dateAdded": "2026-08-29T13:11:30.000Z"
+  },
+  {
     "id": "recrwFcuD45aIx5rk",
     "year": 1953,
     "countyNumber": "9",
@@ -17196,6 +18408,18 @@
     "dateAdded": "2026-08-22T14:59:14.000Z"
   },
   {
+    "id": "recsBm8f8xMqRpTLK",
+    "year": 1952,
+    "countyNumber": "67",
+    "countyName": "Hickman",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "67-316",
+    "photoUrl": "assets/img/plates/attN1ViY6hWe2fJJF.jpg",
+    "dateAdded": "2026-08-29T13:12:16.000Z"
+  },
+  {
     "id": "recsCBp82lgVjfsy6",
     "year": 1954,
     "countyNumber": "21",
@@ -17292,6 +18516,18 @@
     "dateAdded": "2026-08-20T02:34:41.000Z"
   },
   {
+    "id": "recsT6j8THNXa1fDz",
+    "year": 1956,
+    "countyNumber": "70",
+    "countyName": "Grainger",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "70F/1-94",
+    "photoUrl": "assets/img/plates/att9VmSC7CkxYP2RP.jpg",
+    "dateAdded": "2026-08-29T16:59:25.000Z"
+  },
+  {
     "id": "recsTjs8hScvlP0Ff",
     "year": 1953,
     "countyNumber": "25",
@@ -17302,6 +18538,18 @@
     "serial": "25D-162",
     "photoUrl": "assets/img/plates/attzaqlpysq5fMxlD.jpg",
     "dateAdded": "2026-08-22T15:10:40.000Z"
+  },
+  {
+    "id": "recsY0zexLDKHoqUh",
+    "year": 1948,
+    "countyNumber": "70",
+    "countyName": "Grainger",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "70P/1-70",
+    "photoUrl": "assets/img/plates/attcO6qDtKa1IzQr3.jpg",
+    "dateAdded": "2026-08-29T17:00:26.000Z"
   },
   {
     "id": "recsa4uEOsynPEAKN",
@@ -17374,6 +18622,18 @@
     "serial": "8D-496",
     "photoUrl": "assets/img/plates/attT2ZMypc01Cmq5i.jpg",
     "dateAdded": "2026-08-21T15:38:13.000Z"
+  },
+  {
+    "id": "recshVcZDqSut9hMh",
+    "year": 1950,
+    "countyNumber": "68",
+    "countyName": "Cheatham",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "68-614",
+    "photoUrl": "assets/img/plates/attwcOzNf9G4mW1qO.jpg",
+    "dateAdded": "2026-08-29T13:18:39.000Z"
   },
   {
     "id": "recsopUGI6MWFUweq",
@@ -17542,6 +18802,18 @@
     "serial": "17F/1-2",
     "photoUrl": "assets/img/plates/attNRVuTh5iQLHxrw.jpg",
     "dateAdded": "2026-08-22T03:25:22.000Z"
+  },
+  {
+    "id": "rect0H1WyvNOjNrmx",
+    "year": 1939,
+    "countyNumber": "71",
+    "countyName": "Benton",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "71-573",
+    "photoUrl": "assets/img/plates/att4EWPB9PWfdK3Bb.jpg",
+    "dateAdded": "2026-08-29T17:04:18.000Z"
   },
   {
     "id": "rect0Pivltdg5n66C",
@@ -17724,6 +18996,18 @@
     "dateAdded": "2026-08-21T18:21:37.000Z"
   },
   {
+    "id": "rectarGmfz6NWmUIr",
+    "year": 1940,
+    "countyNumber": "72",
+    "countyName": "Fentress",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Motorcycle",
+    "serial": "72A-3",
+    "photoUrl": "assets/img/plates/attpqGxxmBo67Pme0.jpg",
+    "dateAdded": "2026-08-29T17:12:49.000Z"
+  },
+  {
     "id": "rectbo5F0giveXYs3",
     "year": 1951,
     "countyNumber": "21",
@@ -17854,6 +19138,18 @@
     "serial": "27-6779",
     "photoUrl": "assets/img/plates/attiohuudsIdjZFi0.jpg",
     "dateAdded": "2026-08-23T11:53:11.000Z"
+  },
+  {
+    "id": "rectxa6I431FoSxAV",
+    "year": 1951,
+    "countyNumber": "68",
+    "countyName": "Cheatham",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "68F/1-281",
+    "photoUrl": "assets/img/plates/attGR6Sv5BJvHqyos.jpg",
+    "dateAdded": "2026-08-29T14:03:28.000Z"
   },
   {
     "id": "rectz7ihjDzn7jEX4",
@@ -18240,6 +19536,18 @@
     "dateAdded": "2026-08-26T22:19:48.000Z"
   },
   {
+    "id": "recv4D7Nbixbki1VM",
+    "year": 1949,
+    "countyNumber": "72",
+    "countyName": "Fentress",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "72-805",
+    "photoUrl": "assets/img/plates/attPxHcjUWpDDo7aO.jpg",
+    "dateAdded": "2026-08-29T17:10:08.000Z"
+  },
+  {
     "id": "recv6letm7C1kGw58",
     "year": 1954,
     "countyNumber": "21",
@@ -18504,6 +19812,18 @@
     "dateAdded": "2026-08-27T00:46:16.000Z"
   },
   {
+    "id": "recwArylmdfEVGjX8",
+    "year": 1956,
+    "countyNumber": "69",
+    "countyName": "Morgan",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "69-1376",
+    "photoUrl": "assets/img/plates/att0TUNgpGXz25nXV.jpg",
+    "dateAdded": "2026-08-29T16:48:33.000Z"
+  },
+  {
     "id": "recwCByFArDKYQxEY",
     "year": 1956,
     "countyNumber": "34",
@@ -18658,6 +19978,18 @@
     "serial": "13D-127",
     "photoUrl": "assets/img/plates/attXRP4b4OHpKo21x.jpg",
     "dateAdded": "2026-08-21T20:03:07.000Z"
+  },
+  {
+    "id": "recwdg2QBHDZ0tpkX",
+    "year": 1947,
+    "countyNumber": "67",
+    "countyName": "Hickman",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "67-145",
+    "photoUrl": "assets/img/plates/att8dkXZoXTQ5LTyQ.jpg",
+    "dateAdded": "2026-08-29T13:13:32.000Z"
   },
   {
     "id": "recwitqgLHHAtb8L7",
@@ -18974,6 +20306,18 @@
     "dateAdded": "2026-08-13T22:23:29.000Z"
   },
   {
+    "id": "recxPggYuG9cMwei5",
+    "year": 1954,
+    "countyNumber": "66",
+    "countyName": "Dekalb",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Farm Truck",
+    "serial": "66F/1-1",
+    "photoUrl": "assets/img/plates/attqWqaHDskZB29Ei.jpg",
+    "dateAdded": "2026-08-29T13:07:05.000Z"
+  },
+  {
     "id": "recxPswXZ1ti35pTG",
     "year": 1939,
     "countyNumber": "62",
@@ -19032,6 +20376,18 @@
     "serial": "13F/2-570",
     "photoUrl": "assets/img/plates/attcsA55QHEI9GUEi.jpg",
     "dateAdded": "2026-08-21T20:10:47.000Z"
+  },
+  {
+    "id": "recxanSgdBnff9hK2",
+    "year": 1956,
+    "countyNumber": "71",
+    "countyName": "Benton",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "71-531",
+    "photoUrl": "assets/img/plates/attQZA9zGsZKBsUyL.jpg",
+    "dateAdded": "2026-08-29T17:04:29.000Z"
   },
   {
     "id": "recxcipyaBJD57uOC",
@@ -19200,6 +20556,18 @@
     "serial": "56-777",
     "photoUrl": "assets/img/plates/attRbMe7DemCJEjY7.jpg",
     "dateAdded": "2026-08-27T01:05:46.000Z"
+  },
+  {
+    "id": "recy95GQUnmsCn5sd",
+    "year": 1951,
+    "countyNumber": "71",
+    "countyName": "Benton",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "71-172",
+    "photoUrl": "assets/img/plates/attwmxo3JaoYvowqW.jpg",
+    "dateAdded": "2026-08-29T17:03:58.000Z"
   },
   {
     "id": "recyBJaGlRlZj9X78",
@@ -19514,6 +20882,18 @@
     "dateAdded": "2026-08-21T16:08:31.000Z"
   },
   {
+    "id": "recywHtAOdUivyZTM",
+    "year": 1958,
+    "countyNumber": "68",
+    "countyName": "Cheatham",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "68-1",
+    "photoUrl": "assets/img/plates/attzkch8ui221fYQX.jpg",
+    "dateAdded": "2026-08-29T13:20:13.000Z"
+  },
+  {
     "id": "recywka9VPvzSJ7p7",
     "year": 1956,
     "countyNumber": "8",
@@ -19608,6 +20988,18 @@
     "serial": "8-1915",
     "photoUrl": "assets/img/plates/attFur0bXjIKhP0ou.jpg",
     "dateAdded": "2026-08-21T15:39:21.000Z"
+  },
+  {
+    "id": "reczFsZk9fjMReZOA",
+    "year": 1942,
+    "countyNumber": "70",
+    "countyName": "Grainger",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Taxi",
+    "serial": "70TAXID/3-60",
+    "photoUrl": "assets/img/plates/attjtrd3hXW6NwKS5.jpg",
+    "dateAdded": "2026-08-29T16:58:21.000Z"
   },
   {
     "id": "reczIoZcPDCDvRITm",
@@ -19706,6 +21098,18 @@
     "dateAdded": "2026-08-24T01:08:27.000Z"
   },
   {
+    "id": "reczjcbhxpt2rtD2c",
+    "year": 1940,
+    "countyNumber": "69",
+    "countyName": "Morgan",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Motorcycle",
+    "serial": "69A-1",
+    "photoUrl": "assets/img/plates/attJ9dA8mcvnGNDU8.jpg",
+    "dateAdded": "2026-08-29T16:47:57.000Z"
+  },
+  {
     "id": "recznAI1UKTGdNXLX",
     "year": 1956,
     "countyNumber": "17",
@@ -19776,5 +21180,17 @@
     "serial": "28-3561",
     "photoUrl": "assets/img/plates/attNdtaID2e2ZfQWv.jpg",
     "dateAdded": "2026-08-23T11:58:28.000Z"
+  },
+  {
+    "id": "reczydaFMuUeVV97D",
+    "year": 1956,
+    "countyNumber": "72",
+    "countyName": "Fentress",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "72P/3-20",
+    "photoUrl": "assets/img/plates/attpMxDPAI78jVVfl.jpg",
+    "dateAdded": "2026-08-29T17:11:25.000Z"
   }
 ]
