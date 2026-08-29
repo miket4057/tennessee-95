@@ -600,6 +600,30 @@
     "dateAdded": "2026-08-23T18:12:54.000Z"
   },
   {
+    "id": "rec2433PxiEH4mjfr",
+    "year": 1952,
+    "countyNumber": "62",
+    "countyName": "Crockett",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "62-829",
+    "photoUrl": "assets/img/plates/attlXfhiTRDoprqCL.jpg",
+    "dateAdded": "2026-08-29T01:58:01.000Z"
+  },
+  {
+    "id": "rec24rSli7Btm1trM",
+    "year": 1956,
+    "countyNumber": "65",
+    "countyName": "Macon",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "65-2377",
+    "photoUrl": "assets/img/plates/attu8JXtH5Ickmb38.jpg",
+    "dateAdded": "2026-08-29T02:13:00.000Z"
+  },
+  {
     "id": "rec27p5aOk1epQ2yd",
     "year": 1938,
     "countyNumber": "12",
@@ -720,6 +744,18 @@
     "dateAdded": "2026-08-22T15:13:52.000Z"
   },
   {
+    "id": "rec2RheeVyNUPtRAO",
+    "year": 1942,
+    "countyNumber": "64",
+    "countyName": "Wayne",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "64F/1-3",
+    "photoUrl": "assets/img/plates/attiSbLKNnCC6IfLf.jpg",
+    "dateAdded": "2026-08-29T02:10:16.000Z"
+  },
+  {
     "id": "rec2RigoBAvvJTGNR",
     "year": 1947,
     "countyNumber": "46",
@@ -778,6 +814,18 @@
     "serial": "20F/1-58",
     "photoUrl": "assets/img/plates/attEfxhWiuaQH8fSN.jpg",
     "dateAdded": "2026-08-22T13:29:16.000Z"
+  },
+  {
+    "id": "rec2Z8D4UcJvXQEsz",
+    "year": 1941,
+    "countyNumber": "64",
+    "countyName": "Wayne",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "64-651",
+    "photoUrl": "assets/img/plates/attBywOlLT3b5U3XP.jpg",
+    "dateAdded": "2026-08-29T02:09:06.000Z"
   },
   {
     "id": "rec2aXKJXverNaF7o",
@@ -1066,6 +1114,18 @@
     "serial": "17-415",
     "photoUrl": "assets/img/plates/attgU4QsNK4MKa1EX.jpg",
     "dateAdded": "2026-08-22T03:16:10.000Z"
+  },
+  {
+    "id": "rec3Nooa8kiIaze8z",
+    "year": 1956,
+    "countyNumber": "63",
+    "countyName": "Polk",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "63-685",
+    "photoUrl": "assets/img/plates/attUOpRJ7imBo70VR.jpg",
+    "dateAdded": "2026-08-29T02:03:39.000Z"
   },
   {
     "id": "rec3Sg0PkAFLrSOTb",
@@ -1726,6 +1786,18 @@
     "serial": "51-458",
     "photoUrl": "assets/img/plates/attoOrAiyFEduXEqI.jpg",
     "dateAdded": "2026-08-27T00:44:31.000Z"
+  },
+  {
+    "id": "rec5UQUs8ye83H6VH",
+    "year": 1955,
+    "countyNumber": "62",
+    "countyName": "Crockett",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Farm Truck",
+    "serial": "62F/1-205",
+    "photoUrl": "assets/img/plates/attaqQ0MuwVYxFcMo.jpg",
+    "dateAdded": "2026-08-29T01:46:20.000Z"
   },
   {
     "id": "rec5V4UhWMfjJauxm",
@@ -2772,6 +2844,30 @@
     "dateAdded": "2026-08-25T02:21:59.000Z"
   },
   {
+    "id": "rec8jhOCDW9qbkPuB",
+    "year": 1955,
+    "countyNumber": "62",
+    "countyName": "Crockett",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "62-1385",
+    "photoUrl": "assets/img/plates/att68DNWEIAgDVTxT.jpg",
+    "dateAdded": "2026-08-29T01:59:14.000Z"
+  },
+  {
+    "id": "rec8mDl6AVL6scZzh",
+    "year": 1941,
+    "countyNumber": "65",
+    "countyName": "Macon",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm",
+    "serial": "65F/1-40",
+    "photoUrl": "assets/img/plates/attvNGgVAH4cwAyX8.jpg",
+    "dateAdded": "2026-08-29T02:14:27.000Z"
+  },
+  {
     "id": "rec8pWeczdjJPIEzj",
     "year": 1955,
     "countyNumber": "49",
@@ -2998,6 +3094,18 @@
     "serial": "3H/4-9009",
     "photoUrl": "assets/img/plates/attx09Xy3Pnm50ACs.jpg",
     "dateAdded": "2026-08-21T00:06:17.000Z"
+  },
+  {
+    "id": "rec9dB1v4ol14UlHF",
+    "year": 1944,
+    "countyNumber": "64",
+    "countyName": "Wayne",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "64-49",
+    "photoUrl": "assets/img/plates/attXc3hZawpHd8BMH.jpg",
+    "dateAdded": "2026-08-29T02:07:47.000Z"
   },
   {
     "id": "rec9fO0BKaFwiUF91",
@@ -3336,6 +3444,18 @@
     "dateAdded": "2026-08-25T02:21:23.000Z"
   },
   {
+    "id": "recAq8UgQ6G1KRPyZ",
+    "year": 1940,
+    "countyNumber": "62",
+    "countyName": "Polk",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "62-765",
+    "photoUrl": "assets/img/plates/attauLVm1V0DUKRCX.jpg",
+    "dateAdded": "2026-08-29T02:01:41.000Z"
+  },
+  {
     "id": "recArEPJF1Bhq4ipQ",
     "year": 1952,
     "countyNumber": "30",
@@ -3346,6 +3466,18 @@
     "serial": "30-3066",
     "photoUrl": "assets/img/plates/attQn4GcPLSodrFKB.jpg",
     "dateAdded": "2026-08-23T18:03:31.000Z"
+  },
+  {
+    "id": "recAtPUjwI420PwYP",
+    "year": 1956,
+    "countyNumber": "65",
+    "countyName": "Macon",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "65-469",
+    "photoUrl": "assets/img/plates/attLZIE8GBn6FGAqP.jpg",
+    "dateAdded": "2026-08-29T02:13:59.000Z"
   },
   {
     "id": "recAxQRiaIT76fOQ7",
@@ -3514,6 +3646,18 @@
     "serial": "56P/2-511",
     "photoUrl": "assets/img/plates/attYOtWQlpwZWfPJU.jpg",
     "dateAdded": "2026-08-27T01:07:07.000Z"
+  },
+  {
+    "id": "recBRFsNPr0gZikit",
+    "year": 1942,
+    "countyNumber": "62",
+    "countyName": "Crockett",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "62-67",
+    "photoUrl": "assets/img/plates/attWAJfoM8V6irs06.jpg",
+    "dateAdded": "2026-08-29T01:55:38.000Z"
   },
   {
     "id": "recBRuUiub3e6aX0R",
@@ -5640,6 +5784,18 @@
     "dateAdded": "2026-08-22T13:29:36.000Z"
   },
   {
+    "id": "recI3FxBOq4Ct57YM",
+    "year": 1951,
+    "countyNumber": "64",
+    "countyName": "Wayne",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "64-823",
+    "photoUrl": "assets/img/plates/attjaxYddqQ330g0X.jpg",
+    "dateAdded": "2026-08-29T02:09:51.000Z"
+  },
+  {
     "id": "recI4uzWhESATVyOC",
     "year": 1951,
     "countyNumber": "44",
@@ -5698,6 +5854,18 @@
     "serial": "60-60",
     "photoUrl": "assets/img/plates/att6l7RmEYF8CzhRq.jpg",
     "dateAdded": "2026-08-29T01:30:46.000Z"
+  },
+  {
+    "id": "recIBZWsR0IdpKXGZ",
+    "year": 1952,
+    "countyNumber": "62",
+    "countyName": "Crockett",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "62-1528",
+    "photoUrl": "assets/img/plates/attlofTj72fbHTcXL.jpg",
+    "dateAdded": "2026-08-29T01:45:12.000Z"
   },
   {
     "id": "recIBfJdhD8R3KLgz",
@@ -6046,6 +6214,18 @@
     "serial": "59P/1-324",
     "photoUrl": "assets/img/plates/att7nJgpx9M1wUWga.jpg",
     "dateAdded": "2026-08-28T20:57:08.000Z"
+  },
+  {
+    "id": "recJTNIOCFSLE1YVX",
+    "year": 1944,
+    "countyNumber": "63",
+    "countyName": "Polk",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "63-187",
+    "photoUrl": "assets/img/plates/attqIl3vqkgLpbnzt.jpg",
+    "dateAdded": "2026-08-29T02:02:11.000Z"
   },
   {
     "id": "recJTpLbd7wPu1ZX4",
@@ -6540,6 +6720,18 @@
     "dateAdded": "2026-08-23T11:56:34.000Z"
   },
   {
+    "id": "recL7zQipffmFjuJA",
+    "year": 1965,
+    "countyNumber": "65",
+    "countyName": "Macon",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "65-1",
+    "photoUrl": "assets/img/plates/att2nRmaKSsH72ql4.jpg",
+    "dateAdded": "2026-08-29T02:15:40.000Z"
+  },
+  {
     "id": "recL83mjEJV5Ey315",
     "year": 1944,
     "countyNumber": "29",
@@ -6862,6 +7054,18 @@
     "serial": "40-707",
     "photoUrl": "assets/img/plates/attcmRen6ByhRLCGo.jpg",
     "dateAdded": "2026-08-25T02:20:01.000Z"
+  },
+  {
+    "id": "recMCSJLNhjNvuDdb",
+    "year": 1948,
+    "countyNumber": "63",
+    "countyName": "Polk",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "63-474",
+    "photoUrl": "assets/img/plates/attWBB4w6As5RUfSU.jpg",
+    "dateAdded": "2026-08-29T02:04:07.000Z"
   },
   {
     "id": "recMDxOZAVyAIPty8",
@@ -7234,6 +7438,18 @@
     "serial": "60P/1-3",
     "photoUrl": "assets/img/plates/attEqma4TiuJCBszq.jpg",
     "dateAdded": "2026-08-29T01:25:22.000Z"
+  },
+  {
+    "id": "recNAsA5Gtfpo2DC0",
+    "year": 1950,
+    "countyNumber": "63",
+    "countyName": "Polk",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "63-1373",
+    "photoUrl": "assets/img/plates/attoHlhYMTRWbiJJ6.jpg",
+    "dateAdded": "2026-08-29T02:02:58.000Z"
   },
   {
     "id": "recNCOOILd2ZJ3jWv",
@@ -7896,6 +8112,18 @@
     "dateAdded": "2026-08-22T13:04:00.000Z"
   },
   {
+    "id": "recOzXET4rrTEh1sy",
+    "year": 1950,
+    "countyNumber": "63",
+    "countyName": "Polk",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "63-1373",
+    "photoUrl": "assets/img/plates/attn2VZJBbjDlxKOB.jpg",
+    "dateAdded": "2026-08-29T02:02:25.000Z"
+  },
+  {
     "id": "recP00PYFnOisPsWe",
     "year": 1951,
     "countyNumber": "10",
@@ -8232,6 +8460,18 @@
     "dateAdded": "2026-08-23T02:43:20.000Z"
   },
   {
+    "id": "recQRtlTdExChgoZL",
+    "year": 1951,
+    "countyNumber": "62",
+    "countyName": "Crockett",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "62D-79",
+    "photoUrl": "assets/img/plates/att5A71IOSmzIxYRH.jpg",
+    "dateAdded": "2026-08-29T01:44:56.000Z"
+  },
+  {
     "id": "recQT2a6GHVj0aZF1",
     "year": 1955,
     "countyNumber": "2",
@@ -8482,6 +8722,18 @@
     "serial": "6-418",
     "photoUrl": "assets/img/plates/att2WrN6vm206bIwT.jpg",
     "dateAdded": "2026-08-21T15:07:05.000Z"
+  },
+  {
+    "id": "recQvr5geXfMg0uYh",
+    "year": 1953,
+    "countyNumber": "65",
+    "countyName": "Macon",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Truck",
+    "serial": "65P/4-904",
+    "photoUrl": "assets/img/plates/attUXAm84cqabxdXW.jpg",
+    "dateAdded": "2026-08-29T02:14:11.000Z"
   },
   {
     "id": "recQxCHJZn2KWU7FC",
@@ -8830,6 +9082,18 @@
     "serial": "33-1951",
     "photoUrl": "assets/img/plates/attO94qtwJISVV9b9.jpg",
     "dateAdded": "2026-08-24T01:00:53.000Z"
+  },
+  {
+    "id": "recS6yg0e1lxnVxWk",
+    "year": 1951,
+    "countyNumber": "64",
+    "countyName": "Wayne",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "64F/1-160",
+    "photoUrl": "assets/img/plates/attjYZXKqv2ams0JV.jpg",
+    "dateAdded": "2026-08-29T02:06:59.000Z"
   },
   {
     "id": "recS7gUDk2TG5a1S3",
@@ -9228,6 +9492,18 @@
     "dateAdded": "2026-08-26T22:18:35.000Z"
   },
   {
+    "id": "recTdCQrPrWgt4vcr",
+    "year": 1952,
+    "countyNumber": "64",
+    "countyName": "Wayne",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "64F/1-255",
+    "photoUrl": "assets/img/plates/attLW2dWdYBcRh8je.jpg",
+    "dateAdded": "2026-08-29T02:07:35.000Z"
+  },
+  {
     "id": "recTdeLkx4FH3NDbl",
     "year": 1956,
     "countyNumber": "18",
@@ -9430,6 +9706,18 @@
     "serial": "41F/1-418",
     "photoUrl": "assets/img/plates/att8CKaoJ7BBQI2kQ.jpg",
     "dateAdded": "2026-08-26T20:37:46.000Z"
+  },
+  {
+    "id": "recUG3d5X2PO2FvXT",
+    "year": 1955,
+    "countyNumber": "62",
+    "countyName": "Crockett",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "62-1622",
+    "photoUrl": "assets/img/plates/attAcbA8stE40F9Wc.jpg",
+    "dateAdded": "2026-08-29T01:57:19.000Z"
   },
   {
     "id": "recUJ6FpfLE6VG0XN",
@@ -9658,6 +9946,18 @@
     "serial": "50-1619",
     "photoUrl": "assets/img/plates/attIFxDqobrN68XLP.jpg",
     "dateAdded": "2026-08-26T22:20:47.000Z"
+  },
+  {
+    "id": "recUp7H3v0InI7WMh",
+    "year": 1956,
+    "countyNumber": "65",
+    "countyName": "Macon",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "65-747",
+    "photoUrl": "assets/img/plates/attACr9XfAErtSqtO.jpg",
+    "dateAdded": "2026-08-29T02:14:58.000Z"
   },
   {
     "id": "recUqldXGvSzl6S5y",
@@ -10068,6 +10368,30 @@
     "dateAdded": "2026-08-23T18:11:55.000Z"
   },
   {
+    "id": "recWUdaBe5JnkUkt5",
+    "year": 1940,
+    "countyNumber": "65",
+    "countyName": "Macon",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Truck",
+    "serial": "65P/1-35",
+    "photoUrl": "assets/img/plates/attOlppBPR6SvDnHf.jpg",
+    "dateAdded": "2026-08-29T02:14:40.000Z"
+  },
+  {
+    "id": "recWXFt2iL62O64S2",
+    "year": 1956,
+    "countyNumber": "65",
+    "countyName": "Macon",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "65-1881",
+    "photoUrl": "assets/img/plates/attL3Zcj2d9rf7PMa.jpg",
+    "dateAdded": "2026-08-29T02:15:12.000Z"
+  },
+  {
     "id": "recWaSDrTXjYoP5mb",
     "year": 1949,
     "countyNumber": "18",
@@ -10114,6 +10438,18 @@
     "serial": "4-2150",
     "photoUrl": "assets/img/plates/attP2pGpDex0pgZZp.jpg",
     "dateAdded": "2026-08-21T00:48:23.000Z"
+  },
+  {
+    "id": "recWoxvHKNlanhSDX",
+    "year": 1942,
+    "countyNumber": "63",
+    "countyName": "Polk",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "63-264",
+    "photoUrl": "assets/img/plates/att3oWA8hvNL8Mlzo.jpg",
+    "dateAdded": "2026-08-29T02:03:50.000Z"
   },
   {
     "id": "recWqbT4ZuEKeGg3b",
@@ -10512,6 +10848,18 @@
     "dateAdded": "2026-08-21T00:56:04.000Z"
   },
   {
+    "id": "recXvKy2lUnksEx2D",
+    "year": 1956,
+    "countyNumber": "64",
+    "countyName": "Wayne",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "64-1889",
+    "photoUrl": "assets/img/plates/att05pfLqXD2tgr31.jpg",
+    "dateAdded": "2026-08-29T02:09:17.000Z"
+  },
+  {
     "id": "recXvrSIHc2EMWxOK",
     "year": 1953,
     "countyNumber": "50",
@@ -10654,6 +11002,18 @@
     "serial": "44-1050",
     "photoUrl": "assets/img/plates/attrSOvEqSZ61c87g.jpg",
     "dateAdded": "2026-08-26T21:24:11.000Z"
+  },
+  {
+    "id": "recYVcnrHKurdZx8B",
+    "year": 1955,
+    "countyNumber": "64",
+    "countyName": "Wayne",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Farm Truck",
+    "serial": "64F/1-99",
+    "photoUrl": "assets/img/plates/attJePhtVRqeJocXK.jpg",
+    "dateAdded": "2026-08-29T02:08:13.000Z"
   },
   {
     "id": "recYZewXCmAqmCRAY",
@@ -11244,6 +11604,18 @@
     "dateAdded": "2026-08-23T18:07:03.000Z"
   },
   {
+    "id": "recaam7TOTQzth85C",
+    "year": 1963,
+    "countyNumber": "65",
+    "countyName": "Macon",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "65-1",
+    "photoUrl": "assets/img/plates/attLiEoV9vlRPoIi6.jpg",
+    "dateAdded": "2026-08-29T02:15:27.000Z"
+  },
+  {
     "id": "recabxUhz5LPSb70U",
     "year": 1953,
     "countyNumber": "51",
@@ -11664,6 +12036,18 @@
     "dateAdded": "2026-08-23T02:42:40.000Z"
   },
   {
+    "id": "recbnSZXzLR4wDjer",
+    "year": 1953,
+    "countyNumber": "62",
+    "countyName": "Crockett",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "62-20",
+    "photoUrl": "assets/img/plates/attVnThsC6R8wMRmt.jpg",
+    "dateAdded": "2026-08-29T01:45:29.000Z"
+  },
+  {
     "id": "recboyD7G3q3rj7ne",
     "year": 1942,
     "countyNumber": "33",
@@ -11770,6 +12154,18 @@
     "serial": "46-4",
     "photoUrl": "assets/img/plates/attU6WUQ0kpwbiMEv.jpg",
     "dateAdded": "2026-08-26T21:48:03.000Z"
+  },
+  {
+    "id": "reccJ3JZG8BQ5L1hR",
+    "year": 1949,
+    "countyNumber": "64",
+    "countyName": "Wayne",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "64P/1-26",
+    "photoUrl": "assets/img/plates/attwKzag5iQNHDMUG.jpg",
+    "dateAdded": "2026-08-29T02:09:32.000Z"
   },
   {
     "id": "reccKhXnwMfjhGeRb",
@@ -11916,6 +12312,18 @@
     "dateAdded": "2026-08-25T02:17:06.000Z"
   },
   {
+    "id": "recciODWk2VIgxFKl",
+    "year": 1952,
+    "countyNumber": "65",
+    "countyName": "Macon",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Heavy Car",
+    "serial": "65D-9",
+    "photoUrl": "assets/img/plates/attYEcCpS04siglCU.jpg",
+    "dateAdded": "2026-08-29T02:12:18.000Z"
+  },
+  {
     "id": "reccp0Q03J9PaFngg",
     "year": 1941,
     "countyNumber": "56",
@@ -12036,6 +12444,18 @@
     "dateAdded": "2026-08-26T21:48:13.000Z"
   },
   {
+    "id": "recd31MuVBxGiERz1",
+    "year": 1951,
+    "countyNumber": "62",
+    "countyName": "Crockett",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "62F/1-98",
+    "photoUrl": "assets/img/plates/attwLnGo3ZG0dPh56.jpg",
+    "dateAdded": "2026-08-29T01:57:32.000Z"
+  },
+  {
     "id": "recd4OkRPa7vjJDn2",
     "year": 1954,
     "countyNumber": "29",
@@ -12108,6 +12528,18 @@
     "dateAdded": "2026-08-22T14:39:04.000Z"
   },
   {
+    "id": "recdPxothRCskIEBp",
+    "year": 1954,
+    "countyNumber": "64",
+    "countyName": "Wayne",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Truck",
+    "serial": "64P/1-247",
+    "photoUrl": "assets/img/plates/attr0Hf7Ipz82C9Lg.jpg",
+    "dateAdded": "2026-08-29T02:07:20.000Z"
+  },
+  {
     "id": "recdSBVSAr6au10QU",
     "year": 1947,
     "countyNumber": "27",
@@ -12178,6 +12610,18 @@
     "serial": "13-29",
     "photoUrl": "assets/img/plates/attoYltPeipcTFWsG.jpg",
     "dateAdded": "2026-08-21T20:15:56.000Z"
+  },
+  {
+    "id": "recdbMfbgLj0VtjLV",
+    "year": 1945,
+    "countyNumber": "62",
+    "countyName": "Crockett",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "62-327",
+    "photoUrl": "assets/img/plates/attnC2oJZB5YmaLEK.jpg",
+    "dateAdded": "2026-08-29T01:55:50.000Z"
   },
   {
     "id": "recdfsc09emjHlFLM",
@@ -12360,6 +12804,18 @@
     "dateAdded": "2026-08-23T12:16:49.000Z"
   },
   {
+    "id": "receOUGULdFeUJIsv",
+    "year": 1956,
+    "countyNumber": "62",
+    "countyName": "Crockett",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "62-20",
+    "photoUrl": "assets/img/plates/attIWftZ2UsharD5k.jpg",
+    "dateAdded": "2026-08-29T01:47:14.000Z"
+  },
+  {
     "id": "receSxPmsQsxegLt5",
     "year": 1948,
     "countyNumber": "28",
@@ -12442,6 +12898,18 @@
     "serial": "41-1561",
     "photoUrl": "assets/img/plates/attVzm8J5oMpt6ZaU.jpg",
     "dateAdded": "2026-08-26T20:38:31.000Z"
+  },
+  {
+    "id": "rececYnfmrxAjYE00",
+    "year": 1945,
+    "countyNumber": "65",
+    "countyName": "Macon",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "65-242",
+    "photoUrl": "assets/img/plates/attme9tFHPDVev16w.jpg",
+    "dateAdded": "2026-08-29T02:13:15.000Z"
   },
   {
     "id": "receefYB5YUYML4OR",
@@ -12684,6 +13152,18 @@
     "dateAdded": "2026-08-22T15:06:07.000Z"
   },
   {
+    "id": "recf9vbROiX8eN1ZD",
+    "year": 1960,
+    "countyNumber": "62",
+    "countyName": "Crockett",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "62-30",
+    "photoUrl": "assets/img/plates/attFYUtRf06ABkzlG.jpg",
+    "dateAdded": "2026-08-29T01:58:55.000Z"
+  },
+  {
     "id": "recfBbY8034Vo4qf5",
     "year": 1942,
     "countyNumber": "46",
@@ -12706,6 +13186,18 @@
     "serial": "60F/1-4",
     "photoUrl": "assets/img/plates/att5a5ObgiEz6nc9j.jpg",
     "dateAdded": "2026-08-29T01:25:38.000Z"
+  },
+  {
+    "id": "recfCJU5XbWNzrSCo",
+    "year": 1951,
+    "countyNumber": "62",
+    "countyName": "Crockett",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "62-1061",
+    "photoUrl": "assets/img/plates/att1nU9fD8fJwka34.jpg",
+    "dateAdded": "2026-08-29T01:57:08.000Z"
   },
   {
     "id": "recfCiSKan8CmfmSt",
@@ -13224,6 +13716,18 @@
     "dateAdded": "2026-08-29T01:34:20.000Z"
   },
   {
+    "id": "rech5LWxeKRnDNeNk",
+    "year": 1939,
+    "countyNumber": "64",
+    "countyName": "Wayne",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "64-587",
+    "photoUrl": "assets/img/plates/attucsAizauNtYCvE.jpg",
+    "dateAdded": "2026-08-29T02:08:45.000Z"
+  },
+  {
     "id": "rech61Gq0b9LnZtg6",
     "year": 1939,
     "countyNumber": "10",
@@ -13270,6 +13774,18 @@
     "serial": "13P/1-25",
     "photoUrl": "assets/img/plates/attGGioS9lDsOVdzF.jpg",
     "dateAdded": "2026-08-21T20:06:11.000Z"
+  },
+  {
+    "id": "rechJeiEp895zomJc",
+    "year": 1956,
+    "countyNumber": "63",
+    "countyName": "Polk",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "63-704",
+    "photoUrl": "assets/img/plates/attKG2o6zGG9Fi8Zo.jpg",
+    "dateAdded": "2026-08-29T02:03:14.000Z"
   },
   {
     "id": "rechKXBtpKe8AFj0X",
@@ -13872,6 +14388,18 @@
     "dateAdded": "2026-08-26T22:06:57.000Z"
   },
   {
+    "id": "recj7SMbEfNG4e2Rg",
+    "year": 1951,
+    "countyNumber": "65",
+    "countyName": "Macon",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "65-1105",
+    "photoUrl": "assets/img/plates/attr3Vfrk0Oy3lxCy.jpg",
+    "dateAdded": "2026-08-29T02:12:48.000Z"
+  },
+  {
     "id": "recj8R0PkreYo0dNE",
     "year": 1956,
     "countyNumber": "40",
@@ -13932,6 +14460,18 @@
     "dateAdded": "2026-08-20T02:48:22.000Z"
   },
   {
+    "id": "recjCWZOhLCGUVeIg",
+    "year": 1952,
+    "countyNumber": "64",
+    "countyName": "Wayne",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "64-26",
+    "photoUrl": "assets/img/plates/attrjJbEbBedBCZ9H.jpg",
+    "dateAdded": "2026-08-29T02:10:04.000Z"
+  },
+  {
     "id": "recjI9DlgtxUKFNMW",
     "year": 1953,
     "countyNumber": "13",
@@ -13980,6 +14520,18 @@
     "dateAdded": "2026-08-28T20:58:37.000Z"
   },
   {
+    "id": "recjSKcI8gZXG87ik",
+    "year": 1948,
+    "countyNumber": "62",
+    "countyName": "Crockett",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "62F/1-7",
+    "photoUrl": "assets/img/plates/attXfKXVu8L8q8zrr.jpg",
+    "dateAdded": "2026-08-29T01:58:27.000Z"
+  },
+  {
     "id": "recjTZBbesGv4O3Lv",
     "year": 1951,
     "countyNumber": "52",
@@ -14014,6 +14566,18 @@
     "serial": "14-1332",
     "photoUrl": "assets/img/plates/attiY5xab7Wd6Cvv0.jpg",
     "dateAdded": "2026-08-21T20:34:13.000Z"
+  },
+  {
+    "id": "recjaQfRHLoXUJ4t5",
+    "year": 1955,
+    "countyNumber": "63",
+    "countyName": "Polk",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Farm Truck",
+    "serial": "63F/2-505",
+    "photoUrl": "assets/img/plates/attOrLcEFHDy3RPxn.jpg",
+    "dateAdded": "2026-08-29T02:01:51.000Z"
   },
   {
     "id": "recjiBbrtxFHPVEgK",
@@ -15000,6 +15564,18 @@
     "dateAdded": "2026-08-25T01:58:07.000Z"
   },
   {
+    "id": "recmsvZQ4lmfXHtyU",
+    "year": 1939,
+    "countyNumber": "65",
+    "countyName": "Macon",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "65-232",
+    "photoUrl": "assets/img/plates/attsta3mRoYpnAPDK.jpg",
+    "dateAdded": "2026-08-29T02:13:33.000Z"
+  },
+  {
     "id": "recmwfXT6UsinPBDs",
     "year": 1954,
     "countyNumber": "3",
@@ -15046,6 +15622,18 @@
     "serial": "17-345",
     "photoUrl": "assets/img/plates/atttQr3vwdHB3So17.jpg",
     "dateAdded": "2026-08-22T03:21:13.000Z"
+  },
+  {
+    "id": "recn2EC4d7uuf7g5c",
+    "year": 1942,
+    "countyNumber": "62",
+    "countyName": "Crockett",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "62-67",
+    "photoUrl": "assets/img/plates/att0JMfkOIsmao914.jpg",
+    "dateAdded": "2026-08-29T01:58:15.000Z"
   },
   {
     "id": "recn4iI1VG9lQaiXd",
@@ -15274,6 +15862,18 @@
     "serial": "8-81",
     "photoUrl": "assets/img/plates/attF8bqRrMRMcf0Em.jpg",
     "dateAdded": "2026-08-21T15:32:16.000Z"
+  },
+  {
+    "id": "recnPzzZNqJojUHSp",
+    "year": 1956,
+    "countyNumber": "62",
+    "countyName": "Crockett",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "62-20",
+    "photoUrl": "assets/img/plates/att3pQluoGMx4V5Id.jpg",
+    "dateAdded": "2026-08-29T01:44:40.000Z"
   },
   {
     "id": "recnbmCg66yEI82VY",
@@ -15900,6 +16500,18 @@
     "dateAdded": "2026-08-27T00:46:05.000Z"
   },
   {
+    "id": "recpi8dFS1babYPQ1",
+    "year": 1955,
+    "countyNumber": "62",
+    "countyName": "Crockett",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "62-100",
+    "photoUrl": "assets/img/plates/attG0lMrh8PM2owt1.jpg",
+    "dateAdded": "2026-08-29T01:56:16.000Z"
+  },
+  {
     "id": "recplLgA7adxspFQw",
     "year": 1961,
     "countyNumber": "28",
@@ -15946,6 +16558,18 @@
     "serial": "36-1853",
     "photoUrl": "assets/img/plates/att5j9o2BapXmF9io.jpg",
     "dateAdded": "2026-08-28T20:25:11.000Z"
+  },
+  {
+    "id": "recq2IqPfA1j0neij",
+    "year": 1939,
+    "countyNumber": "62",
+    "countyName": "Crockett",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "62-1462",
+    "photoUrl": "assets/img/plates/attcbqxX9JkKh2fsd.jpg",
+    "dateAdded": "2026-08-29T01:58:42.000Z"
   },
   {
     "id": "recqHYTyNxl2tR3Ro",
@@ -16018,6 +16642,18 @@
     "serial": "57-81",
     "photoUrl": "assets/img/plates/attDWewnWOb01pCPd.jpg",
     "dateAdded": "2026-08-27T20:46:06.000Z"
+  },
+  {
+    "id": "recqVH0IDqHNTeZH7",
+    "year": 1956,
+    "countyNumber": "62",
+    "countyName": "Crockett",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "62F/1-220",
+    "photoUrl": "assets/img/plates/att7VjcDxtxMhLHXC.jpg",
+    "dateAdded": "2026-08-29T01:56:48.000Z"
   },
   {
     "id": "recqXeVzA5jFH5AGb",
@@ -16140,6 +16776,18 @@
     "dateAdded": "2026-08-23T12:14:44.000Z"
   },
   {
+    "id": "recqqtRGQTFQFSNeu",
+    "year": 1948,
+    "countyNumber": "62",
+    "countyName": "Crockett",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "62P/2-591",
+    "photoUrl": "assets/img/plates/attcvIfcIzwD05fWN.jpg",
+    "dateAdded": "2026-08-29T01:56:33.000Z"
+  },
+  {
     "id": "recqrBUyfSkcFCcHN",
     "year": 1954,
     "countyNumber": "13",
@@ -16150,6 +16798,18 @@
     "serial": "13-2501",
     "photoUrl": "assets/img/plates/attrkPSFIJdxVHRx4.jpg",
     "dateAdded": "2026-08-21T20:09:58.000Z"
+  },
+  {
+    "id": "recqrsDlCCRhAwivo",
+    "year": 1953,
+    "countyNumber": "64",
+    "countyName": "Wayne",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "64-871",
+    "photoUrl": "assets/img/plates/att10BpeZ3PjRjd4V.jpg",
+    "dateAdded": "2026-08-29T02:08:01.000Z"
   },
   {
     "id": "recqscl25BIbmynXs",
@@ -16812,6 +17472,18 @@
     "dateAdded": "2026-08-21T15:53:43.000Z"
   },
   {
+    "id": "recsuZHaPM5HjEBfN",
+    "year": 1940,
+    "countyNumber": "62",
+    "countyName": "Crockett",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "County",
+    "serial": "62COUNTY-23",
+    "photoUrl": "assets/img/plates/attfhIYDIcv3Il68R.jpg",
+    "dateAdded": "2026-08-29T01:55:16.000Z"
+  },
+  {
     "id": "recsusNkiErTx2pym",
     "year": 1939,
     "countyNumber": "20",
@@ -17460,6 +18132,30 @@
     "dateAdded": "2026-08-29T01:17:26.000Z"
   },
   {
+    "id": "recuknYl8syzi8hSd",
+    "year": 1954,
+    "countyNumber": "62",
+    "countyName": "Crockett",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "62-477",
+    "photoUrl": "assets/img/plates/att8JAK7dBoWFFBMq.jpg",
+    "dateAdded": "2026-08-29T01:46:05.000Z"
+  },
+  {
+    "id": "recumAkR4B79ZBdiZ",
+    "year": 1954,
+    "countyNumber": "62",
+    "countyName": "Crockett",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "62-20",
+    "photoUrl": "assets/img/plates/att21xYr60xpCmwUg.jpg",
+    "dateAdded": "2026-08-29T01:57:46.000Z"
+  },
+  {
     "id": "recunipuIG02Dh5dE",
     "year": 1956,
     "countyNumber": "27",
@@ -17842,6 +18538,18 @@
     "serial": "3CITY-904",
     "photoUrl": "assets/img/plates/attIdGdWK57ttZiDz.jpg",
     "dateAdded": "2026-08-21T00:02:05.000Z"
+  },
+  {
+    "id": "recwKYPfqiSRO3aKi",
+    "year": 1954,
+    "countyNumber": "62",
+    "countyName": "Crockett",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Heavy Car",
+    "serial": "62D-75",
+    "photoUrl": "assets/img/plates/attl9Oaxfmyka9H6a.jpg",
+    "dateAdded": "2026-08-29T01:56:03.000Z"
   },
   {
     "id": "recwKlPi934FSxq93",
@@ -18242,6 +18950,18 @@
     "dateAdded": "2026-08-21T00:48:22.000Z"
   },
   {
+    "id": "recxLsRrttJdXkgze",
+    "year": 1951,
+    "countyNumber": "65",
+    "countyName": "Macon",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "65-1785",
+    "photoUrl": "assets/img/plates/attUahleRSu2vTIyW.jpg",
+    "dateAdded": "2026-08-29T02:13:44.000Z"
+  },
+  {
     "id": "recxOPAM4z2VsAXsK",
     "year": 1952,
     "countyNumber": "1",
@@ -18252,6 +18972,18 @@
     "serial": "1-7272",
     "photoUrl": "assets/img/plates/attZTcA2rqGdAji0I.jpg",
     "dateAdded": "2026-08-13T22:23:29.000Z"
+  },
+  {
+    "id": "recxPswXZ1ti35pTG",
+    "year": 1939,
+    "countyNumber": "62",
+    "countyName": "Crockett",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "62-383",
+    "photoUrl": "assets/img/plates/atts3PJ4zTdx0a66N.jpg",
+    "dateAdded": "2026-08-29T01:47:55.000Z"
   },
   {
     "id": "recxRspcTnLYLx5K1",
@@ -18626,6 +19358,18 @@
     "dateAdded": "2026-08-23T02:39:20.000Z"
   },
   {
+    "id": "recyW5dqSVOgU9Nku",
+    "year": 1951,
+    "countyNumber": "63",
+    "countyName": "Polk",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "63-949",
+    "photoUrl": "assets/img/plates/attNyaBEDcRIX9l5Y.jpg",
+    "dateAdded": "2026-08-29T02:03:26.000Z"
+  },
+  {
     "id": "recyZ7OtIBJZHMZsS",
     "year": 1955,
     "countyNumber": "44",
@@ -18696,6 +19440,18 @@
     "serial": "43-1378",
     "photoUrl": "assets/img/plates/attCy8jqIcY4z9xnm.jpg",
     "dateAdded": "2026-08-26T20:49:43.000Z"
+  },
+  {
+    "id": "recytRAZ7dpYCVbvW",
+    "year": 1951,
+    "countyNumber": "63",
+    "countyName": "Polk",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "63-639",
+    "photoUrl": "assets/img/plates/att64ixR4sNlGk9hj.jpg",
+    "dateAdded": "2026-08-29T02:01:13.000Z"
   },
   {
     "id": "recytqzBp2dktsvF4",
@@ -18984,6 +19740,18 @@
     "serial": "29-500",
     "photoUrl": "assets/img/plates/att50k6flaIGkSzKq.jpg",
     "dateAdded": "2026-08-23T12:13:34.000Z"
+  },
+  {
+    "id": "reczsKBJ3WzpeSVAF",
+    "year": 1956,
+    "countyNumber": "64",
+    "countyName": "Wayne",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "64-145",
+    "photoUrl": "assets/img/plates/att87A4FxDoD2OQqp.jpg",
+    "dateAdded": "2026-08-29T02:10:30.000Z"
   },
   {
     "id": "recztrshHRAHAcun2",
