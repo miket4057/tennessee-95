@@ -1,5 +1,17 @@
 [
   {
+    "id": "rec00T5B2LmWMs86G",
+    "year": 1947,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "79-342",
+    "photoUrl": "assets/img/plates/attX4WeFbFlxKpuRu.jpg",
+    "dateAdded": "2026-08-30T18:03:11.000Z"
+  },
+  {
     "id": "rec00dRIW5OnIB3zs",
     "year": 1952,
     "countyNumber": "73",
@@ -190,6 +202,18 @@
     "serial": "43-18",
     "photoUrl": "assets/img/plates/attO8d7fctcnekDM1.jpg",
     "dateAdded": "2026-08-26T21:03:40.000Z"
+  },
+  {
+    "id": "rec0OwEIcRN53H767",
+    "year": 1956,
+    "countyNumber": "81",
+    "countyName": "Jackson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "81-565",
+    "photoUrl": "assets/img/plates/attKB1aBZbndyCwGZ.jpg",
+    "dateAdded": "2026-08-30T18:16:27.000Z"
   },
   {
     "id": "rec0QBLztxW1jCpUH",
@@ -528,6 +552,18 @@
     "dateAdded": "2026-08-29T17:11:11.000Z"
   },
   {
+    "id": "rec1TSxeM4yRL4ctS",
+    "year": 1950,
+    "countyNumber": "83",
+    "countyName": "Decatur",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "83P/1-68",
+    "photoUrl": "assets/img/plates/attZKOKIyZiupVG57.jpg",
+    "dateAdded": "2026-08-30T21:46:16.000Z"
+  },
+  {
     "id": "rec1V2vQnQ7bM4DgW",
     "year": 1955,
     "countyNumber": "41",
@@ -586,6 +622,18 @@
     "serial": "8F/1-369",
     "photoUrl": "assets/img/plates/attLwy9OvvOUhYSQM.jpg",
     "dateAdded": "2026-08-21T15:42:38.000Z"
+  },
+  {
+    "id": "rec1Ymg7AfozL1cCp",
+    "year": 1947,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "82-284",
+    "photoUrl": "assets/img/plates/attxrnbUDRdUBN2Qs.jpg",
+    "dateAdded": "2026-08-30T19:04:45.000Z"
   },
   {
     "id": "rec1ZtwKYwWVAqrYq",
@@ -670,6 +718,18 @@
     "serial": "71-1696",
     "photoUrl": "assets/img/plates/attXJTmLWecc2MpCH.jpg",
     "dateAdded": "2026-08-29T17:03:29.000Z"
+  },
+  {
+    "id": "rec1tdbeezL86ljWu",
+    "year": 1949,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "79-983",
+    "photoUrl": "assets/img/plates/attU4rmegzelTrpWY.jpg",
+    "dateAdded": "2026-08-30T18:01:18.000Z"
   },
   {
     "id": "rec1upG00Wp4SctNg",
@@ -814,6 +874,18 @@
     "serial": "23D-1944",
     "photoUrl": "assets/img/plates/attvEUcCu6P3yPX3b.jpg",
     "dateAdded": "2026-08-22T15:00:23.000Z"
+  },
+  {
+    "id": "rec2LZJigtdW7s5oH",
+    "year": 1951,
+    "countyNumber": "77",
+    "countyName": "Overton",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "77P/1-21",
+    "photoUrl": "assets/img/plates/attPRbybrSvnDzFZ2.jpg",
+    "dateAdded": "2026-08-30T17:53:45.000Z"
   },
   {
     "id": "rec2MdYBSkE0ZQsZJ",
@@ -1056,6 +1128,18 @@
     "dateAdded": "2026-08-22T13:21:01.000Z"
   },
   {
+    "id": "rec2s1Rjde7oAwShh",
+    "year": 1952,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "79-38",
+    "photoUrl": "assets/img/plates/attDqcRVc7P8t0xji.jpg",
+    "dateAdded": "2026-08-30T18:07:21.000Z"
+  },
+  {
     "id": "rec2uPb70fJpt0Aws",
     "year": 1948,
     "countyNumber": "8",
@@ -1260,6 +1344,18 @@
     "dateAdded": "2026-08-29T02:03:39.000Z"
   },
   {
+    "id": "rec3PPvtOZV6vL3hE",
+    "year": 1942,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "79-248",
+    "photoUrl": "assets/img/plates/attTnmNWfI64LUfpE.jpg",
+    "dateAdded": "2026-08-30T18:04:25.000Z"
+  },
+  {
     "id": "rec3Sg0PkAFLrSOTb",
     "year": 1951,
     "countyNumber": "23",
@@ -1282,6 +1378,18 @@
     "serial": "52-914",
     "photoUrl": "assets/img/plates/att1moRutzxHvRuDr.jpg",
     "dateAdded": "2026-08-27T00:48:48.000Z"
+  },
+  {
+    "id": "rec3ZIKJSQSKKQ1dN",
+    "year": 1939,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "82-127",
+    "photoUrl": "assets/img/plates/attQy8LwOjpZfnWrc.jpg",
+    "dateAdded": "2026-08-30T19:04:32.000Z"
   },
   {
     "id": "rec3bxKsjjTfkQUTW",
@@ -1416,6 +1524,18 @@
     "dateAdded": "2026-08-25T02:12:51.000Z"
   },
   {
+    "id": "rec3wDXWME4SoJhaR",
+    "year": 1950,
+    "countyNumber": "78",
+    "countyName": "Union",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "78-407",
+    "photoUrl": "assets/img/plates/att58fEKTjQ1gtecV.jpg",
+    "dateAdded": "2026-08-30T17:58:03.000Z"
+  },
+  {
     "id": "rec3xB6Td9QSG2Gb8",
     "year": 1953,
     "countyNumber": "3",
@@ -1450,6 +1570,18 @@
     "serial": "14-1017",
     "photoUrl": "assets/img/plates/attzuGNBDwPNMC0zY.jpg",
     "dateAdded": "2026-08-21T20:33:20.000Z"
+  },
+  {
+    "id": "rec46taCeqgs4NSCS",
+    "year": 1939,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "79-222",
+    "photoUrl": "assets/img/plates/attM52or4q6eqHv8S.jpg",
+    "dateAdded": "2026-08-30T18:00:36.000Z"
   },
   {
     "id": "rec48vjipQyeyfIpw",
@@ -1620,6 +1752,18 @@
     "dateAdded": "2026-08-26T21:02:01.000Z"
   },
   {
+    "id": "rec4VrFkPjmzwj4te",
+    "year": 1956,
+    "countyNumber": "77",
+    "countyName": "Overton",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "77-2023",
+    "photoUrl": "assets/img/plates/attlAimPCvXRhBv1i.jpg",
+    "dateAdded": "2026-08-30T17:52:15.000Z"
+  },
+  {
     "id": "rec4ZaRI1XXVyp3U6",
     "year": 1956,
     "countyNumber": "57",
@@ -1630,6 +1774,18 @@
     "serial": "57F/1-330",
     "photoUrl": "assets/img/plates/attiLGYzjxY6pQMlV.jpg",
     "dateAdded": "2026-08-27T20:45:05.000Z"
+  },
+  {
+    "id": "rec4Zr6fWSba7M7mC",
+    "year": 1954,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Farm Truck",
+    "serial": "82F/1-95",
+    "photoUrl": "assets/img/plates/attpH4jYy0v9k0QH7.jpg",
+    "dateAdded": "2026-08-30T19:05:08.000Z"
   },
   {
     "id": "rec4ZrubAPWET4lyN",
@@ -1716,6 +1872,18 @@
     "dateAdded": "2026-08-29T01:18:27.000Z"
   },
   {
+    "id": "rec4lUTisI7bA9c4i",
+    "year": 1955,
+    "countyNumber": "83",
+    "countyName": "Decatur",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "83-400",
+    "photoUrl": "assets/img/plates/attPwptzqP51jwpdZ.jpg",
+    "dateAdded": "2026-08-30T21:46:07.000Z"
+  },
+  {
     "id": "rec4lacrS81p6wf34",
     "year": 1942,
     "countyNumber": "61",
@@ -1800,6 +1968,18 @@
     "dateAdded": "2026-08-20T23:54:42.000Z"
   },
   {
+    "id": "rec4sTldRTGgpEPrB",
+    "year": 1953,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Farm Truck",
+    "serial": "82F/1-203",
+    "photoUrl": "assets/img/plates/attgYIofo5Xjs4UcB.jpg",
+    "dateAdded": "2026-08-30T19:08:35.000Z"
+  },
+  {
     "id": "rec4vBrU6bCvgC3Gi",
     "year": 1951,
     "countyNumber": "55",
@@ -1858,6 +2038,18 @@
     "serial": "9TAXI-87",
     "photoUrl": "assets/img/plates/attPE7cBNq8uFDkVM.jpg",
     "dateAdded": "2026-08-21T15:49:36.000Z"
+  },
+  {
+    "id": "rec56PylunxmQEO7Q",
+    "year": 1941,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "82-75",
+    "photoUrl": "assets/img/plates/att73vYdvnJoWxUee.jpg",
+    "dateAdded": "2026-08-30T19:07:49.000Z"
   },
   {
     "id": "rec57vtnGJDFb2473",
@@ -1980,6 +2172,18 @@
     "dateAdded": "2026-08-29T17:13:43.000Z"
   },
   {
+    "id": "rec5Wgx6BHAKx1lIu",
+    "year": 1940,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "79-131",
+    "photoUrl": "assets/img/plates/attdL57YAgdY0MNgl.jpg",
+    "dateAdded": "2026-08-30T18:03:58.000Z"
+  },
+  {
     "id": "rec5WnIwJ7FdOjaC8",
     "year": 1949,
     "countyNumber": "36",
@@ -2026,6 +2230,18 @@
     "serial": "6-14",
     "photoUrl": "assets/img/plates/attBPd511fjTZ6gUe.jpg",
     "dateAdded": "2026-08-21T15:08:55.000Z"
+  },
+  {
+    "id": "rec5hciSwn8Mao5UN",
+    "year": 1951,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "79-131",
+    "photoUrl": "assets/img/plates/attKdl31dpuLrCmyc.jpg",
+    "dateAdded": "2026-08-30T18:10:26.000Z"
   },
   {
     "id": "rec5iCcPDeeLLiAeY",
@@ -2364,6 +2580,18 @@
     "dateAdded": "2026-08-30T11:09:29.000Z"
   },
   {
+    "id": "rec6h45Jxnhf9dGRa",
+    "year": 1947,
+    "countyNumber": "77",
+    "countyName": "Overton",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "77-27",
+    "photoUrl": "assets/img/plates/att6aivMw744ocxni.jpg",
+    "dateAdded": "2026-08-30T17:53:34.000Z"
+  },
+  {
     "id": "rec6i8CYtn5TgrPM2",
     "year": 1951,
     "countyNumber": "7",
@@ -2386,6 +2614,18 @@
     "serial": "20-66",
     "photoUrl": "assets/img/plates/attOt8FIyhsLydHu8.jpg",
     "dateAdded": "2026-08-22T13:28:11.000Z"
+  },
+  {
+    "id": "rec6qyLAA1CiIV4KD",
+    "year": 1955,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "82-19",
+    "photoUrl": "assets/img/plates/attpb9rb3qHur06dk.jpg",
+    "dateAdded": "2026-08-30T19:10:10.000Z"
   },
   {
     "id": "rec6tljCZP1wcTcu8",
@@ -2446,6 +2686,18 @@
     "serial": "4A-9",
     "photoUrl": "assets/img/plates/attxNihG9cQf1mPsG.jpg",
     "dateAdded": "2026-08-21T00:50:42.000Z"
+  },
+  {
+    "id": "rec72AONdIbSeya4f",
+    "year": 1950,
+    "countyNumber": "77",
+    "countyName": "Overton",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "77F/1-356",
+    "photoUrl": "assets/img/plates/attCzqjqrVqX2ugXr.jpg",
+    "dateAdded": "2026-08-30T17:55:05.000Z"
   },
   {
     "id": "rec73iOxCziISbXNU",
@@ -3036,6 +3288,18 @@
     "dateAdded": "2026-08-26T22:07:23.000Z"
   },
   {
+    "id": "rec8Yf5LaEa1XVNT4",
+    "year": 1942,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "79-393",
+    "photoUrl": "assets/img/plates/attpkfeYOWIuozTyO.jpg",
+    "dateAdded": "2026-08-30T18:04:14.000Z"
+  },
+  {
     "id": "rec8bf5ate9920FEb",
     "year": 1985,
     "countyNumber": "1",
@@ -3156,6 +3420,18 @@
     "dateAdded": "2026-08-22T03:25:40.000Z"
   },
   {
+    "id": "rec8xdbNnGAFXNrx2",
+    "year": 1951,
+    "countyNumber": "77",
+    "countyName": "Overton",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "77-225",
+    "photoUrl": "assets/img/plates/attVnwm0jRJnXOkI4.jpg",
+    "dateAdded": "2026-08-30T17:51:23.000Z"
+  },
+  {
     "id": "rec8zh398tZCqPyux",
     "year": 1956,
     "countyNumber": "61",
@@ -3252,6 +3528,18 @@
     "dateAdded": "2026-08-22T13:06:43.000Z"
   },
   {
+    "id": "rec97tmS3yPJE2jrI",
+    "year": 1949,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "79-8",
+    "photoUrl": "assets/img/plates/attCXjvUSEP9goY6h.jpg",
+    "dateAdded": "2026-08-30T18:08:52.000Z"
+  },
+  {
     "id": "rec98g3KjO8obayaD",
     "year": 1947,
     "countyNumber": "5",
@@ -3274,6 +3562,18 @@
     "serial": "14H/2-501",
     "photoUrl": "assets/img/plates/attKmofO9h4StUtfO.jpg",
     "dateAdded": "2026-08-21T20:22:56.000Z"
+  },
+  {
+    "id": "rec9BZ4cZ7Pef3CbL",
+    "year": 1954,
+    "countyNumber": "83",
+    "countyName": "Decatur",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "83-10",
+    "photoUrl": "assets/img/plates/attwZrw5P53ERoT4s.jpg",
+    "dateAdded": "2026-08-30T21:44:59.000Z"
   },
   {
     "id": "rec9CRCGyUhY2F4OY",
@@ -3348,6 +3648,18 @@
     "dateAdded": "2026-08-23T18:13:20.000Z"
   },
   {
+    "id": "rec9Q2nyzN4aLpspG",
+    "year": 1949,
+    "countyNumber": "77",
+    "countyName": "Overton",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "77-213",
+    "photoUrl": "assets/img/plates/attY4N41fIWiMVBYZ.jpg",
+    "dateAdded": "2026-08-30T17:54:54.000Z"
+  },
+  {
     "id": "rec9QG8DTvkrL8zON",
     "year": 1958,
     "countyNumber": "6",
@@ -3372,6 +3684,30 @@
     "dateAdded": "2026-08-21T00:06:17.000Z"
   },
   {
+    "id": "rec9UbS66C2Q5GoNa",
+    "year": 1951,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "82-1005",
+    "photoUrl": "assets/img/plates/att4RP47zEUX0LnNE.jpg",
+    "dateAdded": "2026-08-30T19:11:32.000Z"
+  },
+  {
+    "id": "rec9XbZ202ej3LNf8",
+    "year": 1956,
+    "countyNumber": "81",
+    "countyName": "Jackson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "81-259",
+    "photoUrl": "assets/img/plates/attW3o5WpGJf9Zlhq.jpg",
+    "dateAdded": "2026-08-30T18:16:15.000Z"
+  },
+  {
     "id": "rec9dB1v4ol14UlHF",
     "year": 1944,
     "countyNumber": "64",
@@ -3382,6 +3718,18 @@
     "serial": "64-49",
     "photoUrl": "assets/img/plates/attXc3hZawpHd8BMH.jpg",
     "dateAdded": "2026-08-29T02:07:47.000Z"
+  },
+  {
+    "id": "rec9duWEl0KgeUdxb",
+    "year": 1956,
+    "countyNumber": "81",
+    "countyName": "Cannon",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "81-112",
+    "photoUrl": "assets/img/plates/attQ4UajHzvN4OAoL.jpg",
+    "dateAdded": "2026-08-30T18:11:35.000Z"
   },
   {
     "id": "rec9fO0BKaFwiUF91",
@@ -3456,6 +3804,18 @@
     "dateAdded": "2026-08-21T14:53:42.000Z"
   },
   {
+    "id": "rec9rIbqr9DkxkeJz",
+    "year": 1944,
+    "countyNumber": "78",
+    "countyName": "Union",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "78F/1-12",
+    "photoUrl": "assets/img/plates/attSmhU0ptjDmkBKG.jpg",
+    "dateAdded": "2026-08-30T17:57:07.000Z"
+  },
+  {
     "id": "rec9xHCYTPrdf2rRN",
     "year": 1955,
     "countyNumber": "70",
@@ -3516,6 +3876,18 @@
     "dateAdded": "2026-08-23T18:13:46.000Z"
   },
   {
+    "id": "recA3bn9San3WqNR0",
+    "year": 1951,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "79-501",
+    "photoUrl": "assets/img/plates/attaJCpiMwy8MJWhf.jpg",
+    "dateAdded": "2026-08-30T18:10:16.000Z"
+  },
+  {
     "id": "recA6b1HmOZQ3i0f9",
     "year": 1949,
     "countyNumber": "67",
@@ -3574,6 +3946,18 @@
     "serial": "24-2042",
     "photoUrl": "assets/img/plates/attBRXiqNUwpxw75e.jpg",
     "dateAdded": "2026-08-22T15:08:05.000Z"
+  },
+  {
+    "id": "recAHgBks7TZHtslH",
+    "year": 1939,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "79-222",
+    "photoUrl": "assets/img/plates/attTFgWQC2Fq9NBSh.jpg",
+    "dateAdded": "2026-08-30T18:07:55.000Z"
   },
   {
     "id": "recAI7lJF5KJtxqpE",
@@ -3672,6 +4056,18 @@
     "dateAdded": "2026-08-29T13:02:47.000Z"
   },
   {
+    "id": "recAUwfh9eBLXaV0w",
+    "year": 1941,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "79F/1-153",
+    "photoUrl": "assets/img/plates/attH8x9xeq4tuma1J.jpg",
+    "dateAdded": "2026-08-30T18:00:51.000Z"
+  },
+  {
     "id": "recAVAgm6hyYJ7RQ0",
     "year": 1941,
     "countyNumber": "18",
@@ -3706,6 +4102,18 @@
     "serial": "17-2414",
     "photoUrl": "assets/img/plates/attbDmcsnd6wJBubS.jpg",
     "dateAdded": "2026-08-22T03:17:49.000Z"
+  },
+  {
+    "id": "recAeXybOvzVUd1Uq",
+    "year": 1945,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "79-8",
+    "photoUrl": "assets/img/plates/attqzNMNa8AG4lLTw.jpg",
+    "dateAdded": "2026-08-30T18:04:46.000Z"
   },
   {
     "id": "recAfBmOHb3ZrrtWm",
@@ -3802,6 +4210,18 @@
     "serial": "30-3066",
     "photoUrl": "assets/img/plates/attQn4GcPLSodrFKB.jpg",
     "dateAdded": "2026-08-23T18:03:31.000Z"
+  },
+  {
+    "id": "recAsPGuFisrW0bEu",
+    "year": 1955,
+    "countyNumber": "81",
+    "countyName": "Jackson",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "81-111",
+    "photoUrl": "assets/img/plates/attI93MVZ8SoTTLI9.jpg",
+    "dateAdded": "2026-08-30T18:17:42.000Z"
   },
   {
     "id": "recAtPUjwI420PwYP",
@@ -4008,6 +4428,18 @@
     "dateAdded": "2026-08-29T01:55:38.000Z"
   },
   {
+    "id": "recBRjYuVyJAlZVyE",
+    "year": 1956,
+    "countyNumber": "83",
+    "countyName": "Decatur",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "83-197",
+    "photoUrl": "assets/img/plates/att5GM966029wxUTh.jpg",
+    "dateAdded": "2026-08-30T21:45:55.000Z"
+  },
+  {
     "id": "recBRuUiub3e6aX0R",
     "year": 1939,
     "countyNumber": "37",
@@ -4174,6 +4606,18 @@
     "serial": "2D-35932",
     "photoUrl": "assets/img/plates/attCUCVvuA38O4F84.jpg",
     "dateAdded": "2026-08-20T02:49:58.000Z"
+  },
+  {
+    "id": "recBz44MonClsAETt",
+    "year": 1951,
+    "countyNumber": "80",
+    "countyName": "Cannon",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "80-451",
+    "photoUrl": "assets/img/plates/attD9MemWjrSnDDQw.jpg",
+    "dateAdded": "2026-08-30T18:13:36.000Z"
   },
   {
     "id": "recBz5rrYfB5dKuGe",
@@ -4474,6 +4918,18 @@
     "serial": "11D-1284",
     "photoUrl": "assets/img/plates/attr3AsycpJ3ORK8Y.jpg",
     "dateAdded": "2026-08-21T18:02:44.000Z"
+  },
+  {
+    "id": "recCUZusyjFXfafxW",
+    "year": 1947,
+    "countyNumber": "77",
+    "countyName": "Overton",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "77-134",
+    "photoUrl": "assets/img/plates/att36lMdbgQjONNHH.jpg",
+    "dateAdded": "2026-08-30T17:52:04.000Z"
   },
   {
     "id": "recCZ3sP1Iyhq6Fyt",
@@ -5208,6 +5664,18 @@
     "dateAdded": "2026-08-21T20:44:20.000Z"
   },
   {
+    "id": "recEkiXUqlDX8znPq",
+    "year": 1955,
+    "countyNumber": "80",
+    "countyName": "Cannon",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Truck",
+    "serial": "80P/3-819",
+    "photoUrl": "assets/img/plates/attryXTw5VFOal7r3.jpg",
+    "dateAdded": "2026-08-30T18:13:24.000Z"
+  },
+  {
     "id": "recEmxpg5Q7da4W4b",
     "year": 1955,
     "countyNumber": "12",
@@ -5218,6 +5686,18 @@
     "serial": "12",
     "photoUrl": "assets/img/plates/attKhE1GwvqSeNAlo.jpg",
     "dateAdded": "2026-08-21T18:18:06.000Z"
+  },
+  {
+    "id": "recEn9CasQAxgZT7I",
+    "year": 1949,
+    "countyNumber": "81",
+    "countyName": "Jackson",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "81-111",
+    "photoUrl": "assets/img/plates/attgahE51xmVsWXl2.jpg",
+    "dateAdded": "2026-08-30T18:17:15.000Z"
   },
   {
     "id": "recEq8Gd8jrkXJOJs",
@@ -5326,6 +5806,18 @@
     "serial": "46-64",
     "photoUrl": "assets/img/plates/attL01BckxTALqXRg.jpg",
     "dateAdded": "2026-08-26T21:51:28.000Z"
+  },
+  {
+    "id": "recFBsOWXPDEvr9hX",
+    "year": 1952,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Green",
+    "fontColor": "White",
+    "type": "Radio",
+    "serial": "79-W4GEN",
+    "photoUrl": "assets/img/plates/attAbLhGhWLCKAOej.jpg",
+    "dateAdded": "2026-08-30T18:02:12.000Z"
   },
   {
     "id": "recFDeVYFki37ko2T",
@@ -5508,6 +6000,18 @@
     "dateAdded": "2026-08-27T20:47:47.000Z"
   },
   {
+    "id": "recFyMIJClYy1xa6E",
+    "year": 1953,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Farm Truck",
+    "serial": "82F/1-38",
+    "photoUrl": "assets/img/plates/att5XtXB9j6XNKgyC.jpg",
+    "dateAdded": "2026-08-30T19:06:52.000Z"
+  },
+  {
     "id": "recFyMqUvGlyCFZHH",
     "year": 1954,
     "countyNumber": "37",
@@ -5614,6 +6118,18 @@
     "serial": "66-13",
     "photoUrl": "assets/img/plates/attyAN2ldUHnZzuEf.jpg",
     "dateAdded": "2026-08-29T13:05:21.000Z"
+  },
+  {
+    "id": "recG9kQgTbzNDn4OZ",
+    "year": 1942,
+    "countyNumber": "77",
+    "countyName": "Overton",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "77-662",
+    "photoUrl": "assets/img/plates/attZ7YVn63YNkHoIF.jpg",
+    "dateAdded": "2026-08-30T17:55:50.000Z"
   },
   {
     "id": "recGDJyPLuvkNRb5i",
@@ -6204,6 +6720,18 @@
     "dateAdded": "2026-08-26T20:52:52.000Z"
   },
   {
+    "id": "recHTf3NTiBmXj30s",
+    "year": 1949,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Farm Truck",
+    "serial": "82F/1-53",
+    "photoUrl": "assets/img/plates/attHK8rrP5NI6VmlL.jpg",
+    "dateAdded": "2026-08-30T19:11:20.000Z"
+  },
+  {
     "id": "recHXCBEV4Ap1r5WZ",
     "year": 1941,
     "countyNumber": "58",
@@ -6269,7 +6797,7 @@
     "countyNumber": "69",
     "countyName": "Morgan",
     "colors": "Orange",
-    "fontColor": "Whiet",
+    "fontColor": null,
     "type": "Passenger",
     "serial": "69-899",
     "photoUrl": "assets/img/plates/attgbiC3Ywy74iOSp.jpg",
@@ -6516,6 +7044,18 @@
     "dateAdded": "2026-08-22T14:53:06.000Z"
   },
   {
+    "id": "recIWhG1OTNTE1Zoi",
+    "year": 1951,
+    "countyNumber": "83",
+    "countyName": "Decatur",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "83-565",
+    "photoUrl": "assets/img/plates/attlN2yPMULSME2c6.jpg",
+    "dateAdded": "2026-08-30T21:44:29.000Z"
+  },
+  {
     "id": "recIbtlslTBwxD6FL",
     "year": 1949,
     "countyNumber": "20",
@@ -6622,6 +7162,18 @@
     "serial": "32-1542",
     "photoUrl": "assets/img/plates/atthdwaYincyvtYNY.jpg",
     "dateAdded": "2026-08-23T18:13:35.000Z"
+  },
+  {
+    "id": "recJ2N1lsxLJ43eb5",
+    "year": 1956,
+    "countyNumber": "77",
+    "countyName": "Overton",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "77-707",
+    "photoUrl": "assets/img/plates/att2d3bApxHbKDl5g.jpg",
+    "dateAdded": "2026-08-30T17:50:40.000Z"
   },
   {
     "id": "recJ3rYLlMWAx0kmY",
@@ -6754,6 +7306,18 @@
     "serial": "59P/1-324",
     "photoUrl": "assets/img/plates/att7nJgpx9M1wUWga.jpg",
     "dateAdded": "2026-08-28T20:57:08.000Z"
+  },
+  {
+    "id": "recJRTxIRHpT45e4W",
+    "year": 1950,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "79-2",
+    "photoUrl": "assets/img/plates/attwaLgl5GglY3l1t.jpg",
+    "dateAdded": "2026-08-30T18:01:47.000Z"
   },
   {
     "id": "recJTNIOCFSLE1YVX",
@@ -6948,6 +7512,30 @@
     "dateAdded": "2026-08-25T02:00:37.000Z"
   },
   {
+    "id": "recK5D0vbAGWSXkHp",
+    "year": 1952,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "79-666",
+    "photoUrl": "assets/img/plates/attd3CsAKbyWa9As9.jpg",
+    "dateAdded": "2026-08-30T18:05:05.000Z"
+  },
+  {
+    "id": "recK5YfwHsoO3VYxv",
+    "year": 1956,
+    "countyNumber": "80",
+    "countyName": "Cannon",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "80-1446",
+    "photoUrl": "assets/img/plates/attIKYGGzOEwEsZ1O.jpg",
+    "dateAdded": "2026-08-30T18:13:55.000Z"
+  },
+  {
     "id": "recK6P2bFeMCIa95y",
     "year": 1944,
     "countyNumber": "50",
@@ -7092,6 +7680,18 @@
     "dateAdded": "2026-08-21T00:50:38.000Z"
   },
   {
+    "id": "recKWIE3W2tgWtDMz",
+    "year": 1950,
+    "countyNumber": "80",
+    "countyName": "Cannon",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "80P/1-25",
+    "photoUrl": "assets/img/plates/attYkemCBIbzezuq2.jpg",
+    "dateAdded": "2026-08-30T18:12:38.000Z"
+  },
+  {
     "id": "recKXZpOuV5axIJRd",
     "year": 1953,
     "countyNumber": "46",
@@ -7126,6 +7726,18 @@
     "serial": "17-1750",
     "photoUrl": "assets/img/plates/attmYrJ3bl5YV5ij2.jpg",
     "dateAdded": "2026-08-22T03:24:07.000Z"
+  },
+  {
+    "id": "recKa05mdNd70RcrO",
+    "year": 1953,
+    "countyNumber": "81",
+    "countyName": "Jackson",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "81-111",
+    "photoUrl": "assets/img/plates/attqbGI80VZMVry0g.jpg",
+    "dateAdded": "2026-08-30T18:17:27.000Z"
   },
   {
     "id": "recKanRCnOSDgzvxS",
@@ -7320,6 +7932,18 @@
     "dateAdded": "2026-08-23T11:56:34.000Z"
   },
   {
+    "id": "recL5YYmbMdlUZkjm",
+    "year": 1946,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "79-813",
+    "photoUrl": "assets/img/plates/attr4QUoUOY7sydtb.jpg",
+    "dateAdded": "2026-08-30T18:08:20.000Z"
+  },
+  {
     "id": "recL7zQipffmFjuJA",
     "year": 1965,
     "countyNumber": "65",
@@ -7488,6 +8112,18 @@
     "dateAdded": "2026-08-25T01:59:48.000Z"
   },
   {
+    "id": "recLjppFAhqHdAWme",
+    "year": 1951,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "County",
+    "serial": "82COUNTY-6",
+    "photoUrl": "assets/img/plates/attQakXoFzaz0ybqd.jpg",
+    "dateAdded": "2026-08-30T19:04:02.000Z"
+  },
+  {
     "id": "recLm1q96ueynJx6E",
     "year": 1944,
     "countyNumber": "44",
@@ -7630,6 +8266,18 @@
     "serial": "37-1160",
     "photoUrl": "assets/img/plates/attsjarmN0bOFqAHu.jpg",
     "dateAdded": "2026-08-25T02:05:57.000Z"
+  },
+  {
+    "id": "recLwlhqItJKOU94t",
+    "year": 1951,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "79-38",
+    "photoUrl": "assets/img/plates/attM8MnG3g96Lm3dv.jpg",
+    "dateAdded": "2026-08-30T18:07:10.000Z"
   },
   {
     "id": "recM5iTQPrfq0UZlR",
@@ -7956,6 +8604,18 @@
     "dateAdded": "2026-08-22T03:20:40.000Z"
   },
   {
+    "id": "recMtY8EhRuNRgITa",
+    "year": 1953,
+    "countyNumber": "81",
+    "countyName": "Jackson",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "81-712",
+    "photoUrl": "assets/img/plates/attS4dFK4520aCBNs.jpg",
+    "dateAdded": "2026-08-30T18:18:16.000Z"
+  },
+  {
     "id": "recMwb4tUszT6gn8t",
     "year": 1942,
     "countyNumber": "15",
@@ -8244,6 +8904,18 @@
     "dateAdded": "2026-08-22T03:28:16.000Z"
   },
   {
+    "id": "recNV3kGWpLntkWfQ",
+    "year": 1953,
+    "countyNumber": "83",
+    "countyName": "Decatur",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Farm Truck",
+    "serial": "83F/1-226",
+    "photoUrl": "assets/img/plates/attUug5cjbEYvuS5M.jpg",
+    "dateAdded": "2026-08-30T21:47:15.000Z"
+  },
+  {
     "id": "recNXtsTzDzSkxqQn",
     "year": 1951,
     "countyNumber": "7",
@@ -8410,6 +9082,18 @@
     "serial": "43-2732",
     "photoUrl": "assets/img/plates/attZNMhXwA9zaVyTz.jpg",
     "dateAdded": "2026-08-26T20:54:48.000Z"
+  },
+  {
+    "id": "recNqe3cFxRNNYZAn",
+    "year": 1951,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "79-53",
+    "photoUrl": "assets/img/plates/atts8aW34Szt5aSkm.jpg",
+    "dateAdded": "2026-08-30T18:10:52.000Z"
   },
   {
     "id": "recNriyNzdMbWA8DU",
@@ -8638,6 +9322,18 @@
     "serial": "4TAXID/3-684",
     "photoUrl": "assets/img/plates/attwJgMCQuqHi4ldp.jpg",
     "dateAdded": "2026-08-21T00:58:00.000Z"
+  },
+  {
+    "id": "recOSmv1xr8oe6GYU",
+    "year": 1951,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "82-383",
+    "photoUrl": "assets/img/plates/attvsjMQkKwyyBzIr.jpg",
+    "dateAdded": "2026-08-30T19:06:16.000Z"
   },
   {
     "id": "recOXDNgDcAZmchmj",
@@ -8974,6 +9670,18 @@
     "serial": "30-1456",
     "photoUrl": "assets/img/plates/att00EFHmsjMJfyea.jpg",
     "dateAdded": "2026-08-23T18:02:01.000Z"
+  },
+  {
+    "id": "recP44fUJxFhuwooX",
+    "year": 1955,
+    "countyNumber": "83",
+    "countyName": "Decatur",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "83-20",
+    "photoUrl": "assets/img/plates/attXMCJ4Pi1nmevtu.jpg",
+    "dateAdded": "2026-08-30T21:47:40.000Z"
   },
   {
     "id": "recP4SuiC2bkueSZw",
@@ -9528,6 +10236,18 @@
     "dateAdded": "2026-08-27T01:03:02.000Z"
   },
   {
+    "id": "recQnCWWIMKlqTi6p",
+    "year": 1948,
+    "countyNumber": "83",
+    "countyName": "Decatur",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "83P/1-71",
+    "photoUrl": "assets/img/plates/attzrtgugt1UaLdk8.jpg",
+    "dateAdded": "2026-08-30T21:46:58.000Z"
+  },
+  {
     "id": "recQpsUR8RmyWPzMB",
     "year": 1954,
     "countyNumber": "37",
@@ -9588,6 +10308,18 @@
     "dateAdded": "2026-08-21T15:07:05.000Z"
   },
   {
+    "id": "recQvI008pNyEOci5",
+    "year": 1951,
+    "countyNumber": "83",
+    "countyName": "Decatur",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "83-407",
+    "photoUrl": "assets/img/plates/attsapoi7KVSAJerB.jpg",
+    "dateAdded": "2026-08-30T21:45:13.000Z"
+  },
+  {
     "id": "recQvr5geXfMg0uYh",
     "year": 1953,
     "countyNumber": "65",
@@ -9598,6 +10330,18 @@
     "serial": "65P/4-904",
     "photoUrl": "assets/img/plates/attUXAm84cqabxdXW.jpg",
     "dateAdded": "2026-08-29T02:14:11.000Z"
+  },
+  {
+    "id": "recQvwCGn1nT5Tf5d",
+    "year": 1939,
+    "countyNumber": "80",
+    "countyName": "Cannon",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "80-478",
+    "photoUrl": "assets/img/plates/attvHx7emJalmDaUv.jpg",
+    "dateAdded": "2026-08-30T18:14:16.000Z"
   },
   {
     "id": "recQxCHJZn2KWU7FC",
@@ -9622,6 +10366,18 @@
     "serial": "23D-415",
     "photoUrl": "assets/img/plates/att28uFDGon3r00oa.jpg",
     "dateAdded": "2026-08-22T14:56:50.000Z"
+  },
+  {
+    "id": "recQyamlHs6cJigip",
+    "year": 1956,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "79-687",
+    "photoUrl": "assets/img/plates/attz6Ccz6GETtVbuQ.jpg",
+    "dateAdded": "2026-08-30T18:03:33.000Z"
   },
   {
     "id": "recQylC9oLwxTXFsC",
@@ -9706,6 +10462,18 @@
     "serial": "57-500",
     "photoUrl": "assets/img/plates/attdxW4H3vyiJMjpw.jpg",
     "dateAdded": "2026-08-27T20:46:29.000Z"
+  },
+  {
+    "id": "recRAbriO1asa8ctA",
+    "year": 1951,
+    "countyNumber": "80",
+    "countyName": "Cannon",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "80F/1-288",
+    "photoUrl": "assets/img/plates/attoSUnoh5RFxg3aU.jpg",
+    "dateAdded": "2026-08-30T18:12:58.000Z"
   },
   {
     "id": "recRAlXxKv0p6Z5Da",
@@ -9924,6 +10692,18 @@
     "dateAdded": "2026-08-23T11:51:31.000Z"
   },
   {
+    "id": "recRtWqLNI7CMF1an",
+    "year": 1951,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "79-891",
+    "photoUrl": "assets/img/plates/att4z0iGJVne0vDyU.jpg",
+    "dateAdded": "2026-08-30T18:11:03.000Z"
+  },
+  {
     "id": "recRxBzfn7CYX6NKL",
     "year": 1940,
     "countyNumber": "76",
@@ -10044,6 +10824,18 @@
     "dateAdded": "2026-08-26T20:52:36.000Z"
   },
   {
+    "id": "recSIXCm9512RfqFR",
+    "year": 1956,
+    "countyNumber": "77",
+    "countyName": "Overton",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "77F/1-12",
+    "photoUrl": "assets/img/plates/attG5V2trT0B9Q409.jpg",
+    "dateAdded": "2026-08-30T17:51:10.000Z"
+  },
+  {
     "id": "recSLnGfFikW59Ejj",
     "year": 1946,
     "countyNumber": "18",
@@ -10066,6 +10858,18 @@
     "serial": "76-277",
     "photoUrl": "assets/img/plates/atttEK8GQKUYQkI1Y.jpg",
     "dateAdded": "2026-08-30T11:57:02.000Z"
+  },
+  {
+    "id": "recSMCuvaKas68X0T",
+    "year": 1954,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "82-966",
+    "photoUrl": "assets/img/plates/att6A1KQgIwFzy1pS.jpg",
+    "dateAdded": "2026-08-30T19:05:33.000Z"
   },
   {
     "id": "recSMWoHbK46MDEDx",
@@ -10318,6 +11122,18 @@
     "serial": "11-332",
     "photoUrl": "assets/img/plates/attMWLie6fYpcGWtk.jpg",
     "dateAdded": "2026-08-21T18:01:12.000Z"
+  },
+  {
+    "id": "recTEIgQIkdLXIMB4",
+    "year": 1952,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "82-411",
+    "photoUrl": "assets/img/plates/attCwPaI9K3tjWK19.jpg",
+    "dateAdded": "2026-08-30T19:08:23.000Z"
   },
   {
     "id": "recTF6HRhEU9kwMnN",
@@ -10944,6 +11760,18 @@
     "dateAdded": "2026-08-24T00:51:18.000Z"
   },
   {
+    "id": "recUzpvUtauaWj8FS",
+    "year": 1951,
+    "countyNumber": "78",
+    "countyName": "Union",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "78-178",
+    "photoUrl": "assets/img/plates/attXpYA2Ts38XYdYC.jpg",
+    "dateAdded": "2026-08-30T17:56:56.000Z"
+  },
+  {
     "id": "recV0bfpzzZTRsNCh",
     "year": 1942,
     "countyNumber": "43",
@@ -11268,6 +12096,18 @@
     "dateAdded": "2026-08-26T21:35:48.000Z"
   },
   {
+    "id": "recWAEbYhsPjpn6ka",
+    "year": 1942,
+    "countyNumber": "83",
+    "countyName": "Decatur",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "83-449",
+    "photoUrl": "assets/img/plates/att9ozP4cMO3rBhlT.jpg",
+    "dateAdded": "2026-08-30T21:47:29.000Z"
+  },
+  {
     "id": "recWAwy3AGrWcEZVH",
     "year": 1945,
     "countyNumber": "33",
@@ -11326,6 +12166,18 @@
     "serial": "26F/1-43",
     "photoUrl": "assets/img/plates/atta0Mo7OIkKsuDdm.jpg",
     "dateAdded": "2026-08-23T02:40:53.000Z"
+  },
+  {
+    "id": "recWJQqjSNWNs8bCo",
+    "year": 1939,
+    "countyNumber": "77",
+    "countyName": "Overton",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "77-599",
+    "photoUrl": "assets/img/plates/attH0a2DfRzriM7xy.jpg",
+    "dateAdded": "2026-08-30T17:56:03.000Z"
   },
   {
     "id": "recWOT3hniikfp0WX",
@@ -11424,6 +12276,18 @@
     "dateAdded": "2026-08-21T15:19:51.000Z"
   },
   {
+    "id": "recWhq7CcFu7JBS7G",
+    "year": 1955,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Truck",
+    "serial": "82P/1-32",
+    "photoUrl": "assets/img/plates/attjggSH6uMoU9ie1.jpg",
+    "dateAdded": "2026-08-30T19:11:06.000Z"
+  },
+  {
     "id": "recWmGtfp9aYCGU8L",
     "year": 1944,
     "countyNumber": "4",
@@ -11446,6 +12310,18 @@
     "serial": "63-264",
     "photoUrl": "assets/img/plates/att3oWA8hvNL8Mlzo.jpg",
     "dateAdded": "2026-08-29T02:03:50.000Z"
+  },
+  {
+    "id": "recWqUw5ivreUOUku",
+    "year": 1939,
+    "countyNumber": "77",
+    "countyName": "Overton",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "77-751",
+    "photoUrl": "assets/img/plates/attp5vH1N0AEkc7uL.jpg",
+    "dateAdded": "2026-08-30T17:52:55.000Z"
   },
   {
     "id": "recWqbT4ZuEKeGg3b",
@@ -11532,6 +12408,18 @@
     "dateAdded": "2026-08-26T22:16:28.000Z"
   },
   {
+    "id": "recWxv4RUqkDLXHvk",
+    "year": 1958,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "79-14",
+    "photoUrl": "assets/img/plates/attCOFA8OzbtXFovy.jpg",
+    "dateAdded": "2026-08-30T18:05:31.000Z"
+  },
+  {
     "id": "recX0AsMrfjBFpL6r",
     "year": 1949,
     "countyNumber": "50",
@@ -11554,6 +12442,18 @@
     "serial": "60-1696",
     "photoUrl": "assets/img/plates/attsO3tn62fzm7EiR.jpg",
     "dateAdded": "2026-08-29T01:27:26.000Z"
+  },
+  {
+    "id": "recX1sQ8MRPfDMuZ9",
+    "year": 1941,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "82-154",
+    "photoUrl": "assets/img/plates/attPnwLxgEKko4GIr.jpg",
+    "dateAdded": "2026-08-30T19:08:01.000Z"
   },
   {
     "id": "recX3JyZKMk9ZKZY9",
@@ -11628,6 +12528,18 @@
     "dateAdded": "2026-08-21T15:53:21.000Z"
   },
   {
+    "id": "recX9ZZXEJKfJ9Zpf",
+    "year": 1948,
+    "countyNumber": "80",
+    "countyName": "Cannon",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "80-632",
+    "photoUrl": "assets/img/plates/atthzjxxFM8PKQxbB.jpg",
+    "dateAdded": "2026-08-30T18:15:32.000Z"
+  },
+  {
     "id": "recXBQKww7lUaV3UV",
     "year": 1951,
     "countyNumber": "35",
@@ -11698,6 +12610,18 @@
     "serial": "29-213",
     "photoUrl": "assets/img/plates/attLoZYC6Z8JL2Ois.jpg",
     "dateAdded": "2026-08-23T12:17:55.000Z"
+  },
+  {
+    "id": "recXJVaetVsWkBWkk",
+    "year": 1951,
+    "countyNumber": "80",
+    "countyName": "Cannon",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "80-1098",
+    "photoUrl": "assets/img/plates/attm5zc8ZlyeJU21g.jpg",
+    "dateAdded": "2026-08-30T18:14:37.000Z"
   },
   {
     "id": "recXLMUEPkmigOjAw",
@@ -12192,6 +13116,18 @@
     "dateAdded": "2026-08-29T13:03:13.000Z"
   },
   {
+    "id": "recYmlBf3mOGmeqts",
+    "year": 1951,
+    "countyNumber": "77",
+    "countyName": "Overton",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "77-77",
+    "photoUrl": "assets/img/plates/attqFZ0wd5rRByjGF.jpg",
+    "dateAdded": "2026-08-30T17:51:33.000Z"
+  },
+  {
     "id": "recYoFV7jkoTSYIVH",
     "year": 1956,
     "countyNumber": "60",
@@ -12250,6 +13186,18 @@
     "serial": "44-150",
     "photoUrl": "assets/img/plates/attLmuWugCtxLddnZ.jpg",
     "dateAdded": "2026-08-26T21:26:10.000Z"
+  },
+  {
+    "id": "recYyE5pxdyvDXnmW",
+    "year": 1951,
+    "countyNumber": "77",
+    "countyName": "Overton",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "77-819",
+    "photoUrl": "assets/img/plates/attioDcdWa754tumx.jpg",
+    "dateAdded": "2026-08-30T17:54:19.000Z"
   },
   {
     "id": "recYzji6Ajt1UwYEw",
@@ -12358,6 +13306,18 @@
     "serial": "44-359",
     "photoUrl": "assets/img/plates/attENVctFNYxIFbiM.jpg",
     "dateAdded": "2026-08-26T21:24:37.000Z"
+  },
+  {
+    "id": "recZERVcW5CuTZ6sd",
+    "year": 1953,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "79-224",
+    "photoUrl": "assets/img/plates/attG9S6dmMfDr77OB.jpg",
+    "dateAdded": "2026-08-30T18:08:07.000Z"
   },
   {
     "id": "recZHDQPJBeuztsca",
@@ -12478,6 +13438,18 @@
     "serial": "61-547",
     "photoUrl": "assets/img/plates/attiSUzHgoQgei9pn.jpg",
     "dateAdded": "2026-08-29T01:34:31.000Z"
+  },
+  {
+    "id": "recZOl7x5PnpVTF7p",
+    "year": 1951,
+    "countyNumber": "81",
+    "countyName": "Jackson",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "81-1225",
+    "photoUrl": "assets/img/plates/att2FEWsFu8PXtDNv.jpg",
+    "dateAdded": "2026-08-30T18:17:52.000Z"
   },
   {
     "id": "recZP23woHhxWE24M",
@@ -12864,6 +13836,18 @@
     "dateAdded": "2026-08-26T22:01:39.000Z"
   },
   {
+    "id": "recagUUek6YKOdQF1",
+    "year": 1949,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "79-353",
+    "photoUrl": "assets/img/plates/attBHsgFn2oPX3M1k.jpg",
+    "dateAdded": "2026-08-30T18:01:05.000Z"
+  },
+  {
     "id": "recalitnsROwjLkrA",
     "year": 1944,
     "countyNumber": "2",
@@ -13212,6 +14196,30 @@
     "dateAdded": "2026-08-22T03:05:48.000Z"
   },
   {
+    "id": "recbbxoU1FaTY8fE2",
+    "year": 1945,
+    "countyNumber": "78",
+    "countyName": "Union",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "78-481",
+    "photoUrl": "assets/img/plates/attLdOndt3tcyABGk.jpg",
+    "dateAdded": "2026-08-30T17:57:51.000Z"
+  },
+  {
+    "id": "recbgBAgn3chAvurk",
+    "year": 1944,
+    "countyNumber": "78",
+    "countyName": "Union",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "78-663",
+    "photoUrl": "assets/img/plates/att08MsScBcWmpka0.jpg",
+    "dateAdded": "2026-08-30T17:57:40.000Z"
+  },
+  {
     "id": "recbgGY5nxQE0YVrQ",
     "year": 1945,
     "countyNumber": "9",
@@ -13222,6 +14230,18 @@
     "serial": "9CITY-502",
     "photoUrl": "assets/img/plates/attFR0hEC3JESLwLl.jpg",
     "dateAdded": "2026-08-21T15:48:57.000Z"
+  },
+  {
+    "id": "recbilpr3ekWL4qYI",
+    "year": 1946,
+    "countyNumber": "77",
+    "countyName": "Overton",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "77-12",
+    "photoUrl": "assets/img/plates/att4hv5f1zmgt4Fts.jpg",
+    "dateAdded": "2026-08-30T17:55:37.000Z"
   },
   {
     "id": "recbkOK3Q0eHSjUqK",
@@ -13272,6 +14292,18 @@
     "dateAdded": "2026-08-29T01:45:29.000Z"
   },
   {
+    "id": "recbo3FM7nqqyxf1w",
+    "year": 1952,
+    "countyNumber": "77",
+    "countyName": "Overton",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "77-617",
+    "photoUrl": "assets/img/plates/attmll06sRg2uW55t.jpg",
+    "dateAdded": "2026-08-30T17:53:22.000Z"
+  },
+  {
     "id": "recboyD7G3q3rj7ne",
     "year": 1942,
     "countyNumber": "33",
@@ -13296,6 +14328,18 @@
     "dateAdded": "2026-08-22T14:40:00.000Z"
   },
   {
+    "id": "recbsAbTiAbC2JmLY",
+    "year": 1946,
+    "countyNumber": "80",
+    "countyName": "Cannon",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Truck",
+    "serial": "80P/2-522",
+    "photoUrl": "assets/img/plates/attxRioYzBfHiHNyG.jpg",
+    "dateAdded": "2026-08-30T18:11:48.000Z"
+  },
+  {
     "id": "recbswiNQgra7CZro",
     "year": 1954,
     "countyNumber": "27",
@@ -13318,6 +14362,18 @@
     "serial": "60-14",
     "photoUrl": "assets/img/plates/attIx7Zkn1Rog0nvG.jpg",
     "dateAdded": "2026-08-29T01:29:44.000Z"
+  },
+  {
+    "id": "recbwLeozvFtmR06r",
+    "year": 1950,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "79F/1-88",
+    "photoUrl": "assets/img/plates/attNZ8IZuCYeKvxJ6.jpg",
+    "dateAdded": "2026-08-30T18:05:41.000Z"
   },
   {
     "id": "recbxDfgE4b2wqI65",
@@ -13548,6 +14604,18 @@
     "dateAdded": "2026-08-25T02:17:06.000Z"
   },
   {
+    "id": "reccZs5kr0kiM4Os8",
+    "year": 1951,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "79-841",
+    "photoUrl": "assets/img/plates/attUV4l00O9CNtbKU.jpg",
+    "dateAdded": "2026-08-30T18:02:30.000Z"
+  },
+  {
     "id": "recciODWk2VIgxFKl",
     "year": 1952,
     "countyNumber": "65",
@@ -13752,6 +14820,18 @@
     "dateAdded": "2026-08-22T13:17:05.000Z"
   },
   {
+    "id": "recdEOiWL8zx9neRL",
+    "year": 1950,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "79-8",
+    "photoUrl": "assets/img/plates/att8afpv5mkyJ1eBZ.jpg",
+    "dateAdded": "2026-08-30T18:09:03.000Z"
+  },
+  {
     "id": "recdGdZplhrqy9hci",
     "year": 1951,
     "countyNumber": "43",
@@ -13884,6 +14964,18 @@
     "dateAdded": "2026-08-29T01:55:50.000Z"
   },
   {
+    "id": "recdfUlKKzh2O5NJi",
+    "year": 1946,
+    "countyNumber": "77",
+    "countyName": "Overton",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "77-301",
+    "photoUrl": "assets/img/plates/att4qRlDaDwXkW8XY.jpg",
+    "dateAdded": "2026-08-30T17:51:46.000Z"
+  },
+  {
     "id": "recdfsc09emjHlFLM",
     "year": 1939,
     "countyNumber": "9",
@@ -13968,6 +15060,30 @@
     "dateAdded": "2026-08-26T20:38:00.000Z"
   },
   {
+    "id": "recdz9Pco4XU0cBwf",
+    "year": 1951,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "79-1022",
+    "photoUrl": "assets/img/plates/att05mINXuw0EBhLS.jpg",
+    "dateAdded": "2026-08-30T18:02:56.000Z"
+  },
+  {
+    "id": "recdzzo5Vm9ZbB1dm",
+    "year": 1950,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "82P/2-522",
+    "photoUrl": "assets/img/plates/attUyfu9vaPciGeaS.jpg",
+    "dateAdded": "2026-08-30T19:10:31.000Z"
+  },
+  {
     "id": "rece0d8BEGOQH7Skk",
     "year": 1955,
     "countyNumber": "68",
@@ -13992,6 +15108,18 @@
     "dateAdded": "2026-08-21T20:38:19.000Z"
   },
   {
+    "id": "rece4PwDUjxMnwPo9",
+    "year": 1954,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "82-382",
+    "photoUrl": "assets/img/plates/atttuqiMzSXM95K8j.jpg",
+    "dateAdded": "2026-08-30T19:05:48.000Z"
+  },
+  {
     "id": "rece4xT3xMq5P8J3X",
     "year": 1951,
     "countyNumber": "33",
@@ -14002,6 +15130,18 @@
     "serial": "33-3164",
     "photoUrl": "assets/img/plates/attXjyuFgI750jyyT.jpg",
     "dateAdded": "2026-08-24T00:54:44.000Z"
+  },
+  {
+    "id": "rece5IAmueoOvpWtt",
+    "year": 1950,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "82F/1-87",
+    "photoUrl": "assets/img/plates/attgy5WoRC7eZ2xWv.jpg",
+    "dateAdded": "2026-08-30T19:10:19.000Z"
   },
   {
     "id": "rece6uwbioLuce1Mg",
@@ -14050,6 +15190,18 @@
     "serial": "36-13",
     "photoUrl": "assets/img/plates/attXcE2tLwDp4S7Ad.jpg",
     "dateAdded": "2026-08-29T01:18:14.000Z"
+  },
+  {
+    "id": "receKVOQ2SVyheM58",
+    "year": 1949,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Farm Truck",
+    "serial": "82F/1-140",
+    "photoUrl": "assets/img/plates/attcoInhORmiRDg02.jpg",
+    "dateAdded": "2026-08-30T19:07:35.000Z"
   },
   {
     "id": "receKhxUvkalAqqUu",
@@ -14652,6 +15804,18 @@
     "dateAdded": "2026-08-25T01:46:15.000Z"
   },
   {
+    "id": "recfeCFCovK0xM64Y",
+    "year": 1950,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "79F/1-88",
+    "photoUrl": "assets/img/plates/attKjCFyR8muispEb.jpg",
+    "dateAdded": "2026-08-30T18:01:59.000Z"
+  },
+  {
     "id": "recfgXY6gIbAUuNfw",
     "year": 1951,
     "countyNumber": "14",
@@ -14808,6 +15972,30 @@
     "dateAdded": "2026-08-23T12:18:22.000Z"
   },
   {
+    "id": "recfzsuHxh5YsaWau",
+    "year": 1956,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "79-38",
+    "photoUrl": "assets/img/plates/attnmrzfJKRWOqrmM.jpg",
+    "dateAdded": "2026-08-30T18:07:43.000Z"
+  },
+  {
+    "id": "recg3HygsmBadbP2k",
+    "year": 1940,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "82-213",
+    "photoUrl": "assets/img/plates/attmHaEEnb5Tbr2xr.jpg",
+    "dateAdded": "2026-08-30T19:08:48.000Z"
+  },
+  {
     "id": "recg5eUiJoBdXnIEz",
     "year": 1945,
     "countyNumber": "42",
@@ -14820,6 +16008,18 @@
     "dateAdded": "2026-08-26T20:44:18.000Z"
   },
   {
+    "id": "recg6KlEQDeHMiug6",
+    "year": 1949,
+    "countyNumber": "83",
+    "countyName": "Decatur",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "83-460",
+    "photoUrl": "assets/img/plates/attyGaArJqDdyz6He.jpg",
+    "dateAdded": "2026-08-30T21:45:25.000Z"
+  },
+  {
     "id": "recg7bGZK41asw06a",
     "year": 1955,
     "countyNumber": "27",
@@ -14830,6 +16030,18 @@
     "serial": "27D-56",
     "photoUrl": "assets/img/plates/att8J3aghvNVARHjl.jpg",
     "dateAdded": "2026-08-23T11:48:12.000Z"
+  },
+  {
+    "id": "recg9BiWtix5jGhjL",
+    "year": 1955,
+    "countyNumber": "77",
+    "countyName": "Overton",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Farm Truck",
+    "serial": "77F/1-339",
+    "photoUrl": "assets/img/plates/attZAkfa8rkIGYQF1.jpg",
+    "dateAdded": "2026-08-30T17:55:23.000Z"
   },
   {
     "id": "recgBo2giURfU9Lnr",
@@ -15084,6 +16296,18 @@
     "dateAdded": "2026-08-21T16:11:05.000Z"
   },
   {
+    "id": "rech4ge5QmYbHra5j",
+    "year": 1956,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "82F/1-163",
+    "photoUrl": "assets/img/plates/atthp3mtgfPAXmm3g.jpg",
+    "dateAdded": "2026-08-30T19:09:31.000Z"
+  },
+  {
     "id": "rech5LAVQaxw3kUoA",
     "year": 1951,
     "countyNumber": "61",
@@ -15264,6 +16488,18 @@
     "dateAdded": "2026-08-26T20:43:15.000Z"
   },
   {
+    "id": "rechW05WxZIyDVehu",
+    "year": 1939,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "79-163",
+    "photoUrl": "assets/img/plates/att4YN2DR6qlqnGcJ.jpg",
+    "dateAdded": "2026-08-30T18:03:46.000Z"
+  },
+  {
     "id": "rechXjWn5lL8efHiz",
     "year": 1952,
     "countyNumber": "14",
@@ -15334,6 +16570,18 @@
     "serial": "26-731",
     "photoUrl": "assets/img/plates/attrPwl9HCLm94XWA.jpg",
     "dateAdded": "2026-08-23T02:36:53.000Z"
+  },
+  {
+    "id": "rechhmVezS2lsl4hB",
+    "year": 1953,
+    "countyNumber": "80",
+    "countyName": "Cannon",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Farm Truck",
+    "serial": "80F/1-13",
+    "photoUrl": "assets/img/plates/attjZ7Jdt6GmywwMx.jpg",
+    "dateAdded": "2026-08-30T18:13:12.000Z"
   },
   {
     "id": "rechiaEI8CYUNWMdU",
@@ -15504,6 +16752,30 @@
     "dateAdded": "2026-08-23T11:40:36.000Z"
   },
   {
+    "id": "reci8HIyGoKH1vBNT",
+    "year": 1939,
+    "countyNumber": "80",
+    "countyName": "Cannon",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "80-56",
+    "photoUrl": "assets/img/plates/attmkCCkTt16SURjq.jpg",
+    "dateAdded": "2026-08-30T18:15:15.000Z"
+  },
+  {
+    "id": "reci8HiNsy7KFqFpj",
+    "year": 1953,
+    "countyNumber": "77",
+    "countyName": "Overton",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "77-1468",
+    "photoUrl": "assets/img/plates/attiMJXhXwWlJKXSX.jpg",
+    "dateAdded": "2026-08-30T17:54:07.000Z"
+  },
+  {
     "id": "reciAxNHwLkmv4eEU",
     "year": 1941,
     "countyNumber": "241",
@@ -15672,6 +16944,18 @@
     "dateAdded": "2026-08-20T02:34:42.000Z"
   },
   {
+    "id": "reciY1UQ1wMYSDeiq",
+    "year": 1953,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "82-260",
+    "photoUrl": "assets/img/plates/att6Wgy1E8HLYol59.jpg",
+    "dateAdded": "2026-08-30T19:06:27.000Z"
+  },
+  {
     "id": "reciZ75rLFCRBaZzH",
     "year": 1956,
     "countyNumber": "14",
@@ -15816,6 +17100,18 @@
     "dateAdded": "2026-08-25T02:15:56.000Z"
   },
   {
+    "id": "recj0nGxlrdKvIOJP",
+    "year": 1952,
+    "countyNumber": "80",
+    "countyName": "Cannon",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "80-1384",
+    "photoUrl": "assets/img/plates/attRY5e6MO4DIEe81.jpg",
+    "dateAdded": "2026-08-30T18:14:06.000Z"
+  },
+  {
     "id": "recj1ue7LbGHhxci5",
     "year": 1954,
     "countyNumber": "15",
@@ -15900,6 +17196,18 @@
     "dateAdded": "2026-08-28T20:55:47.000Z"
   },
   {
+    "id": "recjBOlvprxdNa1W3",
+    "year": 1951,
+    "countyNumber": "77",
+    "countyName": "Overton",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "77-655",
+    "photoUrl": "assets/img/plates/attYvgQgXzg34OC6Q.jpg",
+    "dateAdded": "2026-08-30T17:52:41.000Z"
+  },
+  {
     "id": "recjBhrPMck5jgrJ5",
     "year": 1953,
     "countyNumber": "2",
@@ -15934,6 +17242,18 @@
     "serial": "13-9300",
     "photoUrl": "assets/img/plates/attJez4PoqDQLkg3u.jpg",
     "dateAdded": "2026-08-21T20:06:58.000Z"
+  },
+  {
+    "id": "recjJum83dKf7cdxO",
+    "year": 1951,
+    "countyNumber": "77",
+    "countyName": "Overton",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "77-1733",
+    "photoUrl": "assets/img/plates/attrdtdlWkXvaTQmg.jpg",
+    "dateAdded": "2026-08-30T17:53:09.000Z"
   },
   {
     "id": "recjLVLP3qEgnifVP",
@@ -16428,6 +17748,18 @@
     "dateAdded": "2026-08-21T20:46:58.000Z"
   },
   {
+    "id": "reckmw2TRE9zZGsUQ",
+    "year": 1940,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "82-32",
+    "photoUrl": "assets/img/plates/attz9upA3m45zZ0xP.jpg",
+    "dateAdded": "2026-08-30T19:09:45.000Z"
+  },
+  {
     "id": "reckpBsj9DWciH5fm",
     "year": 1951,
     "countyNumber": "7",
@@ -16522,6 +17854,18 @@
     "serial": "34H/2-504",
     "photoUrl": "assets/img/plates/att4FTtNNaFeLQD5t.jpg",
     "dateAdded": "2026-08-24T01:05:51.000Z"
+  },
+  {
+    "id": "reclEzwyTyAF8EU0g",
+    "year": 1955,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "79-38",
+    "photoUrl": "assets/img/plates/att497xUEAZh319Kd.jpg",
+    "dateAdded": "2026-08-30T18:07:31.000Z"
   },
   {
     "id": "reclGSDty7bnpWXqf",
@@ -16620,6 +17964,18 @@
     "dateAdded": "2026-08-27T00:55:32.000Z"
   },
   {
+    "id": "reclZALOq2MxLMD0A",
+    "year": 1945,
+    "countyNumber": "77",
+    "countyName": "Overton",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "77-478",
+    "photoUrl": "assets/img/plates/attqorADWHIALBOoI.jpg",
+    "dateAdded": "2026-08-30T17:54:42.000Z"
+  },
+  {
     "id": "reclZCPqRUHQLRWj5",
     "year": 1955,
     "countyNumber": "8",
@@ -16642,6 +17998,30 @@
     "serial": "8P/1-339",
     "photoUrl": "assets/img/plates/attOeHpWYPYa6z3pq.jpg",
     "dateAdded": "2026-08-21T15:36:11.000Z"
+  },
+  {
+    "id": "reclaOUdoHQzkL6d2",
+    "year": 1955,
+    "countyNumber": "80",
+    "countyName": "Cannon",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "80-626",
+    "photoUrl": "assets/img/plates/attHBmQAHudsfJ4B2.jpg",
+    "dateAdded": "2026-08-30T18:14:26.000Z"
+  },
+  {
+    "id": "reclaRjMgeHuVBa08",
+    "year": 1941,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "79-386",
+    "photoUrl": "assets/img/plates/attxJ74UtbHP3bras.jpg",
+    "dateAdded": "2026-08-30T18:05:59.000Z"
   },
   {
     "id": "reclbSgQts2lkaPiE",
@@ -16704,6 +18084,18 @@
     "dateAdded": "2026-08-27T20:47:11.000Z"
   },
   {
+    "id": "reclkDDkWbdsXuaL6",
+    "year": 1942,
+    "countyNumber": "77",
+    "countyName": "Overton",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "77-136",
+    "photoUrl": "assets/img/plates/attQg9EicFy8I6O9K.jpg",
+    "dateAdded": "2026-08-30T17:52:30.000Z"
+  },
+  {
     "id": "recllhSYgGiUDkfOk",
     "year": 1948,
     "countyNumber": "25",
@@ -16726,6 +18118,18 @@
     "serial": "56D-44",
     "photoUrl": "assets/img/plates/attMVuZ0B29HU4r6d.jpg",
     "dateAdded": "2026-08-27T01:07:23.000Z"
+  },
+  {
+    "id": "reclohtRbEdeATZx3",
+    "year": 1956,
+    "countyNumber": "80",
+    "countyName": "Cannon",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "80-120",
+    "photoUrl": "assets/img/plates/attSrDQ2jyuBIUP6t.jpg",
+    "dateAdded": "2026-08-30T18:11:21.000Z"
   },
   {
     "id": "reclsp7T6IP0Qr6zR",
@@ -16810,6 +18214,18 @@
     "serial": "51-80",
     "photoUrl": "assets/img/plates/attuYlMdGw5tWAt0t.jpg",
     "dateAdded": "2026-08-27T00:44:15.000Z"
+  },
+  {
+    "id": "recmAfEKhAHn52pbO",
+    "year": 1951,
+    "countyNumber": "83",
+    "countyName": "Decatur",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "83-714",
+    "photoUrl": "assets/img/plates/attx2eaucETMyiGty.jpg",
+    "dateAdded": "2026-08-30T21:44:48.000Z"
   },
   {
     "id": "recmFwk6wNOe7pKKJ",
@@ -16980,6 +18396,18 @@
     "dateAdded": "2026-08-21T20:07:14.000Z"
   },
   {
+    "id": "recmd6Wz9Op3njNG9",
+    "year": 1950,
+    "countyNumber": "83",
+    "countyName": "Decatur",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "83-247",
+    "photoUrl": "assets/img/plates/att2mAKZAMzcdXQZ2.jpg",
+    "dateAdded": "2026-08-30T21:45:37.000Z"
+  },
+  {
     "id": "recmdr4gchgPzgmrM",
     "year": 1954,
     "countyNumber": "68",
@@ -17088,6 +18516,18 @@
     "dateAdded": "2026-08-28T20:51:36.000Z"
   },
   {
+    "id": "recmr5EH9n8vthCtH",
+    "year": 1956,
+    "countyNumber": "78",
+    "countyName": "Union",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "78-339",
+    "photoUrl": "assets/img/plates/att6XEbBUfsVEIV6q.jpg",
+    "dateAdded": "2026-08-30T17:56:36.000Z"
+  },
+  {
     "id": "recmrYJdo4rdKkSaq",
     "year": 1956,
     "countyNumber": "3",
@@ -17134,6 +18574,18 @@
     "serial": "3CITY-610",
     "photoUrl": "assets/img/plates/attkJyln3Xy8X4c3q.jpg",
     "dateAdded": "2026-08-21T00:02:04.000Z"
+  },
+  {
+    "id": "recmx7Qmo1Z0ShONT",
+    "year": 1950,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "79-38",
+    "photoUrl": "assets/img/plates/attRgOZ7nWacAS013.jpg",
+    "dateAdded": "2026-08-30T18:06:50.000Z"
   },
   {
     "id": "recmxunSmcqynqXaN",
@@ -17424,12 +18876,24 @@
     "dateAdded": "2026-08-29T01:44:40.000Z"
   },
   {
+    "id": "recnSqKRawylpyLU3",
+    "year": 1939,
+    "countyNumber": "83",
+    "countyName": "Decatur",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "83-58",
+    "photoUrl": "assets/img/plates/attG52GcyfDL6Nwch.jpg",
+    "dateAdded": "2026-08-30T21:46:38.000Z"
+  },
+  {
     "id": "recnWXhzO7NXWoQ2J",
     "year": 1951,
     "countyNumber": "69",
     "countyName": "Morgan",
     "colors": "Orange",
-    "fontColor": "Whiet",
+    "fontColor": null,
     "type": "Farm Truck",
     "serial": "69F/1-368",
     "photoUrl": "assets/img/plates/attK9adB7eejgJJKL.jpg",
@@ -17580,6 +19044,18 @@
     "dateAdded": "2026-08-23T02:38:40.000Z"
   },
   {
+    "id": "reco7bi0UUvYsPGnb",
+    "year": 1947,
+    "countyNumber": "83",
+    "countyName": "Decatur",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "83-184",
+    "photoUrl": "assets/img/plates/attQh1uYrRZ03tiOw.jpg",
+    "dateAdded": "2026-08-30T21:46:48.000Z"
+  },
+  {
     "id": "reco9QfXBRcHOvDSd",
     "year": 1948,
     "countyNumber": "48",
@@ -17686,6 +19162,18 @@
     "serial": "24-1853",
     "photoUrl": "assets/img/plates/att70z6NBwQ5XbMyj.jpg",
     "dateAdded": "2026-08-22T15:05:38.000Z"
+  },
+  {
+    "id": "recoLPoMwRJ1dZEhW",
+    "year": 1949,
+    "countyNumber": "78",
+    "countyName": "Union",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "78-624",
+    "photoUrl": "assets/img/plates/attMHN4LM6Q3ISgI7.jpg",
+    "dateAdded": "2026-08-30T17:57:24.000Z"
   },
   {
     "id": "recoNIxSM1tqXJ4kT",
@@ -17832,6 +19320,18 @@
     "dateAdded": "2026-08-29T13:17:46.000Z"
   },
   {
+    "id": "recoiLTyFHnTFaeLm",
+    "year": 1949,
+    "countyNumber": "80",
+    "countyName": "Cannon",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Farm Truck",
+    "serial": "80F/1-25",
+    "photoUrl": "assets/img/plates/attdezhKpN9tMhBhE.jpg",
+    "dateAdded": "2026-08-30T18:12:14.000Z"
+  },
+  {
     "id": "recooWUGAkB2zUqYA",
     "year": 1951,
     "countyNumber": "67",
@@ -17974,6 +19474,18 @@
     "serial": "59-1883",
     "photoUrl": "assets/img/plates/attGt6Kdj6DQZIL9O.jpg",
     "dateAdded": "2026-08-28T20:57:22.000Z"
+  },
+  {
+    "id": "recpBuCUtoHFQxgaH",
+    "year": 1952,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "82F/1-139",
+    "photoUrl": "assets/img/plates/attrAtnvDlQt7ebTX.jpg",
+    "dateAdded": "2026-08-30T19:09:00.000Z"
   },
   {
     "id": "recpGv0eomgcpD0on",
@@ -18120,6 +19632,18 @@
     "dateAdded": "2026-08-27T00:46:05.000Z"
   },
   {
+    "id": "recphT1SmcMmylmoC",
+    "year": 1950,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "79-250",
+    "photoUrl": "assets/img/plates/att0FWpDccCgCeOk6.jpg",
+    "dateAdded": "2026-08-30T18:09:48.000Z"
+  },
+  {
     "id": "recpi8dFS1babYPQ1",
     "year": 1955,
     "countyNumber": "62",
@@ -18238,6 +19762,18 @@
     "serial": "16-23",
     "photoUrl": "assets/img/plates/attkfb4BPY6vzzmTF.jpg",
     "dateAdded": "2026-08-22T03:10:15.000Z"
+  },
+  {
+    "id": "recqOCxkRqffZRJdW",
+    "year": 1953,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "79-272",
+    "photoUrl": "assets/img/plates/attNywaYcRySoTBhW.jpg",
+    "dateAdded": "2026-08-30T18:02:44.000Z"
   },
   {
     "id": "recqQSTuoGJAk6c2M",
@@ -18672,6 +20208,18 @@
     "dateAdded": "2026-08-22T14:38:49.000Z"
   },
   {
+    "id": "recrWladM3dtF7rzD",
+    "year": 1940,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "79-374",
+    "photoUrl": "assets/img/plates/attMUdZYC6DT0iFlt.jpg",
+    "dateAdded": "2026-08-30T18:05:15.000Z"
+  },
+  {
     "id": "recrXiMal7cGHtkA5",
     "year": 1956,
     "countyNumber": "6",
@@ -18850,6 +20398,18 @@
     "serial": "37-1332",
     "photoUrl": "assets/img/plates/atts6ADGlm4xjSuC0.jpg",
     "dateAdded": "2026-08-25T02:08:19.000Z"
+  },
+  {
+    "id": "recs516qVHvnOakBo",
+    "year": 1958,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Motorcycle",
+    "serial": "79-15",
+    "photoUrl": "assets/img/plates/attSXHvNq1vvOXdHD.jpg",
+    "dateAdded": "2026-08-30T18:01:32.000Z"
   },
   {
     "id": "recs7pnnLkXfGJRAf",
@@ -19164,6 +20724,18 @@
     "dateAdded": "2026-08-22T13:02:20.000Z"
   },
   {
+    "id": "recspgwzVfgYtKtK5",
+    "year": 1951,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "79F/1-345",
+    "photoUrl": "assets/img/plates/attIkVCXOpL5VpVVA.jpg",
+    "dateAdded": "2026-08-30T18:10:00.000Z"
+  },
+  {
     "id": "recsrkM5jouZkfqGW",
     "year": 1939,
     "countyNumber": "17",
@@ -19296,6 +20868,18 @@
     "dateAdded": "2026-08-22T03:25:22.000Z"
   },
   {
+    "id": "recsz6bZiNuzWfvQj",
+    "year": 1951,
+    "countyNumber": "78",
+    "countyName": "Union",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "78-865",
+    "photoUrl": "assets/img/plates/attXgNWWTHIp9boUx.jpg",
+    "dateAdded": "2026-08-30T17:56:20.000Z"
+  },
+  {
     "id": "rect0H1WyvNOjNrmx",
     "year": 1939,
     "countyNumber": "71",
@@ -19380,6 +20964,18 @@
     "dateAdded": "2026-08-26T21:27:10.000Z"
   },
   {
+    "id": "rectAJsGKy6U1oVhi",
+    "year": 1955,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Farm Truck",
+    "serial": "82F/1-51",
+    "photoUrl": "assets/img/plates/attafqkUAqds8MLBO.jpg",
+    "dateAdded": "2026-08-30T19:06:01.000Z"
+  },
+  {
     "id": "rectAzzkAHcgHSfGN",
     "year": 1956,
     "countyNumber": "59",
@@ -19428,6 +21024,30 @@
     "dateAdded": "2026-08-23T02:41:15.000Z"
   },
   {
+    "id": "rectIoAFA5fv0mIa5",
+    "year": 1945,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "82-615",
+    "photoUrl": "assets/img/plates/attRlHtQGnaVH3Q7R.jpg",
+    "dateAdded": "2026-08-30T19:08:12.000Z"
+  },
+  {
+    "id": "rectJFpTiIEY6ECgp",
+    "year": 1944,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "79-8",
+    "photoUrl": "assets/img/plates/attDhB26E4ri6YMDL.jpg",
+    "dateAdded": "2026-08-30T18:04:36.000Z"
+  },
+  {
     "id": "rectMYrrb2TeMPMV8",
     "year": 1953,
     "countyNumber": "27",
@@ -19438,6 +21058,18 @@
     "serial": "27-5111",
     "photoUrl": "assets/img/plates/attr5l8PwA9bAAOb2.jpg",
     "dateAdded": "2026-08-23T02:43:38.000Z"
+  },
+  {
+    "id": "rectNEXtZlxc4sjLK",
+    "year": 1951,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "82F/1-100",
+    "photoUrl": "assets/img/plates/att5QPlcVwriArbsW.jpg",
+    "dateAdded": "2026-08-30T19:09:55.000Z"
   },
   {
     "id": "rectUvCkS2SIbPyl7",
@@ -19462,6 +21094,18 @@
     "serial": "10-407",
     "photoUrl": "assets/img/plates/attEMqxt8BHrESopq.jpg",
     "dateAdded": "2026-08-21T16:03:20.000Z"
+  },
+  {
+    "id": "rectYgrZbC4wlgbwJ",
+    "year": 1948,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "79-903",
+    "photoUrl": "assets/img/plates/att54s4cSaItZYWP2.jpg",
+    "dateAdded": "2026-08-30T18:08:36.000Z"
   },
   {
     "id": "rectYtG8GbUVmYerr",
@@ -19512,6 +21156,18 @@
     "dateAdded": "2026-08-22T14:41:27.000Z"
   },
   {
+    "id": "rectbzBLOJNoRXgZD",
+    "year": 1951,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "79-130",
+    "photoUrl": "assets/img/plates/att5YbjG5SztqLwHy.jpg",
+    "dateAdded": "2026-08-30T18:10:37.000Z"
+  },
+  {
     "id": "recteOVqWgJUi7SxR",
     "year": 1950,
     "countyNumber": "8",
@@ -19560,6 +21216,18 @@
     "dateAdded": "2026-08-26T20:54:17.000Z"
   },
   {
+    "id": "rectl1ALnsKJyc9k8",
+    "year": 1944,
+    "countyNumber": "80",
+    "countyName": "Cannon",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "80-66",
+    "photoUrl": "assets/img/plates/attouZWUKfrstky0w.jpg",
+    "dateAdded": "2026-08-30T18:15:03.000Z"
+  },
+  {
     "id": "rectliedCWx3dhbCD",
     "year": 1956,
     "countyNumber": "21",
@@ -19594,6 +21262,18 @@
     "serial": "5 385",
     "photoUrl": "assets/img/plates/attaiA0qSdfQlTaII.jpg",
     "dateAdded": "2026-08-21T14:38:40.000Z"
+  },
+  {
+    "id": "rectuSzVFw1nqH0yK",
+    "year": 1956,
+    "countyNumber": "78",
+    "countyName": "Union",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "78-533",
+    "photoUrl": "assets/img/plates/attT4jOzAKPk68jtA.jpg",
+    "dateAdded": "2026-08-30T17:58:15.000Z"
   },
   {
     "id": "rectumqzV0TMPNAeF",
@@ -19810,6 +21490,18 @@
     "serial": "5-1073",
     "photoUrl": "assets/img/plates/attOuZy7bgCmUOC3y.jpg",
     "dateAdded": "2026-08-21T14:38:45.000Z"
+  },
+  {
+    "id": "recuLvwG7Tf88PBBq",
+    "year": 1948,
+    "countyNumber": "81",
+    "countyName": "Jackson",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "81-63",
+    "photoUrl": "assets/img/plates/attLMvLR8WukAFaRA.jpg",
+    "dateAdded": "2026-08-30T18:18:03.000Z"
   },
   {
     "id": "recuMHjGncfY4nbe1",
@@ -20194,6 +21886,30 @@
     "serial": "47-1889",
     "photoUrl": "assets/img/plates/attGRdjmEKl1cOzxl.jpg",
     "dateAdded": "2026-08-26T21:52:26.000Z"
+  },
+  {
+    "id": "recvY1e6XRtr2rg35",
+    "year": 1939,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "82-16",
+    "photoUrl": "assets/img/plates/attqvmL21pJPntSyv.jpg",
+    "dateAdded": "2026-08-30T19:04:57.000Z"
+  },
+  {
+    "id": "recvg2pRHxoGlysxX",
+    "year": 1951,
+    "countyNumber": "83",
+    "countyName": "Decatur",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "83-1304",
+    "photoUrl": "assets/img/plates/attWQIS2hjh74FkMN.jpg",
+    "dateAdded": "2026-08-30T21:47:49.000Z"
   },
   {
     "id": "recvg9YvnqTpSc62q",
@@ -20810,6 +22526,18 @@
     "dateAdded": "2026-08-29T02:13:44.000Z"
   },
   {
+    "id": "recxMzYc1UI7l2Ak5",
+    "year": 1950,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "82F/1-227",
+    "photoUrl": "assets/img/plates/attQm9DZoRajc1WAk.jpg",
+    "dateAdded": "2026-08-30T19:10:45.000Z"
+  },
+  {
     "id": "recxOPAM4z2VsAXsK",
     "year": 1952,
     "countyNumber": "1",
@@ -21122,6 +22850,18 @@
     "dateAdded": "2026-08-26T21:47:14.000Z"
   },
   {
+    "id": "recyFOQZJKKuksPK9",
+    "year": 1939,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "82-143",
+    "photoUrl": "assets/img/plates/attcturMZEN2d2FPu.jpg",
+    "dateAdded": "2026-08-30T19:09:22.000Z"
+  },
+  {
     "id": "recyFXJnJ2VCeCJZz",
     "year": 1956,
     "countyNumber": "41",
@@ -21216,6 +22956,18 @@
     "serial": "10D-B64",
     "photoUrl": "assets/img/plates/att80RiZHHXSMv0Xq.jpg",
     "dateAdded": "2026-08-21T15:55:33.000Z"
+  },
+  {
+    "id": "recyQjxCwlr1PXO3S",
+    "year": 1951,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "79P1-10",
+    "photoUrl": "assets/img/plates/attiThro3O6m1chqU.jpg",
+    "dateAdded": "2026-08-30T18:06:35.000Z"
   },
   {
     "id": "recyQoru8Y2xkWX2G",
@@ -21410,6 +23162,18 @@
     "dateAdded": "2026-08-26T22:05:40.000Z"
   },
   {
+    "id": "recyw7FYEotc8gncQ",
+    "year": 1948,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "82-319",
+    "photoUrl": "assets/img/plates/attbprhVOe8oS1Ta2.jpg",
+    "dateAdded": "2026-08-30T19:04:20.000Z"
+  },
+  {
     "id": "recywBKpzEsfOhJHs",
     "year": 1940,
     "countyNumber": "10",
@@ -21602,6 +23366,18 @@
     "dateAdded": "2026-08-24T01:08:12.000Z"
   },
   {
+    "id": "reczWOocbmJuO8xoy",
+    "year": 1951,
+    "countyNumber": "79",
+    "countyName": "Stewart",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "79-234",
+    "photoUrl": "assets/img/plates/attzmQGQOFXhClgJa.jpg",
+    "dateAdded": "2026-08-30T18:03:23.000Z"
+  },
+  {
     "id": "reczYjDtPwO4tG7Fo",
     "year": 1951,
     "countyNumber": "16",
@@ -21710,6 +23486,18 @@
     "dateAdded": "2026-08-29T02:10:30.000Z"
   },
   {
+    "id": "reczt2zREKOnOFjUa",
+    "year": 1942,
+    "countyNumber": "78",
+    "countyName": "Union",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "78-483",
+    "photoUrl": "assets/img/plates/attvati0b93rrCfck.jpg",
+    "dateAdded": "2026-08-30T17:58:27.000Z"
+  },
+  {
     "id": "recztrshHRAHAcun2",
     "year": 1948,
     "countyNumber": "43",
@@ -21744,5 +23532,17 @@
     "serial": "72P/3-20",
     "photoUrl": "assets/img/plates/attpMxDPAI78jVVfl.jpg",
     "dateAdded": "2026-08-29T17:11:25.000Z"
+  },
+  {
+    "id": "reczz36sS8NyL1vEQ",
+    "year": 1940,
+    "countyNumber": "82",
+    "countyName": "Grundy",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "82-65",
+    "photoUrl": "assets/img/plates/attxnVQEDNhFN2YIV.jpg",
+    "dateAdded": "2026-08-30T19:11:42.000Z"
   }
 ]
