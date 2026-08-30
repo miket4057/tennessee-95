@@ -1,5 +1,17 @@
 [
   {
+    "id": "rec00dRIW5OnIB3zs",
+    "year": 1952,
+    "countyNumber": "73",
+    "countyName": "Johnson",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "73P/4-914",
+    "photoUrl": "assets/img/plates/attVSdfpeXajlK1BO.jpg",
+    "dateAdded": "2026-08-30T11:11:25.000Z"
+  },
+  {
     "id": "rec06HplPvk0HjI8R",
     "year": 1940,
     "countyNumber": "22",
@@ -972,6 +984,18 @@
     "dateAdded": "2026-08-26T21:46:59.000Z"
   },
   {
+    "id": "rec2ej3vi2HqxcY33",
+    "year": 1939,
+    "countyNumber": "74",
+    "countyName": "Humphreys",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "74-492",
+    "photoUrl": "assets/img/plates/att8vS79jZMMJhINM.jpg",
+    "dateAdded": "2026-08-30T11:47:56.000Z"
+  },
+  {
     "id": "rec2fwJ0C7uGYCfbN",
     "year": 1948,
     "countyNumber": "14",
@@ -1426,6 +1450,18 @@
     "serial": "14-1017",
     "photoUrl": "assets/img/plates/attzuGNBDwPNMC0zY.jpg",
     "dateAdded": "2026-08-21T20:33:20.000Z"
+  },
+  {
+    "id": "rec48vjipQyeyfIpw",
+    "year": 1947,
+    "countyNumber": "73",
+    "countyName": "Johnson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "73A-16",
+    "photoUrl": "assets/img/plates/att9tP24AOnPiu0ZK.jpg",
+    "dateAdded": "2026-08-30T11:10:10.000Z"
   },
   {
     "id": "rec49JmxTeeo6EYh2",
@@ -2316,6 +2352,18 @@
     "dateAdded": "2026-08-22T03:31:45.000Z"
   },
   {
+    "id": "rec6g4O6BCfz9y90Z",
+    "year": 1939,
+    "countyNumber": "73",
+    "countyName": "Johnson",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "73-138",
+    "photoUrl": "assets/img/plates/attF4bfDMFGvaJDMk.jpg",
+    "dateAdded": "2026-08-30T11:09:29.000Z"
+  },
+  {
     "id": "rec6i8CYtn5TgrPM2",
     "year": 1951,
     "countyNumber": "7",
@@ -2712,6 +2760,18 @@
     "dateAdded": "2026-08-28T20:51:50.000Z"
   },
   {
+    "id": "rec7sWir828ocmwFW",
+    "year": 1947,
+    "countyNumber": "76",
+    "countyName": "Lake",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "76A-6",
+    "photoUrl": "assets/img/plates/attrvcmLrwOrGhOS9.jpg",
+    "dateAdded": "2026-08-30T11:54:40.000Z"
+  },
+  {
     "id": "rec7sYlX3qjgLmt50",
     "year": 1950,
     "countyNumber": "13",
@@ -2981,7 +3041,7 @@
     "countyNumber": "1",
     "countyName": "Davidson",
     "colors": "White",
-    "fontColor": null,
+    "fontColor": "Red",
     "type": "Dealer",
     "serial": "1-204 C",
     "photoUrl": "assets/img/plates/att51h1N7cMTnDkqw.jpg",
@@ -3358,6 +3418,18 @@
     "serial": "19-509",
     "photoUrl": "assets/img/plates/attz45Z1xO6TIDJdF.jpg",
     "dateAdded": "2026-08-22T13:24:34.000Z"
+  },
+  {
+    "id": "rec9j0awgHDpTXT96",
+    "year": 1956,
+    "countyNumber": "76",
+    "countyName": "Lake",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "76F/3-932",
+    "photoUrl": "assets/img/plates/atttrdaVCPuHsNQGc.jpg",
+    "dateAdded": "2026-08-30T11:53:52.000Z"
   },
   {
     "id": "rec9ozGj7mNiKMZdU",
@@ -3828,6 +3900,18 @@
     "dateAdded": "2026-08-21T15:52:03.000Z"
   },
   {
+    "id": "recBCHQczGKXhzgg6",
+    "year": 1951,
+    "countyNumber": "75",
+    "countyName": "Scott",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "75-755",
+    "photoUrl": "assets/img/plates/attQcySHwMNugJGH5.jpg",
+    "dateAdded": "2026-08-30T11:51:02.000Z"
+  },
+  {
     "id": "recBErJSIiCjnGhKv",
     "year": 1942,
     "countyNumber": "33",
@@ -4210,6 +4294,18 @@
     "serial": "44F/2-605",
     "photoUrl": "assets/img/plates/att4lN4b03zvgOyN4.jpg",
     "dateAdded": "2026-08-26T21:20:45.000Z"
+  },
+  {
+    "id": "recC7O6O0sm9cyQ76",
+    "year": 1951,
+    "countyNumber": "76",
+    "countyName": "Lake",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "76-750",
+    "photoUrl": "assets/img/plates/att1nv5uCEFlqfo7v.jpg",
+    "dateAdded": "2026-08-30T11:55:27.000Z"
   },
   {
     "id": "recC7W1pTTxQUyj2f",
@@ -4992,6 +5088,18 @@
     "dateAdded": "2026-08-24T00:58:39.000Z"
   },
   {
+    "id": "recEOn12DHXOsO9H4",
+    "year": 1950,
+    "countyNumber": "74",
+    "countyName": "Humphreys",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "74-397",
+    "photoUrl": "assets/img/plates/attp6qebTP701w54y.jpg",
+    "dateAdded": "2026-08-30T11:49:00.000Z"
+  },
+  {
     "id": "recEPgq01OgFWkP6e",
     "year": 1946,
     "countyNumber": "44",
@@ -5724,6 +5832,30 @@
     "dateAdded": "2026-08-23T18:02:28.000Z"
   },
   {
+    "id": "recGfK8NUtujFXe7f",
+    "year": 1953,
+    "countyNumber": "76",
+    "countyName": "Lake",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Farm Truck",
+    "serial": "76F/1-206",
+    "photoUrl": "assets/img/plates/attqfEkYGiNXOu6k2.jpg",
+    "dateAdded": "2026-08-30T11:56:00.000Z"
+  },
+  {
+    "id": "recGgjCLlKswbaxdt",
+    "year": 1949,
+    "countyNumber": "73",
+    "countyName": "Johnson",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Motorcycle",
+    "serial": "73-2",
+    "photoUrl": "assets/img/plates/attTJgWsxqfS9iiJd.jpg",
+    "dateAdded": "2026-08-30T11:10:56.000Z"
+  },
+  {
     "id": "recGhxEhMtgF8dE6U",
     "year": 1951,
     "countyNumber": "13",
@@ -5878,6 +6010,18 @@
     "serial": "11-45",
     "photoUrl": "assets/img/plates/attgT7CV5FrViQb5Q.jpg",
     "dateAdded": "2026-08-21T18:04:04.000Z"
+  },
+  {
+    "id": "recH3TUPUXQCbFhCQ",
+    "year": 1942,
+    "countyNumber": "74",
+    "countyName": "Humphreys",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "74P/5-002",
+    "photoUrl": "assets/img/plates/attV8Zm2KtiYjfazI.jpg",
+    "dateAdded": "2026-08-30T11:48:44.000Z"
   },
   {
     "id": "recH7I1YPeGnjORBn",
@@ -7056,6 +7200,18 @@
     "dateAdded": "2026-08-26T22:16:59.000Z"
   },
   {
+    "id": "recKgfFQTDn6a6CXG",
+    "year": 1956,
+    "countyNumber": "73",
+    "countyName": "Johnson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "73-1811",
+    "photoUrl": "assets/img/plates/attO8A0YL2YnFQ30i.jpg",
+    "dateAdded": "2026-08-30T11:11:43.000Z"
+  },
+  {
     "id": "recKhwmOrGesE31KM",
     "year": 1954,
     "countyNumber": "3",
@@ -7632,6 +7788,18 @@
     "dateAdded": "2026-08-21T00:02:00.000Z"
   },
   {
+    "id": "recMOK7NcIKqJK9Om",
+    "year": 1953,
+    "countyNumber": "76",
+    "countyName": "Lake",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Farm Truck",
+    "serial": "76F/1-362",
+    "photoUrl": "assets/img/plates/attuvVSVN8wlQVpXN.jpg",
+    "dateAdded": "2026-08-30T11:55:40.000Z"
+  },
+  {
     "id": "recMQbGwDxjf08cLD",
     "year": 1950,
     "countyNumber": "33",
@@ -8172,6 +8340,18 @@
     "dateAdded": "2026-08-21T18:22:34.000Z"
   },
   {
+    "id": "recNioQENg59LtG6T",
+    "year": 1955,
+    "countyNumber": "73",
+    "countyName": "Johnson",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "73P/1-131",
+    "photoUrl": "assets/img/plates/attNCYLZ2JysXAG2r.jpg",
+    "dateAdded": "2026-08-30T11:09:56.000Z"
+  },
+  {
     "id": "recNjaXk9JBvYu3F7",
     "year": 1956,
     "countyNumber": "29",
@@ -8566,6 +8746,18 @@
     "serial": "72-155",
     "photoUrl": "assets/img/plates/attJgUE9QvkuZ8KPI.jpg",
     "dateAdded": "2026-08-29T17:11:56.000Z"
+  },
+  {
+    "id": "recOjloBSYgiak1F7",
+    "year": 1942,
+    "countyNumber": "76",
+    "countyName": "Lake",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "76-53",
+    "photoUrl": "assets/img/plates/attPKBm3QzlYHEKUt.jpg",
+    "dateAdded": "2026-08-30T11:54:52.000Z"
   },
   {
     "id": "recOkVoRUeZaeVpr2",
@@ -9132,6 +9324,18 @@
     "dateAdded": "2026-08-21T20:00:20.000Z"
   },
   {
+    "id": "recQU9WL6RN04WHhm",
+    "year": 1948,
+    "countyNumber": "76",
+    "countyName": "Lake",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "76-515",
+    "photoUrl": "assets/img/plates/attsudkFXVlGR5X1M.jpg",
+    "dateAdded": "2026-08-30T11:55:15.000Z"
+  },
+  {
     "id": "recQVDkUT49dc5Itg",
     "year": 1965,
     "countyNumber": "19",
@@ -9334,6 +9538,18 @@
     "serial": "37-817",
     "photoUrl": "assets/img/plates/attiwk6vaN3jLX9Lq.jpg",
     "dateAdded": "2026-08-25T02:07:12.000Z"
+  },
+  {
+    "id": "recQr3F7jqRAng1Du",
+    "year": 1951,
+    "countyNumber": "73",
+    "countyName": "Johnson",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "73-623",
+    "photoUrl": "assets/img/plates/attnks8Q2F6BcO7Sd.jpg",
+    "dateAdded": "2026-08-30T11:10:25.000Z"
   },
   {
     "id": "recQra9WYb64yeXmQ",
@@ -9708,6 +9924,18 @@
     "dateAdded": "2026-08-23T11:51:31.000Z"
   },
   {
+    "id": "recRxBzfn7CYX6NKL",
+    "year": 1940,
+    "countyNumber": "76",
+    "countyName": "Lake",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "76-944",
+    "photoUrl": "assets/img/plates/attBYHzNZRuD12DyX.jpg",
+    "dateAdded": "2026-08-30T11:56:19.000Z"
+  },
+  {
     "id": "recRxtIerebyKImNs",
     "year": 1955,
     "countyNumber": "60",
@@ -9826,6 +10054,18 @@
     "serial": "18-1818",
     "photoUrl": "assets/img/plates/attGh6MjTS6TLTiBQ.jpg",
     "dateAdded": "2026-08-22T13:19:07.000Z"
+  },
+  {
+    "id": "recSLz35pNmcRaenL",
+    "year": 1956,
+    "countyNumber": "76",
+    "countyName": "Lake",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "76-277",
+    "photoUrl": "assets/img/plates/atttEK8GQKUYQkI1Y.jpg",
+    "dateAdded": "2026-08-30T11:57:02.000Z"
   },
   {
     "id": "recSMWoHbK46MDEDx",
@@ -10200,6 +10440,18 @@
     "dateAdded": "2026-08-22T03:23:51.000Z"
   },
   {
+    "id": "recTfSgaveXfa7zvx",
+    "year": 1955,
+    "countyNumber": "73",
+    "countyName": "Johnson",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "73-1489",
+    "photoUrl": "assets/img/plates/attVHeCOBnfeFYOxj.jpg",
+    "dateAdded": "2026-08-30T11:09:09.000Z"
+  },
+  {
     "id": "recThp1rILXlALvLE",
     "year": 1948,
     "countyNumber": "18",
@@ -10378,6 +10630,18 @@
     "serial": "41F/1-418",
     "photoUrl": "assets/img/plates/att8CKaoJ7BBQI2kQ.jpg",
     "dateAdded": "2026-08-26T20:37:46.000Z"
+  },
+  {
+    "id": "recUEN4H9Vi47TNmF",
+    "year": 1948,
+    "countyNumber": "74",
+    "countyName": "Humphreys",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "74-96",
+    "photoUrl": "assets/img/plates/attX86CQcjBCgkpgV.jpg",
+    "dateAdded": "2026-08-30T11:48:09.000Z"
   },
   {
     "id": "recUG3d5X2PO2FvXT",
@@ -10678,6 +10942,18 @@
     "serial": "33-749",
     "photoUrl": "assets/img/plates/attAQoaqr0YjGWlJj.jpg",
     "dateAdded": "2026-08-24T00:51:18.000Z"
+  },
+  {
+    "id": "recV0bfpzzZTRsNCh",
+    "year": 1942,
+    "countyNumber": "43",
+    "countyName": "Johnson",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "43-426",
+    "photoUrl": "assets/img/plates/attJdvtXduvtuVR4E.jpg",
+    "dateAdded": "2026-08-30T11:09:41.000Z"
   },
   {
     "id": "recV2GR0l8CzNf69U",
@@ -11712,6 +11988,18 @@
     "dateAdded": "2026-08-29T01:36:29.000Z"
   },
   {
+    "id": "recY8rhgDdo3Ma30V",
+    "year": 1951,
+    "countyNumber": "74",
+    "countyName": "Humphreys",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "74-440",
+    "photoUrl": "assets/img/plates/att1guqyXJEm2x1gp.jpg",
+    "dateAdded": "2026-08-30T11:49:11.000Z"
+  },
+  {
     "id": "recYAwdyHxbeB68XD",
     "year": 1942,
     "countyNumber": "15",
@@ -11794,6 +12082,18 @@
     "serial": "44-1050",
     "photoUrl": "assets/img/plates/attrSOvEqSZ61c87g.jpg",
     "dateAdded": "2026-08-26T21:24:11.000Z"
+  },
+  {
+    "id": "recYUHPtDk4kGDbG6",
+    "year": 1951,
+    "countyNumber": "74",
+    "countyName": "Humphreys",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "74-299",
+    "photoUrl": "assets/img/plates/att4hjYaAivesAJ4t.jpg",
+    "dateAdded": "2026-08-30T11:46:00.000Z"
   },
   {
     "id": "recYVcnrHKurdZx8B",
@@ -11902,6 +12202,18 @@
     "serial": "60F/1-333",
     "photoUrl": "assets/img/plates/attDkyLzURxNfGoyt.jpg",
     "dateAdded": "2026-08-29T01:30:29.000Z"
+  },
+  {
+    "id": "recYoXAhHvsbfqyzN",
+    "year": 1956,
+    "countyNumber": "75",
+    "countyName": "Scott",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "75F/1-36",
+    "photoUrl": "assets/img/plates/attKYFJJR7rA6T0uJ.jpg",
+    "dateAdded": "2026-08-30T11:50:19.000Z"
   },
   {
     "id": "recYpF8Q2Yhq7YOAX",
@@ -12456,6 +12768,18 @@
     "dateAdded": "2026-08-26T22:04:57.000Z"
   },
   {
+    "id": "recaTYjy4PycetQsy",
+    "year": 1956,
+    "countyNumber": "73",
+    "countyName": "Johnson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "73-1811",
+    "photoUrl": "assets/img/plates/attvktwWDzTxyTFSU.jpg",
+    "dateAdded": "2026-08-30T11:15:14.000Z"
+  },
+  {
     "id": "recaYFkbC0X3MGlVV",
     "year": 1955,
     "countyNumber": "31",
@@ -13006,6 +13330,18 @@
     "serial": "60-484",
     "photoUrl": "assets/img/plates/att62ux5RhBiZ4HQS.jpg",
     "dateAdded": "2026-08-29T01:28:33.000Z"
+  },
+  {
+    "id": "recbxeTTrTj9Qi3PU",
+    "year": 1954,
+    "countyNumber": "73",
+    "countyName": "Johnson",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "73-115",
+    "photoUrl": "assets/img/plates/attP0DDaYVV28jCG8.jpg",
+    "dateAdded": "2026-08-30T11:10:40.000Z"
   },
   {
     "id": "recc0An8OBTmxH4OM",
@@ -14208,6 +14544,18 @@
     "dateAdded": "2026-08-22T03:29:37.000Z"
   },
   {
+    "id": "recfMDevfrrSXjuNH",
+    "year": 1940,
+    "countyNumber": "74",
+    "countyName": "Humphreys",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "74-515",
+    "photoUrl": "assets/img/plates/attkVt8QTyDiiwS4v.jpg",
+    "dateAdded": "2026-08-30T11:45:32.000Z"
+  },
+  {
     "id": "recfMVp45TNDNW286",
     "year": 1951,
     "countyNumber": "25",
@@ -14508,6 +14856,30 @@
     "dateAdded": "2026-08-29T13:10:39.000Z"
   },
   {
+    "id": "recgGzbQU2hI8apBZ",
+    "year": 1955,
+    "countyNumber": "74",
+    "countyName": "Humphreys",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "74-23",
+    "photoUrl": "assets/img/plates/attKBnhO89iWXZghc.jpg",
+    "dateAdded": "2026-08-30T11:48:22.000Z"
+  },
+  {
+    "id": "recgH96zokMUENpc8",
+    "year": 1951,
+    "countyNumber": "75",
+    "countyName": "Scott",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "75P/2-544",
+    "photoUrl": "assets/img/plates/attO8yQXfV6PfAD1H.jpg",
+    "dateAdded": "2026-08-30T11:50:47.000Z"
+  },
+  {
     "id": "recgIbl3xE9QyvBHy",
     "year": 1950,
     "countyNumber": "50",
@@ -14578,6 +14950,18 @@
     "serial": "23-46",
     "photoUrl": "assets/img/plates/att8tF5zMgVwEcBaK.jpg",
     "dateAdded": "2026-08-22T14:58:17.000Z"
+  },
+  {
+    "id": "recgZmYNpEPbD1afg",
+    "year": 1949,
+    "countyNumber": "75",
+    "countyName": "Scott",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "75-212",
+    "photoUrl": "assets/img/plates/attCJjAf3n0VvKrKk.jpg",
+    "dateAdded": "2026-08-30T11:51:12.000Z"
   },
   {
     "id": "recgevYurweeRi78G",
@@ -15084,6 +15468,18 @@
     "dateAdded": "2026-08-21T20:12:59.000Z"
   },
   {
+    "id": "reci5tlzQXpyZyi81",
+    "year": 1952,
+    "countyNumber": "73",
+    "countyName": "Johnson",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "73-334",
+    "photoUrl": "assets/img/plates/attUuAGgoSwS4JnKj.jpg",
+    "dateAdded": "2026-08-30T11:14:41.000Z"
+  },
+  {
     "id": "reci6alOYCD1sIWHb",
     "year": 1946,
     "countyNumber": "36",
@@ -15286,6 +15682,18 @@
     "serial": "14F/1-393",
     "photoUrl": "assets/img/plates/attNFfE0qrbEbrjy2.jpg",
     "dateAdded": "2026-08-21T20:23:52.000Z"
+  },
+  {
+    "id": "reciZly5uAeuU47E7",
+    "year": 1942,
+    "countyNumber": "74",
+    "countyName": "Humphreys",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Taxi",
+    "serial": "74TAXID/3-57",
+    "photoUrl": "assets/img/plates/attSvk6Ovxz9GDcTo.jpg",
+    "dateAdded": "2026-08-30T11:46:14.000Z"
   },
   {
     "id": "reciaSWZZ9MW6Fjq5",
@@ -15564,6 +15972,18 @@
     "dateAdded": "2026-08-28T20:58:37.000Z"
   },
   {
+    "id": "recjOEk4rfccxjbQV",
+    "year": 1951,
+    "countyNumber": "73",
+    "countyName": "Johnson",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "73-5094",
+    "photoUrl": "assets/img/plates/attV8Afge0q9O73mv.jpg",
+    "dateAdded": "2026-08-30T11:14:16.000Z"
+  },
+  {
     "id": "recjSKcI8gZXG87ik",
     "year": 1948,
     "countyNumber": "62",
@@ -15730,6 +16150,18 @@
     "serial": "24-19",
     "photoUrl": "assets/img/plates/attbkLLFYFkbprqQ2.jpg",
     "dateAdded": "2026-08-22T15:06:20.000Z"
+  },
+  {
+    "id": "recjqD3ffTKyERp6i",
+    "year": 1950,
+    "countyNumber": "76",
+    "countyName": "Lake",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "76-1742",
+    "photoUrl": "assets/img/plates/attfN6P2k1wTeeUCR.jpg",
+    "dateAdded": "2026-08-30T11:54:08.000Z"
   },
   {
     "id": "recjrALvTwqZwr6Ah",
@@ -16138,6 +16570,18 @@
     "serial": "50-1488",
     "photoUrl": "assets/img/plates/attt4sHglBQZBHJT9.jpg",
     "dateAdded": "2026-08-26T22:22:24.000Z"
+  },
+  {
+    "id": "reclSbMbGzMJ9I4XN",
+    "year": 1950,
+    "countyNumber": "75",
+    "countyName": "Scott",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "75-1466",
+    "photoUrl": "assets/img/plates/attW8WN38hPraoM9C.jpg",
+    "dateAdded": "2026-08-30T11:51:23.000Z"
   },
   {
     "id": "reclUZ4g8g2BBvE62",
@@ -17256,6 +17700,18 @@
     "dateAdded": "2026-08-21T20:06:41.000Z"
   },
   {
+    "id": "recoNnvkH4Vo11H29",
+    "year": 1952,
+    "countyNumber": "73",
+    "countyName": "Johnson",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "73-503",
+    "photoUrl": "assets/img/plates/att1ftlfsXCn4hPoK.jpg",
+    "dateAdded": "2026-08-30T11:16:20.000Z"
+  },
+  {
     "id": "recoOSGgDKMvI6TxV",
     "year": 1945,
     "countyNumber": "56",
@@ -17494,6 +17950,18 @@
     "serial": "59-1662",
     "photoUrl": "assets/img/plates/attLkl2cFuKzELL6h.jpg",
     "dateAdded": "2026-08-28T20:54:57.000Z"
+  },
+  {
+    "id": "recp88iCtNlN0Ep2t",
+    "year": 1951,
+    "countyNumber": "74",
+    "countyName": "Humphreys",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "74-75",
+    "photoUrl": "assets/img/plates/att41WpUSZ9Fi5CVc.jpg",
+    "dateAdded": "2026-08-30T11:48:32.000Z"
   },
   {
     "id": "recp8dThuUflnNeP9",
@@ -18144,6 +18612,18 @@
     "dateAdded": "2026-08-29T17:00:57.000Z"
   },
   {
+    "id": "recrEx6ld97Ssyktp",
+    "year": 1949,
+    "countyNumber": "74",
+    "countyName": "Humphreys",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "74-1243",
+    "photoUrl": "assets/img/plates/attaN7WHrzEwhNbgk.jpg",
+    "dateAdded": "2026-08-30T11:45:49.000Z"
+  },
+  {
     "id": "recrF5KKd9TSSlIkq",
     "year": 1941,
     "countyNumber": "8",
@@ -18202,6 +18682,18 @@
     "serial": "6-1703",
     "photoUrl": "assets/img/plates/attOQDtpW242RpXHu.jpg",
     "dateAdded": "2026-08-21T14:58:12.000Z"
+  },
+  {
+    "id": "recrb1t8uqCwcDanM",
+    "year": 1950,
+    "countyNumber": "73",
+    "countyName": "Johnson",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "73P1-354",
+    "photoUrl": "assets/img/plates/attNMUW2k1wzs1lK1.jpg",
+    "dateAdded": "2026-08-30T11:16:01.000Z"
   },
   {
     "id": "recrbj5H7ifVbdFsg",
@@ -19152,6 +19644,18 @@
     "dateAdded": "2026-08-29T14:03:28.000Z"
   },
   {
+    "id": "rectyoPIwoOOfncp1",
+    "year": 1954,
+    "countyNumber": "75",
+    "countyName": "Scott",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "75-1400",
+    "photoUrl": "assets/img/plates/attunjXl6TGnfjIZw.jpg",
+    "dateAdded": "2026-08-30T11:50:34.000Z"
+  },
+  {
     "id": "rectz7ihjDzn7jEX4",
     "year": 1946,
     "countyNumber": "57",
@@ -19534,6 +20038,18 @@
     "serial": "50-106",
     "photoUrl": "assets/img/plates/attmumAXb8vSgyyyL.jpg",
     "dateAdded": "2026-08-26T22:19:48.000Z"
+  },
+  {
+    "id": "recv2w4qcX2j14zKO",
+    "year": 1952,
+    "countyNumber": "76",
+    "countyName": "Lake",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "76-277",
+    "photoUrl": "assets/img/plates/attIoQFu4Pi0JAkSY.jpg",
+    "dateAdded": "2026-08-30T11:56:32.000Z"
   },
   {
     "id": "recv4D7Nbixbki1VM",
@@ -20798,6 +21314,30 @@
     "dateAdded": "2026-08-23T11:47:06.000Z"
   },
   {
+    "id": "recyhLQvTXNsUYLug",
+    "year": 1953,
+    "countyNumber": "76",
+    "countyName": "Lake",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Heavy Car",
+    "serial": "76D-123",
+    "photoUrl": "assets/img/plates/attPJ723ov5GApPc0.jpg",
+    "dateAdded": "2026-08-30T11:56:49.000Z"
+  },
+  {
+    "id": "recylrD6QqSs91itW",
+    "year": 1956,
+    "countyNumber": "73",
+    "countyName": "Johnson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "73F/1-7",
+    "photoUrl": "assets/img/plates/att4JjxM2ajPgmtkA.jpg",
+    "dateAdded": "2026-08-30T11:11:09.000Z"
+  },
+  {
     "id": "recyrwWdkvfB5sjhs",
     "year": 1950,
     "countyNumber": "43",
@@ -20976,6 +21516,18 @@
     "serial": "17-950",
     "photoUrl": "assets/img/plates/attl8iJciPPt0g2x4.jpg",
     "dateAdded": "2026-08-22T03:17:37.000Z"
+  },
+  {
+    "id": "reczEilmZV1feaiuF",
+    "year": 1956,
+    "countyNumber": "74",
+    "countyName": "Humphreys",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "74-655",
+    "photoUrl": "assets/img/plates/att86WxtW2UriPmSw.jpg",
+    "dateAdded": "2026-08-30T11:46:35.000Z"
   },
   {
     "id": "reczFakokiwIbeciG",
