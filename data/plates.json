@@ -648,6 +648,18 @@
     "dateAdded": "2026-08-29T17:11:11.000Z"
   },
   {
+    "id": "rec1PAD2UkJTT8NY0",
+    "year": 1954,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "6-3695",
+    "photoUrl": "assets/img/plates/attjE4PU1h9L5kQkm.jpg",
+    "dateAdded": "2026-08-31T21:55:48.000Z"
+  },
+  {
     "id": "rec1RfDvTATYO2Tbe",
     "year": 1950,
     "countyNumber": "90",
@@ -1030,6 +1042,18 @@
     "serial": "4-43973",
     "photoUrl": "assets/img/plates/attzt5QtLx0VeDrii.jpg",
     "dateAdded": "2026-08-21T00:50:39.000Z"
+  },
+  {
+    "id": "rec2PTq8n5x1NwAVF",
+    "year": 1945,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "6-5516",
+    "photoUrl": "assets/img/plates/attc1yZrWaNNNoo99.jpg",
+    "dateAdded": "2026-08-31T21:55:14.000Z"
   },
   {
     "id": "rec2QZ7rgyzRrOajs",
@@ -1416,6 +1440,18 @@
     "dateAdded": "2026-08-21T15:18:01.000Z"
   },
   {
+    "id": "rec3EMvKpLrU4dSiZ",
+    "year": 1955,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "6-574",
+    "photoUrl": "assets/img/plates/attqadnjiwJPhtX6W.jpg",
+    "dateAdded": "2026-08-31T21:50:14.000Z"
+  },
+  {
     "id": "rec3G2xg7brYrBFtV",
     "year": 1946,
     "countyNumber": "24",
@@ -1498,6 +1534,18 @@
     "serial": "79-248",
     "photoUrl": "assets/img/plates/attTnmNWfI64LUfpE.jpg",
     "dateAdded": "2026-08-30T18:04:25.000Z"
+  },
+  {
+    "id": "rec3R6pXtJIvm2j6o",
+    "year": 1940,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "6-352",
+    "photoUrl": "assets/img/plates/attPtYvriOdk49sqm.jpg",
+    "dateAdded": "2026-08-31T21:50:27.000Z"
   },
   {
     "id": "rec3Sg0PkAFLrSOTb",
@@ -1716,6 +1764,18 @@
     "dateAdded": "2026-08-21T00:06:17.000Z"
   },
   {
+    "id": "rec42i9FeEsv5HBNF",
+    "year": 1944,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "6-3425",
+    "photoUrl": "assets/img/plates/attMzWl8vCvnFiFVU.jpg",
+    "dateAdded": "2026-08-31T21:55:57.000Z"
+  },
+  {
     "id": "rec42ksZjfT2gjUGA",
     "year": 1940,
     "countyNumber": "86",
@@ -1932,6 +1992,18 @@
     "dateAdded": "2026-08-21T20:02:19.000Z"
   },
   {
+    "id": "rec4PYpn2Bj0iqvot",
+    "year": 1946,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "6-370",
+    "photoUrl": "assets/img/plates/att07iGkDihhDCHPM.jpg",
+    "dateAdded": "2026-08-31T21:55:27.000Z"
+  },
+  {
     "id": "rec4Qi77CS4J9eNXF",
     "year": 1953,
     "countyNumber": "88",
@@ -1978,6 +2050,18 @@
     "serial": "77-2023",
     "photoUrl": "assets/img/plates/attlAimPCvXRhBv1i.jpg",
     "dateAdded": "2026-08-30T17:52:15.000Z"
+  },
+  {
+    "id": "rec4ZZ2shcAEZfFz5",
+    "year": 1942,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "6-222",
+    "photoUrl": "assets/img/plates/attis5aculWRafIS8.jpg",
+    "dateAdded": "2026-08-31T21:49:26.000Z"
   },
   {
     "id": "rec4ZaRI1XXVyp3U6",
@@ -2326,6 +2410,18 @@
     "serial": "9-W4HIQ",
     "photoUrl": "assets/img/plates/attgmVpwptQqyMHQp.jpg",
     "dateAdded": "2026-08-21T15:49:54.000Z"
+  },
+  {
+    "id": "rec5KPcnWQqcob9Ui",
+    "year": 1952,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "6-11253",
+    "photoUrl": "assets/img/plates/attnBOvdXm1eAVsQs.jpg",
+    "dateAdded": "2026-08-31T21:54:52.000Z"
   },
   {
     "id": "rec5KoW68vSGZUPdC",
@@ -2760,6 +2856,18 @@
     "dateAdded": "2026-08-22T03:19:06.000Z"
   },
   {
+    "id": "rec6IejpomwA7UYrp",
+    "year": 1954,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "6-12344",
+    "photoUrl": "assets/img/plates/attw0Yy1GERzfB48w.jpg",
+    "dateAdded": "2026-08-31T21:52:38.000Z"
+  },
+  {
     "id": "rec6MybClPbC4JDVR",
     "year": 1939,
     "countyNumber": "70",
@@ -3108,6 +3216,18 @@
     "dateAdded": "2026-08-22T03:22:21.000Z"
   },
   {
+    "id": "rec7CuJ7fpMOBawXE",
+    "year": 1950,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "6-9607",
+    "photoUrl": "assets/img/plates/attPg6uwAchuU66Ix.jpg",
+    "dateAdded": "2026-08-31T21:50:59.000Z"
+  },
+  {
     "id": "rec7D6t3m3PNFaVs3",
     "year": 1952,
     "countyNumber": "1",
@@ -3250,6 +3370,18 @@
     "serial": "31P/3-886",
     "photoUrl": "assets/img/plates/attz1T6MEJOdsEX1R.jpg",
     "dateAdded": "2026-08-23T18:06:24.000Z"
+  },
+  {
+    "id": "rec7e75UI4PyCD4aS",
+    "year": 1945,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "6-1877",
+    "photoUrl": "assets/img/plates/att1n5KsFG67wV6oB.jpg",
+    "dateAdded": "2026-08-31T21:56:11.000Z"
   },
   {
     "id": "rec7ebMC55523mhV5",
@@ -4776,6 +4908,18 @@
     "dateAdded": "2026-08-29T02:13:59.000Z"
   },
   {
+    "id": "recAuBbA9aQgydhxF",
+    "year": 1947,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "6-423",
+    "photoUrl": "assets/img/plates/attX1XuJf7b5PkohI.jpg",
+    "dateAdded": "2026-08-31T21:54:30.000Z"
+  },
+  {
     "id": "recAxQRiaIT76fOQ7",
     "year": 1956,
     "countyNumber": "50",
@@ -5098,6 +5242,18 @@
     "serial": "2-8752",
     "photoUrl": "assets/img/plates/attSdlA6tj59vIBBj.jpg",
     "dateAdded": "2026-08-20T02:40:35.000Z"
+  },
+  {
+    "id": "recBkduPUSkK69NjD",
+    "year": 1954,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "County",
+    "serial": "6COUNTY-123",
+    "photoUrl": "assets/img/plates/attqburFJBch90WjC.jpg",
+    "dateAdded": "2026-08-31T21:52:53.000Z"
   },
   {
     "id": "recBmSSHKya8yKyUe",
@@ -5494,6 +5650,18 @@
     "serial": "11D-1284",
     "photoUrl": "assets/img/plates/attr3AsycpJ3ORK8Y.jpg",
     "dateAdded": "2026-08-21T18:02:44.000Z"
+  },
+  {
+    "id": "recCTX3DeA0vGKYHL",
+    "year": 1946,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "6-4240",
+    "photoUrl": "assets/img/plates/attxnVtsmn33CHXQ4.jpg",
+    "dateAdded": "2026-08-31T21:49:37.000Z"
   },
   {
     "id": "recCUZusyjFXfafxW",
@@ -5938,6 +6106,18 @@
     "serial": "42-635",
     "photoUrl": "assets/img/plates/attDRqmtGg4IZWt7X.jpg",
     "dateAdded": "2026-08-26T20:42:32.000Z"
+  },
+  {
+    "id": "recDaN5nWG2mg1Xwh",
+    "year": 1948,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "6-3039",
+    "photoUrl": "assets/img/plates/attbVE7xKkQg8PP4P.jpg",
+    "dateAdded": "2026-08-31T21:52:18.000Z"
   },
   {
     "id": "recDdX9euoJvEN877",
@@ -6576,6 +6756,18 @@
     "dateAdded": "2026-08-26T21:01:00.000Z"
   },
   {
+    "id": "recFFqAtK0joXwnta",
+    "year": 1946,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "7-3099",
+    "photoUrl": "assets/img/plates/attDIEOGf1ayVldaY.jpg",
+    "dateAdded": "2026-08-31T21:59:14.000Z"
+  },
+  {
     "id": "recFL3nv53up096K2",
     "year": 1952,
     "countyNumber": "18",
@@ -7212,6 +7404,18 @@
     "dateAdded": "2026-08-22T15:12:01.000Z"
   },
   {
+    "id": "recGjWnnNYmfMphAH",
+    "year": 1945,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "6-5290",
+    "photoUrl": "assets/img/plates/att4qVdncggl909tU.jpg",
+    "dateAdded": "2026-08-31T21:51:44.000Z"
+  },
+  {
     "id": "recGlDlOkr26DwGjc",
     "year": 1939,
     "countyNumber": "13",
@@ -7630,6 +7834,18 @@
     "serial": "60-484",
     "photoUrl": "assets/img/plates/attT4THbQQhLxartX.jpg",
     "dateAdded": "2026-08-29T01:29:19.000Z"
+  },
+  {
+    "id": "recHZwirQtQ6m8tkv",
+    "year": 1939,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "6-107",
+    "photoUrl": "assets/img/plates/attNXqUwdkMOy10ub.jpg",
+    "dateAdded": "2026-08-31T21:49:11.000Z"
   },
   {
     "id": "recHa9CdSjwrkJxQQ",
@@ -8242,6 +8458,18 @@
     "serial": "7D-558",
     "photoUrl": "assets/img/plates/att7NSQzMPlW1sRUA.jpg",
     "dateAdded": "2026-08-21T15:17:43.000Z"
+  },
+  {
+    "id": "recJEgiJP9FbII2L6",
+    "year": 1944,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "6-204",
+    "photoUrl": "assets/img/plates/attpSfo2y5NUSpz0c.jpg",
+    "dateAdded": "2026-08-31T21:54:16.000Z"
   },
   {
     "id": "recJHOiJsskzr5QPE",
@@ -8880,6 +9108,18 @@
     "dateAdded": "2026-08-27T20:46:54.000Z"
   },
   {
+    "id": "recKcY9JXkEfEc9xZ",
+    "year": 1951,
+    "countyNumber": "50",
+    "countyName": "McNairy",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "50F/1-75",
+    "photoUrl": "assets/img/plates/attrnSlaxKsLWznWG.jpg",
+    "dateAdded": "2026-08-31T21:38:17.000Z"
+  },
+  {
     "id": "recKdaAROnZ6DIndz",
     "year": 1940,
     "countyNumber": "19",
@@ -9190,6 +9430,18 @@
     "serial": "14-777",
     "photoUrl": "assets/img/plates/attSQK1QV2SYvGO2d.jpg",
     "dateAdded": "2026-08-21T20:23:36.000Z"
+  },
+  {
+    "id": "recLU47j71xldywlm",
+    "year": 1946,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "6-1035",
+    "photoUrl": "assets/img/plates/att3HcGWQeznh4wLa.jpg",
+    "dateAdded": "2026-08-31T21:54:02.000Z"
   },
   {
     "id": "recLeQC0poQNJXOg0",
@@ -9718,6 +9970,18 @@
     "serial": "86-810",
     "photoUrl": "assets/img/plates/atteYo4NUI4WAlGEm.jpg",
     "dateAdded": "2026-08-31T00:06:16.000Z"
+  },
+  {
+    "id": "recMduBnMZMJWQ7PA",
+    "year": 1949,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "6-1350",
+    "photoUrl": "assets/img/plates/attV47Dlq1JIoKtJo.jpg",
+    "dateAdded": "2026-08-31T21:55:37.000Z"
   },
   {
     "id": "recMfulS5KT023Yto",
@@ -11064,6 +11328,18 @@
     "dateAdded": "2026-08-22T13:09:47.000Z"
   },
   {
+    "id": "recPGltVCVXf7nFcg",
+    "year": 1941,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "6-1327",
+    "photoUrl": "assets/img/plates/atteXG5RIKqjYdRdh.jpg",
+    "dateAdded": "2026-08-31T21:51:33.000Z"
+  },
+  {
     "id": "recPJ6wUDqtuxN2D6",
     "year": 1953,
     "countyNumber": "48",
@@ -11170,6 +11446,18 @@
     "serial": "72P/2-605",
     "photoUrl": "assets/img/plates/attxSfzJb9lAQO8nn.jpg",
     "dateAdded": "2026-08-29T17:12:07.000Z"
+  },
+  {
+    "id": "recPuTcUw4rL8uY6g",
+    "year": 1953,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "6-10217",
+    "photoUrl": "assets/img/plates/attyVIPaAHrgqhq3n.jpg",
+    "dateAdded": "2026-08-31T21:51:09.000Z"
   },
   {
     "id": "recPvMoQfkJGpxtIk",
@@ -12418,6 +12706,18 @@
     "serial": "11-65",
     "photoUrl": "assets/img/plates/attmv2Y7un0JLAnsb.jpg",
     "dateAdded": "2026-08-21T18:05:48.000Z"
+  },
+  {
+    "id": "recSafhfYdVLIHll4",
+    "year": 1944,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "6-1865",
+    "photoUrl": "assets/img/plates/att7R2XqnFFiGTBfl.jpg",
+    "dateAdded": "2026-08-31T21:55:05.000Z"
   },
   {
     "id": "recSgtfnKKUHIznlE",
@@ -14136,6 +14436,18 @@
     "dateAdded": "2026-08-30T19:08:01.000Z"
   },
   {
+    "id": "recX3COJ0YjFGhmzV",
+    "year": 1949,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "6-2039",
+    "photoUrl": "assets/img/plates/attRVHafuKZDSiou6.jpg",
+    "dateAdded": "2026-08-31T21:49:49.000Z"
+  },
+  {
     "id": "recX3JyZKMk9ZKZY9",
     "year": 1942,
     "countyNumber": "34",
@@ -14602,6 +14914,18 @@
     "serial": "67-916",
     "photoUrl": "assets/img/plates/attex7EZfmpqvElpd.jpg",
     "dateAdded": "2026-08-29T13:12:29.000Z"
+  },
+  {
+    "id": "recY1fJeoRusIQ8TO",
+    "year": 1951,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "6-7888",
+    "photoUrl": "assets/img/plates/attJ9enjD5X2AofP0.jpg",
+    "dateAdded": "2026-08-31T21:52:29.000Z"
   },
   {
     "id": "recY2KHAaKyGCMJfP",
@@ -17808,6 +18132,18 @@
     "dateAdded": "2026-08-30T11:45:32.000Z"
   },
   {
+    "id": "recfMKJH8KMhgvsWp",
+    "year": 1956,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "6-1634",
+    "photoUrl": "assets/img/plates/attqJJGAurypWnhfS.jpg",
+    "dateAdded": "2026-08-31T21:51:22.000Z"
+  },
+  {
     "id": "recfMOI7IP0UzqVEG",
     "year": 1950,
     "countyNumber": "95",
@@ -19366,6 +19702,18 @@
     "serial": "91-725",
     "photoUrl": "assets/img/plates/attlQfIKCVDnz5L0b.jpg",
     "dateAdded": "2026-08-31T20:42:24.000Z"
+  },
+  {
+    "id": "recinEyiD81LK4XDD",
+    "year": 1954,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Heavy Car",
+    "serial": "6D-2476",
+    "photoUrl": "assets/img/plates/attMfCknBVDtFkfPY.jpg",
+    "dateAdded": "2026-08-31T21:53:09.000Z"
   },
   {
     "id": "recinP8UgknHZddXC",
@@ -21084,6 +21432,30 @@
     "dateAdded": "2026-08-29T02:13:33.000Z"
   },
   {
+    "id": "recmu7JgFtCKL0mZe",
+    "year": 1952,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "6-1189",
+    "photoUrl": "assets/img/plates/attG0P1MjclCLP5Fz.jpg",
+    "dateAdded": "2026-08-31T21:54:41.000Z"
+  },
+  {
+    "id": "recmuFFNkwNa0Tfti",
+    "year": 1947,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "6-3262",
+    "photoUrl": "assets/img/plates/attQBTy220cwMKTzm.jpg",
+    "dateAdded": "2026-08-31T21:53:52.000Z"
+  },
+  {
     "id": "recmwfXT6UsinPBDs",
     "year": 1954,
     "countyNumber": "3",
@@ -21840,6 +22212,30 @@
     "dateAdded": "2026-08-21T14:38:40.000Z"
   },
   {
+    "id": "recoaPJ2QXHVbMGCL",
+    "year": 1945,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "7-3099",
+    "photoUrl": "assets/img/plates/attVZw7uYQjBXoMpW.jpg",
+    "dateAdded": "2026-08-31T21:58:58.000Z"
+  },
+  {
+    "id": "recoaheqQnLoGZDBk",
+    "year": 1954,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Truck",
+    "serial": "6P/1-531",
+    "photoUrl": "assets/img/plates/attJvJQnSyVAxHebN.jpg",
+    "dateAdded": "2026-08-31T21:53:35.000Z"
+  },
+  {
     "id": "recocwugFV4KRIl4I",
     "year": 1956,
     "countyNumber": "94",
@@ -21898,6 +22294,18 @@
     "serial": "80F/1-25",
     "photoUrl": "assets/img/plates/attdezhKpN9tMhBhE.jpg",
     "dateAdded": "2026-08-30T18:12:14.000Z"
+  },
+  {
+    "id": "recoj1iIM9LH3kNiR",
+    "year": 1947,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "6-1405",
+    "photoUrl": "assets/img/plates/attUvWxQCO6ny3r87.jpg",
+    "dateAdded": "2026-08-31T21:50:49.000Z"
   },
   {
     "id": "recooWUGAkB2zUqYA",
@@ -23316,6 +23724,18 @@
     "dateAdded": "2026-08-28T20:25:28.000Z"
   },
   {
+    "id": "recsNEOfarV0Uimwk",
+    "year": 1944,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "7-3099",
+    "photoUrl": "assets/img/plates/attTIzu2hTJIoC0cf.jpg",
+    "dateAdded": "2026-08-31T21:58:45.000Z"
+  },
+  {
     "id": "recsQY1GMYjIVF8Ao",
     "year": 1951,
     "countyNumber": "95",
@@ -24238,6 +24658,18 @@
     "serial": "29F/1-2",
     "photoUrl": "assets/img/plates/att2v0MpwdjPgJyrD.jpg",
     "dateAdded": "2026-08-23T12:16:30.000Z"
+  },
+  {
+    "id": "recu5aDOyb4Goq4RP",
+    "year": 1944,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "6-222",
+    "photoUrl": "assets/img/plates/attr32VXjanAEfyAZ.jpg",
+    "dateAdded": "2026-08-31T21:50:38.000Z"
   },
   {
     "id": "recu7HJykNXDk9o6E",
@@ -25188,6 +25620,18 @@
     "dateAdded": "2026-08-26T20:45:25.000Z"
   },
   {
+    "id": "recwWDW7GpIllmjOn",
+    "year": 1947,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "6-2276",
+    "photoUrl": "assets/img/plates/attB0APL8dIIAKBGY.jpg",
+    "dateAdded": "2026-08-31T21:56:33.000Z"
+  },
+  {
     "id": "recwaI9wxiR0dJJ3z",
     "year": 1956,
     "countyNumber": "43",
@@ -25706,6 +26150,18 @@
     "dateAdded": "2026-08-21T20:10:47.000Z"
   },
   {
+    "id": "recxa1sCyINAyrA0s",
+    "year": 1952,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "6-4938",
+    "photoUrl": "assets/img/plates/attA4mJZDABptkOQB.jpg",
+    "dateAdded": "2026-08-31T21:50:02.000Z"
+  },
+  {
     "id": "recxanSgdBnff9hK2",
     "year": 1956,
     "countyNumber": "71",
@@ -25884,6 +26340,18 @@
     "serial": "56-777",
     "photoUrl": "assets/img/plates/attRbMe7DemCJEjY7.jpg",
     "dateAdded": "2026-08-27T01:05:46.000Z"
+  },
+  {
+    "id": "recy3bfDuqpjw5UMR",
+    "year": 1954,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Farm Truck",
+    "serial": "6F/1-73",
+    "photoUrl": "assets/img/plates/attLaBCoQIjDUjlwv.jpg",
+    "dateAdded": "2026-08-31T21:53:21.000Z"
   },
   {
     "id": "recy95GQUnmsCn5sd",
@@ -26076,6 +26544,18 @@
     "serial": "17-1485",
     "photoUrl": "assets/img/plates/attZiA0EVmZJwLhsH.jpg",
     "dateAdded": "2026-08-22T03:29:23.000Z"
+  },
+  {
+    "id": "recyT21hbcv8qLUzT",
+    "year": 1947,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "7-3099",
+    "photoUrl": "assets/img/plates/atta7FzdD1Sybk0Lo.jpg",
+    "dateAdded": "2026-08-31T21:59:27.000Z"
   },
   {
     "id": "recyVRVeHyJFUo9md",
@@ -26616,6 +27096,18 @@
     "serial": "69A-1",
     "photoUrl": "assets/img/plates/attJ9dA8mcvnGNDU8.jpg",
     "dateAdded": "2026-08-29T16:47:57.000Z"
+  },
+  {
+    "id": "reczkva2sxMa7kHjB",
+    "year": 1946,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "6-1877",
+    "photoUrl": "assets/img/plates/attKpj091u3W9ID4I.jpg",
+    "dateAdded": "2026-08-31T21:56:22.000Z"
   },
   {
     "id": "recznAI1UKTGdNXLX",
