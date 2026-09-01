@@ -17,6 +17,7 @@ let state = {
   types: new Set(),
   colors: new Set(),
   fontColors: new Set(),
+  lowSerialNumber: false,
   sort: 'added-desc',
   page: 1,
 };
@@ -81,9 +82,28 @@ function buildFilterUI(){
       ${t} <span class="count">${allPlates.filter(p => p.type === t).length}</span>
     </label>`).join('') || emptyFilterNote();
 
+  const hasLowSerialPlates = allPlates.some(p => p.lowSerialNumber);
+  if (hasLowSerialPlates) {
+    document.getElementById('filter-low-serial-number').innerHTML = `
+      <label class="filter-option">
+        <input type="checkbox" id="low-serial-checkbox" data-group="lowSerialNumber" value="true">
+        Low Serial Number <span class="count">${allPlates.filter(p => p.lowSerialNumber).length}</span>
+      </label>`;
+  } else {
+    document.getElementById('filter-low-serial-number').innerHTML = emptyFilterNote();
+  }
+
   const colorSwatch = {
-    Blue:'#1B2A41', Red:'#A63A2B', Gold:'#C99A3B', Black:'#2B2620',
-    White:'#F3EAD6', Green:'#3f5b3f', Yellow:'#e0c341', Silver:'#b7b7b7'
+    Black: '#2B2620',
+    Blue: '#1B2A41',
+    Green: '#3f5b3f',
+    Maroon: '#800000',
+    Navy: '#003366',
+    Orange: '#FF8C00',
+    Red: '#A63A2B',
+    Silver: '#b7b7b7',
+    White: '#F3EAD6',
+    Yellow: '#e0c341'
   };
   document.getElementById('filter-color').innerHTML = colors.map(c => `
     <div class="swatch" data-group="colors" data-value="${c}" title="${c}"
@@ -92,7 +112,7 @@ function buildFilterUI(){
     <div class="swatch" data-group="fontColors" data-value="${c}" title="${c}"
       style="background:${colorSwatch[c] || '#999'}"></div>`).join('') || emptyFilterNote();
 
-  document.querySelectorAll('#filter-year input, #filter-county input, #filter-type input')
+  document.querySelectorAll('#filter-year input, #filter-county input, #filter-type input, #filter-low-serial-number input')
     .forEach(el => el.addEventListener('change', onCheckboxChange));
   document.querySelectorAll('#filter-color .swatch')
     .forEach(el => el.addEventListener('click', onSwatchClick));
@@ -106,9 +126,13 @@ function emptyFilterNote(){
 
 function onCheckboxChange(e){
   const group = e.target.dataset.group;
-  const val = e.target.value;
-  const setRef = state[group];
-  e.target.checked ? setRef.add(val) : setRef.delete(val);
+  if (group === 'lowSerialNumber') {
+    state.lowSerialNumber = e.target.checked;
+  } else {
+    const val = e.target.value;
+    const setRef = state[group];
+    e.target.checked ? setRef.add(val) : setRef.delete(val);
+  }
   state.page = 1;
   render();
 }
@@ -131,6 +155,7 @@ function applyFilters(){
     if (state.types.size && !state.types.has(p.type)) return false;
     if (state.colors.size && !(p._colors || []).some(c => state.colors.has(c))) return false;
     if (state.fontColors.size && !(p._fontColors || []).some(c => state.fontColors.has(c))) return false;
+    if (state.lowSerialNumber && !p.lowSerialNumber) return false;
     if (q) {
       const hay = `${p._countyName || ''} ${p.serial || ''} ${p.year || ''} ${p.type || ''}`.toLowerCase();
       if (!hay.includes(q)) return false;
@@ -163,6 +188,7 @@ function renderActiveChips(){
   state.types.forEach(v => chips.push(['types', v, `Type: ${v}`]));
   state.colors.forEach(v => chips.push(['colors', v, `Color: ${v}`]));
   state.fontColors.forEach(v => chips.push(['fontColors', v, `Font Color: ${v}`]));
+  if (state.lowSerialNumber) chips.push(['lowSerialNumber', 'true', 'Low Serial Number']);
 
   const el = document.getElementById('active-filters');
   el.innerHTML = chips.map(([group, val, label]) =>
@@ -171,7 +197,13 @@ function renderActiveChips(){
 
   el.querySelectorAll('.chip').forEach(chip => {
     chip.addEventListener('click', () => {
-      state[chip.dataset.group].delete(chip.dataset.value);
+      const group = chip.dataset.group;
+      const val = chip.dataset.value;
+      if (group === 'lowSerialNumber') {
+        state.lowSerialNumber = false;
+      } else {
+        state[group].delete(val);
+      }
       syncCheckboxUI();
       state.page = 1;
       render();
@@ -182,6 +214,8 @@ function renderActiveChips(){
 function syncCheckboxUI(){
   document.querySelectorAll('#filter-year input, #filter-county input, #filter-type input')
     .forEach(el => { el.checked = state[el.dataset.group].has(el.value); });
+  const lowSerialCheckbox = document.getElementById('low-serial-checkbox');
+  if (lowSerialCheckbox) { lowSerialCheckbox.checked = state.lowSerialNumber; }
   document.querySelectorAll('#filter-color .swatch')
     .forEach(el => { el.classList.toggle('on', state.colors.has(el.dataset.value)); });
   document.querySelectorAll('#filter-font-color .swatch')
@@ -307,7 +341,7 @@ async function init(){
   });
 
   document.getElementById('clear-filters').addEventListener('click', () => {
-    state.years.clear(); state.counties.clear(); state.types.clear(); state.colors.clear(); state.fontColors.clear();
+    state.years.clear(); state.counties.clear(); state.types.clear(); state.colors.clear(); state.fontColors.clear(); state.lowSerialNumber = false;
     state.q = ''; document.getElementById('search-input').value = '';
     state.page = 1;
     syncCheckboxUI();

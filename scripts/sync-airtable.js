@@ -50,6 +50,7 @@ const FIELD_MAP = {
   type: 'Type',
   photo: 'Photo',        // TODO: confirm this is your attachment field's real name
   serial: 'Serial',      // TODO: confirm — used for search; remove this line if you don't have one
+  lowSerialNumber: 'Low Serial Number',
 };
 // -----------------------------------------------------------------
 
@@ -129,6 +130,7 @@ async function transformRecord(record){
     fontColor: f[FIELD_MAP.fontColor] || null,
     type: f[FIELD_MAP.type] || null,
     serial: f[FIELD_MAP.serial] || null,
+    lowSerialNumber: f[FIELD_MAP.lowSerialNumber] || false,
     photoUrl,
     dateAdded: record.createdTime,
   };

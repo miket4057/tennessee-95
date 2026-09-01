@@ -58,6 +58,7 @@ function plateCardHTML(p){
     p.countyNumber ? `#${p.countyNumber}` : '',
     p.year || '',
     p.type ? `<span class="type">${p.type}</span>` : '',
+    p.lowSerialNumber ? `<span class="low-serial">Low Serial Number</span>` : '',
   ].filter(Boolean).join(' <span class="sep">·</span> ');
 
   return `
