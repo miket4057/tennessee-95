@@ -170,8 +170,9 @@ function countOptionsForCategory(categoryName, options) {
     };
     // Clear the current category so we can test this one option
     tempState[categoryName].clear();
-    // Add the option we're counting
-    tempState[categoryName].add(option);
+    // Add the option we're counting (convert to string for years since applyFilters uses String(p.year))
+    const optionValue = categoryName === 'years' ? String(option) : option;
+    tempState[categoryName].add(optionValue);
     // Count how many plates match with this option + all other active filters
     const matchingPlates = applyFilters(tempState);
     counts.set(option, matchingPlates.length);
@@ -311,6 +312,7 @@ function renderPagination(totalItems){
 }
 
 function render(){
+  buildFilterUI();  // Recalculate filter counts based on current selections
   const filtered = applyFilters();
   const sorted = sortPlates(filtered);
   const pageSize = getPageSize();
