@@ -73,30 +73,50 @@ function buildFilterUI(){
   const colors = uniqueSorted(allPlates.flatMap(p => p._colors || []));
   const fontColors = uniqueSorted(allPlates.flatMap(p => p._fontColors || []));
 
+  // Calculate dynamic counts for each filter category
+  const yearCounts = countOptionsForCategory('years', years);
+  const countyCounts = countOptionsForCategory('counties', counties);
+  const typeCounts = countOptionsForCategory('types', types);
+  const colorCounts = countOptionsForCategory('colors', colors);
+  const fontColorCounts = countOptionsForCategory('fontColors', fontColors);
+
   document.getElementById('filter-year').innerHTML = years.map(y => `
     <label class="filter-option">
       <input type="checkbox" data-group="years" value="${y}">
-      ${y} <span class="count">${allPlates.filter(p => p.year === y).length}</span>
+      ${y} <span class="count">${yearCounts.get(y)}</span>
     </label>`).join('') || emptyFilterNote();
 
   document.getElementById('filter-county').innerHTML = counties.map(c => `
     <label class="filter-option">
       <input type="checkbox" data-group="counties" value="${c}">
-      ${c} <span class="count">${allPlates.filter(p => p._countyName === c).length}</span>
+      ${c} <span class="count">${countyCounts.get(c)}</span>
     </label>`).join('') || emptyFilterNote();
 
   document.getElementById('filter-type').innerHTML = types.map(t => `
     <label class="filter-option">
       <input type="checkbox" data-group="types" value="${t}">
-      ${t} <span class="count">${allPlates.filter(p => p.type === t).length}</span>
+      ${t} <span class="count">${typeCounts.get(t)}</span>
     </label>`).join('') || emptyFilterNote();
 
   const hasLowSerialPlates = allPlates.some(p => p.lowSerialNumber);
   if (hasLowSerialPlates) {
+    // For low serial number, count plates that have it set (when all other filters + lowSerialNumber=true are applied)
+    const tempState = {
+      q: state.q,
+      years: new Set(state.years),
+      counties: new Set(state.counties),
+      types: new Set(state.types),
+      colors: new Set(state.colors),
+      fontColors: new Set(state.fontColors),
+      lowSerialNumber: true,
+      sort: state.sort,
+      page: 1,
+    };
+    const lowSerialCount = applyFilters(tempState).length;
     document.getElementById('filter-low-serial-number').innerHTML = `
       <label class="filter-option">
         <input type="checkbox" id="low-serial-checkbox" data-group="lowSerialNumber" value="true">
-        Low Serial Number <span class="count">${allPlates.filter(p => p.lowSerialNumber).length}</span>
+        Low Serial Number <span class="count">${lowSerialCount}</span>
       </label>`;
   } else {
     document.getElementById('filter-low-serial-number').innerHTML = emptyFilterNote();
@@ -133,6 +153,32 @@ function emptyFilterNote(){
   return `<div style="font-size:13px; color:#9c937a;">No plates yet</div>`;
 }
 
+function countOptionsForCategory(categoryName, options) {
+  const counts = new Map();
+  options.forEach(option => {
+    // Create a temporary state with all active filters EXCEPT this category
+    const tempState = {
+      q: state.q,
+      years: new Set(state.years),
+      counties: new Set(state.counties),
+      types: new Set(state.types),
+      colors: new Set(state.colors),
+      fontColors: new Set(state.fontColors),
+      lowSerialNumber: state.lowSerialNumber,
+      sort: state.sort,
+      page: 1,
+    };
+    // Clear the current category so we can test this one option
+    tempState[categoryName].clear();
+    // Add the option we're counting
+    tempState[categoryName].add(option);
+    // Count how many plates match with this option + all other active filters
+    const matchingPlates = applyFilters(tempState);
+    counts.set(option, matchingPlates.length);
+  });
+  return counts;
+}
+
 function onCheckboxChange(e){
   const group = e.target.dataset.group;
   if (group === 'lowSerialNumber') {
@@ -156,15 +202,16 @@ function onSwatchClick(e){
   render();
 }
 
-function applyFilters(){
-  const q = state.q.trim().toLowerCase();
+function applyFilters(overrideState = null){
+  const filterState = overrideState || state;
+  const q = filterState.q.trim().toLowerCase();
   return allPlates.filter(p => {
-    if (state.years.size && !state.years.has(String(p.year))) return false;
-    if (state.counties.size && !state.counties.has(p._countyName)) return false;
-    if (state.types.size && !state.types.has(p.type)) return false;
-    if (state.colors.size && !(p._colors || []).some(c => state.colors.has(c))) return false;
-    if (state.fontColors.size && !(p._fontColors || []).some(c => state.fontColors.has(c))) return false;
-    if (state.lowSerialNumber && !p.lowSerialNumber) return false;
+    if (filterState.years.size && !filterState.years.has(String(p.year))) return false;
+    if (filterState.counties.size && !filterState.counties.has(p._countyName)) return false;
+    if (filterState.types.size && !filterState.types.has(p.type)) return false;
+    if (filterState.colors.size && !(p._colors || []).some(c => filterState.colors.has(c))) return false;
+    if (filterState.fontColors.size && !(p._fontColors || []).some(c => filterState.fontColors.has(c))) return false;
+    if (filterState.lowSerialNumber && !p.lowSerialNumber) return false;
     if (q) {
       const hay = `${p._countyName || ''} ${p.serial || ''} ${p.year || ''} ${p.type || ''}`.toLowerCase();
       if (!hay.includes(q)) return false;
