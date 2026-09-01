@@ -54,6 +54,15 @@ function normalizePlate(p){
       ? p.fontColor.split(',').map(s => s.trim()).filter(Boolean)
       : [];
 
+  // Normalize lowSerialNumber: handle string values from Airtable
+  if (typeof p.lowSerialNumber === 'string') {
+    out.lowSerialNumber = p.lowSerialNumber.toUpperCase() === 'TRUE';
+  } else if (typeof p.lowSerialNumber === 'boolean') {
+    out.lowSerialNumber = p.lowSerialNumber;
+  } else {
+    out.lowSerialNumber = false;
+  }
+
   return out;
 }
 
