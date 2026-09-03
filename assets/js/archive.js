@@ -82,19 +82,19 @@ function buildFilterUI(){
 
   document.getElementById('filter-year').innerHTML = years.map(y => `
     <label class="filter-option">
-      <input type="checkbox" data-group="years" value="${y}">
+      <input type="checkbox" data-group="years" value="${y}" ${state.years.has(String(y)) ? 'checked' : ''}>
       ${y} <span class="count">${yearCounts.get(y)}</span>
     </label>`).join('') || emptyFilterNote();
 
   document.getElementById('filter-county').innerHTML = counties.map(c => `
     <label class="filter-option">
-      <input type="checkbox" data-group="counties" value="${c}">
+      <input type="checkbox" data-group="counties" value="${c}" ${state.counties.has(c) ? 'checked' : ''}>
       ${c} <span class="count">${countyCounts.get(c)}</span>
     </label>`).join('') || emptyFilterNote();
 
   document.getElementById('filter-type').innerHTML = types.map(t => `
     <label class="filter-option">
-      <input type="checkbox" data-group="types" value="${t}">
+      <input type="checkbox" data-group="types" value="${t}" ${state.types.has(t) ? 'checked' : ''}>
       ${t} <span class="count">${typeCounts.get(t)}</span>
     </label>`).join('') || emptyFilterNote();
 
@@ -115,7 +115,7 @@ function buildFilterUI(){
     const lowSerialCount = applyFilters(tempState).length;
     document.getElementById('filter-low-serial-number').innerHTML = `
       <label class="filter-option">
-        <input type="checkbox" id="low-serial-checkbox" data-group="lowSerialNumber" value="true">
+        <input type="checkbox" id="low-serial-checkbox" data-group="lowSerialNumber" value="true" ${state.lowSerialNumber ? 'checked' : ''}>
         Low Serial Number <span class="count">${lowSerialCount}</span>
       </label>`;
   } else {
@@ -135,10 +135,10 @@ function buildFilterUI(){
     Yellow: '#e0c341'
   };
   document.getElementById('filter-color').innerHTML = colors.map(c => `
-    <div class="swatch" data-group="colors" data-value="${c}" title="${c}"
+    <div class="swatch ${state.colors.has(c) ? 'on' : ''}" data-group="colors" data-value="${c}" title="${c}"
       style="background:${colorSwatch[c] || '#999'}"></div>`).join('') || emptyFilterNote();
   document.getElementById('filter-font-color').innerHTML = fontColors.map(c => `
-    <div class="swatch" data-group="fontColors" data-value="${c}" title="${c}"
+    <div class="swatch ${state.fontColors.has(c) ? 'on' : ''}" data-group="fontColors" data-value="${c}" title="${c}"
       style="background:${colorSwatch[c] || '#999'}"></div>`).join('') || emptyFilterNote();
 
   document.querySelectorAll('#filter-year input, #filter-county input, #filter-type input, #filter-low-serial-number input')
