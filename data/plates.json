@@ -975,6 +975,19 @@
     "dateAdded": "2026-08-22T14:45:51.000Z"
   },
   {
+    "id": "rec1wRyaVnNovAT0s",
+    "year": 1946,
+    "countyNumber": "16",
+    "countyName": "Wilson",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "16-79",
+    "lowSerialNumber": "TRUE",
+    "photoUrl": "assets/img/plates/attfmb9oO2vMCdIox.jpg",
+    "dateAdded": "2026-09-04T21:34:19.000Z"
+  },
+  {
     "id": "rec1wrjGJG7BBcR5g",
     "year": 1951,
     "countyNumber": "32",
@@ -1376,6 +1389,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attJERZjsQzGsYarh.jpg",
     "dateAdded": "2026-08-25T01:59:04.000Z"
+  },
+  {
+    "id": "rec2k1FbtjmaJMlHI",
+    "year": 1952,
+    "countyNumber": "17",
+    "countyName": "Obion",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "17-2589",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attwRG5GKfqbAUlrI.jpg",
+    "dateAdded": "2026-09-04T21:37:51.000Z"
   },
   {
     "id": "rec2ob33m0fWqXsSY",
@@ -2535,6 +2561,19 @@
     "dateAdded": "2026-08-26T20:49:11.000Z"
   },
   {
+    "id": "rec4yhQRicIwL3GNt",
+    "year": 1951,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "10-2307",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attklct71aj3h486s.jpg",
+    "dateAdded": "2026-09-04T21:14:28.000Z"
+  },
+  {
     "id": "rec50Gel5RE4mKnIv",
     "year": 1947,
     "countyNumber": "44",
@@ -2598,6 +2637,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attHZfcdn4I6PS7hH.jpg",
     "dateAdded": "2026-08-23T11:51:51.000Z"
+  },
+  {
+    "id": "rec58PGIbLYMgD3Sa",
+    "year": 1953,
+    "countyNumber": "17",
+    "countyName": "Obion",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "17-1323",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attb2d6Zw0W8vQJGH.jpg",
+    "dateAdded": "2026-09-04T21:38:19.000Z"
   },
   {
     "id": "rec5AGbb4UdTAHMaB",
@@ -2806,6 +2858,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attq2YaVmdlE3kOJm.jpg",
     "dateAdded": "2026-08-31T00:49:59.000Z"
+  },
+  {
+    "id": "rec5cCUiJ5Ot754Nn",
+    "year": 1955,
+    "countyNumber": "17",
+    "countyName": "Obion",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "17-247",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attvrDeKyIMcWUjxG.jpg",
+    "dateAdded": "2026-09-04T21:39:17.000Z"
   },
   {
     "id": "rec5cgqG5JiSrxS2f",
@@ -3131,6 +3196,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/atthip0mtOFYDqzrI.jpg",
     "dateAdded": "2026-08-22T03:19:06.000Z"
+  },
+  {
+    "id": "rec6IFxhjUnhkmwQL",
+    "year": 1954,
+    "countyNumber": "17",
+    "countyName": "Obion",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "17-427",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/att5lyqAjTfRuxhoQ.jpg",
+    "dateAdded": "2026-09-04T21:39:04.000Z"
   },
   {
     "id": "rec6IejpomwA7UYrp",
@@ -3679,6 +3757,19 @@
     "dateAdded": "2026-08-26T21:40:10.000Z"
   },
   {
+    "id": "rec7VYfDbJknEDCyx",
+    "year": 1951,
+    "countyNumber": "11",
+    "countyName": "Montgomery",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "11P/1-139",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attTo00IM9vXy0Q4j.jpg",
+    "dateAdded": "2026-09-04T21:23:46.000Z"
+  },
+  {
     "id": "rec7aFnJ7ABhLsBXX",
     "year": 1952,
     "countyNumber": "8",
@@ -4210,6 +4301,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attpkfeYOWIuozTyO.jpg",
     "dateAdded": "2026-08-30T18:04:14.000Z"
+  },
+  {
+    "id": "rec8bHg0isDFDcs01",
+    "year": 1950,
+    "countyNumber": "17",
+    "countyName": "Obion",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "17F/1-A18",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/att4LVduohPbHhj9Q.jpg",
+    "dateAdded": "2026-09-04T21:38:04.000Z"
   },
   {
     "id": "rec8bf5ate9920FEb",
@@ -5291,6 +5395,19 @@
     "dateAdded": "2026-08-29T17:04:08.000Z"
   },
   {
+    "id": "recAieXuBJKXpEsVu",
+    "year": 1953,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Heavy Car",
+    "serial": "9D-1498",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attMLFycm2rK1RmuR.jpg",
+    "dateAdded": "2026-09-04T21:12:11.000Z"
+  },
+  {
     "id": "recAkKwZRyBMwfS2E",
     "year": 1941,
     "countyNumber": "46",
@@ -5512,6 +5629,19 @@
     "dateAdded": "2026-08-30T11:51:02.000Z"
   },
   {
+    "id": "recBEMaOSrtKhXx8V",
+    "year": 1950,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "9P/2-5079",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attAkOccKigHkp7kr.jpg",
+    "dateAdded": "2026-09-04T21:07:25.000Z"
+  },
+  {
     "id": "recBErJSIiCjnGhKv",
     "year": 1942,
     "countyNumber": "33",
@@ -5666,6 +5796,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attp3W3v8BlSZga75.jpg",
     "dateAdded": "2026-08-26T21:32:31.000Z"
+  },
+  {
+    "id": "recBVfpRk8JCeA7p2",
+    "year": 1951,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "10-11117",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attJnQw0ro0ym6dhM.jpg",
+    "dateAdded": "2026-09-04T21:14:05.000Z"
   },
   {
     "id": "recBYbrmrBRynFmBu",
@@ -6461,6 +6604,19 @@
     "dateAdded": "2026-08-31T20:59:39.000Z"
   },
   {
+    "id": "recCxZuOC3WoszgQ2",
+    "year": 1951,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "10-9827",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/att6qmcpPsCGrZM8k.jpg",
+    "dateAdded": "2026-09-04T21:14:35.000Z"
+  },
+  {
     "id": "recCyv1VVrAcH7EBp",
     "year": 1951,
     "countyNumber": "28",
@@ -7098,6 +7254,19 @@
     "dateAdded": "2026-08-27T20:46:16.000Z"
   },
   {
+    "id": "recESwuzKIDUYtKQi",
+    "year": 1939,
+    "countyNumber": "16",
+    "countyName": "Wilson",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "16-3727",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attDDYg2tY40fr9aJ.jpg",
+    "dateAdded": "2026-09-04T21:32:20.000Z"
+  },
+  {
     "id": "recETpwAZCPJNU2mM",
     "year": 1945,
     "countyNumber": "67",
@@ -7384,6 +7553,19 @@
     "dateAdded": "2026-08-30T18:02:12.000Z"
   },
   {
+    "id": "recFDdqqaE8P9T92E",
+    "year": 1945,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "9P/1-199",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attr8CYnqEmCBsxdg.jpg",
+    "dateAdded": "2026-09-04T21:07:12.000Z"
+  },
+  {
     "id": "recFDeVYFki37ko2T",
     "year": 1940,
     "countyNumber": "43",
@@ -7512,6 +7694,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attVL5K4M4OqbV3yO.jpg",
     "dateAdded": "2026-08-21T15:40:25.000Z"
+  },
+  {
+    "id": "recFZm8AimY1URzi6",
+    "year": 1953,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Farm Truck",
+    "serial": "9F/1-463",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attA5lAnFCUKcs4xX.jpg",
+    "dateAdded": "2026-09-04T21:09:07.000Z"
   },
   {
     "id": "recFbQUCtiVB0AUVH",
@@ -8084,6 +8279,32 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attVSXgtSUL0BNBlQ.jpg",
     "dateAdded": "2026-08-31T20:33:50.000Z"
+  },
+  {
+    "id": "recGiCTBoZ0oBA5PP",
+    "year": 1949,
+    "countyNumber": "11",
+    "countyName": "Montgomery",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Truck",
+    "serial": "11P/1-252",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attAHFKf16E5ijAr1.jpg",
+    "dateAdded": "2026-09-04T21:22:10.000Z"
+  },
+  {
+    "id": "recGj5TxclgjBJrdD",
+    "year": 1951,
+    "countyNumber": "11",
+    "countyName": "Montgomery",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "11D-1423",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attzyE4n1hZbnZMfC.jpg",
+    "dateAdded": "2026-09-04T21:24:12.000Z"
   },
   {
     "id": "recGjFeQhsl8MDi6i",
@@ -8892,6 +9113,19 @@
     "dateAdded": "2026-08-23T18:08:21.000Z"
   },
   {
+    "id": "recIC2sqjEI7gSZOC",
+    "year": 1945,
+    "countyNumber": "16",
+    "countyName": "Wilson",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Farm Truck",
+    "serial": "16F/1-143",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attFHBptVs8jLe92Q.jpg",
+    "dateAdded": "2026-09-04T21:33:09.000Z"
+  },
+  {
     "id": "recIEN82WX8rTussx",
     "year": 1955,
     "countyNumber": "6",
@@ -8929,6 +9163,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attIUqn7nUg55SDyU.jpg",
     "dateAdded": "2026-08-31T20:42:57.000Z"
+  },
+  {
+    "id": "recIHDiP2VHbfQOkS",
+    "year": 1955,
+    "countyNumber": "11",
+    "countyName": "Montgomery",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Heavy Car",
+    "serial": "11D-1728",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attqja2DluzJ1j6hq.jpg",
+    "dateAdded": "2026-09-04T21:25:37.000Z"
   },
   {
     "id": "recIIlbxJzrqMd3fT",
@@ -9256,6 +9503,19 @@
     "dateAdded": "2026-08-26T21:41:26.000Z"
   },
   {
+    "id": "recJ99fk5cA0DgX2n",
+    "year": 1951,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "10D-11556",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attlZcPKn7dJpSEsJ.jpg",
+    "dateAdded": "2026-09-04T21:14:26.000Z"
+  },
+  {
     "id": "recJBVB4kgobtvOi6",
     "year": 1955,
     "countyNumber": "6",
@@ -9462,6 +9722,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attIq7pBQdDGxlC3y.jpg",
     "dateAdded": "2026-08-31T20:43:21.000Z"
+  },
+  {
+    "id": "recJgHGx9B4DW51pj",
+    "year": 1954,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Heavy Car",
+    "serial": "9D-95",
+    "lowSerialNumber": "TRUE",
+    "photoUrl": "assets/img/plates/att8xrrJ4q330cL3T.jpg",
+    "dateAdded": "2026-09-04T21:11:58.000Z"
   },
   {
     "id": "recJgoOxaSIhMdqOB",
@@ -9815,6 +10088,19 @@
     "dateAdded": "2026-08-31T00:35:19.000Z"
   },
   {
+    "id": "recKPYeOz3a9Ktg44",
+    "year": 1956,
+    "countyNumber": "11",
+    "countyName": "Montgomery",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "11P/1-697",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attJtUO8WAsOxpwim.jpg",
+    "dateAdded": "2026-09-04T21:23:17.000Z"
+  },
+  {
     "id": "recKQnOFnJZNfxmhk",
     "year": 1951,
     "countyNumber": "85",
@@ -10073,6 +10359,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attx5LBRakED5AQxz.jpg",
     "dateAdded": "2026-08-21T00:08:24.000Z"
+  },
+  {
+    "id": "recKminrLSptNM6Po",
+    "year": 1964,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Motorcycle",
+    "serial": "9-214",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attVmAAApS0QYBrS5.jpg",
+    "dateAdded": "2026-09-04T21:07:01.000Z"
   },
   {
     "id": "recKongiqzZBfjhoX",
@@ -10359,6 +10658,19 @@
     "lowSerialNumber": "TRUE",
     "photoUrl": "assets/img/plates/att1PWo544Gu966yf.jpg",
     "dateAdded": "2026-08-23T18:06:46.000Z"
+  },
+  {
+    "id": "recLTGlVdsV0F32Ud",
+    "year": 1955,
+    "countyNumber": "11",
+    "countyName": "Montgomery",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Farm Truck",
+    "serial": "11F/3-1009",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attefSmVmmz4ARk1o.jpg",
+    "dateAdded": "2026-09-04T21:25:48.000Z"
   },
   {
     "id": "recLTO0q6B3vQ188x",
@@ -11100,6 +11412,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attS4dFK4520aCBNs.jpg",
     "dateAdded": "2026-08-30T18:18:16.000Z"
+  },
+  {
+    "id": "recMuq9hYmmvzGkpj",
+    "year": 1941,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "9D-340",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attmRNeWn8L3J6Nak.jpg",
+    "dateAdded": "2026-09-04T21:10:34.000Z"
   },
   {
     "id": "recMwb4tUszT6gn8t",
@@ -12103,6 +12428,19 @@
     "dateAdded": "2026-08-26T21:16:58.000Z"
   },
   {
+    "id": "recOnJy5sOc8q600h",
+    "year": 1953,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "9F/3-8003",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attPYIFz7lkRMejtA.jpg",
+    "dateAdded": "2026-09-04T21:09:54.000Z"
+  },
+  {
     "id": "recOo3i0ibNjQG3XK",
     "year": 1955,
     "countyNumber": "33",
@@ -12517,6 +12855,19 @@
     "lowSerialNumber": "TRUE",
     "photoUrl": "assets/img/plates/att8LCDgFCOR0bjsc.jpg",
     "dateAdded": "2026-08-23T11:57:36.000Z"
+  },
+  {
+    "id": "recPNaMWYvzUL3U6G",
+    "year": 1954,
+    "countyNumber": "11",
+    "countyName": "Montgomery",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Truck",
+    "serial": "11P/1-775",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/atteL8NwPYTneporz.jpg",
+    "dateAdded": "2026-09-04T21:23:58.000Z"
   },
   {
     "id": "recPOZjCYpwv8v0Ta",
@@ -13024,6 +13375,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attxuKrID0fajYC5C.jpg",
     "dateAdded": "2026-08-26T20:51:54.000Z"
+  },
+  {
+    "id": "recQdZX6rNMQcjGkC",
+    "year": 1947,
+    "countyNumber": "16",
+    "countyName": "Wilson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "16-42",
+    "lowSerialNumber": "TRUE",
+    "photoUrl": "assets/img/plates/att2Hmlp0BvKb3kmB.jpg",
+    "dateAdded": "2026-09-04T21:32:42.000Z"
   },
   {
     "id": "recQeGCGUYmmgP059",
@@ -14378,6 +14742,19 @@
     "dateAdded": "2026-08-29T02:07:35.000Z"
   },
   {
+    "id": "recTda50jBMQzHcUo",
+    "year": 1955,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Heavy Car",
+    "serial": "9D-1717",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attwRbmKkxnxzOqnu.jpg",
+    "dateAdded": "2026-09-04T21:12:27.000Z"
+  },
+  {
     "id": "recTdeLkx4FH3NDbl",
     "year": 1956,
     "countyNumber": "18",
@@ -15028,6 +15405,19 @@
     "dateAdded": "2026-08-30T11:09:41.000Z"
   },
   {
+    "id": "recV2GOIG3A27wbw2",
+    "year": 1952,
+    "countyNumber": "11",
+    "countyName": "Montgomery",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "11-10761",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/att8YUlIFdeQwigmU.jpg",
+    "dateAdded": "2026-09-04T21:24:47.000Z"
+  },
+  {
     "id": "recV2GR0l8CzNf69U",
     "year": 1955,
     "countyNumber": "21",
@@ -15325,6 +15715,19 @@
     "lowSerialNumber": "TRUE",
     "photoUrl": "assets/img/plates/atturTLzvc2KTqvOU.jpg",
     "dateAdded": "2026-08-21T20:47:15.000Z"
+  },
+  {
+    "id": "recVsPxvrLaaUJwe9",
+    "year": 1956,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "9P/1-402",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/att2OE90vDpdIHBfu.jpg",
+    "dateAdded": "2026-09-04T21:08:28.000Z"
   },
   {
     "id": "recVuvzamfutURgTD",
@@ -16042,6 +16445,19 @@
     "dateAdded": "2026-08-28T20:53:09.000Z"
   },
   {
+    "id": "recXCtLbfYctCjwet",
+    "year": 1949,
+    "countyNumber": "16",
+    "countyName": "Wilson",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "16-7",
+    "lowSerialNumber": "TRUE",
+    "photoUrl": "assets/img/plates/attIRlMWyPwOmBX5K.jpg",
+    "dateAdded": "2026-09-04T21:33:28.000Z"
+  },
+  {
     "id": "recXGxVuTjqqVFagg",
     "year": 1956,
     "countyNumber": "20",
@@ -16354,6 +16770,19 @@
     "dateAdded": "2026-08-22T03:29:05.000Z"
   },
   {
+    "id": "recXodF09wpfGSH99",
+    "year": 1946,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Heavy Car",
+    "serial": "9D-434",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attNtSgYKTkHzvYJn.jpg",
+    "dateAdded": "2026-09-04T21:11:12.000Z"
+  },
+  {
     "id": "recXtvlm2XU2edius",
     "year": 1950,
     "countyNumber": "4",
@@ -16417,6 +16846,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attex7EZfmpqvElpd.jpg",
     "dateAdded": "2026-08-29T13:12:29.000Z"
+  },
+  {
+    "id": "recY0g7a84keTxtwg",
+    "year": 1951,
+    "countyNumber": "16",
+    "countyName": "Wilson",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "16-1913",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attR4zztwV4j9swP5.jpg",
+    "dateAdded": "2026-09-04T21:32:58.000Z"
   },
   {
     "id": "recY1fJeoRusIQ8TO",
@@ -16627,6 +17069,19 @@
     "dateAdded": "2026-08-29T02:08:13.000Z"
   },
   {
+    "id": "recYX2afn0mYnwfbd",
+    "year": 1950,
+    "countyNumber": "16",
+    "countyName": "Wilson",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "16F/1-255",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/att0ogb8MzSp9yce4.jpg",
+    "dateAdded": "2026-09-04T21:34:34.000Z"
+  },
+  {
     "id": "recYZewXCmAqmCRAY",
     "year": 1956,
     "countyNumber": "4",
@@ -16716,6 +17171,19 @@
     "lowSerialNumber": "TRUE",
     "photoUrl": "assets/img/plates/attDF3tgA1AePfcAU.jpg",
     "dateAdded": "2026-08-29T13:03:13.000Z"
+  },
+  {
+    "id": "recYmV9MZAy6XDH8y",
+    "year": 1953,
+    "countyNumber": "11",
+    "countyName": "Montgomery",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Truck",
+    "serial": "11P/1-679",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attdBtSwXBQ5A2P63.jpg",
+    "dateAdded": "2026-09-04T21:22:26.000Z"
   },
   {
     "id": "recYmlBf3mOGmeqts",
@@ -17405,6 +17873,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attPD8mqTcFKQj765.jpg",
     "dateAdded": "2026-08-29T13:05:46.000Z"
+  },
+  {
+    "id": "recaBhQ1LgDfZveGw",
+    "year": 1954,
+    "countyNumber": "17",
+    "countyName": "Obion",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "17-5665",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attMofwEX9G0dwgVn.jpg",
+    "dateAdded": "2026-09-04T21:38:40.000Z"
   },
   {
     "id": "recaD9IMDmEP90tmL",
@@ -18564,6 +19045,19 @@
     "dateAdded": "2026-08-31T00:46:08.000Z"
   },
   {
+    "id": "recccWKWdwzHxDqvH",
+    "year": 1963,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "9-18",
+    "lowSerialNumber": "TRUE",
+    "photoUrl": "assets/img/plates/attw0ehDjmzIDOt1t.jpg",
+    "dateAdded": "2026-09-04T21:06:50.000Z"
+  },
+  {
     "id": "recciODWk2VIgxFKl",
     "year": 1952,
     "countyNumber": "65",
@@ -18902,6 +19396,32 @@
     "dateAdded": "2026-08-23T11:52:37.000Z"
   },
   {
+    "id": "recdSERKH8orRerto",
+    "year": 1951,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "9P/3-8063",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attP3aAeGIGN4wicM.jpg",
+    "dateAdded": "2026-09-04T21:08:12.000Z"
+  },
+  {
+    "id": "recdSZShEQYbYiYtm",
+    "year": 1947,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "9A-52",
+    "lowSerialNumber": "TRUE",
+    "photoUrl": "assets/img/plates/atthCQWS00X6EJO85.jpg",
+    "dateAdded": "2026-09-04T21:06:37.000Z"
+  },
+  {
     "id": "recdUbMSjWsn2s8TO",
     "year": 1951,
     "countyNumber": "61",
@@ -18991,6 +19511,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attnC2oJZB5YmaLEK.jpg",
     "dateAdded": "2026-08-29T01:55:50.000Z"
+  },
+  {
+    "id": "recdbwko8AB1Opn25",
+    "year": 1953,
+    "countyNumber": "11",
+    "countyName": "Montgomery",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Heavy Car",
+    "serial": "11D-1533",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attpD4Cj4VEbY68mH.jpg",
+    "dateAdded": "2026-09-04T21:24:58.000Z"
   },
   {
     "id": "recdfUlKKzh2O5NJi",
@@ -19186,6 +19719,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attXjyuFgI750jyyT.jpg",
     "dateAdded": "2026-08-24T00:54:44.000Z"
+  },
+  {
+    "id": "rece5HasYxpBTPll7",
+    "year": 1953,
+    "countyNumber": "16",
+    "countyName": "Wilson",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "16-1500",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attLgiWozloq2yNOy.jpg",
+    "dateAdded": "2026-09-04T21:34:46.000Z"
   },
   {
     "id": "rece5IAmueoOvpWtt",
@@ -19966,6 +20512,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attuPqkFaRWcDQJBl.jpg",
     "dateAdded": "2026-08-22T15:14:40.000Z"
+  },
+  {
+    "id": "recfNJ1SKF8QbmFGD",
+    "year": 1952,
+    "countyNumber": "16",
+    "countyName": "Wilson",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "16-532",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attQ9pZDxKrLKud5r.jpg",
+    "dateAdded": "2026-09-04T21:33:42.000Z"
   },
   {
     "id": "recfNcoKjKtyMu3T6",
@@ -21385,6 +21944,19 @@
     "dateAdded": "2026-08-23T11:43:19.000Z"
   },
   {
+    "id": "reciEOI7Sf9lFBcYc",
+    "year": 1940,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Heavy Car",
+    "serial": "9D-545",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attvAcg6GnRSXR9oi.jpg",
+    "dateAdded": "2026-09-04T21:10:24.000Z"
+  },
+  {
     "id": "reciGUUzJFlwCsyw3",
     "year": 1957,
     "countyNumber": "48",
@@ -21539,6 +22111,19 @@
     "lowSerialNumber": "TRUE",
     "photoUrl": "assets/img/plates/attcpBAdoCwuS60nt.jpg",
     "dateAdded": "2026-08-20T02:34:42.000Z"
+  },
+  {
+    "id": "reciW9bvSu5fMDqef",
+    "year": 1955,
+    "countyNumber": "11",
+    "countyName": "Montgomery",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Heavy Car",
+    "serial": "11D-2346",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attf0vYP4HiZJKh2E.jpg",
+    "dateAdded": "2026-09-04T21:24:33.000Z"
   },
   {
     "id": "reciY1UQ1wMYSDeiq",
@@ -23166,6 +23751,19 @@
     "dateAdded": "2026-08-30T21:44:48.000Z"
   },
   {
+    "id": "recmF7UuMUIPYTEvD",
+    "year": 1953,
+    "countyNumber": "11",
+    "countyName": "Montgomery",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Heavy Car",
+    "serial": "11D-1533",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attN1GQD5rRUOxXcx.jpg",
+    "dateAdded": "2026-09-04T21:24:24.000Z"
+  },
+  {
     "id": "recmFwk6wNOe7pKKJ",
     "year": 1953,
     "countyNumber": "3",
@@ -23177,6 +23775,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/att7XZSWSCa1kuPhr.jpg",
     "dateAdded": "2026-08-20T23:50:40.000Z"
+  },
+  {
+    "id": "recmFyw2jZxzulb9P",
+    "year": 1950,
+    "countyNumber": "11",
+    "countyName": "Montgomery",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "11P/2-641",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attA6SNf6bRA9Qfv8.jpg",
+    "dateAdded": "2026-09-04T21:22:40.000Z"
   },
   {
     "id": "recmGrugOLtdIe61Q",
@@ -24362,6 +24973,19 @@
     "dateAdded": "2026-08-22T13:22:21.000Z"
   },
   {
+    "id": "recoXTtvIncUTgMls",
+    "year": 1950,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "9F/1-57",
+    "lowSerialNumber": "TRUE",
+    "photoUrl": "assets/img/plates/attUfZ5qmd3PGbiSk.jpg",
+    "dateAdded": "2026-09-04T21:08:55.000Z"
+  },
+  {
     "id": "recoYGF7EaR7zTnwJ",
     "year": 1954,
     "countyNumber": "5",
@@ -25350,6 +25974,19 @@
     "dateAdded": "2026-08-24T01:02:31.000Z"
   },
   {
+    "id": "recqxXLYXDz5bMVNB",
+    "year": 1953,
+    "countyNumber": "17",
+    "countyName": "Obion",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Heavy Car",
+    "serial": "17D-541",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attTi5qwh7m2BGimr.jpg",
+    "dateAdded": "2026-09-04T21:38:52.000Z"
+  },
+  {
     "id": "recqyTTNAFMMbQlxg",
     "year": 1951,
     "countyNumber": "44",
@@ -25621,6 +26258,19 @@
     "lowSerialNumber": "TRUE",
     "photoUrl": "assets/img/plates/attwAYmE1buHfexwu.jpg",
     "dateAdded": "2026-08-31T00:48:38.000Z"
+  },
+  {
+    "id": "recrayk4lnfDTQHJk",
+    "year": 1954,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Farm Truck",
+    "serial": "9F/2-5059",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attIwQZvNzukEyhtS.jpg",
+    "dateAdded": "2026-09-04T21:10:07.000Z"
   },
   {
     "id": "recrb1t8uqCwcDanM",
@@ -26013,6 +26663,19 @@
     "dateAdded": "2026-08-28T20:25:28.000Z"
   },
   {
+    "id": "recsKRg3P70hhUN5u",
+    "year": 1951,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "9P/1-295",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/att2pf8eyZZBcrz4R.jpg",
+    "dateAdded": "2026-09-04T21:07:59.000Z"
+  },
+  {
     "id": "recsNEOfarV0Uimwk",
     "year": 1944,
     "countyNumber": "7",
@@ -26130,6 +26793,19 @@
     "dateAdded": "2026-08-24T00:51:33.000Z"
   },
   {
+    "id": "recsalGKc100r1tO1",
+    "year": 1956,
+    "countyNumber": "17",
+    "countyName": "Obion",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "17F/1-295",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/att75ifkaEdxSWlIR.jpg",
+    "dateAdded": "2026-09-04T21:39:26.000Z"
+  },
+  {
     "id": "recsbC67j08JuAB0t",
     "year": 1947,
     "countyNumber": "59",
@@ -26154,6 +26830,19 @@
     "lowSerialNumber": "TRUE",
     "photoUrl": "assets/img/plates/attWgYEisRdzsag0l.jpg",
     "dateAdded": "2026-08-27T20:51:06.000Z"
+  },
+  {
+    "id": "recsfUjncEpoiEsYi",
+    "year": 1951,
+    "countyNumber": "17",
+    "countyName": "Obion",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "17-2716",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attM732wTLLXUnG6B.jpg",
+    "dateAdded": "2026-09-04T21:38:30.000Z"
   },
   {
     "id": "recsggGUvsuZeR2km",
@@ -26806,6 +27495,19 @@
     "dateAdded": "2026-08-21T15:30:41.000Z"
   },
   {
+    "id": "rectfcty2Di78ceGk",
+    "year": 1951,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "9D-105",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attmpu3DwkVRLHPvv.jpg",
+    "dateAdded": "2026-09-04T21:11:37.000Z"
+  },
+  {
     "id": "rectgTGBwKwA3z7Xc",
     "year": 1955,
     "countyNumber": "90",
@@ -26856,6 +27558,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attGGyB2gVZkscOtd.jpg",
     "dateAdded": "2026-08-26T20:54:17.000Z"
+  },
+  {
+    "id": "rectkTzyzV5qj1Tw0",
+    "year": 1945,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Heavy Car",
+    "serial": "9D-354",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attiwSe4WlENLDAYM.jpg",
+    "dateAdded": "2026-09-04T21:11:01.000Z"
   },
   {
     "id": "rectl1ALnsKJyc9k8",
@@ -27248,6 +27963,19 @@
     "dateAdded": "2026-08-24T00:56:27.000Z"
   },
   {
+    "id": "recuPxbYHmkB04u9M",
+    "year": 1950,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Heavy Car",
+    "serial": "9D-512",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/att7JMyjKFKq8eNTL.jpg",
+    "dateAdded": "2026-09-04T21:11:23.000Z"
+  },
+  {
     "id": "recuSu7qSZrP751UK",
     "year": 1956,
     "countyNumber": "87",
@@ -27311,6 +28039,19 @@
     "lowSerialNumber": "TRUE",
     "photoUrl": "assets/img/plates/attegrdfkkz29dipJ.jpg",
     "dateAdded": "2026-08-29T01:18:43.000Z"
+  },
+  {
+    "id": "recuf3AgYVYMxAHB9",
+    "year": 1953,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Farm Truck",
+    "serial": "9F/1-850",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attJyjSfVoadR4mHy.jpg",
+    "dateAdded": "2026-09-04T21:09:26.000Z"
   },
   {
     "id": "recuga1E38yTfKUyl",
@@ -27924,6 +28665,19 @@
     "dateAdded": "2026-08-24T01:06:08.000Z"
   },
   {
+    "id": "recwCSKQQA8hjQqDW",
+    "year": 1953,
+    "countyNumber": "11",
+    "countyName": "Montgomery",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Heavy Car",
+    "serial": "11D-1410",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attX6tsyQwoOcP7OU.jpg",
+    "dateAdded": "2026-09-04T21:25:09.000Z"
+  },
+  {
     "id": "recwGYtQuc4MRtPOr",
     "year": 1949,
     "countyNumber": "55",
@@ -28236,6 +28990,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attGGmOzpECdxwDqq.jpg",
     "dateAdded": "2026-08-22T15:10:28.000Z"
+  },
+  {
+    "id": "recwp6nIgUi8qZ1aa",
+    "year": 1952,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Heavy Car",
+    "serial": "9D-44",
+    "lowSerialNumber": "TRUE",
+    "photoUrl": "assets/img/plates/attQOVAgYVOck9aSi.jpg",
+    "dateAdded": "2026-09-04T21:11:47.000Z"
   },
   {
     "id": "recwtGohQkcXiiXQB",
@@ -28641,6 +29408,19 @@
     "dateAdded": "2026-08-21T20:10:47.000Z"
   },
   {
+    "id": "recxYkBOpOP7b7f8p",
+    "year": 1949,
+    "countyNumber": "17",
+    "countyName": "Obion",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "17-2107",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attUH78hfs8ZjIPnA.jpg",
+    "dateAdded": "2026-09-04T21:37:38.000Z"
+  },
+  {
     "id": "recxa1sCyINAyrA0s",
     "year": 1952,
     "countyNumber": "6",
@@ -28719,6 +29499,19 @@
     "dateAdded": "2026-08-26T22:07:38.000Z"
   },
   {
+    "id": "recxf7SrDityfbsgk",
+    "year": 1953,
+    "countyNumber": "11",
+    "countyName": "Montgomery",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "11P/1-588",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attXDiF9uSvhEvl57.jpg",
+    "dateAdded": "2026-09-04T21:22:58.000Z"
+  },
+  {
     "id": "recxiZyMJexlv8b96",
     "year": 1944,
     "countyNumber": "13",
@@ -28743,6 +29536,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attDWUgkx4gEH5uV0.jpg",
     "dateAdded": "2026-08-22T03:16:24.000Z"
+  },
+  {
+    "id": "recxnGD1TC8rTcCYj",
+    "year": 1951,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "10-6938",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attXm6jyy6tREMM88.jpg",
+    "dateAdded": "2026-09-04T21:14:31.000Z"
   },
   {
     "id": "recxoLFktGZTwd0rg",
