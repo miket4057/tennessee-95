@@ -73,50 +73,30 @@ function buildFilterUI(){
   const colors = uniqueSorted(allPlates.flatMap(p => p._colors || []));
   const fontColors = uniqueSorted(allPlates.flatMap(p => p._fontColors || []));
 
-  // Calculate dynamic counts for each filter category
-  const yearCounts = countOptionsForCategory('years', years);
-  const countyCounts = countOptionsForCategory('counties', counties);
-  const typeCounts = countOptionsForCategory('types', types);
-  const colorCounts = countOptionsForCategory('colors', colors);
-  const fontColorCounts = countOptionsForCategory('fontColors', fontColors);
-
   document.getElementById('filter-year').innerHTML = years.map(y => `
     <label class="filter-option">
-      <input type="checkbox" data-group="years" value="${y}" ${state.years.has(String(y)) ? 'checked' : ''}>
-      ${y} <span class="count">${yearCounts.get(y)}</span>
+      <input type="checkbox" data-group="years" value="${y}">
+      ${y} <span class="count"></span>
     </label>`).join('') || emptyFilterNote();
 
   document.getElementById('filter-county').innerHTML = counties.map(c => `
     <label class="filter-option">
-      <input type="checkbox" data-group="counties" value="${c}" ${state.counties.has(c) ? 'checked' : ''}>
-      ${c} <span class="count">${countyCounts.get(c)}</span>
+      <input type="checkbox" data-group="counties" value="${c}">
+      ${c} <span class="count"></span>
     </label>`).join('') || emptyFilterNote();
 
   document.getElementById('filter-type').innerHTML = types.map(t => `
     <label class="filter-option">
-      <input type="checkbox" data-group="types" value="${t}" ${state.types.has(t) ? 'checked' : ''}>
-      ${t} <span class="count">${typeCounts.get(t)}</span>
+      <input type="checkbox" data-group="types" value="${t}">
+      ${t} <span class="count"></span>
     </label>`).join('') || emptyFilterNote();
 
   const hasLowSerialPlates = allPlates.some(p => p.lowSerialNumber);
   if (hasLowSerialPlates) {
-    // For low serial number, count plates that have it set (when all other filters + lowSerialNumber=true are applied)
-    const tempState = {
-      q: state.q,
-      years: new Set(state.years),
-      counties: new Set(state.counties),
-      types: new Set(state.types),
-      colors: new Set(state.colors),
-      fontColors: new Set(state.fontColors),
-      lowSerialNumber: true,
-      sort: state.sort,
-      page: 1,
-    };
-    const lowSerialCount = applyFilters(tempState).length;
     document.getElementById('filter-low-serial-number').innerHTML = `
       <label class="filter-option">
-        <input type="checkbox" id="low-serial-checkbox" data-group="lowSerialNumber" value="true" ${state.lowSerialNumber ? 'checked' : ''}>
-        Low Serial Number <span class="count">${lowSerialCount}</span>
+        <input type="checkbox" id="low-serial-checkbox" data-group="lowSerialNumber" value="true">
+        Low Serial Number <span class="count"></span>
       </label>`;
   } else {
     document.getElementById('filter-low-serial-number').innerHTML = emptyFilterNote();
@@ -135,10 +115,10 @@ function buildFilterUI(){
     Yellow: '#e0c341'
   };
   document.getElementById('filter-color').innerHTML = colors.map(c => `
-    <div class="swatch ${state.colors.has(c) ? 'on' : ''}" data-group="colors" data-value="${c}" title="${c}"
+    <div class="swatch" data-group="colors" data-value="${c}" title="${c}"
       style="background:${colorSwatch[c] || '#999'}"></div>`).join('') || emptyFilterNote();
   document.getElementById('filter-font-color').innerHTML = fontColors.map(c => `
-    <div class="swatch ${state.fontColors.has(c) ? 'on' : ''}" data-group="fontColors" data-value="${c}" title="${c}"
+    <div class="swatch" data-group="fontColors" data-value="${c}" title="${c}"
       style="background:${colorSwatch[c] || '#999'}"></div>`).join('') || emptyFilterNote();
 
   document.querySelectorAll('#filter-year input, #filter-county input, #filter-type input, #filter-low-serial-number input')
@@ -147,6 +127,47 @@ function buildFilterUI(){
     .forEach(el => el.addEventListener('click', onSwatchClick));
   document.querySelectorAll('#filter-font-color .swatch')
     .forEach(el => el.addEventListener('click', onSwatchClick));
+}
+
+function updateFilterUI(){
+  const years = uniqueSorted(allPlates.map(p => p.year)).sort((a,b) => a - b);
+  const counties = uniqueSorted(allPlates.map(p => p._countyName));
+  const types = uniqueSorted(allPlates.map(p => p.type));
+
+  const yearCounts = countOptionsForCategory('years', years);
+  const countyCounts = countOptionsForCategory('counties', counties);
+  const typeCounts = countOptionsForCategory('types', types);
+
+  document.querySelectorAll('#filter-year .filter-option').forEach(option => {
+    const value = option.querySelector('input').value;
+    option.querySelector('.count').textContent = yearCounts.get(Number(value)) ?? 0;
+  });
+  document.querySelectorAll('#filter-county .filter-option').forEach(option => {
+    const value = option.querySelector('input').value;
+    option.querySelector('.count').textContent = countyCounts.get(value) ?? 0;
+  });
+  document.querySelectorAll('#filter-type .filter-option').forEach(option => {
+    const value = option.querySelector('input').value;
+    option.querySelector('.count').textContent = typeCounts.get(value) ?? 0;
+  });
+
+  const lowSerialCheckbox = document.getElementById('low-serial-checkbox');
+  if (lowSerialCheckbox) {
+    const tempState = {
+      q: state.q,
+      years: new Set(state.years),
+      counties: new Set(state.counties),
+      types: new Set(state.types),
+      colors: new Set(state.colors),
+      fontColors: new Set(state.fontColors),
+      lowSerialNumber: true,
+      sort: state.sort,
+      page: 1,
+    };
+    lowSerialCheckbox.closest('.filter-option').querySelector('.count').textContent = applyFilters(tempState).length;
+  }
+
+  syncCheckboxUI();
 }
 
 function emptyFilterNote(){
@@ -312,7 +333,7 @@ function renderPagination(totalItems){
 }
 
 function render(){
-  buildFilterUI();  // Recalculate filter counts based on current selections
+  updateFilterUI();
   const filtered = applyFilters();
   const sorted = sortPlates(filtered);
   const pageSize = getPageSize();
