@@ -5,6 +5,12 @@
    arrays, the empty states below are what visitors see.
    ========================================================================== */
 
+// Airtable exports this as a boolean or a "TRUE"/"FALSE" string; normalize so falsy strings don't render as truthy.
+function normalizeLowSerialNumber(value){
+  if (typeof value === 'string') return value.toUpperCase() === 'TRUE';
+  return value === true;
+}
+
 async function loadRecentPlates(){
   const el = document.getElementById('recent-plates');
   try {
@@ -19,7 +25,8 @@ async function loadRecentPlates(){
     }
     const recent = [...plates]
       .sort((a,b) => (b.dateAdded || '').localeCompare(a.dateAdded || ''))
-      .slice(0, 8);
+      .slice(0, 8)
+      .map(p => ({ ...p, lowSerialNumber: normalizeLowSerialNumber(p.lowSerialNumber) }));
     el.innerHTML = recent.map(plateCardHTML).join('');
   } catch (err) {
     el.innerHTML = `<div class="empty-state" style="grid-column:1/-1;">
