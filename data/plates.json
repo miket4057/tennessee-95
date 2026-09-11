@@ -104,6 +104,19 @@
     "dateAdded": "2026-08-21T15:33:04.000Z"
   },
   {
+    "id": "rec0DiwtDbCRqqvyz",
+    "year": 1956,
+    "countyNumber": "56",
+    "countyName": "N/A",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": null,
+    "serial": "56A",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attfCPZTQphblOT53.jpg",
+    "dateAdded": "2026-09-05T19:15:54.000Z"
+  },
+  {
     "id": "rec0FhMSJsc93opho",
     "year": 1944,
     "countyNumber": "9",
@@ -273,6 +286,19 @@
     "dateAdded": "2026-08-25T01:50:40.000Z"
   },
   {
+    "id": "rec0S00d4SS67TBuG",
+    "year": 1955,
+    "countyNumber": "49",
+    "countyName": "N/A",
+    "colors": "Green",
+    "fontColor": "Red",
+    "type": "State House Representative",
+    "serial": "49",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/att0LfwMOS9FrcKqu.jpg",
+    "dateAdded": "2026-09-11T21:20:07.000Z"
+  },
+  {
     "id": "rec0SnErRuZUgSwCd",
     "year": 1951,
     "countyNumber": "11",
@@ -414,6 +440,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attAPf0GdEmUaSw4q.jpg",
     "dateAdded": "2026-08-23T18:14:00.000Z"
+  },
+  {
+    "id": "rec0o69W9petYpCBN",
+    "year": 1956,
+    "countyNumber": "15",
+    "countyName": "Robertson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "15P/6-Y09",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attLmhK71vToSKEmY.jpg",
+    "dateAdded": "2026-09-11T21:18:47.000Z"
   },
   {
     "id": "rec0phXKHYJyjz5nW",
@@ -793,6 +832,19 @@
     "dateAdded": "2026-08-26T20:46:10.000Z"
   },
   {
+    "id": "rec1X5debKqpysp3Q",
+    "year": 1956,
+    "countyNumber": "476",
+    "countyName": "N/A",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": null,
+    "serial": "476",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/att0n8pF5NNxkfdFp.jpg",
+    "dateAdded": "2026-09-05T19:17:45.000Z"
+  },
+  {
     "id": "rec1XRAxGcIGS6Qz7",
     "year": 1956,
     "countyNumber": "6",
@@ -1142,6 +1194,19 @@
     "lowSerialNumber": "TRUE",
     "photoUrl": "assets/img/plates/attPRbybrSvnDzFZ2.jpg",
     "dateAdded": "2026-08-30T17:53:45.000Z"
+  },
+  {
+    "id": "rec2LmO2OEEGr1qLl",
+    "year": 1955,
+    "countyNumber": "33",
+    "countyName": "N/A",
+    "colors": "Green",
+    "fontColor": "Red",
+    "type": "State Senator",
+    "serial": "33",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attSYudWGTPHN07Lg.jpg",
+    "dateAdded": "2026-09-11T21:20:49.000Z"
   },
   {
     "id": "rec2MdYBSkE0ZQsZJ",
@@ -1625,6 +1690,19 @@
     "dateAdded": "2026-08-31T21:50:14.000Z"
   },
   {
+    "id": "rec3G2wE7cz4EbAsQ",
+    "year": 1954,
+    "countyNumber": "686",
+    "countyName": "N/A",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Booster",
+    "serial": "686",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attg6SB1FdWxKi7YB.jpg",
+    "dateAdded": "2026-09-11T21:22:05.000Z"
+  },
+  {
     "id": "rec3G2xg7brYrBFtV",
     "year": 1946,
     "countyNumber": "24",
@@ -1636,6 +1714,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attwiCNjIzjeHbAny.jpg",
     "dateAdded": "2026-08-22T15:02:14.000Z"
+  },
+  {
+    "id": "rec3G6j9F4EYMCqO5",
+    "year": 1956,
+    "countyNumber": "73",
+    "countyName": "Johnson",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Government",
+    "serial": "73-6167",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/att1Lqz1dYg0YVm6u.jpg",
+    "dateAdded": "2026-09-11T21:23:39.000Z"
   },
   {
     "id": "rec3GGdUi7cKEbndH",
@@ -5096,6 +5187,19 @@
     "dateAdded": "2026-08-23T11:42:08.000Z"
   },
   {
+    "id": "recAD9oi0tqxsmGSd",
+    "year": 1956,
+    "countyNumber": "00",
+    "countyName": "N/A",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Sample",
+    "serial": "00-000",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attkQ0OFAK8IdYvZM.jpg",
+    "dateAdded": "2026-09-11T21:28:04.000Z"
+  },
+  {
     "id": "recADyagMWTY2JwbQ",
     "year": 1965,
     "countyNumber": "36",
@@ -5473,6 +5577,19 @@
     "dateAdded": "2026-08-23T18:03:31.000Z"
   },
   {
+    "id": "recArrMhJ7d7p9Eci",
+    "year": 1956,
+    "countyNumber": "5",
+    "countyName": "Sullivan",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "5P/2-5722",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/att5lrzcY8CVtussZ.jpg",
+    "dateAdded": "2026-09-11T21:27:26.000Z"
+  },
+  {
     "id": "recAsPGuFisrW0bEu",
     "year": 1955,
     "countyNumber": "81",
@@ -5562,6 +5679,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attrZAeTWknlG1Lsc.jpg",
     "dateAdded": "2026-08-22T14:45:20.000Z"
+  },
+  {
+    "id": "recB3anEt6TuE8Yti",
+    "year": 1956,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Radio",
+    "serial": "4-W4ZJV",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attzkSn8It3BNn4ZB.jpg",
+    "dateAdded": "2026-09-11T21:21:47.000Z"
   },
   {
     "id": "recB47GNvroCiPK46",
@@ -6199,6 +6329,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attqbuCtdPgd5kEM3.jpg",
     "dateAdded": "2026-08-26T21:32:16.000Z"
+  },
+  {
+    "id": "recCBl5RQT8OxarBM",
+    "year": 1955,
+    "countyNumber": "163",
+    "countyName": "N/A",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Capitol Press",
+    "serial": "163",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attmgcBJRhVSUfApj.jpg",
+    "dateAdded": "2026-09-05T19:17:23.000Z"
   },
   {
     "id": "recCBqmpsZBODl6ft",
@@ -6927,6 +7070,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attxmPi40DQY6mUA1.jpg",
     "dateAdded": "2026-08-21T00:44:25.000Z"
+  },
+  {
+    "id": "recDppSrpylDNKDcQ",
+    "year": null,
+    "countyNumber": "123456",
+    "countyName": "N/A",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Sample",
+    "serial": "123456",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attNEsmZJeEGgnux9.jpg",
+    "dateAdded": "2026-09-11T21:21:06.000Z"
   },
   {
     "id": "recDq5Wb9rtS1UGRy",
@@ -9594,6 +9750,19 @@
     "dateAdded": "2026-08-22T13:26:30.000Z"
   },
   {
+    "id": "recJJs1o6d7qC5vKI",
+    "year": 1956,
+    "countyNumber": "25",
+    "countyName": "Bedford",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "25D-1119",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attTA85L3dnoaguWi.jpg",
+    "dateAdded": "2026-09-11T21:26:17.000Z"
+  },
+  {
     "id": "recJKxXD9FoGmvDis",
     "year": 1961,
     "countyNumber": "3",
@@ -10697,6 +10866,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/att3HcGWQeznh4wLa.jpg",
     "dateAdded": "2026-08-31T21:54:02.000Z"
+  },
+  {
+    "id": "recLdlbQjTa9PaL21",
+    "year": 1956,
+    "countyNumber": "53",
+    "countyName": "Rhea",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "53F/3-920",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attkJP1imJ4fIHZGO.jpg",
+    "dateAdded": "2026-09-11T21:24:42.000Z"
   },
   {
     "id": "recLeQC0poQNJXOg0",
@@ -12116,6 +12298,19 @@
     "dateAdded": "2026-08-24T01:07:28.000Z"
   },
   {
+    "id": "recOB1EhyYlCb3OJ8",
+    "year": 1956,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "For Hire",
+    "serial": "3H/6-Y002",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/att41I49PTtpp1QAQ.jpg",
+    "dateAdded": "2026-09-11T21:29:49.000Z"
+  },
+  {
     "id": "recOCOXtQql4rsJnY",
     "year": 1939,
     "countyNumber": "42",
@@ -12933,6 +13128,19 @@
     "lowSerialNumber": "TRUE",
     "photoUrl": "assets/img/plates/attTxKwJ1Um9sh6QA.jpg",
     "dateAdded": "2026-08-27T01:06:51.000Z"
+  },
+  {
+    "id": "recPhhL5NI2WpZ0lx",
+    "year": 1956,
+    "countyNumber": "32",
+    "countyName": "N/A",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Jr Chamber of Commerce",
+    "serial": "32",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attws8Nd6PWwBSUuV.jpg",
+    "dateAdded": "2026-09-11T21:17:09.000Z"
   },
   {
     "id": "recPqvVQAVyjkKAKq",
@@ -14651,6 +14859,19 @@
     "dateAdded": "2026-09-04T20:05:52.000Z"
   },
   {
+    "id": "recTT3JkRUZzzrUAz",
+    "year": 1956,
+    "countyNumber": "17",
+    "countyName": "Obion",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Dealer",
+    "serial": "17-13E",
+    "lowSerialNumber": "TRUE",
+    "photoUrl": "assets/img/plates/att0QDjzOgcsCojfE.jpg",
+    "dateAdded": "2026-09-11T21:24:07.000Z"
+  },
+  {
     "id": "recTTQzAEk4q8xtZm",
     "year": 1942,
     "countyNumber": "86",
@@ -15299,6 +15520,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attWiPmOqKzzk1IWw.jpg",
     "dateAdded": "2026-08-25T01:58:39.000Z"
+  },
+  {
+    "id": "recUp13Eo5YXqis9z",
+    "year": null,
+    "countyNumber": "199",
+    "countyName": "N/A",
+    "colors": "Green",
+    "fontColor": "White",
+    "type": "THP",
+    "serial": "199",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attQc51JmelyBIjdz.jpg",
+    "dateAdded": "2026-09-05T19:18:00.000Z"
   },
   {
     "id": "recUp2SrNEJpSdEWI",
@@ -16627,6 +16861,19 @@
     "dateAdded": "2026-08-26T20:39:18.000Z"
   },
   {
+    "id": "recXWKkE1S28LVNkt",
+    "year": 1956,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Motorcycle",
+    "serial": "3-72",
+    "lowSerialNumber": "TRUE",
+    "photoUrl": "assets/img/plates/att07DBPwhBZvbl0r.jpg",
+    "dateAdded": "2026-09-11T21:25:32.000Z"
+  },
+  {
     "id": "recXWncLG2zI4cPmf",
     "year": 1951,
     "countyNumber": "8",
@@ -16703,6 +16950,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attMYqXxU0Fv1kCSQ.jpg",
     "dateAdded": "2026-08-21T18:05:12.000Z"
+  },
+  {
+    "id": "recXfwF8vty941x4w",
+    "year": 1956,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Auxiliary Police",
+    "serial": "3-45",
+    "lowSerialNumber": "TRUE",
+    "photoUrl": "assets/img/plates/attb5mOk6WAcsH0oM.jpg",
+    "dateAdded": "2026-09-05T19:17:09.000Z"
   },
   {
     "id": "recXg1skuQTjrCHb9",
@@ -17145,6 +17405,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/att4h2nYELSIpk0yu.jpg",
     "dateAdded": "2026-08-29T01:33:24.000Z"
+  },
+  {
+    "id": "recYkXCJ3bMgXoGkB",
+    "year": null,
+    "countyNumber": "123456",
+    "countyName": "N/A",
+    "colors": "Red",
+    "fontColor": "White",
+    "type": "Sample",
+    "serial": "123456",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attmUKhPKvi5TVgaF.jpg",
+    "dateAdded": "2026-09-11T21:19:35.000Z"
   },
   {
     "id": "recYkZ7P4J88RVPWQ",
@@ -17823,6 +18096,19 @@
     "dateAdded": "2026-08-26T21:25:22.000Z"
   },
   {
+    "id": "reca1nqsvbF94TV6p",
+    "year": null,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Green",
+    "fontColor": "White",
+    "type": "State",
+    "serial": "10-174",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attkQgzMXarLCr4LZ.jpg",
+    "dateAdded": "2026-09-11T21:28:22.000Z"
+  },
+  {
     "id": "reca321Ez6dFvhaAu",
     "year": 1955,
     "countyNumber": "50",
@@ -18484,6 +18770,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attuFbRjPP4H9jMsy.jpg",
     "dateAdded": "2026-08-26T20:39:04.000Z"
+  },
+  {
+    "id": "recbV3lw76wjXpHaW",
+    "year": 1956,
+    "countyNumber": "2",
+    "countyName": "Shelby",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "2D-36611",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attomwpeXiFIdi6Jk.jpg",
+    "dateAdded": "2026-09-11T21:26:37.000Z"
   },
   {
     "id": "recbX52shZ1B0R3KI",
@@ -19851,6 +20150,19 @@
     "dateAdded": "2026-08-23T12:16:49.000Z"
   },
   {
+    "id": "receNsX5v5L2bu6vZ",
+    "year": 1956,
+    "countyNumber": "35",
+    "countyName": "Carroll",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "35D-75",
+    "lowSerialNumber": "TRUE",
+    "photoUrl": "assets/img/plates/att9LDe1n4kXuczBi.jpg",
+    "dateAdded": "2026-09-11T21:27:11.000Z"
+  },
+  {
     "id": "receOUGULdFeUJIsv",
     "year": 1956,
     "countyNumber": "62",
@@ -21162,6 +21474,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attCJjAf3n0VvKrKk.jpg",
     "dateAdded": "2026-08-30T11:51:12.000Z"
+  },
+  {
+    "id": "recgcIpdlDq5O8nel",
+    "year": 1956,
+    "countyNumber": "02",
+    "countyName": "Shelby",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Dealer",
+    "serial": "02-184C",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attblTjMzbwQvr1g6.jpg",
+    "dateAdded": "2026-09-11T21:17:45.000Z"
   },
   {
     "id": "recgevYurweeRi78G",
@@ -22815,6 +23140,19 @@
     "dateAdded": "2026-08-22T03:05:32.000Z"
   },
   {
+    "id": "recjrZ4IG47bo1W1K",
+    "year": 1956,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Government",
+    "serial": "3-10526",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attc8ZnHMDgEP8eQW.jpg",
+    "dateAdded": "2026-09-11T21:22:54.000Z"
+  },
+  {
     "id": "recjs6x06dqbGLpHm",
     "year": 1955,
     "countyNumber": "8",
@@ -23751,6 +24089,19 @@
     "dateAdded": "2026-08-30T21:44:48.000Z"
   },
   {
+    "id": "recmEVrnSl3bTmEty",
+    "year": 1956,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Auxiliary Police",
+    "serial": "4-22",
+    "lowSerialNumber": "TRUE",
+    "photoUrl": "assets/img/plates/att0XnWg3BCsf8kkr.jpg",
+    "dateAdded": "2026-09-11T21:22:32.000Z"
+  },
+  {
     "id": "recmF7UuMUIPYTEvD",
     "year": 1953,
     "countyNumber": "11",
@@ -24009,6 +24360,19 @@
     "lowSerialNumber": "TRUE",
     "photoUrl": "assets/img/plates/att3rjrJpzL3hI1c6.jpg",
     "dateAdded": "2026-08-29T16:47:32.000Z"
+  },
+  {
+    "id": "recmhlPtDiEyhxavv",
+    "year": 1956,
+    "countyNumber": "15",
+    "countyName": "Robertson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "15P/8-X17",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attxEj4FppqSzKeDZ.jpg",
+    "dateAdded": "2026-09-11T21:27:42.000Z"
   },
   {
     "id": "recmi4gkk4BFH7i4g",
@@ -24960,6 +25324,19 @@
     "dateAdded": "2026-08-21T18:02:01.000Z"
   },
   {
+    "id": "recoUzvjwR0rWObSZ",
+    "year": 1956,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Auxiliary Police",
+    "serial": "4-38",
+    "lowSerialNumber": "TRUE",
+    "photoUrl": "assets/img/plates/attjNWopKz3bfGCx9.png",
+    "dateAdded": "2026-09-05T19:16:07.000Z"
+  },
+  {
     "id": "recoWiMoqCn5JY89K",
     "year": 1956,
     "countyNumber": "19",
@@ -25701,6 +26078,32 @@
     "dateAdded": "2026-08-22T03:10:15.000Z"
   },
   {
+    "id": "recqMTaX8cOWsK3TV",
+    "year": 1956,
+    "countyNumber": "53",
+    "countyName": "Rhea",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Taxi",
+    "serial": "53TAXI-21",
+    "lowSerialNumber": "TRUE",
+    "photoUrl": "assets/img/plates/attsiptIAIu00Br8B.jpg",
+    "dateAdded": "2026-09-11T21:28:44.000Z"
+  },
+  {
+    "id": "recqMcbR4ArZLe394",
+    "year": 1956,
+    "countyNumber": "330",
+    "countyName": "N/A",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": null,
+    "serial": "330",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attFkY6I3IOoKzJWg.jpg",
+    "dateAdded": "2026-09-05T19:13:59.000Z"
+  },
+  {
     "id": "recqOCxkRqffZRJdW",
     "year": 1953,
     "countyNumber": "79",
@@ -26117,6 +26520,19 @@
     "dateAdded": "2026-08-25T02:00:22.000Z"
   },
   {
+    "id": "recr9kKEXBOnYTlv4",
+    "year": 1956,
+    "countyNumber": "2",
+    "countyName": "Shelby",
+    "colors": "Orange",
+    "fontColor": "Black",
+    "type": "Civil Air Patrol",
+    "serial": "2-363",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attf8gw64f7gbbmj7.jpg",
+    "dateAdded": "2026-09-11T21:23:16.000Z"
+  },
+  {
     "id": "recrCAq9Zc59q7V6z",
     "year": 1948,
     "countyNumber": "68",
@@ -26336,6 +26752,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attqZC5zYqRNqEBFl.jpg",
     "dateAdded": "2026-08-23T18:16:34.000Z"
+  },
+  {
+    "id": "recrmlLAZo1k1795t",
+    "year": 1956,
+    "countyNumber": "6",
+    "countyName": "Washington",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "For Hire",
+    "serial": "6H/7-Z007",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attBjyqA5suN8d4UX.jpg",
+    "dateAdded": "2026-09-11T21:29:22.000Z"
   },
   {
     "id": "recrnTAto0bMMQZyy",
@@ -28041,6 +28470,19 @@
     "dateAdded": "2026-08-29T01:18:43.000Z"
   },
   {
+    "id": "recudDXussCi8yLBb",
+    "year": 1956,
+    "countyNumber": "23",
+    "countyName": "McMinn",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Tractor",
+    "serial": "23-P903",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/atteeJMwBLs4oMPue.jpg",
+    "dateAdded": "2026-09-11T21:21:21.000Z"
+  },
+  {
     "id": "recuf3AgYVYMxAHB9",
     "year": 1953,
     "countyNumber": "9",
@@ -28221,6 +28663,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attcajI4BMciz6j2K.jpg",
     "dateAdded": "2026-08-21T18:22:07.000Z"
+  },
+  {
+    "id": "recuxMZWKO1KDAVrT",
+    "year": 1956,
+    "countyNumber": "2471",
+    "countyName": "N/A",
+    "colors": "Yellow",
+    "fontColor": "Green",
+    "type": "National Guard",
+    "serial": "2471",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/atteYDxBqLfMKRz7a.jpg",
+    "dateAdded": "2026-09-11T21:25:48.000Z"
   },
   {
     "id": "recv0xJ4UUG05zuHF",
@@ -28910,6 +29365,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attABNs9tIsg5Iy1Z.jpg",
     "dateAdded": "2026-08-13T22:23:29.000Z"
+  },
+  {
+    "id": "recwjDs23ZpWTZ07u",
+    "year": 1956,
+    "countyNumber": "27",
+    "countyName": "Hamblen",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "27D-1468",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/att0F85uZNWjZLvAL.jpg",
+    "dateAdded": "2026-09-11T21:26:51.000Z"
   },
   {
     "id": "recwkhS26SKDVDGXh",
@@ -30357,6 +30825,19 @@
     "dateAdded": "2026-08-28T20:24:52.000Z"
   },
   {
+    "id": "reczKddDJ9A2jFwtP",
+    "year": 1956,
+    "countyNumber": "31",
+    "countyName": "Campbell",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "31P/6-Y03",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attSIZeEgD8Vd4n8E.jpg",
+    "dateAdded": "2026-09-11T21:19:15.000Z"
+  },
+  {
     "id": "reczKsFCx7n196OTq",
     "year": 1960,
     "countyNumber": "19",
@@ -30420,6 +30901,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attzmQGQOFXhClgJa.jpg",
     "dateAdded": "2026-08-30T18:03:23.000Z"
+  },
+  {
+    "id": "reczWcUW4SgyyHMVY",
+    "year": 1956,
+    "countyNumber": "30",
+    "countyName": "N/A",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Jr Chamber of Commerce",
+    "serial": "30",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attilnaPhmcJyEe6s.jpg",
+    "dateAdded": "2026-09-11T21:25:04.000Z"
   },
   {
     "id": "reczYjDtPwO4tG7Fo",
