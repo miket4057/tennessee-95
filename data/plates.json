@@ -1365,6 +1365,19 @@
     "dateAdded": "2026-08-29T02:09:06.000Z"
   },
   {
+    "id": "rec2a7PP5jSriZU78",
+    "year": 1956,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "For Hire",
+    "serial": "3H/8-X100",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/att2jCKcq8zdaBzeB.jpg",
+    "dateAdded": "2026-09-11T22:33:38.000Z"
+  },
+  {
     "id": "rec2aXKJXverNaF7o",
     "year": 1952,
     "countyNumber": "27",
@@ -2210,6 +2223,19 @@
     "dateAdded": "2026-08-26T20:40:17.000Z"
   },
   {
+    "id": "rec4FcKbr8dogdlxB",
+    "year": 1939,
+    "countyNumber": "10",
+    "countyName": "Blount",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "10-145",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attlUEp8EskhJpAuF.jpg",
+    "dateAdded": "2026-09-11T22:39:34.000Z"
+  },
+  {
     "id": "rec4Iofs5UaEoNArG",
     "year": 1946,
     "countyNumber": "95",
@@ -2652,6 +2678,19 @@
     "dateAdded": "2026-08-26T20:49:11.000Z"
   },
   {
+    "id": "rec4y8L7Uu9XyiD4q",
+    "year": 1939,
+    "countyNumber": "1",
+    "countyName": "Davidson",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Truck",
+    "serial": "1T-9586",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/att8OMkCI39kxkfyc.jpg",
+    "dateAdded": "2026-09-11T22:28:59.000Z"
+  },
+  {
     "id": "rec4yhQRicIwL3GNt",
     "year": 1951,
     "countyNumber": "10",
@@ -2767,6 +2806,19 @@
     "lowSerialNumber": "TRUE",
     "photoUrl": "assets/img/plates/attDOKQdU8mB6qC0z.jpg",
     "dateAdded": "2026-08-23T18:05:59.000Z"
+  },
+  {
+    "id": "rec5I0yAckhUfYswo",
+    "year": 1945,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "3-5974",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attT4KDSIHZcsSDfi.jpg",
+    "dateAdded": "2026-09-11T22:34:25.000Z"
   },
   {
     "id": "rec5KBUsazN560ygK",
@@ -2975,6 +3027,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attUEWbD5RCTQJV60.jpg",
     "dateAdded": "2026-08-22T14:51:39.000Z"
+  },
+  {
+    "id": "rec5cqIJR0zwWdvyz",
+    "year": 1940,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Passenger",
+    "serial": "4-10795",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attbNQVMPAtsetRsy.jpg",
+    "dateAdded": "2026-09-11T22:40:02.000Z"
   },
   {
     "id": "rec5dBAo6o3CzGiHf",
@@ -3640,6 +3705,19 @@
     "dateAdded": "2026-08-31T00:28:54.000Z"
   },
   {
+    "id": "rec78NN2Cs8dPU8tG",
+    "year": 1954,
+    "countyNumber": "19",
+    "countyName": "Bradley",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Passenger",
+    "serial": "19-8574",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attgcz94YJZqPjmXv.jpg",
+    "dateAdded": "2026-09-11T22:37:48.000Z"
+  },
+  {
     "id": "rec78nptBrBMPRNX9",
     "year": 1941,
     "countyNumber": "17",
@@ -4303,6 +4381,19 @@
     "dateAdded": "2026-08-23T11:43:51.000Z"
   },
   {
+    "id": "rec8KR8ZQTmuPYuF6",
+    "year": 1939,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "3-25331",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/atteYH18GFLZxcYkb.jpg",
+    "dateAdded": "2026-09-11T22:39:49.000Z"
+  },
+  {
     "id": "rec8KqNDRC3DVeAKG",
     "year": 1939,
     "countyNumber": "15",
@@ -4353,6 +4444,19 @@
     "lowSerialNumber": "TRUE",
     "photoUrl": "assets/img/plates/attqi6dqeLnBW83XN.jpg",
     "dateAdded": "2026-08-22T13:07:48.000Z"
+  },
+  {
+    "id": "rec8RyJ9oX9GjxLQm",
+    "year": 1956,
+    "countyNumber": "14",
+    "countyName": "Sumner",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Truck",
+    "serial": "14P/1-500",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attnShzSqqUQ9ikG7.jpg",
+    "dateAdded": "2026-09-11T22:33:19.000Z"
   },
   {
     "id": "rec8V3eTswADJlvXm",
@@ -6357,6 +6461,19 @@
     "dateAdded": "2026-08-25T02:01:09.000Z"
   },
   {
+    "id": "recCDm7N2wE2V3wT8",
+    "year": 1952,
+    "countyNumber": "1",
+    "countyName": "Davidson",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "1-50409",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/att8fZZn2pgRfxDwp.jpg",
+    "dateAdded": "2026-09-11T22:31:59.000Z"
+  },
+  {
     "id": "recCE3bXsHS5Z5VNa",
     "year": 1946,
     "countyNumber": "39",
@@ -6773,6 +6890,19 @@
     "dateAdded": "2026-08-23T11:57:51.000Z"
   },
   {
+    "id": "recCyw7ZJCLZbYIwj",
+    "year": 1946,
+    "countyNumber": "40",
+    "countyName": "Loudon",
+    "colors": "Silver",
+    "fontColor": "Green",
+    "type": "Passenger",
+    "serial": "40-2522",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/atto0lfHqKw6VuZKj.jpg",
+    "dateAdded": "2026-09-11T22:29:38.000Z"
+  },
+  {
     "id": "recCzaZHyiEiT1wxX",
     "year": 1944,
     "countyNumber": "36",
@@ -6810,6 +6940,19 @@
     "lowSerialNumber": "TRUE",
     "photoUrl": "assets/img/plates/attGdE6ywhxLMvCFY.jpg",
     "dateAdded": "2026-08-26T20:48:03.000Z"
+  },
+  {
+    "id": "recD96E9iesFDu4oy",
+    "year": 1948,
+    "countyNumber": "33",
+    "countyName": "Roane",
+    "colors": "Yellow",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "33-1755",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/att3sXNkYcjhK6ggw.jpg",
+    "dateAdded": "2026-09-11T22:30:12.000Z"
   },
   {
     "id": "recDBpiKGRxux2upP",
@@ -10660,6 +10803,19 @@
     "dateAdded": "2026-08-23T11:56:34.000Z"
   },
   {
+    "id": "recL4o2k2lGy5nORs",
+    "year": 1956,
+    "countyNumber": "9",
+    "countyName": "Maury",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Farm Truck",
+    "serial": "9F/1-653",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attmcAKuFBLtLZID6.jpg",
+    "dateAdded": "2026-09-11T22:32:37.000Z"
+  },
+  {
     "id": "recL5YYmbMdlUZkjm",
     "year": 1946,
     "countyNumber": "79",
@@ -10801,6 +10957,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attGtTr1djsMiOYGa.jpg",
     "dateAdded": "2026-08-25T02:16:10.000Z"
+  },
+  {
+    "id": "recLKdPY1Gr7qLFiv",
+    "year": 1949,
+    "countyNumber": "7",
+    "countyName": "Madison",
+    "colors": "Black",
+    "fontColor": "Yellow",
+    "type": "Heavy Car",
+    "serial": "7D-939",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/att91aKToWhnVu3A4.jpg",
+    "dateAdded": "2026-09-11T22:31:18.000Z"
   },
   {
     "id": "recLM9viz9n6orn8A",
@@ -11388,6 +11557,19 @@
     "dateAdded": "2026-08-27T00:52:22.000Z"
   },
   {
+    "id": "recMWvd0yPVlcfqwE",
+    "year": 1953,
+    "countyNumber": "19",
+    "countyName": "Bradley",
+    "colors": "Silver",
+    "fontColor": "Blue",
+    "type": "Passenger",
+    "serial": "19-3406",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attkV6S6w9ILDvXhS.jpg",
+    "dateAdded": "2026-09-11T22:37:30.000Z"
+  },
+  {
     "id": "recMX0TmHqwLXZb7Y",
     "year": 1952,
     "countyNumber": "87",
@@ -11581,6 +11763,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attPbchvVEEoKwmlW.jpg",
     "dateAdded": "2026-08-22T03:20:40.000Z"
+  },
+  {
+    "id": "recMqb2SoGUujQvGi",
+    "year": 1947,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "3-1283",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attetUkB5CJsCuwiL.jpg",
+    "dateAdded": "2026-09-11T22:29:57.000Z"
   },
   {
     "id": "recMtY8EhRuNRgITa",
@@ -11919,6 +12114,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attrzsYUA0jZ3H7ZO.jpg",
     "dateAdded": "2026-08-29T13:16:47.000Z"
+  },
+  {
+    "id": "recNTl7UUiRIRI2c3",
+    "year": 1951,
+    "countyNumber": "34",
+    "countyName": "Putnam",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "34-4472",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attQKJEgwuT7hzAIv.jpg",
+    "dateAdded": "2026-09-11T22:28:43.000Z"
   },
   {
     "id": "recNTzoaKDiAZkT5p",
@@ -12465,6 +12673,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attwJgMCQuqHi4ldp.jpg",
     "dateAdded": "2026-08-21T00:58:00.000Z"
+  },
+  {
+    "id": "recORgI4vjDdjIPpb",
+    "year": 1940,
+    "countyNumber": "0",
+    "countyName": "N/A",
+    "colors": "Black",
+    "fontColor": "Orange",
+    "type": "Sample",
+    "serial": "0-000",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attX1UEvB3ilYpICA.jpeg",
+    "dateAdded": "2026-09-11T22:38:39.000Z"
   },
   {
     "id": "recOSmv1xr8oe6GYU",
@@ -14118,6 +14339,19 @@
     "dateAdded": "2026-08-26T21:04:59.000Z"
   },
   {
+    "id": "recRZ5Jlx4kqcJrsY",
+    "year": 1944,
+    "countyNumber": "1",
+    "countyName": "Davidson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "1-4400",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/att67mTzhig0mdArF.jpg",
+    "dateAdded": "2026-09-11T22:34:12.000Z"
+  },
+  {
     "id": "recRZKRLjxb22tOxb",
     "year": 1946,
     "countyNumber": "34",
@@ -14807,6 +15041,19 @@
     "dateAdded": "2026-08-24T01:01:24.000Z"
   },
   {
+    "id": "recTLJDRSLCiDB2SO",
+    "year": 1939,
+    "countyNumber": "0",
+    "countyName": "N/A",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Sample",
+    "serial": "0-0000",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attESUQ2TNvIvp9fQ.jpeg",
+    "dateAdded": "2026-09-11T22:38:19.000Z"
+  },
+  {
     "id": "recTMIsneSTgTCKl7",
     "year": 1949,
     "countyNumber": "87",
@@ -15184,6 +15431,19 @@
     "dateAdded": "2026-08-24T01:02:45.000Z"
   },
   {
+    "id": "recU4lSYsiQbPBuTz",
+    "year": 1942,
+    "countyNumber": "32",
+    "countyName": "Marshall",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Truck",
+    "serial": "32P/3-838",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attmBcpy4K4aIbLww.jpg",
+    "dateAdded": "2026-09-11T22:32:56.000Z"
+  },
+  {
     "id": "recU7LQMgh9xktJAq",
     "year": 1939,
     "countyNumber": "43",
@@ -15403,6 +15663,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attVmz9PY6NaU0gdZ.jpg",
     "dateAdded": "2026-08-29T01:33:06.000Z"
+  },
+  {
+    "id": "recUZFVhE7y5BYa0k",
+    "year": 1956,
+    "countyNumber": "36",
+    "countyName": "Lawrence",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Heavy Car",
+    "serial": "36D1019",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attqovrOXlRMWmfwJ.jpg",
+    "dateAdded": "2026-09-11T22:39:07.000Z"
   },
   {
     "id": "recUaI2h5nB2dEFld",
@@ -15754,6 +16027,19 @@
     "lowSerialNumber": "TRUE",
     "photoUrl": "assets/img/plates/attoSveK1JzR7r1UT.jpg",
     "dateAdded": "2026-08-31T20:35:32.000Z"
+  },
+  {
+    "id": "recVFqH4jgWULSmB2",
+    "year": 1939,
+    "countyNumber": "4",
+    "countyName": "Hamilton",
+    "colors": "Silver",
+    "fontColor": "Red",
+    "type": "Passenger",
+    "serial": "4-5458",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attAHcJtCqPmmG9BX.jpg",
+    "dateAdded": "2026-09-11T22:29:21.000Z"
   },
   {
     "id": "recVJLuFYlLCxB6Yp",
@@ -17652,6 +17938,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attQBmlqygcrFv2Ys.jpg",
     "dateAdded": "2026-08-22T03:30:25.000Z"
+  },
+  {
+    "id": "recZA5Q0wWBaJqUg6",
+    "year": 1942,
+    "countyNumber": "2",
+    "countyName": "Shelby",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "2-11022",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attB57rr4wPdJVOlw.jpg",
+    "dateAdded": "2026-09-11T22:33:58.000Z"
   },
   {
     "id": "recZAJFd6uaUEQSlH",
@@ -20826,6 +21125,19 @@
     "dateAdded": "2026-08-22T15:14:40.000Z"
   },
   {
+    "id": "recfMaz46Q5HmmMEu",
+    "year": 1951,
+    "countyNumber": "15",
+    "countyName": "Robertson",
+    "colors": "Orange",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "15-36",
+    "lowSerialNumber": "TRUE",
+    "photoUrl": "assets/img/plates/attL8Ybub2FJnBZnx.jpg",
+    "dateAdded": "2026-09-11T22:28:13.000Z"
+  },
+  {
     "id": "recfNJ1SKF8QbmFGD",
     "year": 1952,
     "countyNumber": "16",
@@ -21578,6 +21890,19 @@
     "lowSerialNumber": "TRUE",
     "photoUrl": "assets/img/plates/attcRaVTAyuaPBl4w.jpg",
     "dateAdded": "2026-08-22T15:03:18.000Z"
+  },
+  {
+    "id": "recgqhGAF7k8xDoN2",
+    "year": 1942,
+    "countyNumber": "3",
+    "countyName": "Knox",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "3-1357",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/att8GKjH8xtX7KapY.jpg",
+    "dateAdded": "2026-09-11T22:30:50.000Z"
   },
   {
     "id": "recgrGkoAiT4y4ojw",
@@ -23972,6 +24297,19 @@
     "dateAdded": "2026-08-27T01:07:23.000Z"
   },
   {
+    "id": "reclncLTVzuq7dJhy",
+    "year": 1942,
+    "countyNumber": "32",
+    "countyName": "Marshall",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "32F/1-175",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attVo9dR3uAPrRQwE.jpg",
+    "dateAdded": "2026-09-11T22:32:15.000Z"
+  },
+  {
     "id": "reclohtRbEdeATZx3",
     "year": 1956,
     "countyNumber": "80",
@@ -24074,6 +24412,19 @@
     "lowSerialNumber": "TRUE",
     "photoUrl": "assets/img/plates/attuYlMdGw5tWAt0t.jpg",
     "dateAdded": "2026-08-27T00:44:15.000Z"
+  },
+  {
+    "id": "recm9niSNYOF9pd1o",
+    "year": 1956,
+    "countyNumber": "2",
+    "countyName": "Shelby",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "2-108640",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attZqK1C52fUtSkcE.jpg",
+    "dateAdded": "2026-09-11T22:38:53.000Z"
   },
   {
     "id": "recmAfEKhAHn52pbO",
@@ -24581,6 +24932,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/atttUtOpz2wWJKgrl.jpg",
     "dateAdded": "2026-08-26T21:25:38.000Z"
+  },
+  {
+    "id": "recmzReBHplwJyuGD",
+    "year": 1950,
+    "countyNumber": "8",
+    "countyName": "Rutherford",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Passenger",
+    "serial": "8-7067",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/att9VN9nMZl7stuBd.jpg",
+    "dateAdded": "2026-09-11T22:31:36.000Z"
   },
   {
     "id": "recn0MOROEPtWQEL3",
@@ -26078,6 +26442,19 @@
     "dateAdded": "2026-08-22T03:10:15.000Z"
   },
   {
+    "id": "recqLjy8JfUF09PlP",
+    "year": 1942,
+    "countyNumber": "2",
+    "countyName": "Shelby",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Heavy Car",
+    "serial": "2D-5008",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attFF9R2R2PLO9akG.jpg",
+    "dateAdded": "2026-09-11T22:31:04.000Z"
+  },
+  {
     "id": "recqMTaX8cOWsK3TV",
     "year": 1956,
     "countyNumber": "53",
@@ -26193,6 +26570,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attUvYz8ykKuEdTjO.jpg",
     "dateAdded": "2026-08-27T01:04:31.000Z"
+  },
+  {
+    "id": "recqaqM80LxckmE8w",
+    "year": 1955,
+    "countyNumber": "43",
+    "countyName": "Hawkins",
+    "colors": "White",
+    "fontColor": "Red",
+    "type": "Heavy Car",
+    "serial": "43D-531",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/atttvDeIFnAecyz74.jpg",
+    "dateAdded": "2026-09-11T22:38:03.000Z"
   },
   {
     "id": "recqbp8WWZKfL8hZZ",
@@ -30654,6 +31044,19 @@
     "lowSerialNumber": "FALSE",
     "photoUrl": "assets/img/plates/attqnT5z4DbRIO7NX.jpg",
     "dateAdded": "2026-08-21T15:43:19.000Z"
+  },
+  {
+    "id": "recyy1RDdk2vIXN5r",
+    "year": 1941,
+    "countyNumber": "1",
+    "countyName": "Davidson",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "1-35855",
+    "lowSerialNumber": "FALSE",
+    "photoUrl": "assets/img/plates/attgkAyInbeUSDtTg.jpg",
+    "dateAdded": "2026-09-11T22:30:34.000Z"
   },
   {
     "id": "recyyl9JLiwctYR3s",
