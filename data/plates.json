@@ -1,5 +1,18 @@
 [
   {
+    "id": "pmkpyk2ouspmer3",
+    "year": 1950,
+    "countyNumber": "12",
+    "countyName": "Greene",
+    "colors": "Silver",
+    "fontColor": "Black",
+    "type": "Farm Truck",
+    "serial": "12F/1-290",
+    "lowSerialNumber": false,
+    "photoUrl": "assets/img/plates/p-mv2kmei5040fb0.jpg",
+    "dateAdded": "2026-10-10T15:50:32.751Z"
+  },
+  {
     "id": "rec00T5B2LmWMs86G",
     "year": 1947,
     "countyNumber": "79",
