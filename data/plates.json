@@ -1,5 +1,44 @@
 [
   {
+    "id": "pmc9gtw5hp8btej",
+    "year": 1942,
+    "countyNumber": "34",
+    "countyName": "Putnam",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "For Hire",
+    "serial": "34H/5-010",
+    "lowSerialNumber": true,
+    "photoUrl": "assets/img/plates/p-mvpwbtb5560112.jpg",
+    "dateAdded": "2026-10-26T23:36:55.963Z"
+  },
+  {
+    "id": "pmh8got3ty89mqa",
+    "year": 1942,
+    "countyNumber": "34",
+    "countyName": "Putnam",
+    "colors": "White",
+    "fontColor": "Black",
+    "type": "Heavy Car",
+    "serial": "34D-402",
+    "lowSerialNumber": false,
+    "photoUrl": "assets/img/plates/p-mvpw9mn829fbae.jpg",
+    "dateAdded": "2026-10-26T23:35:14.002Z"
+  },
+  {
+    "id": "pmkwzm6ivir6bfs",
+    "year": 1941,
+    "countyNumber": "19",
+    "countyName": "Bradley",
+    "colors": "Black",
+    "fontColor": "White",
+    "type": "Passenger",
+    "serial": "19-768",
+    "lowSerialNumber": false,
+    "photoUrl": "assets/img/plates/p-mvpw6bby54911a.jpg",
+    "dateAdded": "2026-10-26T23:32:39.400Z"
+  },
+  {
     "id": "pmkpyk2ouspmer3",
     "year": 1950,
     "countyNumber": "12",
